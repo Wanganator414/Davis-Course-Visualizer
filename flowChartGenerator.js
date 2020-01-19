@@ -9,10 +9,11 @@ let config = {
 };
 
 let renderTarget = "";
+let dropDownIndex = 0;
 
 let graphInfo = sessionStorage.getItem("graphInfo");
-if (graphInfo == null) {
-} else {
+dropDownIndex = sessionStorage.getItem("selectIndex");
+if (graphInfo !== null) {
   renderTarget = sessionStorage.getItem("graphInfo");
 }
 
@@ -564,7 +565,11 @@ window.onload = function() {
       console.log(e);
     }
   }
-  
+  if (dropDownIndex !== null) {
+    console.log(dropDownIndex);
+    $("#drop").indexValue = dropDownIndex;
+    this.console.log($("drop").selectedIndex)
+  }
 };
 
 window.mermaid.init(undefined, document.querySelectorAll(".mermaid")); //Make mermaid anything with mermaid class to svg diagram
@@ -572,6 +577,7 @@ let renderGraph = function(indexValue) {
   //Rerenders graph if user has changes view
   //IndexValue is the index of the selected item from the dropdown,+1
   let searchVar = majorNames.majors[indexValue - 1].p + ".txt";
+  dropDownIndex=indexValue; //Target selection index
   renderTarget = searchVar; //Target file name
   console.log(searchVar);
   location.reload("true");
@@ -579,6 +585,7 @@ let renderGraph = function(indexValue) {
 
 window.onbeforeunload = function() {
   sessionStorage.setItem("graphInfo", renderTarget);
+  sessionStorage.setItem("selectIndex", dropDownIndex);
 };
 
 console.log("Mermaid selector reached"); //Debug stuff

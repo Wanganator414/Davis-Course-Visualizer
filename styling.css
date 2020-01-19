@@ -1,33 +1,53 @@
 body {
-  background-color: lightgoldenrodyellow;
+  background-color: #f4af1b;
 }
+
+p {
+  color: #f4af1b !important;
+}
+
 select {
+  color: #f4af1b;
   display: inline-block;
   margin: 0;
   padding: 0;
   list-style: none;
 }
+select option {
+  color: #f4af1b;
+}
 
 hr.titleDivider {
-  border: 10px solid #a0d0e0;
+  border: 10px solid #00154f;
   border-radius: 50px;
+  width: 113ch;
+  margin-left: 0ch;
 }
 
-@-webkit-keyframes typing { from { width: 0; } }
-@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+@-webkit-keyframes typing {
+  from {
+    width: 0;
+  }
+}
+@-webkit-keyframes blink-caret {
+  50% {
+    border-color: transparent;
+  }
+}
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-h1 { 
-    font-family: 'Open Sans';
-	font: bold 300% Consolas, Monaco, monospace;
-	border-right: .1em solid rgb(0, 0, 0); 
-	width: 31ch;
-	margin: 2em 1em;
-	white-space: nowrap;
-	overflow: hidden;
-	-webkit-animation: typing 6s steps(31, end),
-	           blink-caret .5s step-end infinite alternate;
+h1 {
+  font-size: 200px;
+  font-family: "Open Sans";
+  font: bold 300% Consolas, Monaco, monospace;
+  border-right: 0.1em solid rgb(0, 0, 0);
+  border-color: #a0b0e0;
+  width: 31ch;
+  margin: 2em 1em;
+  white-space: nowrap;
+  overflow: hidden;
+  -webkit-animation: typing 6s steps(31, end),
+    blink-caret 0.5s step-end infinite alternate;
 }
-
 
 select {
   -webkit-appearance: none;
@@ -35,9 +55,10 @@ select {
   -ms-appearance: none;
   appearance: none;
   outline: 0;
+  color:#f4af1b;
   box-shadow: none;
   border: 0 !important;
-  background: #a0d0e0;
+  background: #00154f;
   background-image: none;
 }
 /* Remove IE arrow */
@@ -53,17 +74,19 @@ select::-ms-expand {
   line-height: 3;
   background: #2c3e50;
   overflow: hidden;
-  border-radius: .25em;
+  border-radius: 0.25em;
 }
 select {
   flex: 1;
-  padding: 0 .5em;
-  color: #000;
+  padding: 0 0.5em;
+  color: #f4af1b;
+  font-size: medium;
+  align-self: center;
   cursor: pointer;
 }
 /* Arrow */
 .select::after {
-  content: '\25BC';
+  content: "\25BC";
   position: absolute;
   top: 0;
   right: 0;
@@ -71,11 +94,26 @@ select {
   background: #34495e;
   cursor: pointer;
   pointer-events: none;
-  -webkit-transition: .25s all ease;
-  -o-transition: .25s all ease;
-  transition: .25s all ease;
+  -webkit-transition: 0.25s all ease;
+  -o-transition: 0.25s all ease;
+  transition: 0.25s all ease;
 }
 /* Transition */
 .select:hover::after {
   color: #f39c12;
+}
+
+#github {
+  /* puts item on top of css backgrounds */
+  z-index: 1;
+  padding: 1px;
+  transition: transform 0.4;
+  /* Animation */
+  margin: 0 auto;
+}
+
+#github:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+  /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
