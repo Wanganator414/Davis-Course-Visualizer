@@ -1,4 +1,263 @@
 graph TB;
-subgraph METH
-mat21A-->mat21B
-end
+style 2 fill:#ddd
+2[Mathematics]-->MAT_021A
+2[Mathematics]-->MAT_021B
+style 3 fill:#ddd
+3[Computer Science Engineering]-->ECS_020
+style 4 fill:#ddd
+4[Choose one:]-->ECS_030
+4[Choose one:]-->ECS_036A
+style 5 fill:#ddd
+5[Choose one:]-->ECS_040
+5[Choose one:]-->ECS_036B
+5[Choose one:]-->ECS_034
+style 6 fill:#ddd
+6[Mathematics]-->MAT_021A
+6[Mathematics]-->MAT_021B
+6[Mathematics]-->MAT_021C
+style 7 fill:#ddd
+7[Choose one:]-->MAT_022A
+7[Choose one:]-->MAT_067
+style 8 fill:#ddd
+8[Computer Science Engineering]-->ECS_020
+style 9 fill:#ddd
+9[Choose one:]-->ECS_030
+9[Choose one:]-->ECS_036A
+style 10 fill:#ddd
+10[Choose one:]-->ECS_040
+10[Choose one:]-->ECS_036B
+style 11 fill:#ddd
+11[Choose one:]-->ECS_060
+11[Choose one:]-->ECS_036C
+style 12 fill:#ddd
+12[Choose one:]-->ECS_050
+12[Choose one:]-->EEC_070
+style 13 fill:#ddd
+13[Choose three:]-->BIS_002A
+13[Choose three:]-->BIS_002B
+13[Choose three:]-->BIS_002C
+13[Choose three:]-->CHE_002A
+13[Choose three:]-->CHE_002B
+13[Choose three:]-->CHE_002C
+13[Choose three:]-->CHE_002AH
+13[Choose three:]-->CHE_002BH
+13[Choose three:]-->CHE_002CH
+13[Choose three:]-->PHY_009A
+13[Choose three:]-->PHY_009B
+13[Choose three:]-->PHY_009C
+style 14 fill:#ddd
+14[Computer Science Engineering]-->ECS_122A
+style 15 fill:#ddd
+15[Choose one:]-->ECS_120
+15[Choose one:]-->ECS_122B
+15[Choose one:]-->ECS_140A
+15[Choose one:]-->ECS_150
+15[Choose one:]-->ECS_154A
+style 16 fill:#ddd
+16[Choose one:]-->ECS_132
+16[Choose one:]-->MAT_135A
+16[Choose one:]-->STA_131A
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->17[One]
+MAT_021A-->17[One]
+MAT_017A-->18[One]
+17-->18[One]
+18-->MAT_021B
+style ECS_020 fill:#ade
+MAT_017A-->19[One]
+MAT_016A-->19[One]
+MAT_021A-->20[One]
+19-->20[One]
+20-->ECS_020
+style ECS_030 fill:#ade
+style ECS_036A fill:#ade
+style ECS_040 fill:#ade
+style ECS_036B fill:#ade
+ECS_036A-->21[One]
+ECS_030-->21[One]
+21-->ECS_036B
+style ECS_034 fill:#ade
+ECS_032B-->ECS_034
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->22[One]
+MAT_021A-->22[One]
+MAT_017A-->23[One]
+22-->23[One]
+23-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->24[One]
+MAT_016C-->24[One]
+MAT_021B-->25[One]
+24-->25[One]
+MAT_021BH-->26[One]
+25-->26[One]
+MAT_017B-->27[One]
+26-->27[One]
+27-->MAT_021C
+style MAT_022A fill:#ade
+MAT_017C-->28[One]
+MAT_016C-->28[One]
+MAT_021C-->29[One]
+28-->29[One]
+MAT_021CH-->30[One]
+29-->30[One]
+EME_005-->31[One]
+ENG_006-->31[One]
+ECH_060-->32[One]
+31-->32[One]
+MAT_022AL-->33[One]
+32-->33[One]
+33-->34[Both]
+30-->34[Both]
+34-->MAT_022A
+style MAT_067 fill:#ade
+MAT_021CH-->35[One]
+MAT_021C-->35[One]
+35-->MAT_067
+style ECS_020 fill:#ade
+MAT_017A-->36[One]
+MAT_016A-->36[One]
+MAT_021A-->37[One]
+36-->37[One]
+37-->ECS_020
+style ECS_030 fill:#ade
+style ECS_036A fill:#ade
+style ECS_040 fill:#ade
+style ECS_036B fill:#ade
+ECS_036A-->38[One]
+ECS_030-->38[One]
+38-->ECS_036B
+style ECS_060 fill:#ade
+style ECS_036C fill:#ade
+ECS_036B-->39[One]
+ECS_040-->39[One]
+ECS_020-->40[Both]
+39-->40[Both]
+40-->ECS_036C
+style ECS_050 fill:#ade
+ECS_032B-->41[One]
+ECS_040-->41[One]
+ECS_036B-->42[One]
+41-->42[One]
+42-->ECS_050
+style EEC_070 fill:#ade
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style BIS_002C fill:#ade
+BIS_002B-->43[One]
+BIS_001B-->43[One]
+43-->BIS_002C
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->44[One]
+CHE_002A-->44[One]
+44-->CHE_002B
+style CHE_002C fill:#ade
+CHE_002BH-->45[One]
+CHE_002B-->45[One]
+45-->CHE_002C
+style CHE_002AH fill:#ade
+style CHE_002BH fill:#ade
+CHE_002AH-->46[One]
+CHE_002A-->46[One]
+MAT_021B-->47[Both]
+46-->47[Both]
+47-->CHE_002BH
+style CHE_002CH fill:#ade
+CHE_002BH-->48[One]
+CHE_002B-->48[One]
+CHE_002B-->49[One]
+MAT_021C-->49[One]
+49-->50[Both]
+48-->50[Both]
+50-->CHE_002CH
+style PHY_009A fill:#ade
+MAT_021M-->51[One]
+MAT_021B-->51[One]
+51-->PHY_009A
+style PHY_009B fill:#ade
+MAT_021C-->52[Both]
+PHY_009A-->52[Both]
+MAT_021D-->53[Both]
+52-->53[Both]
+53-->PHY_009B
+style PHY_009C fill:#ade
+MAT_021D-->54[Both]
+PHY_009B-->54[Both]
+MAT_022A-->55[Both]
+54-->55[Both]
+55-->PHY_009C
+style ECS_122A fill:#ade
+ECS_032B-->56[One]
+ECS_060-->56[One]
+ECS_036C-->57[One]
+56-->57[One]
+57-->58[Both]
+ECS_020-->58[Both]
+58-->ECS_122A
+style ECS_120 fill:#ade
+MAT_108-->59[One]
+ECS_020-->59[One]
+59-->ECS_120
+style ECS_122B fill:#ade
+ECS_034-->60[One]
+ECS_060-->60[One]
+ECS_036C-->61[One]
+60-->61[One]
+61-->62[Both]
+ECS_122A-->62[Both]
+62-->ECS_122B
+style ECS_140A fill:#ade
+ECS_032B-->63[One]
+ECS_060-->63[One]
+ECS_036C-->64[One]
+63-->64[One]
+64-->65[Both]
+ECS_050-->65[Both]
+ECS_020-->66[Both]
+65-->66[Both]
+66-->ECS_140A
+style ECS_150 fill:#ade
+ECS_036C-->67[One]
+ECS_034-->67[One]
+ECS_060-->68[One]
+67-->68[One]
+EEC_170-->69[One]
+ECS_154A-->69[One]
+69-->70[Both]
+68-->70[Both]
+70-->ECS_150
+style ECS_154A fill:#ade
+EEC_070-->71[One]
+ECS_050-->71[One]
+71-->ECS_154A
+style ECS_132 fill:#ade
+ECS_034-->72[One]
+ECS_040-->72[One]
+ECS_036B-->73[One]
+72-->73[One]
+ECS_050-->74[Both]
+73-->74[Both]
+MAT_021C-->75[Both]
+74-->75[Both]
+MAT_067-->76[One]
+MAT_022A-->76[One]
+76-->77[Both]
+75-->77[Both]
+77-->ECS_132
+style MAT_135A fill:#ade
+MAT_025-->78[One]
+MAT_108-->78[One]
+78-->79[Both]
+MAT_021C-->79[Both]
+79-->MAT_135A
+style STA_131A fill:#ade
+MAT_021C-->80[Both]
+MAT_021B-->80[Both]
+MAT_067-->81[One]
+MAT_022A-->81[One]
+81-->82[Both]
+80-->82[Both]
+82-->STA_131A
