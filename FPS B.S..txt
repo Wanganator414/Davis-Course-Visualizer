@@ -1,0 +1,435 @@
+graph BT;
+style 2 fill:#ddd
+2[Chemistry]-->CHE_002A
+2[Chemistry]-->CHE_002B
+2[Chemistry]-->CHE_002C
+style 3 fill:#ddd
+3[Choose one:]-->ECS_015
+3[Choose one:]-->ECS_030
+style 4 fill:#ddd
+4[Mathematics choose a series:]-->MAT_016A
+4[Mathematics choose a series:]-->MAT_016B
+4[Mathematics choose a series:]-->MAT_016C
+4[Mathematics choose a series:]-->MAT_021A
+4[Mathematics choose a series:]-->MAT_021B
+4[Mathematics choose a series:]-->MAT_021C
+style 5 fill:#ddd
+5[Physics choose a series:]-->PHY_007A
+5[Physics choose a series:]-->PHY_007B
+5[Physics choose a series:]-->PHY_007C
+5[Physics choose a series:]-->PHY_009A
+5[Physics choose a series:]-->PHY_009B
+5[Physics choose a series:]-->PHY_009C
+style 6 fill:#ddd
+6[Choose one:]-->STA_013
+6[Choose one:]-->PLS_120
+style 7 fill:#ddd
+7[Choose TXC 006 & 008 or ENG 045:]-->TXC_006
+7[Choose TXC 006 & 008 or ENG 045:]-->TXC_008
+7[Choose TXC 006 & 008 or ENG 045:]-->ENG_045
+style 8 fill:#ddd
+8[Textiles & Clothing]-->TXC_163
+8[Textiles & Clothing]-->TXC_163L
+style 9 fill:#ddd
+9[Fiber & Polymer Science]-->FPS_100
+9[Fiber & Polymer Science]-->FPS_150
+9[Fiber & Polymer Science]-->FPS_161
+9[Fiber & Polymer Science]-->FPS_161L
+9[Fiber & Polymer Science]-->FPS_180A
+9[Fiber & Polymer Science]-->FPS_180B
+style 10 fill:#ddd
+10[Chemistry]-->CHE_128A
+10[Chemistry]-->CHE_128B
+10[Chemistry]-->CHE_128C
+10[Chemistry]-->CHE_129A
+10[Chemistry]-->CHE_129B
+style 11 fill:#ddd
+11[Choose a series:]-->CHE_107A
+11[Choose a series:]-->CHE_107B
+11[Choose a series:]-->CHE_110A
+11[Choose a series:]-->CHE_110C
+style 12 fill:#ddd
+12[Computer Science & Mathematics:]-->PLS_021
+12[Computer Science & Mathematics:]-->MAT_022A
+12[Computer Science & Mathematics:]-->MAT_022B
+style 13 fill:#ddd
+13[Chemistry]-->CHE_108
+13[Chemistry]-->CHE_115
+13[Chemistry]-->CHE_121
+13[Chemistry]-->CHE_124A
+13[Chemistry]-->CHE_124B
+13[Chemistry]-->CHE_124C
+13[Chemistry]-->CHE_131
+style 14 fill:#ddd
+14[Marketing/Management]-->ARE_100A
+14[Marketing/Management]-->ARE_100B
+14[Marketing/Management]-->ARE_113
+14[Marketing/Management]-->ARE_136
+14[Marketing/Management]-->ARE_157
+14[Marketing/Management]-->ECN_001A
+14[Marketing/Management]-->ECN_001B
+14[Marketing/Management]-->STA_103
+style 15 fill:#ddd
+15[Material & Advanced Fiber/Polymer Science]-->EAE_137
+15[Material & Advanced Fiber/Polymer Science]-->ENG_104
+15[Material & Advanced Fiber/Polymer Science]-->ENG_104L
+15[Material & Advanced Fiber/Polymer Science]-->TXC_290
+15[Material & Advanced Fiber/Polymer Science]-->TXC_293
+style 16 fill:#ddd
+16[Textiles]-->TXC_162
+16[Textiles]-->TXC_162L
+16[Textiles]-->TXC_164
+16[Textiles]-->TXC_165
+16[Textiles]-->TXC_173
+16[Textiles]-->TXC_174
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->17[One]
+CHE_002A-->17[One]
+17-->CHE_002B
+style CHE_002C fill:#ade
+CHE_002BH-->18[One]
+CHE_002B-->18[One]
+18-->CHE_002C
+style ECS_015 fill:#ade
+style ECS_030 fill:#ade
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->19[One]
+MAT_016A-->19[One]
+MAT_021A-->20[One]
+19-->20[One]
+MAT_021AH-->21[One]
+20-->21[One]
+21-->MAT_016B
+style MAT_016C fill:#ade
+MAT_017B-->22[One]
+MAT_016B-->22[One]
+MAT_021B-->23[One]
+22-->23[One]
+MAT_021BH-->24[One]
+23-->24[One]
+24-->MAT_016C
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->25[One]
+MAT_021A-->25[One]
+MAT_017A-->26[One]
+25-->26[One]
+26-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->27[One]
+MAT_016C-->27[One]
+MAT_021B-->28[One]
+27-->28[One]
+MAT_021BH-->29[One]
+28-->29[One]
+MAT_017B-->30[One]
+29-->30[One]
+30-->MAT_021C
+style PHY_007A fill:#ade
+MAT_017B-->31[One]
+MAT_016B-->31[One]
+MAT_021B-->32[One]
+31-->32[One]
+MAT_016B-->33[One]
+32-->33[One]
+MAT_017B-->34[One]
+33-->34[One]
+MAT_021B-->35[One]
+34-->35[One]
+35-->PHY_007A
+style PHY_007B fill:#ade
+PHY_007A-->PHY_007B
+style PHY_007C fill:#ade
+PHY_007B-->PHY_007C
+style PHY_009A fill:#ade
+MAT_021M-->36[One]
+MAT_021B-->36[One]
+36-->PHY_009A
+style PHY_009B fill:#ade
+MAT_021C-->37[Both]
+PHY_009A-->37[Both]
+MAT_021D-->38[Both]
+37-->38[Both]
+38-->PHY_009B
+style PHY_009C fill:#ade
+MAT_021D-->39[Both]
+PHY_009B-->39[Both]
+MAT_022A-->40[Both]
+39-->40[Both]
+40-->PHY_009C
+style STA_013 fill:#ade
+style PLS_120 fill:#ade
+style TXC_006 fill:#ade
+style TXC_008 fill:#ade
+style ENG_045 fill:#ade
+MAT_021C-->41[One]
+MAT_016C-->41[One]
+PHY_009A-->42[Both]
+CHE_002A-->42[Both]
+42-->43[Both]
+41-->43[Both]
+43-->ENG_045
+style TXC_163 fill:#ade
+CHE_008B-->44[One]
+FPS_110-->44[One]
+44-->45[Both]
+TXC_006-->45[Both]
+45-->TXC_163
+style TXC_163L fill:#ade
+TXC_163-->TXC_163L
+style FPS_100 fill:#ade
+CHE_002B-->46[Both]
+CHE_002A-->46[Both]
+CHE_008B-->47[Both]
+CHE_008A-->47[Both]
+ENG_045Y-->48[One]
+ENG_045-->48[One]
+48-->49[One]
+47-->49[One]
+49-->50[Both]
+46-->50[Both]
+50-->FPS_100
+style FPS_150 fill:#ade
+CHE_008B-->51[One]
+CHE_128B-->51[One]
+CHE_107A-->52[Both]
+51-->52[Both]
+52-->FPS_150
+style FPS_161 fill:#ade
+CHE_008B-->53[Both]
+TXC_006-->53[Both]
+53-->FPS_161
+style FPS_161L fill:#ade
+FPS_161-->FPS_161L
+style FPS_180A fill:#ade
+style FPS_180B fill:#ade
+style CHE_128A fill:#ade
+CHE_002CH-->54[One]
+CHE_002C-->54[One]
+54-->CHE_128A
+style CHE_128B fill:#ade
+CHE_128A-->CHE_128B
+style CHE_128C fill:#ade
+CHE_128B-->CHE_128C
+style CHE_129A fill:#ade
+CHE_002CH-->55[One]
+CHE_002C-->55[One]
+CHE_128A-->56[Both]
+55-->56[Both]
+56-->CHE_129A
+style CHE_129B fill:#ade
+CHE_128B-->57[Both]
+CHE_129A-->57[Both]
+57-->CHE_129B
+style CHE_107A fill:#ade
+CHE_002CH-->58[One]
+CHE_002C-->58[One]
+MAT_017C-->59[One]
+MAT_016C-->59[One]
+MAT_021C-->60[One]
+59-->60[One]
+60-->61[Both]
+58-->61[Both]
+PHY_009C-->62[One]
+PHY_007C-->62[One]
+PHY_009HC-->63[One]
+62-->63[One]
+63-->64[Both]
+61-->64[Both]
+64-->CHE_107A
+style CHE_107B fill:#ade
+CHE_107A-->CHE_107B
+style CHE_110A fill:#ade
+PHY_009C-->65[One]
+PHY_007C-->65[One]
+PHY_009HC-->66[One]
+65-->66[One]
+CHE_002CH-->67[One]
+CHE_002C-->67[One]
+67-->68[Both]
+66-->68[Both]
+MAT_017C-->69[One]
+MAT_016C-->69[One]
+MAT_021C-->70[One]
+69-->70[One]
+70-->71[Both]
+68-->71[Both]
+MAT_021D-->72[Both]
+71-->72[Both]
+MAT_022A-->73[Both]
+72-->73[Both]
+MAT_022AL-->74[Both]
+73-->74[Both]
+74-->CHE_110A
+style CHE_110C fill:#ade
+CHE_110B-->CHE_110C
+style PLS_021 fill:#ade
+AMR_021-->75[One]
+PLS_021V-->75[One]
+AMR_021-->76[Both]
+75-->76[Both]
+76-->PLS_021
+style MAT_022A fill:#ade
+MAT_017C-->77[One]
+MAT_016C-->77[One]
+MAT_021C-->78[One]
+77-->78[One]
+MAT_021CH-->79[One]
+78-->79[One]
+EME_005-->80[One]
+ENG_006-->80[One]
+ECH_060-->81[One]
+80-->81[One]
+MAT_022AL-->82[One]
+81-->82[One]
+82-->83[Both]
+79-->83[Both]
+83-->MAT_022A
+style MAT_022B fill:#ade
+MAT_067-->84[One]
+MAT_022A-->84[One]
+84-->MAT_022B
+style CHE_108 fill:#ade
+CHE_118C-->85[One]
+CHE_128C-->85[One]
+85-->CHE_108
+style CHE_115 fill:#ade
+CHE_107B-->86[Both]
+CHE_107A-->86[Both]
+86-->87[One]
+CHE_110B-->87[One]
+87-->88[Both]
+CHE_105-->88[Both]
+88-->CHE_115
+style CHE_121 fill:#ade
+CHE_110B-->CHE_121
+style CHE_124A fill:#ade
+CHE_002CH-->89[One]
+CHE_002C-->89[One]
+89-->CHE_124A
+style CHE_124B fill:#ade
+CHE_124A-->CHE_124B
+style CHE_124C fill:#ade
+CHE_124A-->CHE_124C
+style CHE_131 fill:#ade
+CHE_118C-->90[One]
+CHE_128C-->90[One]
+90-->CHE_131
+style ARE_100A fill:#ade
+ECN_001AV-->91[One]
+ECN_001A-->91[One]
+ECN_001B-->92[Both]
+91-->92[Both]
+MAT_016B-->93[Both]
+MAT_016A-->93[Both]
+MAT_016C-->94[Both]
+93-->94[Both]
+MAT_017B-->95[Both]
+MAT_017A-->95[Both]
+95-->96[One]
+94-->96[One]
+MAT_021B-->97[Both]
+MAT_021A-->97[Both]
+97-->98[One]
+96-->98[One]
+98-->99[Both]
+92-->99[Both]
+99-->ARE_100A
+style ARE_100B fill:#ade
+ECN_001AV-->100[One]
+ECN_001A-->100[One]
+ECN_001B-->101[Both]
+100-->101[Both]
+101-->102[Both]
+ARE_100A-->102[Both]
+MAT_016B-->103[Both]
+MAT_016A-->103[Both]
+MAT_016C-->104[Both]
+103-->104[Both]
+MAT_017B-->105[Both]
+MAT_017A-->105[Both]
+105-->106[One]
+104-->106[One]
+MAT_021B-->107[Both]
+MAT_021A-->107[Both]
+107-->108[One]
+106-->108[One]
+108-->109[Both]
+102-->109[Both]
+109-->ARE_100B
+style ARE_113 fill:#ade
+ECN_001AV-->110[One]
+ECN_001A-->110[One]
+110-->ARE_113
+style ARE_136 fill:#ade
+ARE_106-->111[Both]
+ARE_100B-->111[Both]
+ARE_100A-->112[Both]
+111-->112[Both]
+STA_013Y-->113[One]
+STA_013-->113[One]
+113-->114[Both]
+112-->114[Both]
+STA_103-->115[Both]
+114-->115[Both]
+115-->ARE_136
+style ARE_157 fill:#ade
+ARE_100A-->116[Both]
+ARE_155-->116[Both]
+STA_013Y-->117[One]
+STA_013-->117[One]
+117-->118[Both]
+116-->118[Both]
+STA_103-->119[Both]
+118-->119[Both]
+119-->ARE_157
+style ECN_001A fill:#ade
+style ECN_001B fill:#ade
+style STA_103 fill:#ade
+STA_013Y-->120[One]
+STA_013-->120[One]
+STA_032-->121[One]
+120-->121[One]
+STA_100-->122[One]
+121-->122[One]
+MAT_017B-->123[One]
+MAT_016B-->123[One]
+MAT_021B-->124[One]
+123-->124[One]
+124-->125[Both]
+122-->125[Both]
+125-->STA_103
+style EAE_137 fill:#ade
+ENG_104-->EAE_137
+style ENG_104 fill:#ade
+MAT_022B-->126[Both]
+ENG_035-->126[Both]
+126-->ENG_104
+style ENG_104L fill:#ade
+ENG_104-->ENG_104L
+style TXC_290 fill:#ade
+style TXC_293 fill:#ade
+style TXC_162 fill:#ade
+TXC_006-->TXC_162
+style TXC_162L fill:#ade
+TXC_162-->TXC_162L
+style TXC_164 fill:#ade
+TXC_008-->127[One]
+TXC_006-->127[One]
+127-->TXC_164
+style TXC_165 fill:#ade
+TXC_006-->TXC_165
+style TXC_173 fill:#ade
+ECN_001AV-->128[One]
+ECN_001A-->128[One]
+128-->129[Both]
+TXC_008-->129[Both]
+ARE_136-->130[One]
+ARE_113-->130[One]
+130-->131[Both]
+129-->131[Both]
+131-->TXC_173
+style TXC_174 fill:#ade
+TXC_008-->TXC_174

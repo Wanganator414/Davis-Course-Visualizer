@@ -1,0 +1,17 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose at least six upper division courses in Physics excluding:]-->PHY_160
+2[Choose at least six upper division courses in Physics excluding:]-->PHY_197T
+2[Choose at least six upper division courses in Physics excluding:]-->PHY_199
+style PHY_160 fill:#ade
+PHY_007C-->3[One]
+PHY_009D-->3[One]
+PHY_001B-->4[One]
+PHY_010-->4[One]
+4-->5[Both]
+3-->5[Both]
+MAT_016B-->6[Both]
+5-->6[Both]
+6-->PHY_160
+style PHY_197T fill:#ade
+style PHY_199 fill:#ade

@@ -1,0 +1,84 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose two:]-->ASA_001
+2[Choose two:]-->ASA_002
+2[Choose two:]-->ASA_003
+2[Choose two:]-->ASA_004
+style 3 fill:#ddd
+3[Choose five:]-->ASA_100
+3[Choose five:]-->ASA_102
+3[Choose five:]-->ASA_112
+3[Choose five:]-->ASA_113
+3[Choose five:]-->ASA_114
+3[Choose five:]-->ASA_115
+3[Choose five:]-->ASA_116
+3[Choose five:]-->ASA_121
+3[Choose five:]-->ASA_130
+3[Choose five:]-->ASA_131
+3[Choose five:]-->ASA_132
+3[Choose five:]-->ASA_140
+3[Choose five:]-->ASA_141
+3[Choose five:]-->ASA_150
+3[Choose five:]-->ASA_150B
+3[Choose five:]-->ASA_150C
+3[Choose five:]-->ASA_150D
+3[Choose five:]-->ASA_150E
+3[Choose five:]-->ASA_150F
+3[Choose five:]-->ASA_155
+3[Choose five:]-->ASA_189A
+3[Choose five:]-->ASA_189B
+3[Choose five:]-->ASA_189C
+3[Choose five:]-->ASA_189D
+3[Choose five:]-->ASA_189E
+3[Choose five:]-->ASA_189F
+3[Choose five:]-->ASA_189G
+3[Choose five:]-->ASA_189H
+3[Choose five:]-->ASA_189I
+3[Choose five:]-->ASA_192
+style 4 fill:#ddd
+4[No more than four units of ASA 192 may be counted toward this total.]-->ASA_198
+style 5 fill:#ddd
+5[No more than four units of ASA 198 may be counted toward this total.]-->ASA_199
+style ASA_001 fill:#ade
+style ASA_002 fill:#ade
+style ASA_003 fill:#ade
+style ASA_004 fill:#ade
+style ASA_100 fill:#ade
+style ASA_102 fill:#ade
+ASA_002-->6[One]
+ASA_001-->6[One]
+ASA_003-->7[One]
+6-->7[One]
+ASA_004-->8[One]
+7-->8[One]
+8-->ASA_102
+style ASA_112 fill:#ade
+style ASA_113 fill:#ade
+style ASA_114 fill:#ade
+style ASA_115 fill:#ade
+style ASA_116 fill:#ade
+style ASA_121 fill:#ade
+style ASA_130 fill:#ade
+style ASA_131 fill:#ade
+style ASA_132 fill:#ade
+style ASA_140 fill:#ade
+style ASA_141 fill:#ade
+style ASA_150 fill:#ade
+style ASA_150B fill:#ade
+style ASA_150C fill:#ade
+style ASA_150D fill:#ade
+style ASA_150E fill:#ade
+style ASA_150F fill:#ade
+style ASA_155 fill:#ade
+style ASA_189A fill:#ade
+style ASA_189B fill:#ade
+style ASA_189C fill:#ade
+style ASA_189D fill:#ade
+style ASA_189E fill:#ade
+style ASA_189F fill:#ade
+style ASA_189G fill:#ade
+style ASA_189H fill:#ade
+style ASA_189I fill:#ade
+style ASA_192 fill:#ade
+style ASA_198 fill:#ade
+style ASA_199 fill:#ade

@@ -1,0 +1,91 @@
+graph BT;
+style 2 fill:#ddd
+2[Units: 20]-->EMS_160
+2[Units: 20]-->EMS_162
+2[Units: 20]-->EMS_164
+style 3 fill:#ddd
+3[Choose one:]-->EMS_172
+3[Choose one:]-->EMS_174
+style 4 fill:#ddd
+4[Choose an additional four units from the following, if not used above:]-->EMS_147
+4[Choose an additional four units from the following, if not used above:]-->EMS_162L
+4[Choose an additional four units from the following, if not used above:]-->EMS_172
+4[Choose an additional four units from the following, if not used above:]-->EMS_172L
+4[Choose an additional four units from the following, if not used above:]-->EMS_174
+4[Choose an additional four units from the following, if not used above:]-->EMS_174L
+4[Choose an additional four units from the following, if not used above:]-->EMS_180
+4[Choose an additional four units from the following, if not used above:]-->EMS_181
+4[Choose an additional four units from the following, if not used above:]-->EMS_182
+style EMS_160 fill:#ade
+ENG_045Y-->5[One]
+ENG_045-->5[One]
+PHY_009B-->6[Both]
+5-->6[Both]
+MAT_022B-->7[Both]
+6-->7[Both]
+7-->EMS_160
+style EMS_162 fill:#ade
+ENG_045Y-->8[One]
+ENG_045-->8[One]
+MAT_022A-->9[Both]
+8-->9[Both]
+PHY_009B-->10[Both]
+9-->10[Both]
+10-->EMS_162
+style EMS_164 fill:#ade
+ENG_045Y-->11[One]
+ENG_045-->11[One]
+EMS_160-->12[Both]
+11-->12[Both]
+12-->EMS_164
+style EMS_172 fill:#ade
+PHY_009D-->13[One]
+CHE_110A-->13[One]
+13-->EMS_172
+style EMS_174 fill:#ade
+ENG_045Y-->14[One]
+ENG_045-->14[One]
+14-->EMS_174
+style EMS_147 fill:#ade
+CHE_002B-->15[Both]
+CHE_002A-->15[Both]
+CHE_008B-->16[Both]
+CHE_008A-->16[Both]
+ENG_045Y-->17[One]
+ENG_045-->17[One]
+17-->18[One]
+16-->18[One]
+18-->19[Both]
+15-->19[Both]
+19-->EMS_147
+style EMS_162L fill:#ade
+style EMS_172 fill:#ade
+PHY_009D-->20[One]
+CHE_110A-->20[One]
+20-->EMS_172
+style EMS_172L fill:#ade
+style EMS_174 fill:#ade
+ENG_045Y-->21[One]
+ENG_045-->21[One]
+21-->EMS_174
+style EMS_174L fill:#ade
+style EMS_180 fill:#ade
+ENG_045Y-->22[One]
+ENG_045-->22[One]
+22-->EMS_180
+style EMS_181 fill:#ade
+ENG_045Y-->23[One]
+ENG_045-->23[One]
+ECH_152B-->24[One]
+ENG_105-->24[One]
+EEC_140A-->25[One]
+24-->25[One]
+EMS_164-->26[One]
+25-->26[One]
+26-->27[Both]
+23-->27[Both]
+27-->EMS_181
+style EMS_182 fill:#ade
+ENG_045Y-->28[One]
+ENG_045-->28[One]
+28-->EMS_182

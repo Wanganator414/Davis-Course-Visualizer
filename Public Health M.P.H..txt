@@ -1,0 +1,32 @@
+graph BT;
+style 2 fill:#ddd
+2[Biostatistics]-->SPH_244
+2[Biostatistics]-->SPH_245
+2[Biostatistics]-->SPH_210
+style 3 fill:#ddd
+3[Epidemiology]-->EPI_205
+style 4 fill:#ddd
+4[Health Services Administration]-->SPH_273
+style 5 fill:#ddd
+5[Social and Behavioral Influences on Health]-->SPH_222
+style 6 fill:#ddd
+6[General Public Health]-->SPH_201
+6[General Public Health]-->SPH_290
+style 7 fill:#ddd
+7[Must be repeated for a total of four units.]-->SPH_297
+style SPH_244 fill:#ade
+style SPH_245 fill:#ade
+SPH_244-->8[One]
+CLH_244-->8[One]
+8-->SPH_245
+style SPH_210 fill:#ade
+style EPI_205 fill:#ade
+MPM_202-->EPI_205
+style SPH_273 fill:#ade
+style SPH_222 fill:#ade
+STA_106-->9[Both]
+STA_102-->9[Both]
+9-->SPH_222
+style SPH_201 fill:#ade
+style SPH_290 fill:#ade
+style SPH_297 fill:#ade

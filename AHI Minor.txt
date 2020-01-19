@@ -1,0 +1,78 @@
+graph BT;
+style 2 fill:#ddd
+2[1 The Ancient World]-->AHI_152
+2[1 The Ancient World]-->AHI_172A
+2[1 The Ancient World]-->AHI_172B
+2[1 The Ancient World]-->AHI_173
+2[1 The Ancient World]-->AHI_175
+style 3 fill:#ddd
+3[2 Asia]-->AHI_154
+3[2 Asia]-->AHI_150
+3[2 Asia]-->AHI_157
+3[2 Asia]-->AHI_163A
+3[2 Asia]-->AHI_163B
+3[2 Asia]-->AHI_163C
+3[2 Asia]-->AHI_164
+style 4 fill:#ddd
+4[3 The Middle Ages to 1700]-->AHI_155
+4[3 The Middle Ages to 1700]-->AHI_156
+style 5 fill:#ddd
+5[AHI 176D Pending Approval]-->AHI_178B
+5[AHI 176D Pending Approval]-->AHI_178C
+5[AHI 176D Pending Approval]-->AHI_179B
+style 6 fill:#ddd
+6[4 Western Art 1700 to 1900]-->AHI_130
+6[4 Western Art 1700 to 1900]-->AHI_168
+6[4 Western Art 1700 to 1900]-->AHI_182
+6[4 Western Art 1700 to 1900]-->AHI_183A
+6[4 Western Art 1700 to 1900]-->AHI_183B
+6[4 Western Art 1700 to 1900]-->AHI_188C
+style 7 fill:#ddd
+7[5 World Art 20th Century to the Present]-->AHI_122
+7[5 World Art 20th Century to the Present]-->AHI_163D
+7[5 World Art 20th Century to the Present]-->AHI_183C
+7[5 World Art 20th Century to the Present]-->AHI_185
+7[5 World Art 20th Century to the Present]-->AHI_186
+7[5 World Art 20th Century to the Present]-->AHI_189
+style 8 fill:#ddd
+8[6 Art & Issues Across Chronologies]-->AHI_110
+8[6 Art & Issues Across Chronologies]-->AHI_120A
+8[6 Art & Issues Across Chronologies]-->AHI_121
+8[6 Art & Issues Across Chronologies]-->AHI_123
+8[6 Art & Issues Across Chronologies]-->AHI_181
+8[6 Art & Issues Across Chronologies]-->AHI_188A
+style AHI_152 fill:#ade
+style AHI_172A fill:#ade
+style AHI_172B fill:#ade
+style AHI_173 fill:#ade
+style AHI_175 fill:#ade
+style AHI_154 fill:#ade
+style AHI_150 fill:#ade
+style AHI_157 fill:#ade
+style AHI_163A fill:#ade
+style AHI_163B fill:#ade
+style AHI_163C fill:#ade
+style AHI_164 fill:#ade
+style AHI_155 fill:#ade
+style AHI_156 fill:#ade
+style AHI_178B fill:#ade
+style AHI_178C fill:#ade
+style AHI_179B fill:#ade
+style AHI_130 fill:#ade
+style AHI_168 fill:#ade
+style AHI_182 fill:#ade
+style AHI_183A fill:#ade
+style AHI_183B fill:#ade
+style AHI_188C fill:#ade
+style AHI_122 fill:#ade
+style AHI_163D fill:#ade
+style AHI_183C fill:#ade
+style AHI_185 fill:#ade
+style AHI_186 fill:#ade
+style AHI_189 fill:#ade
+style AHI_110 fill:#ade
+style AHI_120A fill:#ade
+style AHI_121 fill:#ade
+style AHI_123 fill:#ade
+style AHI_181 fill:#ade
+style AHI_188A fill:#ade

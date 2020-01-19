@@ -1,0 +1,736 @@
+graph BT;
+style 2 fill:#ddd
+2[Biological Science]-->BIS_002A
+2[Biological Science]-->BIS_002B
+2[Biological Science]-->BIS_002C
+style 3 fill:#ddd
+3[Chemistry]-->CHE_002A
+3[Chemistry]-->CHE_002B
+3[Chemistry]-->CHE_002C
+style 4 fill:#ddd
+4[Choose a series:]-->CHE_008A
+4[Choose a series:]-->CHE_008B
+4[Choose a series:]-->CHE_118A
+4[Choose a series:]-->CHE_118B
+4[Choose a series:]-->CHE_128A
+4[Choose a series:]-->CHE_128B
+4[Choose a series:]-->CHE_129A
+style 5 fill:#ddd
+5[Nutrition choose one:]-->NUT_010
+5[Nutrition choose one:]-->NUT_010V
+style 6 fill:#ddd
+6[Statistics choose one:]-->PLS_120
+6[Statistics choose one:]-->STA_013
+6[Statistics choose one:]-->STA_100
+style 7 fill:#ddd
+7[Research Methods choose one:]-->SOC_046A
+7[Research Methods choose one:]-->PSC_041
+style 8 fill:#ddd
+8[Choose one:]-->ANT_002
+8[Choose one:]-->PSC_001
+8[Choose one:]-->SOC_001
+8[Choose one:]-->SOC_003
+style 9 fill:#ddd
+9[Choose a series:]-->MAT_016A
+9[Choose a series:]-->MAT_016B
+9[Choose a series:]-->MAT_017A
+9[Choose a series:]-->MAT_017B
+style 10 fill:#ddd
+10[Choose a series:]-->PHY_001A
+10[Choose a series:]-->PHY_001B
+10[Choose a series:]-->PHY_007A
+10[Choose a series:]-->PHY_007B
+style 11 fill:#ddd
+11[Choose one:]-->ANT_002
+11[Choose one:]-->SOC_001
+11[Choose one:]-->SOC_003
+11[Choose one:]-->ECN_001A
+11[Choose one:]-->ECN_001B
+11[Choose one:]-->PSC_001
+style 12 fill:#ddd
+12[Biological Science]-->BIS_101
+style 13 fill:#ddd
+13[Food Science & Technology]-->FST_100A
+13[Food Science & Technology]-->FST_100B
+style 14 fill:#ddd
+14[Microbiology]-->MIC_102
+14[Microbiology]-->MIC_103L
+style 15 fill:#ddd
+15[Neurobiology, Physiology, & Behavior]-->NPB_101
+15[Neurobiology, Physiology, & Behavior]-->NPB_101L
+style 16 fill:#ddd
+16[Nutrition]-->NUT_111AY
+16[Nutrition]-->NUT_111B
+16[Nutrition]-->NUT_112
+16[Nutrition]-->NUT_116A
+style 17 fill:#ddd
+17[Nutritional Biology Option:]-->BIS_102
+17[Nutritional Biology Option:]-->BIS_103
+17[Nutritional Biology Option:]-->MCB_120
+17[Nutritional Biology Option:]-->MCB_120L
+17[Nutritional Biology Option:]-->NPB_114
+17[Nutritional Biology Option:]-->NUT_104
+17[Nutritional Biology Option:]-->NUT_117
+style 18 fill:#ddd
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->EXB_110
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_099
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_105
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_113
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_114
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_115
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_116B
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_118
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_120AN
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_120BN
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_122
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_123
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_124
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_127
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_130
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_190
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_192
+18[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_199
+style 19 fill:#ddd
+19[Nutrition in Public Health Option:]-->ABI_102
+19[Nutrition in Public Health Option:]-->ABI_103
+19[Nutrition in Public Health Option:]-->EXB_110
+19[Nutrition in Public Health Option:]-->NUT_113
+19[Nutrition in Public Health Option:]-->NUT_118
+style 20 fill:#ddd
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->FSM_120
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->FSM_122
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_099
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_104
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_105
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_114
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_116B
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_117
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_120AN
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_120BN
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_129
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_130
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_190
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_192
+20[Selection of courses must be made in consultation with a faculty advisor prior to or upon reaching the 120 unit level:]-->NUT_199
+style 21 fill:#ddd
+21[Agricultural & Health Policy]-->ARE_015
+21[Agricultural & Health Policy]-->ARE_120
+21[Agricultural & Health Policy]-->POL_109
+style 22 fill:#ddd
+22[Cultural Diversity & Community Change]-->AAS_100
+22[Cultural Diversity & Community Change]-->AMS_055
+22[Cultural Diversity & Community Change]-->ARE_112
+22[Cultural Diversity & Community Change]-->CMN_136
+22[Cultural Diversity & Community Change]-->CRD_002
+22[Cultural Diversity & Community Change]-->CRD_152
+22[Cultural Diversity & Community Change]-->CRD_176
+22[Cultural Diversity & Community Change]-->IAD_010
+22[Cultural Diversity & Community Change]-->IAD_103
+22[Cultural Diversity & Community Change]-->SAS_130
+22[Cultural Diversity & Community Change]-->SOC_181
+style 23 fill:#ddd
+23[Community Health & Education]-->CMN_165
+23[Community Health & Education]-->EDU_110
+23[Community Health & Education]-->EDU_120
+23[Community Health & Education]-->EDU_153
+23[Community Health & Education]-->PSC_126
+23[Community Health & Education]-->PSC_130
+23[Community Health & Education]-->SOC_154
+style 24 fill:#ddd
+24[Natural & Applied Sciences]-->CHI_140A
+24[Natural & Applied Sciences]-->CRD_020
+24[Natural & Applied Sciences]-->ETX_101
+24[Natural & Applied Sciences]-->ETX_128
+24[Natural & Applied Sciences]-->EXB_101
+24[Natural & Applied Sciences]-->EXB_102
+24[Natural & Applied Sciences]-->EXB_117
+24[Natural & Applied Sciences]-->HDE_100A
+24[Natural & Applied Sciences]-->HDE_100B
+24[Natural & Applied Sciences]-->HDE_100C
+24[Natural & Applied Sciences]-->NPB_132
+24[Natural & Applied Sciences]-->PHI_015
+24[Natural & Applied Sciences]-->SAS_002
+24[Natural & Applied Sciences]-->SAS_090F
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style BIS_002C fill:#ade
+BIS_002B-->25[One]
+BIS_001B-->25[One]
+25-->BIS_002C
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->26[One]
+CHE_002A-->26[One]
+26-->CHE_002B
+style CHE_002C fill:#ade
+CHE_002BH-->27[One]
+CHE_002B-->27[One]
+27-->CHE_002C
+style CHE_008A fill:#ade
+CHE_002BH-->28[One]
+CHE_002B-->28[One]
+28-->CHE_008A
+style CHE_008B fill:#ade
+CHE_118A-->29[One]
+CHE_008A-->29[One]
+CHE_128A-->30[One]
+29-->30[One]
+30-->CHE_008B
+style CHE_118A fill:#ade
+CHE_002CH-->31[One]
+CHE_002C-->31[One]
+31-->CHE_118A
+style CHE_118B fill:#ade
+CHE_128A-->32[One]
+CHE_118A-->32[One]
+32-->CHE_118B
+style CHE_128A fill:#ade
+CHE_002CH-->33[One]
+CHE_002C-->33[One]
+33-->CHE_128A
+style CHE_128B fill:#ade
+CHE_128A-->CHE_128B
+style CHE_129A fill:#ade
+CHE_002CH-->34[One]
+CHE_002C-->34[One]
+CHE_128A-->35[Both]
+34-->35[Both]
+35-->CHE_129A
+style NUT_010 fill:#ade
+style NUT_010V fill:#ade
+style PLS_120 fill:#ade
+style STA_013 fill:#ade
+style STA_100 fill:#ade
+MAT_017B-->36[One]
+MAT_016B-->36[One]
+MAT_021B-->37[One]
+36-->37[One]
+37-->STA_100
+style SOC_046A fill:#ade
+style PSC_041 fill:#ade
+PSC_001Y-->38[One]
+PSC_001-->38[One]
+PSC_012Y-->39[Both]
+38-->39[Both]
+39-->PSC_041
+style ANT_002 fill:#ade
+style PSC_001 fill:#ade
+style SOC_001 fill:#ade
+style SOC_003 fill:#ade
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->40[One]
+MAT_016A-->40[One]
+MAT_021A-->41[One]
+40-->41[One]
+MAT_021AH-->42[One]
+41-->42[One]
+42-->MAT_016B
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->43[One]
+MAT_016A-->43[One]
+MAT_021A-->44[One]
+43-->44[One]
+MAT_021AH-->45[One]
+44-->45[One]
+45-->MAT_017B
+style PHY_001A fill:#ade
+style PHY_001B fill:#ade
+PHY_009A-->46[One]
+PHY_001A-->46[One]
+PHY_007A-->47[Both]
+46-->47[Both]
+PHY_007B-->48[Both]
+47-->48[Both]
+PHY_007C-->49[Both]
+48-->49[Both]
+PHY_009B-->50[Both]
+49-->50[Both]
+PHY_009D-->51[One]
+PHY_009C-->51[One]
+51-->52[Both]
+50-->52[Both]
+52-->PHY_001B
+style PHY_007A fill:#ade
+MAT_017B-->53[One]
+MAT_016B-->53[One]
+MAT_021B-->54[One]
+53-->54[One]
+MAT_016B-->55[One]
+54-->55[One]
+MAT_017B-->56[One]
+55-->56[One]
+MAT_021B-->57[One]
+56-->57[One]
+57-->PHY_007A
+style PHY_007B fill:#ade
+PHY_007A-->PHY_007B
+style ANT_002 fill:#ade
+style SOC_001 fill:#ade
+style SOC_003 fill:#ade
+style ECN_001A fill:#ade
+style ECN_001B fill:#ade
+style PSC_001 fill:#ade
+style BIS_101 fill:#ade
+BIS_002B-->58[Both]
+BIS_002A-->58[Both]
+CHE_118A-->59[One]
+CHE_008A-->59[One]
+CHE_128A-->60[One]
+59-->60[One]
+60-->61[Both]
+58-->61[Both]
+STA_013Y-->62[One]
+STA_013-->62[One]
+STA_100-->63[One]
+62-->63[One]
+STA_102-->64[One]
+63-->64[One]
+STA_130A-->65[One]
+64-->65[One]
+65-->66[Both]
+61-->66[Both]
+STA_100-->67[Both]
+66-->67[Both]
+67-->BIS_101
+style FST_100A fill:#ade
+CHE_118B-->68[One]
+CHE_008B-->68[One]
+CHE_128B-->69[One]
+68-->69[One]
+69-->FST_100A
+style FST_100B fill:#ade
+CHE_008B-->70[Both]
+FST_100A-->70[Both]
+70-->FST_100B
+style MIC_102 fill:#ade
+BIS_002A-->71[One]
+BIS_001A-->71[One]
+CHE_002B-->72[Both]
+71-->72[Both]
+72-->MIC_102
+style MIC_103L fill:#ade
+CHE_002B-->73[Both]
+MIC_102-->73[Both]
+73-->MIC_103L
+style NPB_101 fill:#ade
+CHE_002BH-->74[One]
+CHE_002B-->74[One]
+74-->75[Both]
+BIS_002A-->75[Both]
+75-->NPB_101
+style NPB_101L fill:#ade
+NPB_110C-->76[One]
+NPB_101-->76[One]
+76-->NPB_101L
+style NUT_111AY fill:#ade
+NPB_101-->77[One]
+NPB_101-->77[One]
+77-->78[Both]
+CHE_008B-->78[Both]
+78-->NUT_111AY
+style NUT_111B fill:#ade
+NPB_101-->79[Both]
+CHE_008B-->79[Both]
+NUT_111AY-->80[One]
+NUT_111AV-->80[One]
+NPB_101-->81[One]
+80-->81[One]
+81-->82[Both]
+79-->82[Both]
+82-->NUT_111B
+style NUT_112 fill:#ade
+ABI_103-->83[Both]
+ABI_102-->83[Both]
+BIS_103-->84[Both]
+BIS_102-->84[Both]
+84-->85[One]
+83-->85[One]
+NUT_111AY-->86[Both]
+85-->86[Both]
+STA_013Y-->87[One]
+STA_013-->87[One]
+PLS_120-->88[One]
+87-->88[One]
+88-->89[Both]
+86-->89[Both]
+89-->NUT_112
+style NUT_116A fill:#ade
+NUT_111AY-->90[One]
+NUT_111AV-->90[One]
+NUT_111B-->91[Both]
+90-->91[Both]
+NUT_112-->92[Both]
+91-->92[Both]
+NPB_101-->93[One]
+NPB_101-->93[One]
+93-->94[Both]
+92-->94[Both]
+94-->NUT_116A
+style BIS_102 fill:#ade
+BIS_002A-->95[One]
+BIS_001A-->95[One]
+CHE_118B-->96[One]
+CHE_008B-->96[One]
+CHE_128B-->97[One]
+96-->97[One]
+97-->98[Both]
+95-->98[Both]
+98-->BIS_102
+style BIS_103 fill:#ade
+BIS_102-->BIS_103
+style MCB_120 fill:#ade
+MCB_120L-->99[Both]
+BIS_102-->99[Both]
+99-->MCB_120
+style MCB_120L fill:#ade
+MCB_120-->100[Both]
+MCB_120-->100[Both]
+100-->101[One]
+BIS_102-->101[One]
+101-->MCB_120L
+style NPB_114 fill:#ade
+NPB_101-->102[One]
+NPB_110C-->102[One]
+BIS_105-->103[Both]
+102-->103[Both]
+103-->NPB_114
+style NUT_104 fill:#ade
+ABI_103-->104[One]
+BIS_103-->104[One]
+104-->105[Both]
+BIS_101-->105[Both]
+105-->NUT_104
+style NUT_117 fill:#ade
+NUT_111AY-->106[One]
+NUT_111AV-->106[One]
+NUT_111B-->107[Both]
+106-->107[Both]
+NUT_112-->108[Both]
+107-->108[Both]
+BIS_102-->109[Both]
+108-->109[Both]
+BIS_103-->110[Both]
+109-->110[Both]
+110-->NUT_117
+style EXB_110 fill:#ade
+NPB_101-->111[One]
+EXB_101-->111[One]
+NPB_110C-->112[One]
+111-->112[One]
+112-->EXB_110
+style NUT_099 fill:#ade
+style NUT_105 fill:#ade
+NUT_111AY-->113[One]
+NUT_111AV-->113[One]
+ABI_103-->114[One]
+ABI_103-->114[One]
+114-->115[Both]
+113-->115[Both]
+115-->NUT_105
+style NUT_113 fill:#ade
+STA_013Y-->116[One]
+STA_013-->116[One]
+PLS_120-->117[One]
+116-->117[One]
+STA_100-->118[One]
+117-->118[One]
+118-->NUT_113
+style NUT_114 fill:#ade
+ABI_103-->119[Both]
+ABI_102-->119[Both]
+NUT_111AY-->120[One]
+NUT_111AV-->120[One]
+120-->121[Both]
+119-->121[Both]
+NUT_111B-->122[Both]
+121-->122[Both]
+122-->NUT_114
+style NUT_115 fill:#ade
+CHE_118B-->123[One]
+CHE_008B-->123[One]
+123-->NUT_115
+style NUT_116B fill:#ade
+NUT_111AY-->124[One]
+NUT_111AV-->124[One]
+NUT_111B-->125[Both]
+124-->125[Both]
+NUT_112-->126[Both]
+125-->126[Both]
+NPB_101-->127[One]
+NPB_101-->127[One]
+127-->128[Both]
+126-->128[Both]
+128-->NUT_116B
+style NUT_118 fill:#ade
+NUT_111AY-->129[One]
+NUT_111AV-->129[One]
+129-->130[Both]
+NUT_116A-->130[Both]
+NUT_111B-->131[Both]
+130-->131[Both]
+131-->NUT_118
+style NUT_120AN fill:#ade
+style NUT_120BN fill:#ade
+style NUT_122 fill:#ade
+BIS_103-->132[One]
+ABI_103-->132[One]
+BIS_002A-->133[Both]
+132-->133[Both]
+BIS_002B-->134[Both]
+133-->134[Both]
+BIS_002C-->135[Both]
+134-->135[Both]
+135-->NUT_122
+style NUT_123 fill:#ade
+BIS_103-->136[One]
+ABI_103-->136[One]
+136-->NUT_123
+style NUT_124 fill:#ade
+ABI_103-->137[One]
+BIS_103-->137[One]
+137-->NUT_124
+style NUT_127 fill:#ade
+style NUT_130 fill:#ade
+NUT_111AY-->138[Both]
+NUT_111AV-->138[Both]
+138-->NUT_130
+style NUT_190 fill:#ade
+NUT_111AY-->139[One]
+NUT_111AV-->139[One]
+NUT_111B-->140[Both]
+139-->140[Both]
+140-->NUT_190
+style NUT_192 fill:#ade
+style NUT_199 fill:#ade
+style ABI_102 fill:#ade
+CHE_002B-->141[Both]
+CHE_002A-->141[Both]
+CHE_008A-->142[Both]
+141-->142[Both]
+CHE_008B-->143[Both]
+142-->143[Both]
+CHE_118B-->144[Both]
+CHE_118A-->144[Both]
+144-->145[One]
+143-->145[One]
+145-->ABI_102
+style ABI_103 fill:#ade
+BIS_102-->146[One]
+ABI_102-->146[One]
+146-->ABI_103
+style EXB_110 fill:#ade
+NPB_101-->147[One]
+EXB_101-->147[One]
+NPB_110C-->148[One]
+147-->148[One]
+148-->EXB_110
+style NUT_113 fill:#ade
+STA_013Y-->149[One]
+STA_013-->149[One]
+PLS_120-->150[One]
+149-->150[One]
+STA_100-->151[One]
+150-->151[One]
+151-->NUT_113
+style NUT_118 fill:#ade
+NUT_111AY-->152[One]
+NUT_111AV-->152[One]
+152-->153[Both]
+NUT_116A-->153[Both]
+NUT_111B-->154[Both]
+153-->154[Both]
+154-->NUT_118
+style FSM_120 fill:#ade
+FST_101B-->155[Both]
+FST_100B-->155[Both]
+155-->FSM_120
+style FSM_122 fill:#ade
+FSM_120-->156[Both]
+ARE_112-->156[Both]
+156-->FSM_122
+style NUT_099 fill:#ade
+style NUT_104 fill:#ade
+ABI_103-->157[One]
+BIS_103-->157[One]
+157-->158[Both]
+BIS_101-->158[Both]
+158-->NUT_104
+style NUT_105 fill:#ade
+NUT_111AY-->159[One]
+NUT_111AV-->159[One]
+ABI_103-->160[One]
+ABI_103-->160[One]
+160-->161[Both]
+159-->161[Both]
+161-->NUT_105
+style NUT_114 fill:#ade
+ABI_103-->162[Both]
+ABI_102-->162[Both]
+NUT_111AY-->163[One]
+NUT_111AV-->163[One]
+163-->164[Both]
+162-->164[Both]
+NUT_111B-->165[Both]
+164-->165[Both]
+165-->NUT_114
+style NUT_116B fill:#ade
+NUT_111AY-->166[One]
+NUT_111AV-->166[One]
+NUT_111B-->167[Both]
+166-->167[Both]
+NUT_112-->168[Both]
+167-->168[Both]
+NPB_101-->169[One]
+NPB_101-->169[One]
+169-->170[Both]
+168-->170[Both]
+170-->NUT_116B
+style NUT_117 fill:#ade
+NUT_111AY-->171[One]
+NUT_111AV-->171[One]
+NUT_111B-->172[Both]
+171-->172[Both]
+NUT_112-->173[Both]
+172-->173[Both]
+BIS_102-->174[Both]
+173-->174[Both]
+BIS_103-->175[Both]
+174-->175[Both]
+175-->NUT_117
+style NUT_120AN fill:#ade
+style NUT_120BN fill:#ade
+style NUT_129 fill:#ade
+NUT_111AY-->176[One]
+NUT_111AV-->176[One]
+NUT_111B-->177[Both]
+176-->177[Both]
+177-->NUT_129
+style NUT_130 fill:#ade
+NUT_111AY-->178[Both]
+NUT_111AV-->178[Both]
+178-->NUT_130
+style NUT_190 fill:#ade
+NUT_111AY-->179[One]
+NUT_111AV-->179[One]
+NUT_111B-->180[Both]
+179-->180[Both]
+180-->NUT_190
+style NUT_192 fill:#ade
+style NUT_199 fill:#ade
+style ARE_015 fill:#ade
+style ARE_120 fill:#ade
+ARE_100A-->ARE_120
+style POL_109 fill:#ade
+style AAS_100 fill:#ade
+style AMS_055 fill:#ade
+style ARE_112 fill:#ade
+style CMN_136 fill:#ade
+style CRD_002 fill:#ade
+style CRD_152 fill:#ade
+CRD_151-->181[One]
+CRD_001-->181[One]
+SOC_002-->182[One]
+181-->182[One]
+ANT_002-->183[One]
+182-->183[One]
+ASA_100-->184[One]
+183-->184[One]
+CHI_132-->185[One]
+184-->185[One]
+AAS_101-->186[One]
+185-->186[One]
+186-->CRD_152
+style CRD_176 fill:#ade
+style IAD_010 fill:#ade
+style IAD_103 fill:#ade
+style SAS_130 fill:#ade
+style SOC_181 fill:#ade
+SOC_001-->SOC_181
+style CMN_165 fill:#ade
+style EDU_110 fill:#ade
+style EDU_120 fill:#ade
+style EDU_153 fill:#ade
+style PSC_126 fill:#ade
+PSC_001Y-->187[One]
+PSC_001-->187[One]
+PSC_041-->188[Both]
+187-->188[Both]
+188-->PSC_126
+style PSC_130 fill:#ade
+PSC_001Y-->189[One]
+PSC_001-->189[One]
+PSC_041-->190[Both]
+189-->190[Both]
+STA_013-->191[One]
+PSC_012Y-->191[One]
+STA_100-->192[One]
+191-->192[One]
+192-->193[Both]
+190-->193[Both]
+193-->PSC_130
+style SOC_154 fill:#ade
+SOC_001-->SOC_154
+style CHI_140A fill:#ade
+style CRD_020 fill:#ade
+style ETX_101 fill:#ade
+CHE_118B-->194[One]
+CHE_008B-->194[One]
+CHE_128B-->195[One]
+194-->195[One]
+BIS_001A-->196[Both]
+195-->196[Both]
+196-->ETX_101
+style ETX_128 fill:#ade
+BIS_103-->197[Both]
+BIS_102-->197[Both]
+197-->ETX_128
+style EXB_101 fill:#ade
+NPB_110C-->198[One]
+NPB_101-->198[One]
+198-->EXB_101
+style EXB_102 fill:#ade
+style EXB_117 fill:#ade
+NPB_110C-->199[One]
+NPB_101-->199[One]
+199-->EXB_117
+style HDE_100A fill:#ade
+PSC_001Y-->200[One]
+PSC_001-->200[One]
+BIS_010-->201[One]
+BIS_002A-->201[One]
+BIS_001A-->202[One]
+201-->202[One]
+BIS_010V-->203[One]
+202-->203[One]
+MCB_010-->204[One]
+203-->204[One]
+NPB_010-->205[One]
+204-->205[One]
+NPB_012-->206[One]
+205-->206[One]
+MIC_010-->207[One]
+206-->207[One]
+207-->208[Both]
+200-->208[Both]
+208-->HDE_100A
+style HDE_100B fill:#ade
+PSC_140-->209[One]
+HDE_100A-->209[One]
+PSC_001Y-->210[One]
+PSC_001-->210[One]
+210-->211[Both]
+209-->211[Both]
+211-->HDE_100B
+style HDE_100C fill:#ade
+PSC_001Y-->212[One]
+PSC_001-->212[One]
+212-->HDE_100C
+style NPB_132 fill:#ade
+BIS_002A-->213[One]
+BIS_001A-->213[One]
+213-->NPB_132
+style PHI_015 fill:#ade
+style SAS_002 fill:#ade
+style SAS_090F fill:#ade

@@ -1,0 +1,117 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose one:]-->NPB_101
+2[Choose one:]-->BIM_116
+2[Choose one:]-->BIM_102
+style 3 fill:#ddd
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_120
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_141
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_142
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_143
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_143L
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_144
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_145
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_152
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_161A
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_162
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_163
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_167
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_171
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_173
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_176
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_189A
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_189B
+3[Electives to be chosen in consultation with the Biomedical Engineering Departmental Advisor:]-->BIM_189C
+style NPB_101 fill:#ade
+CHE_002BH-->4[One]
+CHE_002B-->4[One]
+4-->5[Both]
+BIS_002A-->5[Both]
+5-->NPB_101
+style BIM_116 fill:#ade
+PHY_009C-->6[Both]
+BIS_002A-->6[Both]
+6-->BIM_116
+style BIM_102 fill:#ade
+CHE_118B-->7[One]
+CHE_008B-->7[One]
+7-->8[Both]
+BIS_002A-->8[Both]
+8-->BIM_102
+style BIM_120 fill:#ade
+ENG_105-->9[One]
+BIM_020-->9[One]
+PHY_009C-->10[Both]
+9-->10[Both]
+10-->BIM_120
+style BIM_141 fill:#ade
+ENG_006-->11[Both]
+PHY_009B-->11[Both]
+ENG_035-->12[Both]
+11-->12[Both]
+12-->BIM_141
+style BIM_142 fill:#ade
+MAT_022B-->13[Both]
+BIM_108-->13[Both]
+13-->BIM_142
+style BIM_143 fill:#ade
+MAT_017C-->14[One]
+MAT_016C-->14[One]
+MAT_021C-->15[One]
+14-->15[One]
+15-->16[Both]
+BIS_002A-->16[Both]
+16-->BIM_143
+style BIM_143L fill:#ade
+BIM_143-->17[Both]
+BIM_143-->17[Both]
+17-->BIM_143L
+style BIM_144 fill:#ade
+MAT_022B-->BIM_144
+style BIM_145 fill:#ade
+BIS_102-->18[One]
+BIM_161A-->18[One]
+18-->BIM_145
+style BIM_152 fill:#ade
+PHY_009B-->19[Both]
+BIS_002A-->19[Both]
+MAT_022B-->20[Both]
+19-->20[Both]
+20-->BIM_152
+style BIM_161A fill:#ade
+CHE_118B-->21[One]
+CHE_008B-->21[One]
+21-->22[Both]
+BIS_002A-->22[Both]
+22-->BIM_161A
+style BIM_162 fill:#ade
+PHY_009C-->23[Both]
+MAT_022B-->23[Both]
+23-->BIM_162
+style BIM_163 fill:#ade
+NPB_101-->24[One]
+BIM_116-->24[One]
+24-->25[Both]
+MAT_022B-->25[Both]
+25-->BIM_163
+style BIM_167 fill:#ade
+BIM_116-->26[One]
+NPB_101-->26[One]
+26-->27[Both]
+BIM_106-->27[Both]
+27-->BIM_167
+style BIM_171 fill:#ade
+NPB_101-->28[One]
+BIM_116-->28[One]
+28-->BIM_171
+style BIM_173 fill:#ade
+BIM_109-->29[Both]
+BIM_106-->29[Both]
+29-->BIM_173
+style BIM_176 fill:#ade
+ENG_017-->30[Both]
+CHE_002A-->30[Both]
+30-->BIM_176
+style BIM_189A fill:#ade
+style BIM_189B fill:#ade
+style BIM_189C fill:#ade

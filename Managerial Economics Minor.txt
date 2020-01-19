@@ -1,0 +1,198 @@
+graph BT;
+style 2 fill:#ddd
+2[Units: 24]-->ARE_100A
+style 3 fill:#ddd
+3[Must be completed with a grade of C- or better.]-->ARE_100B
+3[Must be completed with a grade of C- or better.]-->ARE_106
+style 4 fill:#ddd
+4[Choose 12 units:]-->ARE_107
+4[Choose 12 units:]-->ARE_112
+4[Choose 12 units:]-->ARE_130
+4[Choose 12 units:]-->ARE_136
+4[Choose 12 units:]-->ARE_138
+4[Choose 12 units:]-->ARE_139
+4[Choose 12 units:]-->ARE_143
+4[Choose 12 units:]-->ARE_145
+4[Choose 12 units:]-->ARE_146
+4[Choose 12 units:]-->ARE_150
+4[Choose 12 units:]-->ARE_155
+4[Choose 12 units:]-->ARE_156
+4[Choose 12 units:]-->ARE_157
+4[Choose 12 units:]-->ARE_165
+4[Choose 12 units:]-->ARE_171
+style 5 fill:#ddd
+5[Formerly ARE 171A.]-->ARE_172
+style 6 fill:#ddd
+6[Formerly ARE 171B.]-->ARE_175
+6[Formerly ARE 171B.]-->ARE_176
+style ARE_100A fill:#ade
+ECN_001AV-->7[One]
+ECN_001A-->7[One]
+ECN_001B-->8[Both]
+7-->8[Both]
+MAT_016B-->9[Both]
+MAT_016A-->9[Both]
+MAT_016C-->10[Both]
+9-->10[Both]
+MAT_017B-->11[Both]
+MAT_017A-->11[Both]
+11-->12[One]
+10-->12[One]
+MAT_021B-->13[Both]
+MAT_021A-->13[Both]
+13-->14[One]
+12-->14[One]
+14-->15[Both]
+8-->15[Both]
+15-->ARE_100A
+style ARE_100B fill:#ade
+ECN_001AV-->16[One]
+ECN_001A-->16[One]
+ECN_001B-->17[Both]
+16-->17[Both]
+17-->18[Both]
+ARE_100A-->18[Both]
+MAT_016B-->19[Both]
+MAT_016A-->19[Both]
+MAT_016C-->20[Both]
+19-->20[Both]
+MAT_017B-->21[Both]
+MAT_017A-->21[Both]
+21-->22[One]
+20-->22[One]
+MAT_021B-->23[Both]
+MAT_021A-->23[Both]
+23-->24[One]
+22-->24[One]
+24-->25[Both]
+18-->25[Both]
+25-->ARE_100B
+style ARE_106 fill:#ade
+STA_013Y-->26[One]
+STA_013-->26[One]
+26-->27[Both]
+ARE_100A-->27[Both]
+STA_103-->28[Both]
+27-->28[Both]
+28-->ARE_106
+style ARE_107 fill:#ade
+ARE_100A-->29[Both]
+ARE_106-->29[Both]
+STA_013Y-->30[One]
+STA_013-->30[One]
+30-->31[Both]
+29-->31[Both]
+STA_103-->32[Both]
+31-->32[Both]
+32-->ARE_107
+style ARE_112 fill:#ade
+style ARE_130 fill:#ade
+ARE_100A-->33[Both]
+ARE_106-->33[Both]
+STA_013Y-->34[One]
+STA_013-->34[One]
+34-->35[Both]
+33-->35[Both]
+STA_103-->36[Both]
+35-->36[Both]
+36-->ARE_130
+style ARE_136 fill:#ade
+ARE_106-->37[Both]
+ARE_100B-->37[Both]
+ARE_100A-->38[Both]
+37-->38[Both]
+STA_013Y-->39[One]
+STA_013-->39[One]
+39-->40[Both]
+38-->40[Both]
+STA_103-->41[Both]
+40-->41[Both]
+41-->ARE_136
+style ARE_138 fill:#ade
+ARE_100A-->42[Both]
+ARE_100B-->42[Both]
+42-->ARE_138
+style ARE_139 fill:#ade
+STA_013Y-->43[One]
+STA_013-->43[One]
+43-->44[Both]
+ARE_100A-->44[Both]
+STA_103-->45[Both]
+44-->45[Both]
+45-->ARE_139
+style ARE_143 fill:#ade
+style ARE_145 fill:#ade
+style ARE_146 fill:#ade
+ARE_100A-->46[Both]
+ARE_100B-->46[Both]
+46-->ARE_146
+style ARE_150 fill:#ade
+ARE_100A-->ARE_150
+style ARE_155 fill:#ade
+STA_013Y-->47[One]
+STA_013-->47[One]
+47-->48[Both]
+ARE_100A-->48[Both]
+STA_103-->49[Both]
+48-->49[Both]
+49-->ARE_155
+style ARE_156 fill:#ade
+ARE_155-->50[Both]
+ARE_100B-->50[Both]
+ARE_100A-->51[Both]
+50-->51[Both]
+STA_013Y-->52[One]
+STA_013-->52[One]
+52-->53[Both]
+51-->53[Both]
+STA_103-->54[Both]
+53-->54[Both]
+54-->ARE_156
+style ARE_157 fill:#ade
+ARE_100A-->55[Both]
+ARE_155-->55[Both]
+STA_013Y-->56[One]
+STA_013-->56[One]
+56-->57[Both]
+55-->57[Both]
+STA_103-->58[Both]
+57-->58[Both]
+58-->ARE_157
+style ARE_165 fill:#ade
+ARE_115A-->59[Both]
+ARE_100A-->59[Both]
+ARE_115B-->60[Both]
+59-->60[Both]
+60-->ARE_165
+style ARE_171 fill:#ade
+ARE_106-->61[Both]
+ARE_100A-->61[Both]
+MGT_011A-->62[Both]
+61-->62[Both]
+MGT_011B-->63[Both]
+62-->63[Both]
+63-->ARE_171
+style ARE_172 fill:#ade
+ARE_171-->64[One]
+ARE_171A-->64[One]
+ARE_106-->65[Both]
+64-->65[Both]
+ARE_100A-->66[Both]
+65-->66[Both]
+MGT_011A-->67[Both]
+66-->67[Both]
+MGT_011B-->68[Both]
+67-->68[Both]
+68-->ARE_172
+style ARE_175 fill:#ade
+ECN_100A-->69[One]
+ARE_100A-->69[One]
+ECN_100-->70[One]
+69-->70[One]
+70-->ARE_175
+style ARE_176 fill:#ade
+ECN_100A-->71[One]
+ARE_100A-->71[One]
+ECN_100-->72[One]
+71-->72[One]
+72-->ARE_176

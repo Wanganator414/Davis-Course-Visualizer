@@ -1,0 +1,706 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose one:]-->PLS_021
+2[Choose one:]-->ECS_015
+style 3 fill:#ddd
+3[Choose one:]-->ANT_002
+3[Choose one:]-->SAS_001
+3[Choose one:]-->AHI_001A
+3[Choose one:]-->AHI_001B
+3[Choose one:]-->AHI_001C
+3[Choose one:]-->AHI_001D
+style 4 fill:#ddd
+4[Economics]-->ECN_001A
+4[Economics]-->ECN_001B
+style 5 fill:#ddd
+5[Physics choose one:]-->PHY_001A
+5[Physics choose one:]-->PHY_010
+style 6 fill:#ddd
+6[Psychology]-->PSC_001
+style 7 fill:#ddd
+7[Sociology]-->SOC_002
+style 8 fill:#ddd
+8[Statistics]-->STA_013
+style 9 fill:#ddd
+9[Textiles & Clothing]-->TXC_006
+9[Textiles & Clothing]-->TXC_007
+9[Textiles & Clothing]-->TXC_008
+style 10 fill:#ddd
+10[Management]-->MGT_011A
+10[Management]-->MGT_011B
+style 11 fill:#ddd
+11[Chemistry choose one:]-->CHE_002A
+11[Chemistry choose one:]-->CHE_010
+style 12 fill:#ddd
+12[Mathematics]-->MAT_016A
+12[Mathematics]-->MAT_016B
+style 13 fill:#ddd
+13[Choose one:]-->PSC_151
+13[Choose one:]-->CNS_100
+style 14 fill:#ddd
+14[Agricultural & Resource Economics]-->ARE_100A
+14[Agricultural & Resource Economics]-->ARE_100B
+14[Agricultural & Resource Economics]-->ARE_106
+14[Agricultural & Resource Economics]-->ARE_136
+style 15 fill:#ddd
+15[Fiber & Polymer Science]-->FPS_110
+style 16 fill:#ddd
+16[Statistics]-->STA_103
+style 17 fill:#ddd
+17[Textiles & Clothing]-->TXC_107
+17[Textiles & Clothing]-->TXC_162
+17[Textiles & Clothing]-->TXC_162L
+17[Textiles & Clothing]-->TXC_163
+17[Textiles & Clothing]-->TXC_163L
+17[Textiles & Clothing]-->TXC_164
+17[Textiles & Clothing]-->TXC_165
+17[Textiles & Clothing]-->TXC_171
+17[Textiles & Clothing]-->TXC_173
+17[Textiles & Clothing]-->TXC_174
+style 18 fill:#ddd
+18[Choose 12 units:]-->ARE_018
+18[Choose 12 units:]-->ARE_112
+18[Choose 12 units:]-->ARE_142
+18[Choose 12 units:]-->ARE_155
+18[Choose 12 units:]-->ARE_157
+18[Choose 12 units:]-->ANT_122A
+18[Choose 12 units:]-->ANT_126A
+18[Choose 12 units:]-->CNS_100
+18[Choose 12 units:]-->DES_077
+18[Choose 12 units:]-->DES_107
+18[Choose 12 units:]-->DES_143
+18[Choose 12 units:]-->ECN_101
+18[Choose 12 units:]-->ECN_121A
+18[Choose 12 units:]-->ECN_121B
+18[Choose 12 units:]-->ECN_134
+18[Choose 12 units:]-->ECN_162
+style 19 fill:#ddd
+19[Foreign language units may be used to satisfy any or all of the required 12 units.]-->MAT_016C
+19[Foreign language units may be used to satisfy any or all of the required 12 units.]-->PSC_151
+19[Foreign language units may be used to satisfy any or all of the required 12 units.]-->SOC_123
+19[Foreign language units may be used to satisfy any or all of the required 12 units.]-->SOC_126
+19[Foreign language units may be used to satisfy any or all of the required 12 units.]-->SOC_140
+19[Foreign language units may be used to satisfy any or all of the required 12 units.]-->SOC_141
+19[Foreign language units may be used to satisfy any or all of the required 12 units.]-->TXC_180A
+19[Foreign language units may be used to satisfy any or all of the required 12 units.]-->TXC_180B
+19[Foreign language units may be used to satisfy any or all of the required 12 units.]-->TXC_230
+19[Foreign language units may be used to satisfy any or all of the required 12 units.]-->TXC_293
+style 20 fill:#ddd
+20[Choose one for a maximum of five units:]-->TXC_192
+20[Choose one for a maximum of five units:]-->TXC_199
+style 21 fill:#ddd
+21[Chemistry]-->CHE_002A
+21[Chemistry]-->CHE_002B
+21[Chemistry]-->CHE_008A
+21[Chemistry]-->CHE_008B
+style 22 fill:#ddd
+22[Mathematics]-->MAT_016A
+style 23 fill:#ddd
+23[Choose one:]-->PSC_151
+23[Choose one:]-->CNS_100
+style 24 fill:#ddd
+24[Agricultural & Resource Economics]-->ARE_112
+24[Agricultural & Resource Economics]-->ARE_113
+style 25 fill:#ddd
+25[Design]-->DES_143
+style 26 fill:#ddd
+26[Fiber & Polymer Science]-->FPS_100
+26[Fiber & Polymer Science]-->FPS_161
+26[Fiber & Polymer Science]-->FPS_161L
+style 27 fill:#ddd
+27[Textiles & Clothing]-->TXC_107
+27[Textiles & Clothing]-->TXC_162
+27[Textiles & Clothing]-->TXC_162L
+27[Textiles & Clothing]-->TXC_163
+27[Textiles & Clothing]-->TXC_163L
+27[Textiles & Clothing]-->TXC_164
+27[Textiles & Clothing]-->TXC_165
+27[Textiles & Clothing]-->TXC_171
+27[Textiles & Clothing]-->TXC_173
+27[Textiles & Clothing]-->TXC_174
+style 28 fill:#ddd
+28[Choose 16 units:]-->ARE_018
+28[Choose 16 units:]-->ARE_142
+28[Choose 16 units:]-->ARE_155
+28[Choose 16 units:]-->PLS_120
+28[Choose 16 units:]-->CHE_002C
+28[Choose 16 units:]-->CHE_128A
+28[Choose 16 units:]-->CHE_128B
+28[Choose 16 units:]-->CHE_128C
+28[Choose 16 units:]-->CMN_130
+28[Choose 16 units:]-->CMN_136
+28[Choose 16 units:]-->CMN_140
+28[Choose 16 units:]-->CRD_162
+28[Choose 16 units:]-->CNS_100
+28[Choose 16 units:]-->DES_077
+28[Choose 16 units:]-->DES_107
+28[Choose 16 units:]-->DES_142A
+28[Choose 16 units:]-->DES_142B
+28[Choose 16 units:]-->ECN_100
+28[Choose 16 units:]-->ECN_101
+28[Choose 16 units:]-->ECN_121A
+28[Choose 16 units:]-->ECN_121B
+28[Choose 16 units:]-->ECN_134
+28[Choose 16 units:]-->FPS_110
+style 29 fill:#ddd
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->MGT_011A
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->MGT_011B
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->MAT_016B
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->MAT_016C
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->PSC_151
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->SOC_025
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->SOC_123
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->SOC_126
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->SOC_140
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->SOC_148
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->SOC_159
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->SOC_175
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->STA_106
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->STA_108
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->TXC_180A
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->TXC_180B
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->TXC_230
+29[Foreign Language units may be used to satisfy any or all of the required 16 units.]-->TXC_293
+style 30 fill:#ddd
+30[Maximum of five units choose one:]-->TXC_192
+30[Maximum of five units choose one:]-->TXC_199
+style PLS_021 fill:#ade
+AMR_021-->31[One]
+PLS_021V-->31[One]
+AMR_021-->32[Both]
+31-->32[Both]
+32-->PLS_021
+style ECS_015 fill:#ade
+style ANT_002 fill:#ade
+style SAS_001 fill:#ade
+style AHI_001A fill:#ade
+style AHI_001B fill:#ade
+style AHI_001C fill:#ade
+style AHI_001D fill:#ade
+style ECN_001A fill:#ade
+style ECN_001B fill:#ade
+style PHY_001A fill:#ade
+style PHY_010 fill:#ade
+style PSC_001 fill:#ade
+style SOC_002 fill:#ade
+style STA_013 fill:#ade
+style TXC_006 fill:#ade
+style TXC_007 fill:#ade
+style TXC_008 fill:#ade
+style MGT_011A fill:#ade
+style MGT_011B fill:#ade
+MGT_011A-->MGT_011B
+style CHE_002A fill:#ade
+style CHE_010 fill:#ade
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->33[One]
+MAT_016A-->33[One]
+MAT_021A-->34[One]
+33-->34[One]
+MAT_021AH-->35[One]
+34-->35[One]
+35-->MAT_016B
+style PSC_151 fill:#ade
+PSC_001Y-->36[One]
+PSC_001-->36[One]
+36-->PSC_151
+style CNS_100 fill:#ade
+style ARE_100A fill:#ade
+ECN_001AV-->37[One]
+ECN_001A-->37[One]
+ECN_001B-->38[Both]
+37-->38[Both]
+MAT_016B-->39[Both]
+MAT_016A-->39[Both]
+MAT_016C-->40[Both]
+39-->40[Both]
+MAT_017B-->41[Both]
+MAT_017A-->41[Both]
+41-->42[One]
+40-->42[One]
+MAT_021B-->43[Both]
+MAT_021A-->43[Both]
+43-->44[One]
+42-->44[One]
+44-->45[Both]
+38-->45[Both]
+45-->ARE_100A
+style ARE_100B fill:#ade
+ECN_001AV-->46[One]
+ECN_001A-->46[One]
+ECN_001B-->47[Both]
+46-->47[Both]
+47-->48[Both]
+ARE_100A-->48[Both]
+MAT_016B-->49[Both]
+MAT_016A-->49[Both]
+MAT_016C-->50[Both]
+49-->50[Both]
+MAT_017B-->51[Both]
+MAT_017A-->51[Both]
+51-->52[One]
+50-->52[One]
+MAT_021B-->53[Both]
+MAT_021A-->53[Both]
+53-->54[One]
+52-->54[One]
+54-->55[Both]
+48-->55[Both]
+55-->ARE_100B
+style ARE_106 fill:#ade
+STA_013Y-->56[One]
+STA_013-->56[One]
+56-->57[Both]
+ARE_100A-->57[Both]
+STA_103-->58[Both]
+57-->58[Both]
+58-->ARE_106
+style ARE_136 fill:#ade
+ARE_106-->59[Both]
+ARE_100B-->59[Both]
+ARE_100A-->60[Both]
+59-->60[Both]
+STA_013Y-->61[One]
+STA_013-->61[One]
+61-->62[Both]
+60-->62[Both]
+STA_103-->63[Both]
+62-->63[Both]
+63-->ARE_136
+style FPS_110 fill:#ade
+CHE_010-->FPS_110
+style STA_103 fill:#ade
+STA_013Y-->64[One]
+STA_013-->64[One]
+STA_032-->65[One]
+64-->65[One]
+STA_100-->66[One]
+65-->66[One]
+MAT_017B-->67[One]
+MAT_016B-->67[One]
+MAT_021B-->68[One]
+67-->68[One]
+68-->69[Both]
+66-->69[Both]
+69-->STA_103
+style TXC_107 fill:#ade
+SOC_002-->TXC_107
+style TXC_162 fill:#ade
+TXC_006-->TXC_162
+style TXC_162L fill:#ade
+TXC_162-->TXC_162L
+style TXC_163 fill:#ade
+CHE_008B-->70[One]
+FPS_110-->70[One]
+70-->71[Both]
+TXC_006-->71[Both]
+71-->TXC_163
+style TXC_163L fill:#ade
+TXC_163-->TXC_163L
+style TXC_164 fill:#ade
+TXC_008-->72[One]
+TXC_006-->72[One]
+72-->TXC_164
+style TXC_165 fill:#ade
+TXC_006-->TXC_165
+style TXC_171 fill:#ade
+TXC_008-->73[Both]
+TXC_006-->73[Both]
+73-->TXC_171
+style TXC_173 fill:#ade
+ECN_001AV-->74[One]
+ECN_001A-->74[One]
+74-->75[Both]
+TXC_008-->75[Both]
+ARE_136-->76[One]
+ARE_113-->76[One]
+76-->77[Both]
+75-->77[Both]
+77-->TXC_173
+style TXC_174 fill:#ade
+TXC_008-->TXC_174
+style ARE_018 fill:#ade
+style ARE_112 fill:#ade
+style ARE_142 fill:#ade
+ECN_001B-->ARE_142
+style ARE_155 fill:#ade
+STA_013Y-->78[One]
+STA_013-->78[One]
+78-->79[Both]
+ARE_100A-->79[Both]
+STA_103-->80[Both]
+79-->80[Both]
+80-->ARE_155
+style ARE_157 fill:#ade
+ARE_100A-->81[Both]
+ARE_155-->81[Both]
+STA_013Y-->82[One]
+STA_013-->82[One]
+82-->83[Both]
+81-->83[Both]
+STA_103-->84[Both]
+83-->84[Both]
+84-->ARE_157
+style ANT_122A fill:#ade
+style ANT_126A fill:#ade
+style CNS_100 fill:#ade
+style DES_077 fill:#ade
+DES_001-->DES_077
+style DES_107 fill:#ade
+DES_021-->85[One]
+DES_014-->85[One]
+85-->86[Both]
+DES_001-->86[Both]
+DES_015-->87[Both]
+86-->87[Both]
+DES_016-->88[Both]
+87-->88[Both]
+DES_077-->89[Both]
+88-->89[Both]
+89-->DES_107
+style DES_143 fill:#ade
+style ECN_101 fill:#ade
+ECN_001AV-->90[One]
+ECN_001A-->90[One]
+ECN_001B-->91[Both]
+90-->91[Both]
+MAT_016B-->92[Both]
+MAT_016A-->92[Both]
+MAT_021B-->93[Both]
+MAT_021A-->93[Both]
+93-->94[One]
+92-->94[One]
+MAT_017B-->95[Both]
+MAT_017A-->95[Both]
+95-->96[One]
+94-->96[One]
+96-->97[Both]
+91-->97[Both]
+97-->ECN_101
+style ECN_121A fill:#ade
+ECN_100A-->98[One]
+ECN_100-->98[One]
+ARE_100A-->99[One]
+98-->99[One]
+ARE_100B-->100[One]
+ECN_100B-->100[One]
+100-->101[Both]
+99-->101[Both]
+101-->ECN_121A
+style ECN_121B fill:#ade
+ECN_100A-->102[One]
+ECN_100-->102[One]
+ARE_100A-->103[One]
+102-->103[One]
+ARE_100B-->104[One]
+ECN_100B-->104[One]
+104-->105[Both]
+103-->105[Both]
+105-->ECN_121B
+style ECN_134 fill:#ade
+ECN_100A-->106[One]
+ECN_100-->106[One]
+ARE_100A-->107[One]
+106-->107[One]
+STA_013Y-->108[One]
+STA_013-->108[One]
+108-->109[Both]
+107-->109[Both]
+ECN_100B-->110[Both]
+109-->110[Both]
+110-->ECN_134
+style ECN_162 fill:#ade
+ECN_001AV-->111[One]
+ECN_001A-->111[One]
+ECN_001B-->112[Both]
+111-->112[Both]
+112-->ECN_162
+style MAT_016C fill:#ade
+MAT_017B-->113[One]
+MAT_016B-->113[One]
+MAT_021B-->114[One]
+113-->114[One]
+MAT_021BH-->115[One]
+114-->115[One]
+115-->MAT_016C
+style PSC_151 fill:#ade
+PSC_001Y-->116[One]
+PSC_001-->116[One]
+116-->PSC_151
+style SOC_123 fill:#ade
+style SOC_126 fill:#ade
+SOC_001-->SOC_126
+style SOC_140 fill:#ade
+SOC_001-->SOC_140
+style SOC_141 fill:#ade
+SOC_001-->SOC_141
+style TXC_180A fill:#ade
+style TXC_180B fill:#ade
+style TXC_230 fill:#ade
+PSC_145-->117[Both]
+AMR_120-->117[Both]
+117-->118[One]
+TXC_107-->118[One]
+118-->TXC_230
+style TXC_293 fill:#ade
+style TXC_192 fill:#ade
+style TXC_199 fill:#ade
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->119[One]
+CHE_002A-->119[One]
+119-->CHE_002B
+style CHE_008A fill:#ade
+CHE_002BH-->120[One]
+CHE_002B-->120[One]
+120-->CHE_008A
+style CHE_008B fill:#ade
+CHE_118A-->121[One]
+CHE_008A-->121[One]
+CHE_128A-->122[One]
+121-->122[One]
+122-->CHE_008B
+style MAT_016A fill:#ade
+style PSC_151 fill:#ade
+PSC_001Y-->123[One]
+PSC_001-->123[One]
+123-->PSC_151
+style CNS_100 fill:#ade
+style ARE_112 fill:#ade
+style ARE_113 fill:#ade
+ECN_001AV-->124[One]
+ECN_001A-->124[One]
+124-->ARE_113
+style DES_143 fill:#ade
+style FPS_100 fill:#ade
+CHE_002B-->125[Both]
+CHE_002A-->125[Both]
+CHE_008B-->126[Both]
+CHE_008A-->126[Both]
+ENG_045Y-->127[One]
+ENG_045-->127[One]
+127-->128[One]
+126-->128[One]
+128-->129[Both]
+125-->129[Both]
+129-->FPS_100
+style FPS_161 fill:#ade
+CHE_008B-->130[Both]
+TXC_006-->130[Both]
+130-->FPS_161
+style FPS_161L fill:#ade
+FPS_161-->FPS_161L
+style TXC_107 fill:#ade
+SOC_002-->TXC_107
+style TXC_162 fill:#ade
+TXC_006-->TXC_162
+style TXC_162L fill:#ade
+TXC_162-->TXC_162L
+style TXC_163 fill:#ade
+CHE_008B-->131[One]
+FPS_110-->131[One]
+131-->132[Both]
+TXC_006-->132[Both]
+132-->TXC_163
+style TXC_163L fill:#ade
+TXC_163-->TXC_163L
+style TXC_164 fill:#ade
+TXC_008-->133[One]
+TXC_006-->133[One]
+133-->TXC_164
+style TXC_165 fill:#ade
+TXC_006-->TXC_165
+style TXC_171 fill:#ade
+TXC_008-->134[Both]
+TXC_006-->134[Both]
+134-->TXC_171
+style TXC_173 fill:#ade
+ECN_001AV-->135[One]
+ECN_001A-->135[One]
+135-->136[Both]
+TXC_008-->136[Both]
+ARE_136-->137[One]
+ARE_113-->137[One]
+137-->138[Both]
+136-->138[Both]
+138-->TXC_173
+style TXC_174 fill:#ade
+TXC_008-->TXC_174
+style ARE_018 fill:#ade
+style ARE_142 fill:#ade
+ECN_001B-->ARE_142
+style ARE_155 fill:#ade
+STA_013Y-->139[One]
+STA_013-->139[One]
+139-->140[Both]
+ARE_100A-->140[Both]
+STA_103-->141[Both]
+140-->141[Both]
+141-->ARE_155
+style PLS_120 fill:#ade
+style CHE_002C fill:#ade
+CHE_002BH-->142[One]
+CHE_002B-->142[One]
+142-->CHE_002C
+style CHE_128A fill:#ade
+CHE_002CH-->143[One]
+CHE_002C-->143[One]
+143-->CHE_128A
+style CHE_128B fill:#ade
+CHE_128A-->CHE_128B
+style CHE_128C fill:#ade
+CHE_128B-->CHE_128C
+style CMN_130 fill:#ade
+style CMN_136 fill:#ade
+style CMN_140 fill:#ade
+style CRD_162 fill:#ade
+style CNS_100 fill:#ade
+style DES_077 fill:#ade
+DES_001-->DES_077
+style DES_107 fill:#ade
+DES_021-->144[One]
+DES_014-->144[One]
+144-->145[Both]
+DES_001-->145[Both]
+DES_015-->146[Both]
+145-->146[Both]
+DES_016-->147[Both]
+146-->147[Both]
+DES_077-->148[Both]
+147-->148[Both]
+148-->DES_107
+style DES_142A fill:#ade
+style DES_142B fill:#ade
+style ECN_100 fill:#ade
+ECN_001AV-->149[One]
+ECN_001A-->149[One]
+ECN_001B-->150[Both]
+149-->150[Both]
+MAT_016B-->151[Both]
+MAT_016A-->151[Both]
+MAT_021B-->152[Both]
+MAT_021A-->152[Both]
+152-->153[One]
+151-->153[One]
+MAT_017B-->154[Both]
+MAT_017A-->154[Both]
+154-->155[One]
+153-->155[One]
+155-->156[Both]
+150-->156[Both]
+156-->ECN_100
+style ECN_101 fill:#ade
+ECN_001AV-->157[One]
+ECN_001A-->157[One]
+ECN_001B-->158[Both]
+157-->158[Both]
+MAT_016B-->159[Both]
+MAT_016A-->159[Both]
+MAT_021B-->160[Both]
+MAT_021A-->160[Both]
+160-->161[One]
+159-->161[One]
+MAT_017B-->162[Both]
+MAT_017A-->162[Both]
+162-->163[One]
+161-->163[One]
+163-->164[Both]
+158-->164[Both]
+164-->ECN_101
+style ECN_121A fill:#ade
+ECN_100A-->165[One]
+ECN_100-->165[One]
+ARE_100A-->166[One]
+165-->166[One]
+ARE_100B-->167[One]
+ECN_100B-->167[One]
+167-->168[Both]
+166-->168[Both]
+168-->ECN_121A
+style ECN_121B fill:#ade
+ECN_100A-->169[One]
+ECN_100-->169[One]
+ARE_100A-->170[One]
+169-->170[One]
+ARE_100B-->171[One]
+ECN_100B-->171[One]
+171-->172[Both]
+170-->172[Both]
+172-->ECN_121B
+style ECN_134 fill:#ade
+ECN_100A-->173[One]
+ECN_100-->173[One]
+ARE_100A-->174[One]
+173-->174[One]
+STA_013Y-->175[One]
+STA_013-->175[One]
+175-->176[Both]
+174-->176[Both]
+ECN_100B-->177[Both]
+176-->177[Both]
+177-->ECN_134
+style FPS_110 fill:#ade
+CHE_010-->FPS_110
+style MGT_011A fill:#ade
+style MGT_011B fill:#ade
+MGT_011A-->MGT_011B
+style MAT_016B fill:#ade
+MAT_017A-->178[One]
+MAT_016A-->178[One]
+MAT_021A-->179[One]
+178-->179[One]
+MAT_021AH-->180[One]
+179-->180[One]
+180-->MAT_016B
+style MAT_016C fill:#ade
+MAT_017B-->181[One]
+MAT_016B-->181[One]
+MAT_021B-->182[One]
+181-->182[One]
+MAT_021BH-->183[One]
+182-->183[One]
+183-->MAT_016C
+style PSC_151 fill:#ade
+PSC_001Y-->184[One]
+PSC_001-->184[One]
+184-->PSC_151
+style SOC_025 fill:#ade
+style SOC_123 fill:#ade
+style SOC_126 fill:#ade
+SOC_001-->SOC_126
+style SOC_140 fill:#ade
+SOC_001-->SOC_140
+style SOC_148 fill:#ade
+SOC_001-->SOC_148
+style SOC_159 fill:#ade
+SOC_001-->SOC_159
+style SOC_175 fill:#ade
+SOC_001-->SOC_175
+style STA_106 fill:#ade
+STA_013Y-->185[One]
+STA_013-->185[One]
+STA_032-->186[One]
+185-->186[One]
+STA_100-->187[One]
+186-->187[One]
+187-->STA_106
+style STA_108 fill:#ade
+STA_013Y-->188[One]
+STA_013-->188[One]
+STA_032-->189[One]
+188-->189[One]
+STA_100-->190[One]
+189-->190[One]
+190-->STA_108
+style TXC_180A fill:#ade
+style TXC_180B fill:#ade
+style TXC_230 fill:#ade
+PSC_145-->191[Both]
+AMR_120-->191[Both]
+191-->192[One]
+TXC_107-->192[One]
+192-->TXC_230
+style TXC_293 fill:#ade
+style TXC_192 fill:#ade
+style TXC_199 fill:#ade

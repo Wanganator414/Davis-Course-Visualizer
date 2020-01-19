@@ -1,0 +1,999 @@
+graph BT;
+style 2 fill:#ddd
+2[Mathematics]-->MAT_021A
+2[Mathematics]-->MAT_021B
+2[Mathematics]-->MAT_021C
+2[Mathematics]-->MAT_021D
+2[Mathematics]-->MAT_022A
+2[Mathematics]-->MAT_022AL
+2[Mathematics]-->MAT_022B
+style 3 fill:#ddd
+3[Physics]-->PHY_009A
+3[Physics]-->PHY_009B
+3[Physics]-->PHY_009C
+3[Physics]-->PHY_009D
+style 4 fill:#ddd
+4[Chemistry]-->CHE_002A
+style 5 fill:#ddd
+5[Computer Engineering]-->ECS_020
+5[Computer Engineering]-->ECS_036A
+5[Computer Engineering]-->ECS_036B
+5[Computer Engineering]-->ECS_036C
+style 6 fill:#ddd
+6[Electrical & Computer Engineering]-->EEC_001
+6[Electrical & Computer Engineering]-->EEC_010
+style 7 fill:#ddd
+7[EEC 010 designed for sophomore students not recommended for upper-division students. Transfer and change of major students who do not take EEC 010 will substitute four additional units of upper-division electives.]-->EEC_018
+style 8 fill:#ddd
+8[Engineering]-->ENG_017
+style 9 fill:#ddd
+9[Choose one a grade of C- or better is required:]-->ENL_003
+9[Choose one a grade of C- or better is required:]-->UWP_001
+9[Choose one a grade of C- or better is required:]-->UWP_001Y
+9[Choose one a grade of C- or better is required:]-->UWP_001V
+9[Choose one a grade of C- or better is required:]-->COM_001
+9[Choose one a grade of C- or better is required:]-->COM_002
+9[Choose one a grade of C- or better is required:]-->COM_003
+9[Choose one a grade of C- or better is required:]-->COM_004
+9[Choose one a grade of C- or better is required:]-->NAS_005
+style 10 fill:#ddd
+10[Choose one:]-->CMN_001
+10[Choose one:]-->CMN_003
+10[Choose one:]-->ENG_003
+style 11 fill:#ddd
+11[Electrical & Computer Engineering]-->EEC_100
+11[Electrical & Computer Engineering]-->EEC_110A
+11[Electrical & Computer Engineering]-->EEC_140A
+11[Electrical & Computer Engineering]-->EEC_161
+11[Electrical & Computer Engineering]-->EEC_170
+style 12 fill:#ddd
+12[ECS 154B may be substituted for the EEC 170 requirement.]-->EEC_172
+12[ECS 154B may be substituted for the EEC 170 requirement.]-->EEC_173A
+12[ECS 154B may be substituted for the EEC 170 requirement.]-->EEC_180
+12[ECS 154B may be substituted for the EEC 170 requirement.]-->EEC_196
+style 13 fill:#ddd
+13[Computer Engineering]-->ECS_122A
+13[Computer Engineering]-->ECS_150
+style 14 fill:#ddd
+14[Choose one:]-->ENG_160
+14[Choose one:]-->ENG_190
+14[Choose one:]-->ECS_188
+style 15 fill:#ddd
+15[Choose one design project series:]-->EEC_119A
+15[Choose one design project series:]-->EEC_119B
+15[Choose one design project series:]-->EEC_134A
+15[Choose one design project series:]-->EEC_134B
+15[Choose one design project series:]-->EEC_136A
+15[Choose one design project series:]-->EEC_136B
+15[Choose one design project series:]-->EEC_181A
+15[Choose one design project series:]-->EEC_181B
+15[Choose one design project series:]-->EEC_193A
+15[Choose one design project series:]-->EEC_193B
+15[Choose one design project series:]-->EEC_195A
+15[Choose one design project series:]-->EEC_195B
+style 16 fill:#ddd
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->BIS_101
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->BIS_101D
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->BIS_102
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->BIS_103
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->BIS_104
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->BIS_122
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->BIS_122P
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->BIS_132
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->ECN_100
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->ECN_101
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->ECN_102
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->ECN_103
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->ECN_122
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->ECN_140
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->MGT_011A
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->MGT_011B
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->MGT_100
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->MGT_120
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->MGT_140
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->MGT_150
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->MGT_160
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->MGT_170
+16[Statistics: any upper-division course except STA 100, 102, 103, 104, 106, 108, 120, 130A.]-->MGT_180
+style 17 fill:#ddd
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_101
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102A
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102B
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102C
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102D
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102E
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102F
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102G
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102H
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102I
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102J
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102K
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_102L
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_104A
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_104B
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_104C
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_104D
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_104E
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_104F
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_104I
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_104J
+17[Upper Division Composition Requirement choose one a grade of C- or better is required:]-->UWP_104T
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->18[One]
+MAT_021A-->18[One]
+MAT_017A-->19[One]
+18-->19[One]
+19-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->20[One]
+MAT_016C-->20[One]
+MAT_021B-->21[One]
+20-->21[One]
+MAT_021BH-->22[One]
+21-->22[One]
+MAT_017B-->23[One]
+22-->23[One]
+23-->MAT_021C
+style MAT_021D fill:#ade
+MAT_021CH-->24[One]
+MAT_021C-->24[One]
+MAT_017C-->25[One]
+24-->25[One]
+25-->MAT_021D
+style MAT_022A fill:#ade
+MAT_017C-->26[One]
+MAT_016C-->26[One]
+MAT_021C-->27[One]
+26-->27[One]
+MAT_021CH-->28[One]
+27-->28[One]
+EME_005-->29[One]
+ENG_006-->29[One]
+ECH_060-->30[One]
+29-->30[One]
+MAT_022AL-->31[One]
+30-->31[One]
+31-->32[Both]
+28-->32[Both]
+32-->MAT_022A
+style MAT_022AL fill:#ade
+MAT_017C-->33[One]
+MAT_016C-->33[One]
+MAT_021C-->34[One]
+33-->34[One]
+MAT_021CH-->35[One]
+34-->35[One]
+35-->MAT_022AL
+style MAT_022B fill:#ade
+MAT_067-->36[One]
+MAT_022A-->36[One]
+36-->MAT_022B
+style PHY_009A fill:#ade
+MAT_021M-->37[One]
+MAT_021B-->37[One]
+37-->PHY_009A
+style PHY_009B fill:#ade
+MAT_021C-->38[Both]
+PHY_009A-->38[Both]
+MAT_021D-->39[Both]
+38-->39[Both]
+39-->PHY_009B
+style PHY_009C fill:#ade
+MAT_021D-->40[Both]
+PHY_009B-->40[Both]
+MAT_022A-->41[Both]
+40-->41[Both]
+41-->PHY_009C
+style PHY_009D fill:#ade
+MAT_022A-->42[Both]
+PHY_009C-->42[Both]
+PHY_009HB-->43[Both]
+42-->43[Both]
+43-->PHY_009D
+style CHE_002A fill:#ade
+style ECS_020 fill:#ade
+MAT_017A-->44[One]
+MAT_016A-->44[One]
+MAT_021A-->45[One]
+44-->45[One]
+45-->ECS_020
+style ECS_036A fill:#ade
+style ECS_036B fill:#ade
+ECS_036A-->46[One]
+ECS_030-->46[One]
+46-->ECS_036B
+style ECS_036C fill:#ade
+ECS_036B-->47[One]
+ECS_040-->47[One]
+ECS_020-->48[Both]
+47-->48[Both]
+48-->ECS_036C
+style EEC_001 fill:#ade
+style EEC_010 fill:#ade
+PHY_009HD-->49[One]
+PHY_009C-->49[One]
+ECS_036B-->50[One]
+ECS_030-->50[One]
+EEC_007-->51[One]
+50-->51[One]
+51-->52[Both]
+49-->52[Both]
+ENG_017-->53[Both]
+52-->53[Both]
+53-->EEC_010
+style EEC_018 fill:#ade
+ENG_017-->EEC_018
+style ENG_017 fill:#ade
+style ENL_003 fill:#ade
+style UWP_001 fill:#ade
+style UWP_001Y fill:#ade
+style UWP_001V fill:#ade
+style COM_001 fill:#ade
+style COM_002 fill:#ade
+style COM_003 fill:#ade
+style COM_004 fill:#ade
+style NAS_005 fill:#ade
+style CMN_001 fill:#ade
+style CMN_003 fill:#ade
+style ENG_003 fill:#ade
+style EEC_100 fill:#ade
+MAT_022B-->54[Both]
+ENG_017-->54[Both]
+54-->EEC_100
+style EEC_110A fill:#ade
+EEC_140A-->55[Both]
+EEC_100-->55[Both]
+55-->EEC_110A
+style EEC_140A fill:#ade
+PHY_009HE-->56[One]
+PHY_009D-->56[One]
+56-->57[Both]
+ENG_017-->57[Both]
+57-->EEC_140A
+style EEC_161 fill:#ade
+MAT_022AL-->58[One]
+ENG_006-->58[One]
+58-->59[Both]
+EEC_100-->59[Both]
+59-->EEC_161
+style EEC_170 fill:#ade
+ECS_030-->60[One]
+ECS_036B-->60[One]
+ECS_034-->61[One]
+60-->61[One]
+EEC_007-->62[One]
+61-->62[One]
+EEC_180A-->63[One]
+EEC_018-->63[One]
+63-->64[Both]
+62-->64[Both]
+64-->EEC_170
+style EEC_172 fill:#ade
+ECS_154A-->65[One]
+EEC_170-->65[One]
+EEC_100-->66[Both]
+65-->66[Both]
+66-->EEC_172
+style EEC_173A fill:#ade
+ECS_032B-->67[One]
+ECS_060-->67[One]
+ECS_036C-->68[One]
+67-->68[One]
+EEC_161-->69[One]
+ECS_132-->69[One]
+MAT_135A-->70[One]
+69-->70[One]
+STA_131A-->71[One]
+70-->71[One]
+STA_120-->72[One]
+71-->72[One]
+STA_032-->73[One]
+72-->73[One]
+73-->74[Both]
+68-->74[Both]
+74-->EEC_173A
+style EEC_180 fill:#ade
+EEC_180A-->75[One]
+EEC_018-->75[One]
+75-->EEC_180
+style EEC_196 fill:#ade
+style ECS_122A fill:#ade
+ECS_032B-->76[One]
+ECS_060-->76[One]
+ECS_036C-->77[One]
+76-->77[One]
+77-->78[Both]
+ECS_020-->78[Both]
+78-->ECS_122A
+style ECS_150 fill:#ade
+ECS_036C-->79[One]
+ECS_034-->79[One]
+ECS_060-->80[One]
+79-->80[One]
+EEC_170-->81[One]
+ECS_154A-->81[One]
+81-->82[Both]
+80-->82[Both]
+82-->ECS_150
+style ENG_160 fill:#ade
+PHY_010-->83[One]
+PHY_009D-->83[One]
+PHY_001B-->84[One]
+83-->84[One]
+MAT_016B-->85[One]
+MAT_016B-->85[One]
+85-->86[Both]
+84-->86[Both]
+86-->ENG_160
+style ENG_190 fill:#ade
+style ECS_188 fill:#ade
+style EEC_119A fill:#ade
+EEC_118-->87[One]
+EEC_116-->87[One]
+87-->EEC_119A
+style EEC_119B fill:#ade
+EEC_119A-->EEC_119B
+style EEC_134A fill:#ade
+EEC_110B-->88[One]
+EEC_130B-->88[One]
+EEC_150A-->89[One]
+88-->89[One]
+89-->EEC_134A
+style EEC_134B fill:#ade
+EEC_134A-->EEC_134B
+style EEC_136A fill:#ade
+ECS_030-->90[One]
+ECS_036B-->90[One]
+ECS_034-->91[One]
+90-->91[One]
+EEC_007-->92[One]
+91-->92[One]
+EEC_100-->93[Both]
+92-->93[Both]
+EEC_180A-->94[One]
+EEC_018-->94[One]
+94-->95[Both]
+93-->95[Both]
+EEC_157A-->96[One]
+EEC_110B-->96[One]
+EEC_180-->97[One]
+96-->97[One]
+EEC_180B-->98[One]
+97-->98[One]
+98-->99[Both]
+95-->99[Both]
+99-->EEC_136A
+style EEC_136B fill:#ade
+EEC_136A-->EEC_136B
+style EEC_181A fill:#ade
+EEC_180B-->100[One]
+EEC_180-->100[One]
+EEC_170-->101[Both]
+100-->101[Both]
+101-->EEC_181A
+style EEC_181B fill:#ade
+EEC_181A-->EEC_181B
+style EEC_193A fill:#ade
+EEC_196-->EEC_193A
+style EEC_193B fill:#ade
+EEC_193A-->EEC_193B
+style EEC_195A fill:#ade
+ECS_036B-->102[One]
+ECS_030-->102[One]
+ECS_034-->103[One]
+102-->103[One]
+EEC_007-->104[One]
+103-->104[One]
+EEC_180A-->105[One]
+EEC_018-->105[One]
+105-->106[Both]
+104-->106[Both]
+EEC_157A-->107[One]
+EEC_110B-->107[One]
+ECS_060-->108[One]
+107-->108[One]
+EEC_180-->109[One]
+EEC_180B-->109[One]
+109-->110[One]
+108-->110[One]
+110-->111[Both]
+106-->111[Both]
+111-->EEC_195A
+style EEC_195B fill:#ade
+EEC_195A-->EEC_195B
+style BIS_101 fill:#ade
+BIS_002B-->112[Both]
+BIS_002A-->112[Both]
+CHE_118A-->113[One]
+CHE_008A-->113[One]
+CHE_128A-->114[One]
+113-->114[One]
+114-->115[Both]
+112-->115[Both]
+STA_013Y-->116[One]
+STA_013-->116[One]
+STA_100-->117[One]
+116-->117[One]
+STA_102-->118[One]
+117-->118[One]
+STA_130A-->119[One]
+118-->119[One]
+119-->120[Both]
+115-->120[Both]
+STA_100-->121[Both]
+120-->121[Both]
+121-->BIS_101
+style BIS_101D fill:#ade
+BIS_101-->BIS_101D
+style BIS_102 fill:#ade
+BIS_002A-->122[One]
+BIS_001A-->122[One]
+CHE_118B-->123[One]
+CHE_008B-->123[One]
+CHE_128B-->124[One]
+123-->124[One]
+124-->125[Both]
+122-->125[Both]
+125-->BIS_102
+style BIS_103 fill:#ade
+BIS_102-->BIS_103
+style BIS_104 fill:#ade
+BIS_105-->126[One]
+BIS_102-->126[One]
+126-->127[Both]
+BIS_101-->127[Both]
+127-->BIS_104
+style BIS_122 fill:#ade
+BIS_001B-->128[Both]
+BIS_001A-->128[Both]
+BIS_001C-->129[Both]
+128-->129[Both]
+BIS_002B-->130[Both]
+BIS_002A-->130[Both]
+BIS_002C-->131[Both]
+130-->131[Both]
+131-->132[One]
+129-->132[One]
+132-->BIS_122
+style BIS_122P fill:#ade
+BIS_122-->BIS_122P
+style BIS_132 fill:#ade
+STA_013Y-->133[One]
+STA_013-->133[One]
+133-->134[Both]
+MAT_016C-->134[Both]
+134-->BIS_132
+style ECN_100 fill:#ade
+ECN_001AV-->135[One]
+ECN_001A-->135[One]
+ECN_001B-->136[Both]
+135-->136[Both]
+MAT_016B-->137[Both]
+MAT_016A-->137[Both]
+MAT_021B-->138[Both]
+MAT_021A-->138[Both]
+138-->139[One]
+137-->139[One]
+MAT_017B-->140[Both]
+MAT_017A-->140[Both]
+140-->141[One]
+139-->141[One]
+141-->142[Both]
+136-->142[Both]
+142-->ECN_100
+style ECN_101 fill:#ade
+ECN_001AV-->143[One]
+ECN_001A-->143[One]
+ECN_001B-->144[Both]
+143-->144[Both]
+MAT_016B-->145[Both]
+MAT_016A-->145[Both]
+MAT_021B-->146[Both]
+MAT_021A-->146[Both]
+146-->147[One]
+145-->147[One]
+MAT_017B-->148[Both]
+MAT_017A-->148[Both]
+148-->149[One]
+147-->149[One]
+149-->150[Both]
+144-->150[Both]
+150-->ECN_101
+style ECN_102 fill:#ade
+ECN_001AV-->151[One]
+ECN_001A-->151[One]
+ECN_001B-->152[Both]
+151-->152[Both]
+STA_013Y-->153[One]
+STA_013-->153[One]
+STA_032-->154[One]
+153-->154[One]
+154-->155[Both]
+152-->155[Both]
+MAT_017A-->156[One]
+MAT_016A-->156[One]
+MAT_021A-->157[One]
+156-->157[One]
+157-->158[Both]
+155-->158[Both]
+MAT_017B-->159[One]
+MAT_016B-->159[One]
+MAT_021B-->160[One]
+159-->160[One]
+160-->161[Both]
+158-->161[Both]
+161-->ECN_102
+style ECN_103 fill:#ade
+ECN_100A-->162[One]
+ECN_100-->162[One]
+ARE_100B-->163[Both]
+ARE_100A-->163[Both]
+163-->164[One]
+162-->164[One]
+ECN_100B-->165[Both]
+164-->165[Both]
+MAT_017A-->166[One]
+MAT_016A-->166[One]
+MAT_021A-->167[One]
+166-->167[One]
+167-->168[Both]
+165-->168[Both]
+MAT_017B-->169[One]
+MAT_016B-->169[One]
+MAT_021B-->170[One]
+169-->170[One]
+170-->171[Both]
+168-->171[Both]
+171-->ECN_103
+style ECN_122 fill:#ade
+MAT_016B-->172[Both]
+MAT_016A-->172[Both]
+MAT_021B-->173[Both]
+MAT_021A-->173[Both]
+173-->174[One]
+172-->174[One]
+MAT_017B-->175[Both]
+MAT_017A-->175[Both]
+175-->176[One]
+174-->176[One]
+176-->ECN_122
+style ECN_140 fill:#ade
+ECN_100A-->177[One]
+ECN_100-->177[One]
+ARE_100A-->178[One]
+177-->178[One]
+ARE_100B-->179[One]
+ECN_100B-->179[One]
+179-->180[Both]
+178-->180[Both]
+ECN_101-->181[Both]
+180-->181[Both]
+ECN_102-->182[Both]
+181-->182[Both]
+STA_013Y-->183[One]
+STA_013-->183[One]
+183-->184[Both]
+182-->184[Both]
+184-->ECN_140
+style MGT_011A fill:#ade
+style MGT_011B fill:#ade
+MGT_011A-->MGT_011B
+style MGT_100 fill:#ade
+MGT_011A-->MGT_100
+style MGT_120 fill:#ade
+style MGT_140 fill:#ade
+style MGT_150 fill:#ade
+style MGT_160 fill:#ade
+MAT_017B-->185[One]
+MAT_016B-->185[One]
+MAT_021B-->186[One]
+185-->186[One]
+186-->187[Both]
+MGT_011A-->187[Both]
+STA_013-->188[Both]
+187-->188[Both]
+188-->MGT_160
+style MGT_170 fill:#ade
+MGT_011B-->189[Both]
+MGT_011A-->189[Both]
+189-->MGT_170
+style MGT_180 fill:#ade
+style UWP_101 fill:#ade
+UWP_001V-->190[One]
+UWP_001-->190[One]
+UWP_001Y-->191[One]
+190-->191[One]
+COM_001-->192[One]
+191-->192[One]
+COM_002-->193[One]
+192-->193[One]
+COM_003-->194[One]
+193-->194[One]
+COM_004-->195[One]
+194-->195[One]
+ENL_003-->196[One]
+195-->196[One]
+NAS_005-->197[One]
+196-->197[One]
+197-->UWP_101
+style UWP_102A fill:#ade
+UWP_001V-->198[One]
+UWP_001-->198[One]
+UWP_001Y-->199[One]
+198-->199[One]
+ENL_003-->200[One]
+199-->200[One]
+COM_001-->201[One]
+200-->201[One]
+COM_002-->202[One]
+201-->202[One]
+COM_003-->203[One]
+202-->203[One]
+COM_004-->204[One]
+203-->204[One]
+NAS_005-->205[One]
+204-->205[One]
+205-->UWP_102A
+style UWP_102B fill:#ade
+UWP_001V-->206[One]
+UWP_001-->206[One]
+UWP_001Y-->207[One]
+206-->207[One]
+ENL_003-->208[One]
+207-->208[One]
+COM_001-->209[One]
+208-->209[One]
+COM_002-->210[One]
+209-->210[One]
+COM_003-->211[One]
+210-->211[One]
+COM_004-->212[One]
+211-->212[One]
+NAS_005-->213[One]
+212-->213[One]
+213-->UWP_102B
+style UWP_102C fill:#ade
+UWP_001V-->214[One]
+UWP_001-->214[One]
+UWP_001Y-->215[One]
+214-->215[One]
+ENL_003-->216[One]
+215-->216[One]
+COM_001-->217[One]
+216-->217[One]
+COM_002-->218[One]
+217-->218[One]
+COM_003-->219[One]
+218-->219[One]
+COM_004-->220[One]
+219-->220[One]
+NAS_005-->221[One]
+220-->221[One]
+221-->UWP_102C
+style UWP_102D fill:#ade
+UWP_001V-->222[One]
+UWP_001-->222[One]
+UWP_001Y-->223[One]
+222-->223[One]
+ENL_003-->224[One]
+223-->224[One]
+COM_001-->225[One]
+224-->225[One]
+COM_002-->226[One]
+225-->226[One]
+COM_003-->227[One]
+226-->227[One]
+COM_004-->228[One]
+227-->228[One]
+NAS_005-->229[One]
+228-->229[One]
+229-->UWP_102D
+style UWP_102E fill:#ade
+UWP_001V-->230[One]
+UWP_001-->230[One]
+UWP_001Y-->231[One]
+230-->231[One]
+ENL_003-->232[One]
+231-->232[One]
+COM_001-->233[One]
+232-->233[One]
+COM_002-->234[One]
+233-->234[One]
+COM_003-->235[One]
+234-->235[One]
+COM_004-->236[One]
+235-->236[One]
+NAS_005-->237[One]
+236-->237[One]
+237-->UWP_102E
+style UWP_102F fill:#ade
+UWP_001V-->238[One]
+UWP_001-->238[One]
+UWP_001Y-->239[One]
+238-->239[One]
+ENL_003-->240[One]
+239-->240[One]
+COM_001-->241[One]
+240-->241[One]
+COM_002-->242[One]
+241-->242[One]
+COM_003-->243[One]
+242-->243[One]
+COM_004-->244[One]
+243-->244[One]
+NAS_005-->245[One]
+244-->245[One]
+245-->UWP_102F
+style UWP_102G fill:#ade
+UWP_001V-->246[One]
+UWP_001-->246[One]
+UWP_001Y-->247[One]
+246-->247[One]
+ENL_003-->248[One]
+247-->248[One]
+COM_001-->249[One]
+248-->249[One]
+COM_002-->250[One]
+249-->250[One]
+COM_003-->251[One]
+250-->251[One]
+COM_004-->252[One]
+251-->252[One]
+NAS_005-->253[One]
+252-->253[One]
+253-->UWP_102G
+style UWP_102H fill:#ade
+UWP_001V-->254[One]
+UWP_001-->254[One]
+UWP_001Y-->255[One]
+254-->255[One]
+ENL_003-->256[One]
+255-->256[One]
+COM_001-->257[One]
+256-->257[One]
+COM_002-->258[One]
+257-->258[One]
+COM_003-->259[One]
+258-->259[One]
+COM_004-->260[One]
+259-->260[One]
+NAS_005-->261[One]
+260-->261[One]
+261-->UWP_102H
+style UWP_102I fill:#ade
+UWP_001V-->262[One]
+UWP_001-->262[One]
+UWP_001Y-->263[One]
+262-->263[One]
+ENL_003-->264[One]
+263-->264[One]
+COM_001-->265[One]
+264-->265[One]
+COM_002-->266[One]
+265-->266[One]
+COM_003-->267[One]
+266-->267[One]
+COM_004-->268[One]
+267-->268[One]
+NAS_005-->269[One]
+268-->269[One]
+269-->UWP_102I
+style UWP_102J fill:#ade
+UWP_001V-->270[One]
+UWP_001-->270[One]
+UWP_001Y-->271[One]
+270-->271[One]
+ENL_003-->272[One]
+271-->272[One]
+COM_001-->273[One]
+272-->273[One]
+COM_002-->274[One]
+273-->274[One]
+COM_003-->275[One]
+274-->275[One]
+COM_004-->276[One]
+275-->276[One]
+NAS_005-->277[One]
+276-->277[One]
+277-->UWP_102J
+style UWP_102K fill:#ade
+UWP_001V-->278[One]
+UWP_001-->278[One]
+UWP_001Y-->279[One]
+278-->279[One]
+ENL_003-->280[One]
+279-->280[One]
+COM_001-->281[One]
+280-->281[One]
+COM_002-->282[One]
+281-->282[One]
+COM_003-->283[One]
+282-->283[One]
+COM_004-->284[One]
+283-->284[One]
+NAS_005-->285[One]
+284-->285[One]
+285-->UWP_102K
+style UWP_102L fill:#ade
+UWP_001V-->286[One]
+UWP_001-->286[One]
+UWP_001Y-->287[One]
+286-->287[One]
+ENL_003-->288[One]
+287-->288[One]
+COM_001-->289[One]
+288-->289[One]
+COM_002-->290[One]
+289-->290[One]
+COM_003-->291[One]
+290-->291[One]
+COM_004-->292[One]
+291-->292[One]
+NAS_005-->293[One]
+292-->293[One]
+293-->UWP_102L
+style UWP_104A fill:#ade
+UWP_001V-->294[One]
+UWP_001-->294[One]
+UWP_001Y-->295[One]
+294-->295[One]
+ENL_003-->296[One]
+295-->296[One]
+COM_001-->297[One]
+296-->297[One]
+COM_002-->298[One]
+297-->298[One]
+COM_003-->299[One]
+298-->299[One]
+COM_004-->300[One]
+299-->300[One]
+NAS_005-->301[One]
+300-->301[One]
+301-->UWP_104A
+style UWP_104B fill:#ade
+UWP_001V-->302[One]
+UWP_001-->302[One]
+UWP_001Y-->303[One]
+302-->303[One]
+ENL_003-->304[One]
+303-->304[One]
+COM_001-->305[One]
+304-->305[One]
+COM_002-->306[One]
+305-->306[One]
+COM_003-->307[One]
+306-->307[One]
+COM_004-->308[One]
+307-->308[One]
+NAS_005-->309[One]
+308-->309[One]
+309-->UWP_104B
+style UWP_104C fill:#ade
+UWP_001V-->310[One]
+UWP_001-->310[One]
+UWP_001Y-->311[One]
+310-->311[One]
+ENL_003-->312[One]
+311-->312[One]
+COM_001-->313[One]
+312-->313[One]
+COM_002-->314[One]
+313-->314[One]
+COM_003-->315[One]
+314-->315[One]
+COM_004-->316[One]
+315-->316[One]
+NAS_005-->317[One]
+316-->317[One]
+317-->UWP_104C
+style UWP_104D fill:#ade
+UWP_001V-->318[One]
+UWP_001-->318[One]
+UWP_001Y-->319[One]
+318-->319[One]
+ENL_003-->320[One]
+319-->320[One]
+COM_001-->321[One]
+320-->321[One]
+COM_002-->322[One]
+321-->322[One]
+COM_003-->323[One]
+322-->323[One]
+COM_004-->324[One]
+323-->324[One]
+NAS_005-->325[One]
+324-->325[One]
+325-->UWP_104D
+style UWP_104E fill:#ade
+UWP_001V-->326[One]
+UWP_001-->326[One]
+UWP_001Y-->327[One]
+326-->327[One]
+ENL_003-->328[One]
+327-->328[One]
+COM_001-->329[One]
+328-->329[One]
+COM_002-->330[One]
+329-->330[One]
+COM_003-->331[One]
+330-->331[One]
+COM_004-->332[One]
+331-->332[One]
+NAS_005-->333[One]
+332-->333[One]
+333-->UWP_104E
+style UWP_104F fill:#ade
+UWP_001V-->334[One]
+UWP_001-->334[One]
+UWP_001Y-->335[One]
+334-->335[One]
+ENL_003-->336[One]
+335-->336[One]
+COM_001-->337[One]
+336-->337[One]
+COM_002-->338[One]
+337-->338[One]
+COM_003-->339[One]
+338-->339[One]
+COM_004-->340[One]
+339-->340[One]
+UWP_104FY-->341[Both]
+NAS_005-->341[Both]
+341-->342[One]
+340-->342[One]
+342-->UWP_104F
+style UWP_104I fill:#ade
+UWP_001V-->343[One]
+UWP_001-->343[One]
+UWP_001Y-->344[One]
+343-->344[One]
+ENL_003-->345[One]
+344-->345[One]
+COM_001-->346[One]
+345-->346[One]
+COM_002-->347[One]
+346-->347[One]
+COM_003-->348[One]
+347-->348[One]
+COM_004-->349[One]
+348-->349[One]
+NAS_005-->350[One]
+349-->350[One]
+350-->UWP_104I
+style UWP_104J fill:#ade
+UWP_001V-->351[One]
+UWP_001-->351[One]
+UWP_001Y-->352[One]
+351-->352[One]
+ENL_003-->353[One]
+352-->353[One]
+COM_001-->354[One]
+353-->354[One]
+COM_002-->355[One]
+354-->355[One]
+COM_003-->356[One]
+355-->356[One]
+COM_004-->357[One]
+356-->357[One]
+NAS_005-->358[One]
+357-->358[One]
+358-->UWP_104J
+style UWP_104T fill:#ade
+UWP_001V-->359[One]
+UWP_001-->359[One]
+UWP_001Y-->360[One]
+359-->360[One]
+ENL_003-->361[One]
+360-->361[One]
+COM_001-->362[One]
+361-->362[One]
+COM_002-->363[One]
+362-->363[One]
+COM_003-->364[One]
+363-->364[One]
+COM_004-->365[One]
+364-->365[One]
+NAS_005-->366[One]
+365-->366[One]
+366-->UWP_104T

@@ -1,0 +1,249 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose one:]-->ANT_004
+2[Choose one:]-->LIN_001
+style 3 fill:#ddd
+3[Choose one:]-->CMN_010Y
+3[Choose one:]-->CMN_010V
+style 4 fill:#ddd
+4[Choose one:]-->CMN_001
+style 5 fill:#ddd
+5[Choose one:]-->CMN_003
+5[Choose one:]-->CMN_003Y
+5[Choose one:]-->CMN_003V
+5[Choose one:]-->CMN_005
+5[Choose one:]-->LIN_005
+style 6 fill:#ddd
+6[Choose one:]-->ECS_015
+6[Choose one:]-->PHI_012
+style 7 fill:#ddd
+7[Psychology]-->PSC_001
+style 8 fill:#ddd
+8[Sociology]-->SOC_001
+style 9 fill:#ddd
+9[Choose one:]-->STA_013
+9[Choose one:]-->SOC_046B
+style 10 fill:#ddd
+10[Choose one:]-->CMN_101
+10[Choose one:]-->CMN_101Y
+10[Choose one:]-->CMN_102
+10[Choose one:]-->CMN_120
+10[Choose one:]-->CMN_140
+style 11 fill:#ddd
+11[Choose one:]-->CMN_170
+11[Choose one:]-->CMN_170V
+11[Choose one:]-->CMN_172
+style 12 fill:#ddd
+12[Choose five:]-->CMN_110
+12[Choose five:]-->CMN_111
+12[Choose five:]-->CMN_112
+12[Choose five:]-->CMN_114
+12[Choose five:]-->CMN_121
+12[Choose five:]-->CMN_122
+12[Choose five:]-->CMN_123
+12[Choose five:]-->CMN_124
+12[Choose five:]-->CMN_130
+12[Choose five:]-->CMN_131
+12[Choose five:]-->CMN_132
+12[Choose five:]-->CMN_136
+12[Choose five:]-->CMN_139
+12[Choose five:]-->CMN_141
+12[Choose five:]-->CMN_142
+12[Choose five:]-->CMN_143
+12[Choose five:]-->CMN_144
+12[Choose five:]-->CMN_145
+12[Choose five:]-->CMN_146
+12[Choose five:]-->CMN_147
+12[Choose five:]-->CMN_148
+12[Choose five:]-->CMN_150V
+12[Choose five:]-->CMN_151
+12[Choose five:]-->CMN_161
+12[Choose five:]-->CMN_165
+style 13 fill:#ddd
+13[Choose one:]-->CMN_170
+13[Choose one:]-->CMN_170V
+13[Choose one:]-->CMN_172
+13[Choose one:]-->CMN_174
+13[Choose one:]-->CMN_176
+13[Choose one:]-->CMN_178
+13[Choose one:]-->CMN_180
+13[Choose one:]-->CMN_189A
+13[Choose one:]-->CMN_189B
+13[Choose one:]-->CMN_189C
+13[Choose one:]-->CMN_189D
+13[Choose one:]-->ANT_117
+13[Choose one:]-->ANT_120
+13[Choose one:]-->ECN_122
+13[Choose one:]-->LIN_171
+13[Choose one:]-->LIN_177
+13[Choose one:]-->LIN_182
+13[Choose one:]-->POL_165
+13[Choose one:]-->PSC_100
+13[Choose one:]-->PSC_107
+13[Choose one:]-->PSC_152
+13[Choose one:]-->PSC_154
+13[Choose one:]-->SOC_126
+13[Choose one:]-->SOC_175
+13[Choose one:]-->STA_106
+13[Choose one:]-->STA_108
+style ANT_004 fill:#ade
+style LIN_001 fill:#ade
+style CMN_010Y fill:#ade
+style CMN_010V fill:#ade
+style CMN_001 fill:#ade
+style CMN_003 fill:#ade
+style CMN_003Y fill:#ade
+style CMN_003V fill:#ade
+style CMN_005 fill:#ade
+style LIN_005 fill:#ade
+style ECS_015 fill:#ade
+style PHI_012 fill:#ade
+style PSC_001 fill:#ade
+style SOC_001 fill:#ade
+style STA_013 fill:#ade
+style SOC_046B fill:#ade
+style CMN_101 fill:#ade
+style CMN_101Y fill:#ade
+style CMN_102 fill:#ade
+STA_013Y-->14[One]
+STA_013-->14[One]
+STA_013-->15[One]
+14-->15[One]
+15-->CMN_102
+style CMN_120 fill:#ade
+style CMN_140 fill:#ade
+style CMN_170 fill:#ade
+style CMN_170V fill:#ade
+style CMN_172 fill:#ade
+style CMN_110 fill:#ade
+style CMN_111 fill:#ade
+style CMN_112 fill:#ade
+style CMN_114 fill:#ade
+style CMN_121 fill:#ade
+style CMN_122 fill:#ade
+style CMN_123 fill:#ade
+style CMN_124 fill:#ade
+style CMN_130 fill:#ade
+style CMN_131 fill:#ade
+style CMN_132 fill:#ade
+CMN_131-->CMN_132
+style CMN_136 fill:#ade
+style CMN_139 fill:#ade
+CMN_136-->CMN_139
+style CMN_141 fill:#ade
+style CMN_142 fill:#ade
+style CMN_143 fill:#ade
+style CMN_144 fill:#ade
+style CMN_145 fill:#ade
+style CMN_146 fill:#ade
+style CMN_147 fill:#ade
+style CMN_148 fill:#ade
+style CMN_150V fill:#ade
+style CMN_151 fill:#ade
+style CMN_161 fill:#ade
+style CMN_165 fill:#ade
+style CMN_170 fill:#ade
+style CMN_170V fill:#ade
+style CMN_172 fill:#ade
+style CMN_174 fill:#ade
+style CMN_176 fill:#ade
+style CMN_178 fill:#ade
+style CMN_180 fill:#ade
+CMN_102-->16[One]
+CMN_102-->16[One]
+16-->17[Both]
+CMN_101-->17[Both]
+17-->CMN_180
+style CMN_189A fill:#ade
+CMN_102-->18[Both]
+CMN_101-->18[Both]
+CMN_136-->19[Both]
+18-->19[Both]
+19-->CMN_189A
+style CMN_189B fill:#ade
+CMN_102-->20[Both]
+CMN_101-->20[Both]
+CMN_140-->21[Both]
+20-->21[Both]
+21-->CMN_189B
+style CMN_189C fill:#ade
+CMN_102-->22[Both]
+CMN_101-->22[Both]
+CMN_165-->23[One]
+CMN_161-->23[One]
+23-->24[Both]
+22-->24[Both]
+24-->CMN_189C
+style CMN_189D fill:#ade
+CMN_102-->25[Both]
+CMN_101-->25[Both]
+CMN_136-->26[Both]
+25-->26[Both]
+26-->CMN_189D
+style ANT_117 fill:#ade
+style ANT_120 fill:#ade
+style ECN_122 fill:#ade
+MAT_016B-->27[Both]
+MAT_016A-->27[Both]
+MAT_021B-->28[Both]
+MAT_021A-->28[Both]
+28-->29[One]
+27-->29[One]
+MAT_017B-->30[Both]
+MAT_017A-->30[Both]
+30-->31[One]
+29-->31[One]
+31-->ECN_122
+style LIN_171 fill:#ade
+LIN_001Y-->32[One]
+LIN_001-->32[One]
+LIN_103A-->33[Both]
+32-->33[Both]
+33-->LIN_171
+style LIN_177 fill:#ade
+style LIN_182 fill:#ade
+style POL_165 fill:#ade
+style PSC_100 fill:#ade
+PSC_001Y-->34[One]
+PSC_001-->34[One]
+PSC_041-->35[Both]
+34-->35[Both]
+35-->PSC_100
+style PSC_107 fill:#ade
+PSC_041-->36[Both]
+PSC_001Y-->36[Both]
+36-->37[One]
+PSC_001-->37[One]
+37-->PSC_107
+style PSC_152 fill:#ade
+PSC_001Y-->38[One]
+PSC_001-->38[One]
+PSC_041-->39[Both]
+38-->39[Both]
+39-->PSC_152
+style PSC_154 fill:#ade
+PSC_001Y-->40[One]
+PSC_001-->40[One]
+PSC_041-->41[Both]
+40-->41[Both]
+41-->PSC_154
+style SOC_126 fill:#ade
+SOC_001-->SOC_126
+style SOC_175 fill:#ade
+SOC_001-->SOC_175
+style STA_106 fill:#ade
+STA_013Y-->42[One]
+STA_013-->42[One]
+STA_032-->43[One]
+42-->43[One]
+STA_100-->44[One]
+43-->44[One]
+44-->STA_106
+style STA_108 fill:#ade
+STA_013Y-->45[One]
+STA_013-->45[One]
+STA_032-->46[One]
+45-->46[One]
+STA_100-->47[One]
+46-->47[One]
+47-->STA_108

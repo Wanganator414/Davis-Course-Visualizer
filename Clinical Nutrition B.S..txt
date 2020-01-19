@@ -1,0 +1,241 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose one:]-->ENL_003
+2[Choose one:]-->UWP_001
+2[Choose one:]-->CMN_001
+style 3 fill:#ddd
+3[Biological Science]-->BIS_002A
+3[Biological Science]-->BIS_002B
+style 4 fill:#ddd
+4[Chemistry]-->CHE_002A
+4[Chemistry]-->CHE_002B
+4[Chemistry]-->CHE_002C
+4[Chemistry]-->CHE_008A
+4[Chemistry]-->CHE_008B
+style 5 fill:#ddd
+5[Economics choose one:]-->ECN_001A
+5[Economics choose one:]-->ECN_001B
+style 6 fill:#ddd
+6[Psychology]-->PSC_001
+style 7 fill:#ddd
+7[Choose one:]-->SOC_001
+7[Choose one:]-->SOC_003
+7[Choose one:]-->ANT_002
+style 8 fill:#ddd
+8[Statistics]-->STA_013
+style 9 fill:#ddd
+9[Units: 83]-->ARE_112
+9[Units: 83]-->ABI_102
+9[Units: 83]-->ABI_103
+9[Units: 83]-->BIS_101
+9[Units: 83]-->FST_100A
+9[Units: 83]-->FST_100B
+9[Units: 83]-->FSM_120
+9[Units: 83]-->FSM_120L
+9[Units: 83]-->FSM_122
+9[Units: 83]-->MIC_102
+9[Units: 83]-->MIC_103L
+9[Units: 83]-->NUT_106
+9[Units: 83]-->NUT_111AY
+9[Units: 83]-->NUT_111B
+9[Units: 83]-->NUT_112
+9[Units: 83]-->NUT_116A
+9[Units: 83]-->NUT_116AL
+9[Units: 83]-->NUT_116B
+9[Units: 83]-->NUT_116BL
+9[Units: 83]-->NUT_118
+9[Units: 83]-->NUT_190
+9[Units: 83]-->NPB_101
+9[Units: 83]-->NPB_101L
+style ENL_003 fill:#ade
+style UWP_001 fill:#ade
+style CMN_001 fill:#ade
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->10[One]
+CHE_002A-->10[One]
+10-->CHE_002B
+style CHE_002C fill:#ade
+CHE_002BH-->11[One]
+CHE_002B-->11[One]
+11-->CHE_002C
+style CHE_008A fill:#ade
+CHE_002BH-->12[One]
+CHE_002B-->12[One]
+12-->CHE_008A
+style CHE_008B fill:#ade
+CHE_118A-->13[One]
+CHE_008A-->13[One]
+CHE_128A-->14[One]
+13-->14[One]
+14-->CHE_008B
+style ECN_001A fill:#ade
+style ECN_001B fill:#ade
+style PSC_001 fill:#ade
+style SOC_001 fill:#ade
+style SOC_003 fill:#ade
+style ANT_002 fill:#ade
+style STA_013 fill:#ade
+style ARE_112 fill:#ade
+style ABI_102 fill:#ade
+CHE_002B-->15[Both]
+CHE_002A-->15[Both]
+CHE_008A-->16[Both]
+15-->16[Both]
+CHE_008B-->17[Both]
+16-->17[Both]
+CHE_118B-->18[Both]
+CHE_118A-->18[Both]
+18-->19[One]
+17-->19[One]
+19-->ABI_102
+style ABI_103 fill:#ade
+BIS_102-->20[One]
+ABI_102-->20[One]
+20-->ABI_103
+style BIS_101 fill:#ade
+BIS_002B-->21[Both]
+BIS_002A-->21[Both]
+CHE_118A-->22[One]
+CHE_008A-->22[One]
+CHE_128A-->23[One]
+22-->23[One]
+23-->24[Both]
+21-->24[Both]
+STA_013Y-->25[One]
+STA_013-->25[One]
+STA_100-->26[One]
+25-->26[One]
+STA_102-->27[One]
+26-->27[One]
+STA_130A-->28[One]
+27-->28[One]
+28-->29[Both]
+24-->29[Both]
+STA_100-->30[Both]
+29-->30[Both]
+30-->BIS_101
+style FST_100A fill:#ade
+CHE_118B-->31[One]
+CHE_008B-->31[One]
+CHE_128B-->32[One]
+31-->32[One]
+32-->FST_100A
+style FST_100B fill:#ade
+CHE_008B-->33[Both]
+FST_100A-->33[Both]
+33-->FST_100B
+style FSM_120 fill:#ade
+FST_101B-->34[Both]
+FST_100B-->34[Both]
+34-->FSM_120
+style FSM_120L fill:#ade
+FSM_120-->FSM_120L
+style FSM_122 fill:#ade
+FSM_120-->35[Both]
+ARE_112-->35[Both]
+35-->FSM_122
+style MIC_102 fill:#ade
+BIS_002A-->36[One]
+BIS_001A-->36[One]
+CHE_002B-->37[Both]
+36-->37[Both]
+37-->MIC_102
+style MIC_103L fill:#ade
+CHE_002B-->38[Both]
+MIC_102-->38[Both]
+38-->MIC_103L
+style NUT_106 fill:#ade
+CHE_118B-->39[One]
+CHE_008B-->39[One]
+CHE_128B-->40[One]
+39-->40[One]
+40-->NUT_106
+style NUT_111AY fill:#ade
+NPB_101-->41[One]
+NPB_101-->41[One]
+41-->42[Both]
+CHE_008B-->42[Both]
+42-->NUT_111AY
+style NUT_111B fill:#ade
+NPB_101-->43[Both]
+CHE_008B-->43[Both]
+NUT_111AY-->44[One]
+NUT_111AV-->44[One]
+NPB_101-->45[One]
+44-->45[One]
+45-->46[Both]
+43-->46[Both]
+46-->NUT_111B
+style NUT_112 fill:#ade
+ABI_103-->47[Both]
+ABI_102-->47[Both]
+BIS_103-->48[Both]
+BIS_102-->48[Both]
+48-->49[One]
+47-->49[One]
+NUT_111AY-->50[Both]
+49-->50[Both]
+STA_013Y-->51[One]
+STA_013-->51[One]
+PLS_120-->52[One]
+51-->52[One]
+52-->53[Both]
+50-->53[Both]
+53-->NUT_112
+style NUT_116A fill:#ade
+NUT_111AY-->54[One]
+NUT_111AV-->54[One]
+NUT_111B-->55[Both]
+54-->55[Both]
+NUT_112-->56[Both]
+55-->56[Both]
+NPB_101-->57[One]
+NPB_101-->57[One]
+57-->58[Both]
+56-->58[Both]
+58-->NUT_116A
+style NUT_116AL fill:#ade
+NUT_116A-->NUT_116AL
+style NUT_116B fill:#ade
+NUT_111AY-->59[One]
+NUT_111AV-->59[One]
+NUT_111B-->60[Both]
+59-->60[Both]
+NUT_112-->61[Both]
+60-->61[Both]
+NPB_101-->62[One]
+NPB_101-->62[One]
+62-->63[Both]
+61-->63[Both]
+63-->NUT_116B
+style NUT_116BL fill:#ade
+NUT_116B-->64[Both]
+NUT_116AL-->64[Both]
+64-->NUT_116BL
+style NUT_118 fill:#ade
+NUT_111AY-->65[One]
+NUT_111AV-->65[One]
+65-->66[Both]
+NUT_116A-->66[Both]
+NUT_111B-->67[Both]
+66-->67[Both]
+67-->NUT_118
+style NUT_190 fill:#ade
+NUT_111AY-->68[One]
+NUT_111AV-->68[One]
+NUT_111B-->69[Both]
+68-->69[Both]
+69-->NUT_190
+style NPB_101 fill:#ade
+CHE_002BH-->70[One]
+CHE_002B-->70[One]
+70-->71[Both]
+BIS_002A-->71[Both]
+71-->NPB_101
+style NPB_101L fill:#ade
+NPB_110C-->72[One]
+NPB_101-->72[One]
+72-->NPB_101L

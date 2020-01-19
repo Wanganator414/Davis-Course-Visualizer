@@ -1,0 +1,683 @@
+graph BT;
+style 2 fill:#ddd
+2[Design]-->DES_001
+style 3 fill:#ddd
+3[Choose one:]-->DES_014
+3[Choose one:]-->DES_021
+3[Choose one:]-->DES_015
+3[Choose one:]-->DES_016
+style 4 fill:#ddd
+4[Choose one:]-->UWP_011
+4[Choose one:]-->UWP_012
+style 5 fill:#ddd
+5[Preferred.]-->UWP_048
+5[Preferred.]-->UWP_049
+style 6 fill:#ddd
+6[Choose one:]-->DES_040A
+6[Choose one:]-->DES_040B
+6[Choose one:]-->DES_040C
+style 7 fill:#ddd
+7[Choose two:]-->DES_021
+style 8 fill:#ddd
+8[Can only be used for this requirement if not counted above.]-->DES_040A
+style 9 fill:#ddd
+9[Can only be used for this requirement if not counted above.]-->DES_040B
+style 10 fill:#ddd
+10[Can only be used for this requirement if not counted above.]-->DES_040C
+style 11 fill:#ddd
+11[Can only be used for this requirement if not counted above.]-->DES_050
+style 12 fill:#ddd
+12[DES 051 Pending Approval]-->DES_070
+12[DES 051 Pending Approval]-->DES_077
+12[DES 051 Pending Approval]-->ART_012
+style 13 fill:#ddd
+13[List A:]-->AHI_168
+13[List A:]-->AHI_184
+13[List A:]-->AHI_187
+13[List A:]-->AHI_188A
+13[List A:]-->AHI_188B
+13[List A:]-->AHI_189
+13[List A:]-->DES_127A
+13[List A:]-->DES_128
+13[List A:]-->DES_138
+13[List A:]-->DES_142A
+13[List A:]-->DES_142B
+13[List A:]-->DES_143
+13[List A:]-->DES_144
+13[List A:]-->DES_145
+13[List A:]-->DES_149
+13[List A:]-->DRA_114
+13[List A:]-->DRA_150
+13[List A:]-->DRA_155
+style 14 fill:#ddd
+14[CDM 159 Pending Approval]-->TCS_150
+14[CDM 159 Pending Approval]-->TCS_152
+14[CDM 159 Pending Approval]-->TCS_153
+14[CDM 159 Pending Approval]-->TCS_155
+14[CDM 159 Pending Approval]-->TCS_159
+style 15 fill:#ddd
+15[List B:]-->DES_107
+15[List B:]-->DES_111
+15[List B:]-->DES_112
+15[List B:]-->DES_113
+15[List B:]-->DES_115
+15[List B:]-->DES_116
+15[List B:]-->DES_117
+15[List B:]-->DES_126
+15[List B:]-->DES_127B
+15[List B:]-->DES_131
+15[List B:]-->DES_132A
+15[List B:]-->DES_132B
+15[List B:]-->DES_134A
+15[List B:]-->DES_134B
+15[List B:]-->DES_135A
+15[List B:]-->DES_135B
+15[List B:]-->DES_136A
+15[List B:]-->DES_136B
+15[List B:]-->DES_137A
+15[List B:]-->DES_137B
+15[List B:]-->DES_150B
+15[List B:]-->DES_151
+15[List B:]-->DES_155A
+15[List B:]-->DES_156
+15[List B:]-->DES_160
+15[List B:]-->DES_161
+15[List B:]-->DES_165
+15[List B:]-->DES_166
+15[List B:]-->DES_167
+15[List B:]-->DES_169
+15[List B:]-->DES_170
+15[List B:]-->DES_171
+15[List B:]-->DES_177
+15[List B:]-->DES_180A
+15[List B:]-->DES_185
+15[List B:]-->DES_186
+style 16 fill:#ddd
+16[One from the following approved list may count:]-->ART_110A
+16[One from the following approved list may count:]-->ART_110B
+16[One from the following approved list may count:]-->ART_113
+16[One from the following approved list may count:]-->ART_114A
+16[One from the following approved list may count:]-->CDM_100
+style 17 fill:#ddd
+17[CDM 104 Pending Approval]-->CDM_125
+17[CDM 104 Pending Approval]-->CDM_130
+17[CDM 104 Pending Approval]-->CDM_131
+17[CDM 104 Pending Approval]-->CHI_172
+17[CDM 104 Pending Approval]-->DRA_124A
+17[CDM 104 Pending Approval]-->DRA_124B
+17[CDM 104 Pending Approval]-->DRA_124C
+17[CDM 104 Pending Approval]-->DRA_124D
+17[CDM 104 Pending Approval]-->DRA_124E
+17[CDM 104 Pending Approval]-->DRA_128
+17[CDM 104 Pending Approval]-->DRA_130
+17[CDM 104 Pending Approval]-->DRA_170
+17[CDM 104 Pending Approval]-->TCS_104
+17[CDM 104 Pending Approval]-->TXC_163
+17[CDM 104 Pending Approval]-->TXC_163L
+17[CDM 104 Pending Approval]-->LDA_141
+style 18 fill:#ddd
+18[Capstone Course Option these courses are the most advanced in the major and prerequisites are strictly enforced:]-->DES_154
+18[Capstone Course Option these courses are the most advanced in the major and prerequisites are strictly enforced:]-->DES_157
+18[Capstone Course Option these courses are the most advanced in the major and prerequisites are strictly enforced:]-->DES_159
+18[Capstone Course Option these courses are the most advanced in the major and prerequisites are strictly enforced:]-->DES_179
+18[Capstone Course Option these courses are the most advanced in the major and prerequisites are strictly enforced:]-->DES_180B
+18[Capstone Course Option these courses are the most advanced in the major and prerequisites are strictly enforced:]-->DES_187
+style DES_001 fill:#ade
+style DES_014 fill:#ade
+DES_001-->DES_014
+style DES_021 fill:#ade
+DES_001-->DES_021
+style DES_015 fill:#ade
+DES_001-->DES_015
+style DES_016 fill:#ade
+DES_001-->DES_016
+style UWP_011 fill:#ade
+style UWP_012 fill:#ade
+style UWP_048 fill:#ade
+UWP_001V-->19[One]
+UWP_001-->19[One]
+UWP_001Y-->20[One]
+19-->20[One]
+ENL_003-->21[One]
+20-->21[One]
+COM_001-->22[One]
+21-->22[One]
+COM_002-->23[One]
+22-->23[One]
+COM_003-->24[One]
+23-->24[One]
+COM_004-->25[One]
+24-->25[One]
+NAS_005-->26[One]
+25-->26[One]
+UWP_001-->27[One]
+26-->27[One]
+27-->UWP_048
+style UWP_049 fill:#ade
+UWP_001V-->28[One]
+UWP_001-->28[One]
+UWP_001Y-->29[One]
+28-->29[One]
+ENL_003-->30[One]
+29-->30[One]
+COM_001-->31[One]
+30-->31[One]
+COM_002-->32[One]
+31-->32[One]
+COM_003-->33[One]
+32-->33[One]
+COM_004-->34[One]
+33-->34[One]
+NAS_005-->35[One]
+34-->35[One]
+35-->UWP_049
+style DES_040A fill:#ade
+style DES_040B fill:#ade
+style DES_040C fill:#ade
+style DES_021 fill:#ade
+DES_001-->DES_021
+style DES_040A fill:#ade
+style DES_040B fill:#ade
+style DES_040C fill:#ade
+style DES_050 fill:#ade
+DES_001-->DES_050
+style DES_070 fill:#ade
+DES_001-->DES_070
+style DES_077 fill:#ade
+DES_001-->DES_077
+style ART_012 fill:#ade
+style AHI_168 fill:#ade
+style AHI_184 fill:#ade
+style AHI_187 fill:#ade
+style AHI_188A fill:#ade
+style AHI_188B fill:#ade
+style AHI_189 fill:#ade
+style DES_127A fill:#ade
+DES_001-->DES_127A
+style DES_128 fill:#ade
+style DES_138 fill:#ade
+DES_001-->DES_138
+style DES_142A fill:#ade
+style DES_142B fill:#ade
+style DES_143 fill:#ade
+style DES_144 fill:#ade
+style DES_145 fill:#ade
+DES_001-->DES_145
+style DES_149 fill:#ade
+style DRA_114 fill:#ade
+style DRA_150 fill:#ade
+style DRA_155 fill:#ade
+style TCS_150 fill:#ade
+style TCS_152 fill:#ade
+style TCS_153 fill:#ade
+style TCS_155 fill:#ade
+style TCS_159 fill:#ade
+style DES_107 fill:#ade
+DES_021-->36[One]
+DES_014-->36[One]
+36-->37[Both]
+DES_001-->37[Both]
+DES_015-->38[Both]
+37-->38[Both]
+DES_016-->39[Both]
+38-->39[Both]
+DES_077-->40[Both]
+39-->40[Both]
+40-->DES_107
+style DES_111 fill:#ade
+DES_015-->41[Both]
+DES_001-->41[Both]
+DES_016-->42[Both]
+41-->42[Both]
+42-->DES_111
+style DES_112 fill:#ade
+DES_021-->43[One]
+DES_014-->43[One]
+43-->44[Both]
+DES_001-->44[Both]
+DES_015-->45[Both]
+44-->45[Both]
+DES_016-->46[Both]
+45-->46[Both]
+46-->DES_112
+style DES_113 fill:#ade
+DES_015-->47[Both]
+DES_001-->47[Both]
+DES_016-->48[Both]
+47-->48[Both]
+48-->DES_113
+style DES_115 fill:#ade
+DES_021-->49[One]
+DES_014-->49[One]
+49-->50[Both]
+DES_001-->50[Both]
+DES_015-->51[Both]
+50-->51[Both]
+DES_016-->52[Both]
+51-->52[Both]
+52-->DES_115
+style DES_116 fill:#ade
+DES_021-->53[One]
+DES_014-->53[One]
+53-->54[Both]
+DES_001-->54[Both]
+DES_015-->55[Both]
+54-->55[Both]
+DES_016-->56[Both]
+55-->56[Both]
+DES_115-->57[Both]
+56-->57[Both]
+57-->DES_116
+style DES_117 fill:#ade
+DES_021-->58[One]
+DES_014-->58[One]
+58-->59[Both]
+DES_001-->59[Both]
+DES_015-->60[Both]
+59-->60[Both]
+DES_016-->61[Both]
+60-->61[Both]
+61-->DES_117
+style DES_126 fill:#ade
+DES_001-->DES_126
+style DES_127B fill:#ade
+DES_001-->62[Both]
+DES_127A-->62[Both]
+62-->DES_127B
+style DES_131 fill:#ade
+DES_021-->63[One]
+DES_014-->63[One]
+63-->64[Both]
+DES_001-->64[Both]
+DES_015-->65[Both]
+64-->65[Both]
+DES_016-->66[Both]
+65-->66[Both]
+66-->DES_131
+style DES_132A fill:#ade
+DES_021-->67[One]
+DES_014-->67[One]
+67-->68[Both]
+DES_001-->68[Both]
+DES_015-->69[Both]
+68-->69[Both]
+DES_016-->70[Both]
+69-->70[Both]
+70-->DES_132A
+style DES_132B fill:#ade
+DES_021-->71[One]
+DES_014-->71[One]
+71-->72[Both]
+DES_001-->72[Both]
+DES_015-->73[Both]
+72-->73[Both]
+DES_016-->74[Both]
+73-->74[Both]
+DES_132A-->75[Both]
+74-->75[Both]
+75-->DES_132B
+style DES_134A fill:#ade
+DES_150A-->76[One]
+DES_021-->76[One]
+76-->77[Both]
+DES_001-->77[Both]
+77-->DES_134A
+style DES_134B fill:#ade
+DES_150A-->78[One]
+DES_021-->78[One]
+78-->79[Both]
+DES_001-->79[Both]
+79-->DES_134B
+style DES_135A fill:#ade
+DES_021-->80[One]
+DES_014-->80[One]
+80-->81[Both]
+DES_001-->81[Both]
+DES_015-->82[Both]
+81-->82[Both]
+DES_016-->83[Both]
+82-->83[Both]
+83-->DES_135A
+style DES_135B fill:#ade
+DES_021-->84[One]
+DES_014-->84[One]
+84-->85[Both]
+DES_001-->85[Both]
+DES_015-->86[Both]
+85-->86[Both]
+DES_016-->87[Both]
+86-->87[Both]
+87-->DES_135B
+style DES_136A fill:#ade
+DES_021-->88[One]
+DES_014-->88[One]
+88-->89[Both]
+DES_001-->89[Both]
+DES_015-->90[Both]
+89-->90[Both]
+DES_016-->91[Both]
+90-->91[Both]
+91-->DES_136A
+style DES_136B fill:#ade
+DES_021-->92[One]
+DES_014-->92[One]
+92-->93[Both]
+DES_001-->93[Both]
+DES_015-->94[Both]
+93-->94[Both]
+DES_016-->95[Both]
+94-->95[Both]
+DES_136A-->96[Both]
+95-->96[Both]
+96-->DES_136B
+style DES_137A fill:#ade
+DES_021-->97[One]
+DES_014-->97[One]
+97-->98[Both]
+DES_001-->98[Both]
+DES_015-->99[Both]
+98-->99[Both]
+DES_016-->100[Both]
+99-->100[Both]
+100-->DES_137A
+style DES_137B fill:#ade
+DES_021-->101[One]
+DES_014-->101[One]
+101-->102[Both]
+DES_001-->102[Both]
+DES_015-->103[Both]
+102-->103[Both]
+DES_016-->104[Both]
+103-->104[Both]
+104-->DES_137B
+style DES_150B fill:#ade
+DES_021-->105[One]
+DES_014-->105[One]
+105-->106[Both]
+DES_001-->106[Both]
+DES_015-->107[Both]
+106-->107[Both]
+DES_016-->108[Both]
+107-->108[Both]
+108-->DES_150B
+style DES_151 fill:#ade
+DES_021-->109[One]
+DES_014-->109[One]
+109-->110[Both]
+DES_001-->110[Both]
+DES_015-->111[Both]
+110-->111[Both]
+111-->DES_151
+style DES_155A fill:#ade
+DES_115-->112[Both]
+DES_001-->112[Both]
+DES_021-->113[One]
+DES_014-->113[One]
+113-->114[Both]
+112-->114[Both]
+DES_015-->115[Both]
+114-->115[Both]
+DES_016-->116[Both]
+115-->116[Both]
+DES_113-->117[One]
+DES_031-->117[One]
+117-->118[Both]
+116-->118[Both]
+118-->DES_155A
+style DES_156 fill:#ade
+DES_014-->119[Both]
+DES_001-->119[Both]
+DES_015-->120[Both]
+119-->120[Both]
+DES_016-->121[Both]
+120-->121[Both]
+121-->DES_156
+style DES_160 fill:#ade
+DES_021-->122[One]
+DES_014-->122[One]
+122-->123[Both]
+DES_001-->123[Both]
+DES_015-->124[Both]
+123-->124[Both]
+124-->DES_160
+style DES_161 fill:#ade
+DES_021-->125[One]
+DES_014-->125[One]
+125-->126[Both]
+DES_001-->126[Both]
+DES_015-->127[Both]
+126-->127[Both]
+DES_016-->128[Both]
+127-->128[Both]
+128-->DES_161
+style DES_165 fill:#ade
+DES_021-->129[One]
+DES_014-->129[One]
+129-->130[Both]
+DES_001-->130[Both]
+DES_015-->131[Both]
+130-->131[Both]
+DES_050-->132[Both]
+131-->132[Both]
+132-->DES_165
+style DES_166 fill:#ade
+DES_014-->133[Both]
+DES_001-->133[Both]
+DES_015-->134[Both]
+133-->134[Both]
+134-->DES_166
+style DES_167 fill:#ade
+DES_021-->135[One]
+DES_014-->135[One]
+135-->136[Both]
+DES_001-->136[Both]
+DES_015-->137[Both]
+136-->137[Both]
+137-->DES_167
+style DES_169 fill:#ade
+DES_021-->138[One]
+DES_014-->138[One]
+138-->139[Both]
+DES_001-->139[Both]
+DES_015-->140[Both]
+139-->140[Both]
+DES_016-->141[Both]
+140-->141[Both]
+141-->DES_169
+style DES_170 fill:#ade
+DES_021-->142[One]
+DES_014-->142[One]
+142-->143[Both]
+DES_001-->143[Both]
+DES_015-->144[Both]
+143-->144[Both]
+DES_016-->145[Both]
+144-->145[Both]
+145-->DES_170
+style DES_171 fill:#ade
+DES_021-->146[One]
+DES_014-->146[One]
+146-->147[Both]
+DES_001-->147[Both]
+DES_015-->148[Both]
+147-->148[Both]
+148-->DES_171
+style DES_177 fill:#ade
+DES_001-->149[Both]
+DES_077-->149[Both]
+DES_021-->150[One]
+DES_014-->150[One]
+150-->151[Both]
+149-->151[Both]
+DES_015-->152[Both]
+151-->152[Both]
+DES_016-->153[Both]
+152-->153[Both]
+153-->DES_177
+style DES_180A fill:#ade
+DES_150A-->154[One]
+DES_021-->154[One]
+154-->155[Both]
+DES_001-->155[Both]
+155-->DES_180A
+style DES_185 fill:#ade
+DES_021-->156[One]
+DES_014-->156[One]
+156-->157[Both]
+DES_001-->157[Both]
+DES_015-->158[Both]
+157-->158[Both]
+158-->DES_185
+style DES_186 fill:#ade
+DES_021-->159[One]
+DES_014-->159[One]
+159-->160[Both]
+DES_001-->160[Both]
+DES_015-->161[Both]
+160-->161[Both]
+161-->DES_186
+style ART_110A fill:#ade
+ART_009-->ART_110A
+style ART_110B fill:#ade
+ART_009-->ART_110B
+style ART_113 fill:#ade
+style ART_114A fill:#ade
+CTS_020-->162[One]
+ART_012-->162[One]
+CDM_020-->163[One]
+162-->163[One]
+163-->ART_114A
+style CDM_100 fill:#ade
+ART_012-->164[One]
+CDM_020-->164[One]
+164-->CDM_100
+style CDM_125 fill:#ade
+CDM_122-->165[Both]
+CDM_121-->165[Both]
+165-->CDM_125
+style CDM_130 fill:#ade
+style CDM_131 fill:#ade
+TCS_130-->166[One]
+CDM_130-->166[One]
+166-->CDM_131
+style CHI_172 fill:#ade
+CHI_073-->167[One]
+CHI_070-->167[One]
+167-->CHI_172
+style DRA_124A fill:#ade
+style DRA_124B fill:#ade
+style DRA_124C fill:#ade
+style DRA_124D fill:#ade
+style DRA_124E fill:#ade
+style DRA_128 fill:#ade
+style DRA_130 fill:#ade
+DRA_124B-->168[One]
+DRA_124A-->168[One]
+DRA_124C-->169[One]
+168-->169[One]
+DRA_124D-->170[One]
+169-->170[One]
+DRA_124E-->171[One]
+170-->171[One]
+171-->DRA_130
+style DRA_170 fill:#ade
+style TCS_104 fill:#ade
+TCS_007B-->172[One]
+TCS_155-->172[One]
+172-->173[Both]
+TCS_007B-->173[Both]
+173-->TCS_104
+style TXC_163 fill:#ade
+CHE_008B-->174[One]
+FPS_110-->174[One]
+174-->175[Both]
+TXC_006-->175[Both]
+175-->TXC_163
+style TXC_163L fill:#ade
+TXC_163-->TXC_163L
+style LDA_141 fill:#ade
+LDA_030-->176[Both]
+LDA_021-->176[Both]
+LDA_050-->177[Both]
+176-->177[Both]
+LDA_070-->178[Both]
+177-->178[Both]
+178-->LDA_141
+style DES_154 fill:#ade
+DES_116-->179[Both]
+DES_115-->179[Both]
+DES_001-->180[Both]
+179-->180[Both]
+DES_021-->181[One]
+DES_014-->181[One]
+181-->182[Both]
+180-->182[Both]
+DES_015-->183[Both]
+182-->183[Both]
+DES_016-->184[Both]
+183-->184[Both]
+184-->DES_154
+style DES_157 fill:#ade
+DES_021-->185[One]
+DES_014-->185[One]
+185-->186[Both]
+DES_001-->186[Both]
+DES_015-->187[Both]
+186-->187[Both]
+DES_016-->188[Both]
+187-->188[Both]
+DES_111-->189[One]
+DES_037-->189[One]
+189-->190[Both]
+188-->190[Both]
+DES_117-->191[Both]
+190-->191[Both]
+191-->DES_157
+style DES_159 fill:#ade
+DES_021-->192[One]
+DES_014-->192[One]
+192-->193[Both]
+DES_001-->193[Both]
+DES_015-->194[Both]
+193-->194[Both]
+DES_016-->195[Both]
+194-->195[Both]
+DES_115-->196[Both]
+195-->196[Both]
+196-->DES_159
+style DES_179 fill:#ade
+DES_177-->197[One]
+DES_107-->197[One]
+197-->198[Both]
+DES_077-->198[Both]
+DES_001-->199[Both]
+198-->199[Both]
+DES_021-->200[One]
+DES_014-->200[One]
+200-->201[Both]
+199-->201[Both]
+DES_015-->202[Both]
+201-->202[Both]
+DES_016-->203[Both]
+202-->203[Both]
+203-->DES_179
+style DES_180B fill:#ade
+DES_134B-->204[One]
+DES_180A-->204[One]
+DES_134A-->205[Both]
+204-->205[Both]
+205-->DES_180B
+style DES_187 fill:#ade
+DES_186-->206[One]
+DES_185-->206[One]
+DES_021-->207[One]
+DES_014-->207[One]
+207-->208[Both]
+206-->208[Both]
+DES_001-->209[Both]
+208-->209[Both]
+DES_015-->210[Both]
+209-->210[Both]
+DES_016-->211[Both]
+210-->211[Both]
+211-->DES_187

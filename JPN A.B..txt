@@ -1,0 +1,166 @@
+graph BT;
+style 2 fill:#ddd
+2[Units: 0-30]-->JPN_001
+2[Units: 0-30]-->JPN_002
+2[Units: 0-30]-->JPN_003
+2[Units: 0-30]-->JPN_004
+2[Units: 0-30]-->JPN_005
+2[Units: 0-30]-->JPN_006
+style 3 fill:#ddd
+3[Recommended but NOT required:]-->JPN_010
+3[Recommended but NOT required:]-->JPN_025
+3[Recommended but NOT required:]-->CHN_010
+3[Recommended but NOT required:]-->CHN_011
+3[Recommended but NOT required:]-->CHN_050
+3[Recommended but NOT required:]-->LIN_001
+3[Recommended but NOT required:]-->HIS_009B
+style 4 fill:#ddd
+4[Units: 40]-->JPN_101
+4[Units: 40]-->JPN_102
+4[Units: 40]-->JPN_103
+4[Units: 40]-->JPN_111
+4[Units: 40]-->JPN_112
+4[Units: 40]-->JPN_113
+4[Units: 40]-->JPN_151
+style 5 fill:#ddd
+5[Choose three at least 12 units:]-->JPN_104
+5[Choose three at least 12 units:]-->JPN_105
+5[Choose three at least 12 units:]-->JPN_106
+5[Choose three at least 12 units:]-->JPN_107
+5[Choose three at least 12 units:]-->JPN_108
+5[Choose three at least 12 units:]-->JPN_109
+5[Choose three at least 12 units:]-->JPN_114A
+5[Choose three at least 12 units:]-->JPN_114B
+5[Choose three at least 12 units:]-->JPN_114C
+5[Choose three at least 12 units:]-->JPN_115
+5[Choose three at least 12 units:]-->JPN_116
+5[Choose three at least 12 units:]-->JPN_121
+5[Choose three at least 12 units:]-->JPN_122
+5[Choose three at least 12 units:]-->JPN_123
+5[Choose three at least 12 units:]-->JPN_130
+5[Choose three at least 12 units:]-->JPN_131
+5[Choose three at least 12 units:]-->JPN_132
+5[Choose three at least 12 units:]-->JPN_133
+5[Choose three at least 12 units:]-->JPN_134
+5[Choose three at least 12 units:]-->JPN_135
+5[Choose three at least 12 units:]-->JPN_136
+5[Choose three at least 12 units:]-->JPN_137
+5[Choose three at least 12 units:]-->JPN_138
+5[Choose three at least 12 units:]-->JPN_141
+5[Choose three at least 12 units:]-->JPN_152
+5[Choose three at least 12 units:]-->JPN_153
+5[Choose three at least 12 units:]-->JPN_154
+5[Choose three at least 12 units:]-->JPN_155
+5[Choose three at least 12 units:]-->JPN_156
+5[Choose three at least 12 units:]-->JPN_157
+5[Choose three at least 12 units:]-->JPN_158
+5[Choose three at least 12 units:]-->JPN_160
+5[Choose three at least 12 units:]-->JPN_162
+5[Choose three at least 12 units:]-->AHI_164
+style 6 fill:#ddd
+6[CHN up to two upper-division Chinese courses]-->COM_153
+6[CHN up to two upper-division Chinese courses]-->ECN_171
+6[CHN up to two upper-division Chinese courses]-->HIS_194A
+6[CHN up to two upper-division Chinese courses]-->HIS_194B
+6[CHN up to two upper-division Chinese courses]-->HIS_194C
+6[CHN up to two upper-division Chinese courses]-->HIS_194D
+6[CHN up to two upper-division Chinese courses]-->POL_148B
+6[CHN up to two upper-division Chinese courses]-->RST_170
+6[CHN up to two upper-division Chinese courses]-->RST_172
+style JPN_001 fill:#ade
+style JPN_002 fill:#ade
+JPN_001-->JPN_002
+style JPN_003 fill:#ade
+JPN_002-->JPN_003
+style JPN_004 fill:#ade
+JPN_003-->JPN_004
+style JPN_005 fill:#ade
+JPN_004-->JPN_005
+style JPN_006 fill:#ade
+JPN_005-->JPN_006
+style JPN_010 fill:#ade
+style JPN_025 fill:#ade
+style CHN_010 fill:#ade
+style CHN_011 fill:#ade
+style CHN_050 fill:#ade
+style LIN_001 fill:#ade
+style HIS_009B fill:#ade
+style JPN_101 fill:#ade
+style JPN_102 fill:#ade
+style JPN_103 fill:#ade
+style JPN_111 fill:#ade
+JPN_006-->JPN_111
+style JPN_112 fill:#ade
+JPN_111-->JPN_112
+style JPN_113 fill:#ade
+JPN_112-->JPN_113
+style JPN_151 fill:#ade
+JPN_003-->JPN_151
+style JPN_104 fill:#ade
+style JPN_105 fill:#ade
+style JPN_106 fill:#ade
+style JPN_107 fill:#ade
+style JPN_108 fill:#ade
+style JPN_109 fill:#ade
+style JPN_114A fill:#ade
+style JPN_114B fill:#ade
+JPN_114A-->JPN_114B
+style JPN_114C fill:#ade
+JPN_114B-->JPN_114C
+style JPN_115 fill:#ade
+JPN_006-->JPN_115
+style JPN_116 fill:#ade
+style JPN_121 fill:#ade
+JPN_113-->JPN_121
+style JPN_122 fill:#ade
+JPN_121-->JPN_122
+style JPN_123 fill:#ade
+JPN_122-->JPN_123
+style JPN_130 fill:#ade
+JPN_113-->7[One]
+JPN_113-->7[One]
+7-->JPN_130
+style JPN_131 fill:#ade
+JPN_113-->JPN_131
+style JPN_132 fill:#ade
+JPN_113-->JPN_132
+style JPN_133 fill:#ade
+JPN_113-->JPN_133
+style JPN_134 fill:#ade
+JPN_113-->JPN_134
+style JPN_135 fill:#ade
+JPN_113-->JPN_135
+style JPN_136 fill:#ade
+JPN_113-->JPN_136
+style JPN_137 fill:#ade
+JPN_113-->JPN_137
+style JPN_138 fill:#ade
+JPN_113-->8[One]
+JPN_113-->8[One]
+8-->JPN_138
+style JPN_141 fill:#ade
+JPN_113-->JPN_141
+style JPN_152 fill:#ade
+style JPN_153 fill:#ade
+style JPN_154 fill:#ade
+style JPN_155 fill:#ade
+style JPN_156 fill:#ade
+style JPN_157 fill:#ade
+style JPN_158 fill:#ade
+style JPN_160 fill:#ade
+style JPN_162 fill:#ade
+style AHI_164 fill:#ade
+style COM_153 fill:#ade
+style ECN_171 fill:#ade
+ECN_001AV-->9[One]
+ECN_001A-->9[One]
+ECN_001B-->10[Both]
+9-->10[Both]
+10-->ECN_171
+style HIS_194A fill:#ade
+style HIS_194B fill:#ade
+style HIS_194C fill:#ade
+style HIS_194D fill:#ade
+style POL_148B fill:#ade
+style RST_170 fill:#ade
+style RST_172 fill:#ade

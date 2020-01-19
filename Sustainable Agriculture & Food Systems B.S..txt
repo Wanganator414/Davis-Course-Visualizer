@@ -1,0 +1,670 @@
+graph BT;
+style 2 fill:#ddd
+2[Plant Science]-->PLS_015
+style 3 fill:#ddd
+3[Community & Regional Development]-->CRD_020
+style 4 fill:#ddd
+4[Choose one:]-->ANS_112
+4[Choose one:]-->PLS_150
+style 5 fill:#ddd
+5[Agricultural & Resource Economics]-->ARE_121
+style 6 fill:#ddd
+6[Plant Science]-->PLS_190
+style 7 fill:#ddd
+7[Environmental Science & Policy]-->ESP_191A
+7[Environmental Science & Policy]-->ESP_191B
+style 8 fill:#ddd
+8[Choose one:]-->PLS_049
+8[Choose one:]-->PLP_040
+8[Choose one:]-->VEN_101A
+8[Choose one:]-->VEN_101B
+8[Choose one:]-->VEN_101C
+8[Choose one:]-->ENH_120
+8[Choose one:]-->PLS_131
+style 9 fill:#ddd
+9[Animal Science choose one:]-->ANS_041L
+9[Animal Science choose one:]-->ANS_049A
+9[Animal Science choose one:]-->ANS_049B
+9[Animal Science choose one:]-->ANS_049C
+9[Animal Science choose one:]-->ANS_049D
+9[Animal Science choose one:]-->ANS_049E
+9[Animal Science choose one:]-->ANS_049F
+9[Animal Science choose one:]-->ANS_049G
+9[Animal Science choose one:]-->ANS_049H
+9[Animal Science choose one:]-->ANS_049I
+9[Animal Science choose one:]-->ANS_049J
+style 10 fill:#ddd
+10[Choose one:]-->ABT_049
+10[Choose one:]-->ABT_052
+10[Choose one:]-->ABT_101
+10[Choose one:]-->ABT_142
+10[Choose one:]-->FST_050
+style 11 fill:#ddd
+11[Mathematics]-->MAT_016A
+11[Mathematics]-->MAT_016B
+style 12 fill:#ddd
+12[Choose one:]-->PLS_120
+12[Choose one:]-->STA_100
+style 13 fill:#ddd
+13[Chemistry]-->CHE_002A
+13[Chemistry]-->CHE_002B
+style 14 fill:#ddd
+14[Physics]-->PHY_001A
+style 15 fill:#ddd
+15[Biological Science]-->BIS_002A
+15[Biological Science]-->BIS_002B
+style 16 fill:#ddd
+16[Plant Science]-->PLS_002
+style 17 fill:#ddd
+17[Animal Science choose one:]-->ANS_001
+17[Animal Science choose one:]-->ANS_002
+style 18 fill:#ddd
+18[Food Science & Technology]-->FST_001
+style 19 fill:#ddd
+19[Economics]-->ECN_001A
+style 20 fill:#ddd
+20[Community & Regional Development]-->CRD_001
+style 21 fill:#ddd
+21[Philosophy choose one:]-->PHI_014
+21[Philosophy choose one:]-->PHI_015
+21[Philosophy choose one:]-->PHI_024
+style 22 fill:#ddd
+22[Choose one:]-->ANT_002
+22[Choose one:]-->POL_001
+22[Choose one:]-->SOC_001
+22[Choose one:]-->SOC_003
+style 23 fill:#ddd
+23[Agricultural & Resource Economics choose one:]-->ARE_112
+23[Agricultural & Resource Economics choose one:]-->ARE_120
+23[Agricultural & Resource Economics choose one:]-->ARE_147
+style 24 fill:#ddd
+24[Environmental Science & Policy choose one:]-->ESP_161
+24[Environmental Science & Policy choose one:]-->ESP_169
+style 25 fill:#ddd
+25[Soil Science choose one:]-->SSC_100
+25[Soil Science choose one:]-->SSC_109
+style 26 fill:#ddd
+26[Choose one:]-->ANS_129
+26[Choose one:]-->ENH_160
+26[Choose one:]-->ESP_100
+26[Choose one:]-->EVE_101
+26[Choose one:]-->HYD_110
+26[Choose one:]-->PLS_105
+26[Choose one:]-->SSC_112
+26[Choose one:]-->WFC_154
+style 27 fill:#ddd
+27[Choose one:]-->PHI_005
+27[Choose one:]-->PHI_031
+style 28 fill:#ddd
+28[Choose one:]-->PHI_014
+28[Choose one:]-->PHI_015
+28[Choose one:]-->PHI_024
+style 29 fill:#ddd
+29[Choose one:]-->SOC_046B
+29[Choose one:]-->STA_013
+style 30 fill:#ddd
+30[Choose at least one:]-->CRD_151
+30[Choose at least one:]-->LDA_150
+30[Choose at least one:]-->STA_103
+30[Choose at least one:]-->SOC_106
+style 31 fill:#ddd
+31[Chemistry]-->CHE_002A
+style 32 fill:#ddd
+32[Biological Science choose one:]-->BIS_002A
+32[Biological Science choose one:]-->BIS_010
+style 33 fill:#ddd
+33[Plant Science]-->PLS_002
+style 34 fill:#ddd
+34[Choose one:]-->BIS_002B
+34[Choose one:]-->ESP_001
+34[Choose one:]-->WFC_010
+34[Choose one:]-->WFC_011
+style 35 fill:#ddd
+35[Food Science & Technology]-->FST_001
+style 36 fill:#ddd
+36[Soil Science]-->SSC_010
+style 37 fill:#ddd
+37[Economics]-->ECN_001A
+style 38 fill:#ddd
+38[Political Science]-->POL_001
+style 39 fill:#ddd
+39[Choose one:]-->ANT_002
+39[Choose one:]-->SOC_001
+39[Choose one:]-->SOC_003
+style 40 fill:#ddd
+40[Community & Regional Development]-->CRD_001
+40[Community & Regional Development]-->CRD_002
+style 41 fill:#ddd
+41[Agricultural & Resource Economics choose one:]-->ARE_112
+41[Agricultural & Resource Economics choose one:]-->ARE_150
+style 42 fill:#ddd
+42[Choose one:]-->ARE_147
+42[Choose one:]-->ARE_176
+42[Choose one:]-->ESP_160
+42[Choose one:]-->ESP_161
+42[Choose one:]-->ESP_169
+42[Choose one:]-->ESP_172
+42[Choose one:]-->ESP_179
+style 43 fill:#ddd
+43[Choose 12 units:]-->ANT_101
+43[Choose 12 units:]-->CRD_118
+43[Choose 12 units:]-->CRD_142
+43[Choose 12 units:]-->CRD_149
+43[Choose 12 units:]-->CRD_152
+43[Choose 12 units:]-->SOC_130
+43[Choose 12 units:]-->SOC_160
+style 44 fill:#ddd
+44[Choose one:]-->AMS_101G
+44[Choose one:]-->AMS_156
+44[Choose one:]-->HIS_108
+44[Choose one:]-->HIS_172
+44[Choose one:]-->NAS_123
+44[Choose one:]-->NAS_162
+44[Choose one:]-->PHI_109
+44[Choose one:]-->WMS_104
+44[Choose one:]-->WMS_136
+style 45 fill:#ddd
+45[Mathematics]-->MAT_016A
+45[Mathematics]-->MAT_016B
+style 46 fill:#ddd
+46[Choose one:]-->SOC_046B
+46[Choose one:]-->STA_013
+style 47 fill:#ddd
+47[Choose one:]-->ARE_106
+47[Choose one:]-->STA_103
+47[Choose one:]-->SOC_106
+style 48 fill:#ddd
+48[Chemistry]-->CHE_002A
+style 49 fill:#ddd
+49[Biological Science choose one:]-->BIS_002A
+49[Biological Science choose one:]-->BIS_010
+style 50 fill:#ddd
+50[Plant Science]-->PLS_002
+style 51 fill:#ddd
+51[Choose one:]-->BIS_002B
+51[Choose one:]-->ESP_001
+51[Choose one:]-->WFC_010
+51[Choose one:]-->WFC_011
+style 52 fill:#ddd
+52[Food Science & Technology]-->FST_001
+style 53 fill:#ddd
+53[Soil Science]-->SSC_010
+style 54 fill:#ddd
+54[Economics]-->ECN_001A
+54[Economics]-->ECN_001B
+style 55 fill:#ddd
+55[Political Science]-->POL_001
+style 56 fill:#ddd
+56[Choose one:]-->ANT_002
+56[Choose one:]-->SOC_001
+56[Choose one:]-->SOC_003
+style 57 fill:#ddd
+57[Community & Regional Development]-->CRD_001
+style 58 fill:#ddd
+58[Philosophy choose one:]-->PHI_014
+58[Philosophy choose one:]-->PHI_015
+58[Philosophy choose one:]-->PHI_024
+style 59 fill:#ddd
+59[Agricultural & Resource Economics choose one:]-->ARE_112
+59[Agricultural & Resource Economics choose one:]-->ARE_150
+59[Agricultural & Resource Economics choose one:]-->ARE_157
+style 60 fill:#ddd
+60[Choose 11-12 units:]-->ARE_120
+60[Choose 11-12 units:]-->ARE_130
+60[Choose 11-12 units:]-->ARE_147
+60[Choose 11-12 units:]-->ARE_176
+60[Choose 11-12 units:]-->ESP_160
+60[Choose 11-12 units:]-->ESP_161
+60[Choose 11-12 units:]-->ESP_169
+60[Choose 11-12 units:]-->ESP_172
+60[Choose 11-12 units:]-->ESP_179
+style 61 fill:#ddd
+61[Choose eight units:]-->ANT_101
+61[Choose eight units:]-->CRD_118
+61[Choose eight units:]-->CRD_142
+61[Choose eight units:]-->CRD_149
+61[Choose eight units:]-->CRD_152
+61[Choose eight units:]-->SOC_130
+61[Choose eight units:]-->SOC_160
+style PLS_015 fill:#ade
+style CRD_020 fill:#ade
+style ANS_112 fill:#ade
+ANS_001-->62[One]
+BIS_002B-->62[One]
+62-->ANS_112
+style PLS_150 fill:#ade
+CHE_002A-->63[Both]
+SSC_010-->63[Both]
+BIS_001C-->64[One]
+PLS_002-->64[One]
+BIS_002C-->65[One]
+64-->65[One]
+65-->66[Both]
+63-->66[Both]
+66-->PLS_150
+style ARE_121 fill:#ade
+ECN_001AV-->67[One]
+ECN_001A-->67[One]
+67-->ARE_121
+style PLS_190 fill:#ade
+style ESP_191A fill:#ade
+CRD_020-->68[Both]
+PLS_015-->68[Both]
+ARE_121-->69[Both]
+68-->69[Both]
+PLS_150-->70[Both]
+69-->70[Both]
+70-->ESP_191A
+style ESP_191B fill:#ade
+ESP_191A-->ESP_191B
+style PLS_049 fill:#ade
+style PLP_040 fill:#ade
+style VEN_101A fill:#ade
+VEN_002-->VEN_101A
+style VEN_101B fill:#ade
+VEN_002-->VEN_101B
+style VEN_101C fill:#ade
+VEN_002-->VEN_101C
+style ENH_120 fill:#ade
+SSC_100-->71[One]
+SSC_010-->71[One]
+71-->ENH_120
+style PLS_131 fill:#ade
+style ANS_041L fill:#ade
+ANS_041-->ANS_041L
+style ANS_049A fill:#ade
+style ANS_049B fill:#ade
+style ANS_049C fill:#ade
+style ANS_049D fill:#ade
+style ANS_049E fill:#ade
+style ANS_049F fill:#ade
+style ANS_049G fill:#ade
+style ANS_049H fill:#ade
+style ANS_049I fill:#ade
+style ANS_049J fill:#ade
+style ABT_049 fill:#ade
+style ABT_052 fill:#ade
+ABT_016-->ABT_052
+style ABT_101 fill:#ade
+style ABT_142 fill:#ade
+style FST_050 fill:#ade
+BIS_002A-->72[Both]
+CHE_002A-->72[Both]
+STA_013Y-->73[One]
+STA_013-->73[One]
+STA_100-->74[One]
+73-->74[One]
+74-->75[Both]
+72-->75[Both]
+75-->FST_050
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->76[One]
+MAT_016A-->76[One]
+MAT_021A-->77[One]
+76-->77[One]
+MAT_021AH-->78[One]
+77-->78[One]
+78-->MAT_016B
+style PLS_120 fill:#ade
+style STA_100 fill:#ade
+MAT_017B-->79[One]
+MAT_016B-->79[One]
+MAT_021B-->80[One]
+79-->80[One]
+80-->STA_100
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->81[One]
+CHE_002A-->81[One]
+81-->CHE_002B
+style PHY_001A fill:#ade
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style PLS_002 fill:#ade
+style ANS_001 fill:#ade
+style ANS_002 fill:#ade
+style FST_001 fill:#ade
+style ECN_001A fill:#ade
+style CRD_001 fill:#ade
+style PHI_014 fill:#ade
+style PHI_015 fill:#ade
+style PHI_024 fill:#ade
+style ANT_002 fill:#ade
+style POL_001 fill:#ade
+style SOC_001 fill:#ade
+style SOC_003 fill:#ade
+style ARE_112 fill:#ade
+style ARE_120 fill:#ade
+ARE_100A-->ARE_120
+style ARE_147 fill:#ade
+ECN_001AV-->82[One]
+ECN_001A-->82[One]
+82-->ARE_147
+style ESP_161 fill:#ade
+style ESP_169 fill:#ade
+style SSC_100 fill:#ade
+style SSC_109 fill:#ade
+SSC_100-->SSC_109
+style ANS_129 fill:#ade
+BIS_002B-->83[Both]
+BIS_002A-->83[Both]
+83-->84[One]
+BIS_010-->84[One]
+CHE_002A-->85[Both]
+84-->85[Both]
+CHE_002B-->86[Both]
+85-->86[Both]
+CHE_008B-->87[Both]
+CHE_008A-->87[Both]
+CHE_118B-->88[Both]
+CHE_118A-->88[Both]
+88-->89[One]
+87-->89[One]
+89-->90[Both]
+86-->90[Both]
+90-->ANS_129
+style ENH_160 fill:#ade
+EVE_117-->91[One]
+PLB_117-->91[One]
+PLS_147-->92[One]
+91-->92[One]
+92-->ENH_160
+style ESP_100 fill:#ade
+BIS_002B-->93[Both]
+BIS_002A-->93[Both]
+BIS_002C-->94[Both]
+93-->94[Both]
+MAT_016B-->95[Both]
+MAT_016A-->95[Both]
+MAT_017B-->96[Both]
+MAT_017A-->96[Both]
+96-->97[One]
+95-->97[One]
+MAT_021B-->98[Both]
+MAT_021A-->98[Both]
+98-->99[One]
+97-->99[One]
+99-->100[Both]
+94-->100[Both]
+100-->ESP_100
+style EVE_101 fill:#ade
+BIS_002B-->101[Both]
+BIS_002A-->101[Both]
+BIS_002C-->102[Both]
+101-->102[Both]
+MAT_017A-->103[One]
+MAT_016A-->103[One]
+MAT_021A-->104[One]
+103-->104[One]
+104-->105[Both]
+102-->105[Both]
+MAT_017B-->106[One]
+MAT_016B-->106[One]
+MAT_021B-->107[One]
+106-->107[One]
+107-->108[Both]
+105-->108[Both]
+108-->EVE_101
+style HYD_110 fill:#ade
+PHY_007A-->HYD_110
+style PLS_105 fill:#ade
+BIS_002B-->109[One]
+PLS_002-->109[One]
+BIS_002C-->110[One]
+109-->110[One]
+110-->111[Both]
+CHE_008B-->111[Both]
+111-->PLS_105
+style SSC_112 fill:#ade
+style WFC_154 fill:#ade
+ESP_100-->112[One]
+EVE_101-->112[One]
+BIS_002B-->113[Both]
+BIS_002A-->113[Both]
+BIS_002C-->114[Both]
+113-->114[Both]
+114-->115[Both]
+112-->115[Both]
+115-->WFC_154
+style PHI_005 fill:#ade
+style PHI_031 fill:#ade
+style PHI_014 fill:#ade
+style PHI_015 fill:#ade
+style PHI_024 fill:#ade
+style SOC_046B fill:#ade
+style STA_013 fill:#ade
+style CRD_151 fill:#ade
+CRD_001-->CRD_151
+style LDA_150 fill:#ade
+style STA_103 fill:#ade
+STA_013Y-->116[One]
+STA_013-->116[One]
+STA_032-->117[One]
+116-->117[One]
+STA_100-->118[One]
+117-->118[One]
+MAT_017B-->119[One]
+MAT_016B-->119[One]
+MAT_021B-->120[One]
+119-->120[One]
+120-->121[Both]
+118-->121[Both]
+121-->STA_103
+style SOC_106 fill:#ade
+SOC_046B-->SOC_106
+style CHE_002A fill:#ade
+style BIS_002A fill:#ade
+style BIS_010 fill:#ade
+style PLS_002 fill:#ade
+style BIS_002B fill:#ade
+style ESP_001 fill:#ade
+style WFC_010 fill:#ade
+style WFC_011 fill:#ade
+style FST_001 fill:#ade
+style SSC_010 fill:#ade
+style ECN_001A fill:#ade
+style POL_001 fill:#ade
+style ANT_002 fill:#ade
+style SOC_001 fill:#ade
+style SOC_003 fill:#ade
+style CRD_001 fill:#ade
+style CRD_002 fill:#ade
+style ARE_112 fill:#ade
+style ARE_150 fill:#ade
+ARE_100A-->ARE_150
+style ARE_147 fill:#ade
+ECN_001AV-->122[One]
+ECN_001A-->122[One]
+122-->ARE_147
+style ARE_176 fill:#ade
+ECN_100A-->123[One]
+ARE_100A-->123[One]
+ECN_100-->124[One]
+123-->124[One]
+124-->ARE_176
+style ESP_160 fill:#ade
+POL_001-->ESP_160
+style ESP_161 fill:#ade
+style ESP_169 fill:#ade
+style ESP_172 fill:#ade
+style ESP_179 fill:#ade
+ESP_001-->ESP_179
+style ANT_101 fill:#ade
+style CRD_118 fill:#ade
+CRD_002-->125[One]
+CRD_001-->125[One]
+SOC_001-->126[One]
+125-->126[One]
+ANT_002-->127[One]
+126-->127[One]
+127-->CRD_118
+style CRD_142 fill:#ade
+CRD_001-->128[One]
+SOC_001-->128[One]
+CRD_002-->129[One]
+128-->129[One]
+ANT_002-->130[One]
+129-->130[One]
+130-->CRD_142
+style CRD_149 fill:#ade
+style CRD_152 fill:#ade
+CRD_151-->131[One]
+CRD_001-->131[One]
+SOC_002-->132[One]
+131-->132[One]
+ANT_002-->133[One]
+132-->133[One]
+ASA_100-->134[One]
+133-->134[One]
+CHI_132-->135[One]
+134-->135[One]
+AAS_101-->136[One]
+135-->136[One]
+136-->CRD_152
+style SOC_130 fill:#ade
+SOC_001-->SOC_130
+style SOC_160 fill:#ade
+SOC_001-->SOC_160
+style AMS_101G fill:#ade
+style AMS_156 fill:#ade
+style HIS_108 fill:#ade
+style HIS_172 fill:#ade
+style NAS_123 fill:#ade
+style NAS_162 fill:#ade
+style PHI_109 fill:#ade
+style WMS_104 fill:#ade
+style WMS_136 fill:#ade
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->137[One]
+MAT_016A-->137[One]
+MAT_021A-->138[One]
+137-->138[One]
+MAT_021AH-->139[One]
+138-->139[One]
+139-->MAT_016B
+style SOC_046B fill:#ade
+style STA_013 fill:#ade
+style ARE_106 fill:#ade
+STA_013Y-->140[One]
+STA_013-->140[One]
+140-->141[Both]
+ARE_100A-->141[Both]
+STA_103-->142[Both]
+141-->142[Both]
+142-->ARE_106
+style STA_103 fill:#ade
+STA_013Y-->143[One]
+STA_013-->143[One]
+STA_032-->144[One]
+143-->144[One]
+STA_100-->145[One]
+144-->145[One]
+MAT_017B-->146[One]
+MAT_016B-->146[One]
+MAT_021B-->147[One]
+146-->147[One]
+147-->148[Both]
+145-->148[Both]
+148-->STA_103
+style SOC_106 fill:#ade
+SOC_046B-->SOC_106
+style CHE_002A fill:#ade
+style BIS_002A fill:#ade
+style BIS_010 fill:#ade
+style PLS_002 fill:#ade
+style BIS_002B fill:#ade
+style ESP_001 fill:#ade
+style WFC_010 fill:#ade
+style WFC_011 fill:#ade
+style FST_001 fill:#ade
+style SSC_010 fill:#ade
+style ECN_001A fill:#ade
+style ECN_001B fill:#ade
+style POL_001 fill:#ade
+style ANT_002 fill:#ade
+style SOC_001 fill:#ade
+style SOC_003 fill:#ade
+style CRD_001 fill:#ade
+style PHI_014 fill:#ade
+style PHI_015 fill:#ade
+style PHI_024 fill:#ade
+style ARE_112 fill:#ade
+style ARE_150 fill:#ade
+ARE_100A-->ARE_150
+style ARE_157 fill:#ade
+ARE_100A-->149[Both]
+ARE_155-->149[Both]
+STA_013Y-->150[One]
+STA_013-->150[One]
+150-->151[Both]
+149-->151[Both]
+STA_103-->152[Both]
+151-->152[Both]
+152-->ARE_157
+style ARE_120 fill:#ade
+ARE_100A-->ARE_120
+style ARE_130 fill:#ade
+ARE_100A-->153[Both]
+ARE_106-->153[Both]
+STA_013Y-->154[One]
+STA_013-->154[One]
+154-->155[Both]
+153-->155[Both]
+STA_103-->156[Both]
+155-->156[Both]
+156-->ARE_130
+style ARE_147 fill:#ade
+ECN_001AV-->157[One]
+ECN_001A-->157[One]
+157-->ARE_147
+style ARE_176 fill:#ade
+ECN_100A-->158[One]
+ARE_100A-->158[One]
+ECN_100-->159[One]
+158-->159[One]
+159-->ARE_176
+style ESP_160 fill:#ade
+POL_001-->ESP_160
+style ESP_161 fill:#ade
+style ESP_169 fill:#ade
+style ESP_172 fill:#ade
+style ESP_179 fill:#ade
+ESP_001-->ESP_179
+style ANT_101 fill:#ade
+style CRD_118 fill:#ade
+CRD_002-->160[One]
+CRD_001-->160[One]
+SOC_001-->161[One]
+160-->161[One]
+ANT_002-->162[One]
+161-->162[One]
+162-->CRD_118
+style CRD_142 fill:#ade
+CRD_001-->163[One]
+SOC_001-->163[One]
+CRD_002-->164[One]
+163-->164[One]
+ANT_002-->165[One]
+164-->165[One]
+165-->CRD_142
+style CRD_149 fill:#ade
+style CRD_152 fill:#ade
+CRD_151-->166[One]
+CRD_001-->166[One]
+SOC_002-->167[One]
+166-->167[One]
+ANT_002-->168[One]
+167-->168[One]
+ASA_100-->169[One]
+168-->169[One]
+CHI_132-->170[One]
+169-->170[One]
+AAS_101-->171[One]
+170-->171[One]
+171-->CRD_152
+style SOC_130 fill:#ade
+SOC_001-->SOC_130
+style SOC_160 fill:#ade
+SOC_001-->SOC_160

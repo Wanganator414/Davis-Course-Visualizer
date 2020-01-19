@@ -1,0 +1,509 @@
+graph BT;
+style 2 fill:#ddd
+2[Native American Studies]-->NAS_001
+style 3 fill:#ddd
+3[Choose one:]-->NAS_010
+3[Choose one:]-->NAS_012
+style 4 fill:#ddd
+4[Choose one or two:]-->NAS_005
+4[Choose one or two:]-->NAS_012
+4[Choose one or two:]-->NAS_032
+4[Choose one or two:]-->NAS_033
+4[Choose one or two:]-->NAS_034
+style 5 fill:#ddd
+5[Choose one or two:]-->AAS_012
+5[Choose one or two:]-->AAS_052
+5[Choose one or two:]-->ANT_002
+5[Choose one or two:]-->ANT_020
+5[Choose one or two:]-->ANT_024
+5[Choose one or two:]-->ASA_001
+5[Choose one or two:]-->ASA_002
+5[Choose one or two:]-->ASA_004
+5[Choose one or two:]-->CHI_010
+5[Choose one or two:]-->CHI_021
+5[Choose one or two:]-->CHI_023
+5[Choose one or two:]-->COM_025
+5[Choose one or two:]-->CRD_002
+5[Choose one or two:]-->ESP_010
+5[Choose one or two:]-->HIS_007A
+5[Choose one or two:]-->HIS_007B
+5[Choose one or two:]-->HIS_007C
+5[Choose one or two:]-->HIS_017A
+5[Choose one or two:]-->LIN_001
+style 6 fill:#ddd
+6[Native American Studies]-->NAS_157
+style 7 fill:#ddd
+7[Choose one:]-->NAS_130A
+7[Choose one:]-->NAS_130B
+7[Choose one:]-->NAS_130C
+style 8 fill:#ddd
+8[Choose one:]-->NAS_180
+8[Choose one:]-->NAS_135
+style 9 fill:#ddd
+9[Choose three:]-->NAS_101
+9[Choose three:]-->NAS_107
+9[Choose three:]-->NAS_108
+9[Choose three:]-->NAS_115
+9[Choose three:]-->NAS_119
+9[Choose three:]-->NAS_122
+9[Choose three:]-->NAS_125
+9[Choose three:]-->NAS_130A
+9[Choose three:]-->NAS_130B
+9[Choose three:]-->NAS_130C
+9[Choose three:]-->NAS_133A
+9[Choose three:]-->NAS_133B
+9[Choose three:]-->NAS_135
+9[Choose three:]-->NAS_146
+9[Choose three:]-->NAS_161
+9[Choose three:]-->NAS_162
+9[Choose three:]-->NAS_180
+9[Choose three:]-->NAS_181A
+9[Choose three:]-->NAS_181B
+9[Choose three:]-->NAS_181C
+9[Choose three:]-->NAS_185
+9[Choose three:]-->NAS_188
+9[Choose three:]-->NAS_191
+style 10 fill:#ddd
+10[Choose one:]-->NAS_107
+10[Choose one:]-->NAS_108
+style 11 fill:#ddd
+11[Choose two:]-->NAS_101
+11[Choose two:]-->NAS_115
+11[Choose two:]-->NAS_119
+11[Choose two:]-->NAS_122
+11[Choose two:]-->NAS_125
+11[Choose two:]-->NAS_130A
+11[Choose two:]-->NAS_130B
+11[Choose two:]-->NAS_130C
+11[Choose two:]-->NAS_135
+11[Choose two:]-->NAS_146
+11[Choose two:]-->NAS_161
+11[Choose two:]-->NAS_162
+11[Choose two:]-->NAS_181A
+11[Choose two:]-->NAS_181B
+11[Choose two:]-->NAS_181C
+11[Choose two:]-->NAS_185
+11[Choose two:]-->NAS_188
+11[Choose two:]-->NAS_191
+style 12 fill:#ddd
+12[Choose one:]-->AMS_100
+12[Choose one:]-->ANT_103
+12[Choose one:]-->ANT_136
+12[Choose one:]-->ANT_172
+12[Choose one:]-->ANT_175
+12[Choose one:]-->ANT_176
+12[Choose one:]-->AAS_100
+12[Choose one:]-->AAS_107B
+12[Choose one:]-->AAS_145B
+12[Choose one:]-->AAS_152
+12[Choose one:]-->AAS_153
+12[Choose one:]-->AAS_163
+12[Choose one:]-->AAS_172
+12[Choose one:]-->AAS_176
+12[Choose one:]-->AAS_181
+12[Choose one:]-->ASA_102
+12[Choose one:]-->ASA_112
+12[Choose one:]-->ASA_115
+12[Choose one:]-->ASA_121
+12[Choose one:]-->CHI_100
+12[Choose one:]-->CHI_110
+12[Choose one:]-->SOC_128
+12[Choose one:]-->WMS_102
+12[Choose one:]-->WMS_160
+12[Choose one:]-->WMS_162
+12[Choose one:]-->WMS_170
+12[Choose one:]-->WMS_178F
+12[Choose one:]-->WMS_180
+12[Choose one:]-->WMS_182
+style 13 fill:#ddd
+13[Native American Studies]-->NAS_107
+style 14 fill:#ddd
+14[Choose one:]-->NAS_133
+14[Choose one:]-->NAS_133B
+style 15 fill:#ddd
+15[Choose two:]-->AMS_100
+15[Choose two:]-->HIS_110A
+15[Choose two:]-->HIS_160
+15[Choose two:]-->HIS_165
+15[Choose two:]-->HIS_166A
+15[Choose two:]-->HIS_166B
+15[Choose two:]-->AAS_107A
+15[Choose two:]-->AAS_180
+15[Choose two:]-->ANT_144
+15[Choose two:]-->CHI_111
+15[Choose two:]-->CHI_112
+15[Choose two:]-->CHI_125S
+15[Choose two:]-->CHI_130
+15[Choose two:]-->CHI_135S
+15[Choose two:]-->CHI_147S
+15[Choose two:]-->NAS_122
+15[Choose two:]-->NAS_133A
+15[Choose two:]-->NAS_184
+style 16 fill:#ddd
+16[NAS 184 Study Abroad]-->NAS_185
+16[NAS 184 Study Abroad]-->POL_143B
+16[NAS 184 Study Abroad]-->SOC_158
+16[NAS 184 Study Abroad]-->SPA_177
+style 17 fill:#ddd
+17[Choose one:]-->AHI_151
+17[Choose one:]-->NAS_181B
+17[Choose one:]-->NAS_181C
+style 18 fill:#ddd
+18[If student's work is specifically focused upon a Meso-American language or topic, choose:]-->NAS_188
+18[If student's work is specifically focused upon a Meso-American language or topic, choose:]-->NAS_191
+style 19 fill:#ddd
+19[Native American Studies choose two:]-->NAS_107
+19[Native American Studies choose two:]-->NAS_110A
+19[Native American Studies choose two:]-->NAS_110B
+19[Native American Studies choose two:]-->NAS_110C
+19[Native American Studies choose two:]-->NAS_110D
+19[Native American Studies choose two:]-->NAS_120
+style 20 fill:#ddd
+20[Choose two:]-->AAS_107A
+20[Choose two:]-->AAS_155A
+20[Choose two:]-->AAS_163
+20[Choose two:]-->AAS_180
+20[Choose two:]-->ANT_103
+20[Choose two:]-->ANT_144
+20[Choose two:]-->ANT_175
+20[Choose two:]-->HIS_162
+20[Choose two:]-->HIS_165
+20[Choose two:]-->POL_143A
+20[Choose two:]-->SOC_104
+20[Choose two:]-->SPA_170
+20[Choose two:]-->SPA_170S
+20[Choose two:]-->SPA_171
+20[Choose two:]-->SPA_171S
+style 21 fill:#ddd
+21[Choose one:]-->HIS_163B
+21[Choose one:]-->HIS_164
+21[Choose one:]-->HIS_167
+21[Choose one:]-->POL_143A
+style NAS_001 fill:#ade
+style NAS_010 fill:#ade
+style NAS_012 fill:#ade
+style NAS_005 fill:#ade
+style NAS_012 fill:#ade
+style NAS_032 fill:#ade
+style NAS_033 fill:#ade
+style NAS_034 fill:#ade
+style AAS_012 fill:#ade
+style AAS_052 fill:#ade
+style ANT_002 fill:#ade
+style ANT_020 fill:#ade
+style ANT_024 fill:#ade
+style ASA_001 fill:#ade
+style ASA_002 fill:#ade
+style ASA_004 fill:#ade
+style CHI_010 fill:#ade
+style CHI_021 fill:#ade
+CHI_010-->CHI_021
+style CHI_023 fill:#ade
+style COM_025 fill:#ade
+style CRD_002 fill:#ade
+style ESP_010 fill:#ade
+style HIS_007A fill:#ade
+style HIS_007B fill:#ade
+style HIS_007C fill:#ade
+style HIS_017A fill:#ade
+style LIN_001 fill:#ade
+style NAS_157 fill:#ade
+style NAS_130A fill:#ade
+style NAS_130B fill:#ade
+style NAS_130C fill:#ade
+style NAS_180 fill:#ade
+style NAS_135 fill:#ade
+NAS_010-->22[One]
+NAS_001-->22[One]
+22-->NAS_135
+style NAS_101 fill:#ade
+style NAS_107 fill:#ade
+style NAS_108 fill:#ade
+style NAS_115 fill:#ade
+style NAS_119 fill:#ade
+style NAS_122 fill:#ade
+NAS_010-->23[One]
+NAS_001-->23[One]
+23-->NAS_122
+style NAS_125 fill:#ade
+style NAS_130A fill:#ade
+style NAS_130B fill:#ade
+style NAS_130C fill:#ade
+style NAS_133A fill:#ade
+style NAS_133B fill:#ade
+style NAS_135 fill:#ade
+NAS_010-->24[One]
+NAS_001-->24[One]
+24-->NAS_135
+style NAS_146 fill:#ade
+NAS_010-->25[One]
+NAS_001-->25[One]
+25-->NAS_146
+style NAS_161 fill:#ade
+style NAS_162 fill:#ade
+style NAS_180 fill:#ade
+style NAS_181A fill:#ade
+ENG_003-->26[One]
+NAS_005-->26[One]
+COM_001-->27[One]
+26-->27[One]
+COM_002-->28[One]
+27-->28[One]
+COM_003-->29[One]
+28-->29[One]
+29-->NAS_181A
+style NAS_181B fill:#ade
+ENG_003-->30[One]
+NAS_005-->30[One]
+COM_001-->31[One]
+30-->31[One]
+COM_002-->32[One]
+31-->32[One]
+COM_003-->33[One]
+32-->33[One]
+33-->NAS_181B
+style NAS_181C fill:#ade
+style NAS_185 fill:#ade
+style NAS_188 fill:#ade
+NAS_010-->34[Both]
+NAS_005-->34[Both]
+NAS_181A-->35[Both]
+34-->35[Both]
+NAS_181C-->36[Both]
+35-->36[Both]
+36-->NAS_188
+style NAS_191 fill:#ade
+style NAS_107 fill:#ade
+style NAS_108 fill:#ade
+style NAS_101 fill:#ade
+style NAS_115 fill:#ade
+style NAS_119 fill:#ade
+style NAS_122 fill:#ade
+NAS_010-->37[One]
+NAS_001-->37[One]
+37-->NAS_122
+style NAS_125 fill:#ade
+style NAS_130A fill:#ade
+style NAS_130B fill:#ade
+style NAS_130C fill:#ade
+style NAS_135 fill:#ade
+NAS_010-->38[One]
+NAS_001-->38[One]
+38-->NAS_135
+style NAS_146 fill:#ade
+NAS_010-->39[One]
+NAS_001-->39[One]
+39-->NAS_146
+style NAS_161 fill:#ade
+style NAS_162 fill:#ade
+style NAS_181A fill:#ade
+ENG_003-->40[One]
+NAS_005-->40[One]
+COM_001-->41[One]
+40-->41[One]
+COM_002-->42[One]
+41-->42[One]
+COM_003-->43[One]
+42-->43[One]
+43-->NAS_181A
+style NAS_181B fill:#ade
+ENG_003-->44[One]
+NAS_005-->44[One]
+COM_001-->45[One]
+44-->45[One]
+COM_002-->46[One]
+45-->46[One]
+COM_003-->47[One]
+46-->47[One]
+47-->NAS_181B
+style NAS_181C fill:#ade
+style NAS_185 fill:#ade
+style NAS_188 fill:#ade
+NAS_010-->48[Both]
+NAS_005-->48[Both]
+NAS_181A-->49[Both]
+48-->49[Both]
+NAS_181C-->50[Both]
+49-->50[Both]
+50-->NAS_188
+style NAS_191 fill:#ade
+style AMS_100 fill:#ade
+style ANT_103 fill:#ade
+style ANT_136 fill:#ade
+style ANT_172 fill:#ade
+style ANT_175 fill:#ade
+style ANT_176 fill:#ade
+style AAS_100 fill:#ade
+style AAS_107B fill:#ade
+style AAS_145B fill:#ade
+AAS_080-->51[Both]
+AAS_010-->51[Both]
+AAS_145A-->52[Both]
+51-->52[Both]
+52-->AAS_145B
+style AAS_152 fill:#ade
+AAS_012-->53[One]
+AAS_010-->53[One]
+AAS_018-->54[One]
+53-->54[One]
+54-->AAS_152
+style AAS_153 fill:#ade
+style AAS_163 fill:#ade
+AAS_015-->55[Both]
+AAS_010-->55[Both]
+55-->AAS_163
+style AAS_172 fill:#ade
+style AAS_176 fill:#ade
+AAS_110-->56[One]
+AAS_012-->56[One]
+56-->AAS_176
+style AAS_181 fill:#ade
+style ASA_102 fill:#ade
+ASA_002-->57[One]
+ASA_001-->57[One]
+ASA_003-->58[One]
+57-->58[One]
+ASA_004-->59[One]
+58-->59[One]
+59-->ASA_102
+style ASA_112 fill:#ade
+style ASA_115 fill:#ade
+style ASA_121 fill:#ade
+style CHI_100 fill:#ade
+CHI_050-->60[Both]
+CHI_010-->60[Both]
+60-->CHI_100
+style CHI_110 fill:#ade
+SOC_001-->61[One]
+CHI_010-->61[One]
+61-->CHI_110
+style SOC_128 fill:#ade
+SOC_001-->SOC_128
+style WMS_102 fill:#ade
+style WMS_160 fill:#ade
+style WMS_162 fill:#ade
+style WMS_170 fill:#ade
+style WMS_178F fill:#ade
+style WMS_180 fill:#ade
+style WMS_182 fill:#ade
+style NAS_107 fill:#ade
+style NAS_133 fill:#ade
+style NAS_133B fill:#ade
+style AMS_100 fill:#ade
+style HIS_110A fill:#ade
+style HIS_160 fill:#ade
+style HIS_165 fill:#ade
+style HIS_166A fill:#ade
+style HIS_166B fill:#ade
+style AAS_107A fill:#ade
+style AAS_180 fill:#ade
+style ANT_144 fill:#ade
+style CHI_111 fill:#ade
+CHI_050-->62[One]
+CHI_010-->62[One]
+HIS_169B-->63[One]
+WMS_050-->63[One]
+63-->64[Both]
+62-->64[Both]
+64-->CHI_111
+style CHI_112 fill:#ade
+CHI_010-->CHI_112
+style CHI_125S fill:#ade
+style CHI_130 fill:#ade
+style CHI_135S fill:#ade
+style CHI_147S fill:#ade
+style NAS_122 fill:#ade
+NAS_010-->65[One]
+NAS_001-->65[One]
+65-->NAS_122
+style NAS_133A fill:#ade
+style NAS_184 fill:#ade
+NAS_010-->66[One]
+NAS_001-->66[One]
+66-->NAS_184
+style NAS_185 fill:#ade
+style POL_143B fill:#ade
+style SOC_158 fill:#ade
+SOC_001-->SOC_158
+style SPA_177 fill:#ade
+SPA_024S-->67[One]
+SPA_024-->67[One]
+SPA_033-->68[One]
+67-->68[One]
+68-->SPA_177
+style AHI_151 fill:#ade
+style NAS_181B fill:#ade
+ENG_003-->69[One]
+NAS_005-->69[One]
+COM_001-->70[One]
+69-->70[One]
+COM_002-->71[One]
+70-->71[One]
+COM_003-->72[One]
+71-->72[One]
+72-->NAS_181B
+style NAS_181C fill:#ade
+style NAS_188 fill:#ade
+NAS_010-->73[Both]
+NAS_005-->73[Both]
+NAS_181A-->74[Both]
+73-->74[Both]
+NAS_181C-->75[Both]
+74-->75[Both]
+75-->NAS_188
+style NAS_191 fill:#ade
+style NAS_107 fill:#ade
+style NAS_110A fill:#ade
+style NAS_110B fill:#ade
+NAS_110A-->NAS_110B
+style NAS_110C fill:#ade
+NAS_110B-->76[Both]
+NAS_110A-->76[Both]
+76-->NAS_110C
+style NAS_110D fill:#ade
+NAS_110B-->77[Both]
+NAS_110A-->77[Both]
+NAS_110C-->78[Both]
+77-->78[Both]
+78-->NAS_110D
+style NAS_120 fill:#ade
+NAS_055-->79[One]
+NAS_010-->79[One]
+79-->80[Both]
+NAS_001-->80[Both]
+80-->NAS_120
+style AAS_107A fill:#ade
+style AAS_155A fill:#ade
+style AAS_163 fill:#ade
+AAS_015-->81[Both]
+AAS_010-->81[Both]
+81-->AAS_163
+style AAS_180 fill:#ade
+style ANT_103 fill:#ade
+style ANT_144 fill:#ade
+style ANT_175 fill:#ade
+style HIS_162 fill:#ade
+style HIS_165 fill:#ade
+style POL_143A fill:#ade
+style SOC_104 fill:#ade
+SOC_002-->82[Both]
+SOC_001-->82[Both]
+82-->SOC_104
+style SPA_170 fill:#ade
+SPA_024S-->83[One]
+SPA_024-->83[One]
+SPA_033-->84[One]
+83-->84[One]
+84-->SPA_170
+style SPA_170S fill:#ade
+SPA_024S-->85[One]
+SPA_024-->85[One]
+SPA_033-->86[One]
+85-->86[One]
+86-->SPA_170S
+style SPA_171 fill:#ade
+style SPA_171S fill:#ade
+style HIS_163B fill:#ade
+style HIS_164 fill:#ade
+style HIS_167 fill:#ade
+style POL_143A fill:#ade

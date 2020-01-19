@@ -1,0 +1,289 @@
+graph BT;
+style 2 fill:#ddd
+2[Biological Science]-->BIS_002A
+2[Biological Science]-->BIS_002B
+style 3 fill:#ddd
+3[Chemistry]-->CHE_002A
+3[Chemistry]-->CHE_002B
+3[Chemistry]-->CHE_002C
+style 4 fill:#ddd
+4[Physics]-->PHY_009A
+4[Physics]-->PHY_009B
+4[Physics]-->PHY_009C
+style 5 fill:#ddd
+5[Mathematics]-->MAT_021A
+5[Mathematics]-->MAT_021B
+5[Mathematics]-->MAT_021C
+5[Mathematics]-->MAT_021D
+5[Mathematics]-->MAT_022A
+5[Mathematics]-->MAT_022B
+style 6 fill:#ddd
+6[Geology]-->GEL_050
+6[Geology]-->GEL_050L
+style 7 fill:#ddd
+7[Choose one:]-->ENG_006
+style 8 fill:#ddd
+8[Choose one:]-->HYD_103N
+8[Choose one:]-->ENG_103
+style 9 fill:#ddd
+9[Choose ECI 114 or STA 130 series:]-->ECI_114
+9[Choose ECI 114 or STA 130 series:]-->STA_130A
+9[Choose ECI 114 or STA 130 series:]-->STA_130B
+style 10 fill:#ddd
+10[Hydrology]-->HYD_134
+10[Hydrology]-->HYD_141
+10[Hydrology]-->HYD_144
+10[Hydrology]-->HYD_151
+style 11 fill:#ddd
+11[Soil Science]-->SSC_107
+style 12 fill:#ddd
+12[Water Policy & Law choose one:]-->HYD_150
+12[Water Policy & Law choose one:]-->ARE_147
+12[Water Policy & Law choose one:]-->ESP_161
+12[Water Policy & Law choose one:]-->ESP_169
+12[Water Policy & Law choose one:]-->ESM_121
+style 13 fill:#ddd
+13[GIS & Remote Sensing choose one:]-->LDA_150
+13[GIS & Remote Sensing choose one:]-->HYD_182
+13[GIS & Remote Sensing choose one:]-->ESM_185
+13[GIS & Remote Sensing choose one:]-->ESM_186
+style 14 fill:#ddd
+14[Hydrologic Science choose three:]-->HYD_110
+14[Hydrologic Science choose three:]-->HYD_124
+14[Hydrologic Science choose three:]-->HYD_142
+14[Hydrologic Science choose three:]-->HYD_143
+14[Hydrologic Science choose three:]-->HYD_145
+14[Hydrologic Science choose three:]-->HYD_146
+14[Hydrologic Science choose three:]-->HYD_147
+14[Hydrologic Science choose three:]-->ECI_141
+14[Hydrologic Science choose three:]-->ABT_165
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->15[One]
+CHE_002A-->15[One]
+15-->CHE_002B
+style CHE_002C fill:#ade
+CHE_002BH-->16[One]
+CHE_002B-->16[One]
+16-->CHE_002C
+style PHY_009A fill:#ade
+MAT_021M-->17[One]
+MAT_021B-->17[One]
+17-->PHY_009A
+style PHY_009B fill:#ade
+MAT_021C-->18[Both]
+PHY_009A-->18[Both]
+MAT_021D-->19[Both]
+18-->19[Both]
+19-->PHY_009B
+style PHY_009C fill:#ade
+MAT_021D-->20[Both]
+PHY_009B-->20[Both]
+MAT_022A-->21[Both]
+20-->21[Both]
+21-->PHY_009C
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->22[One]
+MAT_021A-->22[One]
+MAT_017A-->23[One]
+22-->23[One]
+23-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->24[One]
+MAT_016C-->24[One]
+MAT_021B-->25[One]
+24-->25[One]
+MAT_021BH-->26[One]
+25-->26[One]
+MAT_017B-->27[One]
+26-->27[One]
+27-->MAT_021C
+style MAT_021D fill:#ade
+MAT_021CH-->28[One]
+MAT_021C-->28[One]
+MAT_017C-->29[One]
+28-->29[One]
+29-->MAT_021D
+style MAT_022A fill:#ade
+MAT_017C-->30[One]
+MAT_016C-->30[One]
+MAT_021C-->31[One]
+30-->31[One]
+MAT_021CH-->32[One]
+31-->32[One]
+EME_005-->33[One]
+ENG_006-->33[One]
+ECH_060-->34[One]
+33-->34[One]
+MAT_022AL-->35[One]
+34-->35[One]
+35-->36[Both]
+32-->36[Both]
+36-->MAT_022A
+style MAT_022B fill:#ade
+MAT_067-->37[One]
+MAT_022A-->37[One]
+37-->MAT_022B
+style GEL_050 fill:#ade
+style GEL_050L fill:#ade
+GEL_050-->GEL_050L
+style ENG_006 fill:#ade
+MAT_017A-->38[One]
+MAT_016A-->38[One]
+MAT_021A-->39[One]
+38-->39[One]
+MAT_017B-->40[One]
+MAT_016B-->40[One]
+MAT_021B-->41[One]
+40-->41[One]
+41-->42[Both]
+39-->42[Both]
+42-->ENG_006
+style HYD_103N fill:#ade
+PHY_009B-->HYD_103N
+style ENG_103 fill:#ade
+MAT_022B-->43[Both]
+ENG_035-->43[Both]
+PHY_009B-->44[Both]
+43-->44[Both]
+44-->ENG_103
+style ECI_114 fill:#ade
+MAT_021C-->ECI_114
+style STA_130A fill:#ade
+MAT_017C-->45[One]
+MAT_016C-->45[One]
+MAT_021C-->46[One]
+45-->46[One]
+46-->STA_130A
+style STA_130B fill:#ade
+STA_131A-->47[One]
+STA_130A-->47[One]
+MAT_135A-->48[One]
+47-->48[One]
+48-->STA_130B
+style HYD_134 fill:#ade
+CHE_002B-->HYD_134
+style HYD_141 fill:#ade
+MAT_021B-->49[Both]
+PHY_009B-->49[Both]
+49-->HYD_141
+style HYD_144 fill:#ade
+MAT_021A-->50[One]
+MAT_016B-->50[One]
+50-->HYD_144
+style HYD_151 fill:#ade
+HYD_141-->51[One]
+ERS_100-->51[One]
+51-->HYD_151
+style SSC_107 fill:#ade
+ERS_100-->52[Both]
+SSC_100-->52[Both]
+MAT_016A-->53[One]
+MAT_016A-->53[One]
+53-->54[Both]
+52-->54[Both]
+54-->SSC_107
+style HYD_150 fill:#ade
+style ARE_147 fill:#ade
+ECN_001AV-->55[One]
+ECN_001A-->55[One]
+55-->ARE_147
+style ESP_161 fill:#ade
+style ESP_169 fill:#ade
+style ESM_121 fill:#ade
+GEL_001-->56[One]
+PHY_010-->56[One]
+ERS_121-->57[Both]
+56-->57[Both]
+ERS_121-->58[Both]
+57-->58[Both]
+58-->ESM_121
+style LDA_150 fill:#ade
+style HYD_182 fill:#ade
+style ESM_185 fill:#ade
+ERS_185-->59[Both]
+ERS_185-->59[Both]
+59-->ESM_185
+style ESM_186 fill:#ade
+PHY_009B-->60[One]
+PHY_007C-->60[One]
+60-->61[Both]
+MAT_016B-->61[Both]
+ERS_186-->62[One]
+HYD_186-->62[One]
+62-->63[Both]
+61-->63[Both]
+ERS_186-->64[Both]
+HYD_186-->64[Both]
+64-->65[Both]
+63-->65[Both]
+65-->ESM_186
+style HYD_110 fill:#ade
+PHY_007A-->HYD_110
+style HYD_124 fill:#ade
+SSC_107-->66[One]
+SSC_100-->66[One]
+PLB_111-->67[One]
+PLS_100A-->67[One]
+67-->68[Both]
+66-->68[Both]
+68-->HYD_124
+style HYD_142 fill:#ade
+ECI_142-->69[One]
+HYD_141-->69[One]
+69-->HYD_142
+style HYD_143 fill:#ade
+HYD_141-->70[One]
+HYD_010-->70[One]
+ESP_001-->71[One]
+70-->71[One]
+ESM_100-->72[One]
+71-->72[One]
+ESM_108-->73[One]
+72-->73[One]
+ESM_120-->74[One]
+73-->74[One]
+GEL_001-->75[One]
+74-->75[One]
+GEL_050-->76[One]
+75-->76[One]
+SSC_100-->77[One]
+76-->77[One]
+77-->HYD_143
+style HYD_145 fill:#ade
+ESM_100-->78[One]
+HYD_141-->78[One]
+MAT_021B-->79[One]
+MAT_016B-->79[One]
+79-->80[Both]
+78-->80[Both]
+80-->HYD_145
+style HYD_146 fill:#ade
+ECI_144-->81[One]
+HYD_144-->81[One]
+81-->HYD_146
+style HYD_147 fill:#ade
+PHY_009B-->82[One]
+PHY_007B-->82[One]
+MAT_017C-->83[One]
+MAT_016C-->83[One]
+MAT_021C-->84[One]
+83-->84[One]
+84-->85[Both]
+82-->85[Both]
+HYD_141-->86[One]
+ECI_142-->86[One]
+ESM_100-->87[One]
+86-->87[One]
+87-->88[Both]
+85-->88[Both]
+88-->HYD_147
+style ECI_141 fill:#ade
+ECI_100-->89[One]
+ENG_103-->89[One]
+89-->ECI_141
+style ABT_165 fill:#ade
+PHY_001A-->ABT_165

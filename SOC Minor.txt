@@ -1,0 +1,37 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose any five upper division Sociology courses, except:]-->SOC_190X
+2[Choose any five upper division Sociology courses, except:]-->SOC_191
+2[Choose any five upper division Sociology courses, except:]-->SOC_192
+2[Choose any five upper division Sociology courses, except:]-->SOC_193
+2[Choose any five upper division Sociology courses, except:]-->SOC_194H
+2[Choose any five upper division Sociology courses, except:]-->SOC_197T
+2[Choose any five upper division Sociology courses, except:]-->SOC_198
+2[Choose any five upper division Sociology courses, except:]-->SOC_199
+style SOC_190X fill:#ade
+SOC_100-->3[Both]
+SOC_100-->3[Both]
+SOC_165A-->4[Both]
+3-->4[Both]
+4-->SOC_190X
+style SOC_191 fill:#ade
+SOC_100-->5[Both]
+SOC_100-->5[Both]
+SOC_165A-->6[Both]
+5-->6[Both]
+6-->SOC_191
+style SOC_192 fill:#ade
+style SOC_193 fill:#ade
+SOC_199-->7[One]
+SOC_192-->7[One]
+7-->8[Both]
+SOC_046A-->8[Both]
+SOC_199-->9[One]
+SOC_192-->9[One]
+9-->10[Both]
+8-->10[Both]
+10-->SOC_193
+style SOC_194H fill:#ade
+style SOC_197T fill:#ade
+style SOC_198 fill:#ade
+style SOC_199 fill:#ade

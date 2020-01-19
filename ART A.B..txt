@@ -1,0 +1,36 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose four:]-->ART_002
+2[Choose four:]-->ART_005
+2[Choose four:]-->ART_007
+2[Choose four:]-->ART_008
+2[Choose four:]-->ART_009
+2[Choose four:]-->ART_011
+2[Choose four:]-->ART_012
+style 3 fill:#ddd
+3[Choose two:]-->ART_024
+3[Choose two:]-->ART_030
+3[Choose two:]-->AHI_001A
+3[Choose two:]-->AHI_001B
+3[Choose two:]-->AHI_001C
+3[Choose two:]-->AHI_001D
+3[Choose two:]-->AHI_001E
+3[Choose two:]-->AHI_005
+3[Choose two:]-->AHI_025
+style ART_002 fill:#ade
+style ART_005 fill:#ade
+style ART_007 fill:#ade
+ART_002-->ART_007
+style ART_008 fill:#ade
+style ART_009 fill:#ade
+style ART_011 fill:#ade
+style ART_012 fill:#ade
+style ART_024 fill:#ade
+style ART_030 fill:#ade
+style AHI_001A fill:#ade
+style AHI_001B fill:#ade
+style AHI_001C fill:#ade
+style AHI_001D fill:#ade
+style AHI_001E fill:#ade
+style AHI_005 fill:#ade
+style AHI_025 fill:#ade

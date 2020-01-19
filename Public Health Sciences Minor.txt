@@ -1,0 +1,92 @@
+graph BT;
+style 2 fill:#ddd
+2[Units: 19-21]-->SPH_101
+2[Units: 19-21]-->SPH_102
+2[Units: 19-21]-->SPH_190
+style 3 fill:#ddd
+3[Choose SPH 104 or VME 057V or SPH 113:]-->SPH_104
+3[Choose SPH 104 or VME 057V or SPH 113:]-->VME_057V
+3[Choose SPH 104 or VME 057V or SPH 113:]-->SPH_113
+style 4 fill:#ddd
+4[Electives]-->ASA_132
+4[Electives]-->CHI_114
+4[Electives]-->CMN_165
+4[Electives]-->ETX_146
+4[Electives]-->EXB_117
+4[Electives]-->HIS_109
+4[Electives]-->IMD_164
+style 5 fill:#ddd
+5[2 units maximum]-->NUT_111AY
+5[2 units maximum]-->NUT_111B
+5[2 units maximum]-->OBG_194
+style 6 fill:#ddd
+6[2 units maximum]-->PHI_015
+6[2 units maximum]-->PSY_192
+style 7 fill:#ddd
+7[2 units maximum]-->SAS_109
+7[2 units maximum]-->SAS_121
+7[2 units maximum]-->SOC_162
+7[2 units maximum]-->SOC_163
+7[2 units maximum]-->SOC_164
+7[2 units maximum]-->UWP_198
+style 8 fill:#ddd
+8[4 units maximum]-->VME_057V
+style SPH_101 fill:#ade
+style SPH_102 fill:#ade
+style SPH_190 fill:#ade
+style SPH_104 fill:#ade
+style VME_057V fill:#ade
+style SPH_113 fill:#ade
+style ASA_132 fill:#ade
+style CHI_114 fill:#ade
+style CMN_165 fill:#ade
+style ETX_146 fill:#ade
+ETX_112A-->ETX_146
+style EXB_117 fill:#ade
+NPB_110C-->9[One]
+NPB_101-->9[One]
+9-->EXB_117
+style HIS_109 fill:#ade
+style IMD_164 fill:#ade
+style NUT_111AY fill:#ade
+NPB_101-->10[One]
+NPB_101-->10[One]
+10-->11[Both]
+CHE_008B-->11[Both]
+11-->NUT_111AY
+style NUT_111B fill:#ade
+NPB_101-->12[Both]
+CHE_008B-->12[Both]
+NUT_111AY-->13[One]
+NUT_111AV-->13[One]
+NPB_101-->14[One]
+13-->14[One]
+14-->15[Both]
+12-->15[Both]
+15-->NUT_111B
+style OBG_194 fill:#ade
+style PHI_015 fill:#ade
+style PSY_192 fill:#ade
+style SAS_109 fill:#ade
+style SAS_121 fill:#ade
+style SOC_162 fill:#ade
+SOC_002-->16[Both]
+SOC_001-->16[Both]
+16-->SOC_162
+style SOC_163 fill:#ade
+SOC_002-->17[Both]
+SOC_001-->17[Both]
+17-->SOC_163
+style SOC_164 fill:#ade
+SOC_002-->18[Both]
+SOC_001-->18[Both]
+18-->SOC_164
+style UWP_198 fill:#ade
+UWP_001V-->19[One]
+UWP_001-->19[One]
+UWP_001Y-->20[One]
+19-->20[One]
+ENL_003-->21[One]
+20-->21[One]
+21-->UWP_198
+style VME_057V fill:#ade

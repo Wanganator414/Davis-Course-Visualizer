@@ -1,0 +1,1184 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose two if not chosen for English College Requirement:]-->CMN_130
+2[Choose two if not chosen for English College Requirement:]-->CMN_136
+2[Choose two if not chosen for English College Requirement:]-->CMN_140
+2[Choose two if not chosen for English College Requirement:]-->UWP_101
+2[Choose two if not chosen for English College Requirement:]-->UWP_102A
+2[Choose two if not chosen for English College Requirement:]-->UWP_102B
+2[Choose two if not chosen for English College Requirement:]-->UWP_102C
+2[Choose two if not chosen for English College Requirement:]-->UWP_102D
+2[Choose two if not chosen for English College Requirement:]-->UWP_102E
+2[Choose two if not chosen for English College Requirement:]-->UWP_102F
+2[Choose two if not chosen for English College Requirement:]-->UWP_102G
+2[Choose two if not chosen for English College Requirement:]-->UWP_104A
+2[Choose two if not chosen for English College Requirement:]-->UWP_104B
+2[Choose two if not chosen for English College Requirement:]-->UWP_104C
+2[Choose two if not chosen for English College Requirement:]-->UWP_104D
+2[Choose two if not chosen for English College Requirement:]-->UWP_104E
+2[Choose two if not chosen for English College Requirement:]-->UWP_104F
+style 3 fill:#ddd
+3[Animal Science]-->ANS_001
+3[Animal Science]-->ANS_002
+style 4 fill:#ddd
+4[Biological Science]-->BIS_002A
+4[Biological Science]-->BIS_002B
+4[Biological Science]-->BIS_002C
+style 5 fill:#ddd
+5[Chemistry]-->CHE_002A
+5[Chemistry]-->CHE_002B
+5[Chemistry]-->CHE_008A
+5[Chemistry]-->CHE_008B
+style 6 fill:#ddd
+6[Choose one:]-->PLS_021
+6[Choose one:]-->ECS_015
+style 7 fill:#ddd
+7[Economics]-->ECN_001A
+7[Economics]-->ECN_001B
+style 8 fill:#ddd
+8[Management]-->MGT_011A
+8[Management]-->MGT_011B
+style 9 fill:#ddd
+9[Mathematics choose a series:]-->MAT_016A
+9[Mathematics choose a series:]-->MAT_016B
+9[Mathematics choose a series:]-->MAT_016C
+9[Mathematics choose a series:]-->MAT_017A
+9[Mathematics choose a series:]-->MAT_017B
+9[Mathematics choose a series:]-->MAT_017C
+9[Mathematics choose a series:]-->MAT_021A
+9[Mathematics choose a series:]-->MAT_021B
+9[Mathematics choose a series:]-->MAT_021C
+style 10 fill:#ddd
+10[Choose one:]-->PLS_120
+10[Choose one:]-->STA_100
+10[Choose one:]-->STA_103
+style 11 fill:#ddd
+11[Biological Science]-->BIS_101
+style 12 fill:#ddd
+12[Nutrition]-->NUT_115
+style 13 fill:#ddd
+13[Choose one:]-->NPB_101
+13[Choose one:]-->ANS_100
+style 14 fill:#ddd
+14[Agricultural & Resource Economics]-->ARE_100A
+style 15 fill:#ddd
+15[Choose one:]-->ARE_113
+15[Choose one:]-->ARE_130
+15[Choose one:]-->ARE_136
+15[Choose one:]-->ARE_138
+style 16 fill:#ddd
+16[Choose one:]-->ARE_120
+16[Choose one:]-->ARE_132
+16[Choose one:]-->ARE_140
+16[Choose one:]-->ARE_145
+16[Choose one:]-->ARE_157
+style 17 fill:#ddd
+17[Choose one:]-->ANS_128
+17[Choose one:]-->ARE_155
+style 18 fill:#ddd
+18[Aquatic Animals]-->ANS_018
+style 19 fill:#ddd
+19[Choose one:]-->ANS_118
+19[Choose one:]-->ANS_119
+19[Choose one:]-->ANS_131
+19[Choose one:]-->ANS_148
+style 20 fill:#ddd
+20[Companion Animals]-->ANS_042
+20[Companion Animals]-->ANS_140
+20[Companion Animals]-->ANS_142
+20[Companion Animals]-->ANS_148
+style 21 fill:#ddd
+21[Dairy]-->ANS_041
+21[Dairy]-->ANS_041L
+21[Dairy]-->ANS_146
+21[Dairy]-->ANS_147
+21[Dairy]-->ANS_148
+style 22 fill:#ddd
+22[Equine]-->ANS_015
+22[Equine]-->ANS_115
+22[Equine]-->ANS_141
+22[Equine]-->ANS_148
+style 23 fill:#ddd
+23[Livestock]-->ANS_041
+23[Livestock]-->ANS_041L
+style 24 fill:#ddd
+24[Choose one:]-->ANS_143
+24[Choose one:]-->ANS_144
+24[Choose one:]-->ANS_145
+24[Choose one:]-->ANS_148
+style 25 fill:#ddd
+25[Poultry]-->AVS_011
+25[Poultry]-->ANS_143
+25[Poultry]-->ANS_145
+25[Poultry]-->ANS_148
+style 26 fill:#ddd
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_018
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_112
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_113
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_118
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_120
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_130
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_132
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_136
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_138
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_140
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_142
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_143
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_144
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_145
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_150
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_155
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_157
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ARE_176
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_103
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_104
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_106
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_115
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_118
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_119
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_120
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_120L
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_123
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_124
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_125
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_126
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_127
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_128
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_129
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_131
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_136
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_137
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_140
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_141
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_142
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_143
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_144
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_145
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_146
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_147
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_149
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_170
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_192
+26[Choose at least two additional courses with approval of advisor minimum eight units duplicate from Depth Subject Matter courses not counted:]-->ANS_194
+style 27 fill:#ddd
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->ANS_194HA
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->ANS_194HB
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->ANS_194HC
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->AVS_100
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->AVS_103
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->AVS_115
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->AVS_121
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->AVS_123
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->AVS_149
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->AVS_150
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->ANG_101
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->ANG_105
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->ANG_107
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->ANG_111
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->NUT_122
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->NUT_123
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->NUT_123L
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->NUT_124
+27[ANS 194H series only one quarter of ANS 194H series may be used:]-->ABI_102
+style 28 fill:#ddd
+28[ABI 102 strongly recommended.]-->ABI_103
+28[ABI 102 strongly recommended.]-->ECS_124
+28[ABI 102 strongly recommended.]-->MGT_100
+28[ABI 102 strongly recommended.]-->NPB_117
+28[ABI 102 strongly recommended.]-->NPB_121
+28[ABI 102 strongly recommended.]-->NPB_121L
+28[ABI 102 strongly recommended.]-->NPB_130
+28[ABI 102 strongly recommended.]-->WFC_120
+28[ABI 102 strongly recommended.]-->WFC_120L
+28[ABI 102 strongly recommended.]-->WFC_130
+style CMN_130 fill:#ade
+style CMN_136 fill:#ade
+style CMN_140 fill:#ade
+style UWP_101 fill:#ade
+UWP_001V-->29[One]
+UWP_001-->29[One]
+UWP_001Y-->30[One]
+29-->30[One]
+COM_001-->31[One]
+30-->31[One]
+COM_002-->32[One]
+31-->32[One]
+COM_003-->33[One]
+32-->33[One]
+COM_004-->34[One]
+33-->34[One]
+ENL_003-->35[One]
+34-->35[One]
+NAS_005-->36[One]
+35-->36[One]
+36-->UWP_101
+style UWP_102A fill:#ade
+UWP_001V-->37[One]
+UWP_001-->37[One]
+UWP_001Y-->38[One]
+37-->38[One]
+ENL_003-->39[One]
+38-->39[One]
+COM_001-->40[One]
+39-->40[One]
+COM_002-->41[One]
+40-->41[One]
+COM_003-->42[One]
+41-->42[One]
+COM_004-->43[One]
+42-->43[One]
+NAS_005-->44[One]
+43-->44[One]
+44-->UWP_102A
+style UWP_102B fill:#ade
+UWP_001V-->45[One]
+UWP_001-->45[One]
+UWP_001Y-->46[One]
+45-->46[One]
+ENL_003-->47[One]
+46-->47[One]
+COM_001-->48[One]
+47-->48[One]
+COM_002-->49[One]
+48-->49[One]
+COM_003-->50[One]
+49-->50[One]
+COM_004-->51[One]
+50-->51[One]
+NAS_005-->52[One]
+51-->52[One]
+52-->UWP_102B
+style UWP_102C fill:#ade
+UWP_001V-->53[One]
+UWP_001-->53[One]
+UWP_001Y-->54[One]
+53-->54[One]
+ENL_003-->55[One]
+54-->55[One]
+COM_001-->56[One]
+55-->56[One]
+COM_002-->57[One]
+56-->57[One]
+COM_003-->58[One]
+57-->58[One]
+COM_004-->59[One]
+58-->59[One]
+NAS_005-->60[One]
+59-->60[One]
+60-->UWP_102C
+style UWP_102D fill:#ade
+UWP_001V-->61[One]
+UWP_001-->61[One]
+UWP_001Y-->62[One]
+61-->62[One]
+ENL_003-->63[One]
+62-->63[One]
+COM_001-->64[One]
+63-->64[One]
+COM_002-->65[One]
+64-->65[One]
+COM_003-->66[One]
+65-->66[One]
+COM_004-->67[One]
+66-->67[One]
+NAS_005-->68[One]
+67-->68[One]
+68-->UWP_102D
+style UWP_102E fill:#ade
+UWP_001V-->69[One]
+UWP_001-->69[One]
+UWP_001Y-->70[One]
+69-->70[One]
+ENL_003-->71[One]
+70-->71[One]
+COM_001-->72[One]
+71-->72[One]
+COM_002-->73[One]
+72-->73[One]
+COM_003-->74[One]
+73-->74[One]
+COM_004-->75[One]
+74-->75[One]
+NAS_005-->76[One]
+75-->76[One]
+76-->UWP_102E
+style UWP_102F fill:#ade
+UWP_001V-->77[One]
+UWP_001-->77[One]
+UWP_001Y-->78[One]
+77-->78[One]
+ENL_003-->79[One]
+78-->79[One]
+COM_001-->80[One]
+79-->80[One]
+COM_002-->81[One]
+80-->81[One]
+COM_003-->82[One]
+81-->82[One]
+COM_004-->83[One]
+82-->83[One]
+NAS_005-->84[One]
+83-->84[One]
+84-->UWP_102F
+style UWP_102G fill:#ade
+UWP_001V-->85[One]
+UWP_001-->85[One]
+UWP_001Y-->86[One]
+85-->86[One]
+ENL_003-->87[One]
+86-->87[One]
+COM_001-->88[One]
+87-->88[One]
+COM_002-->89[One]
+88-->89[One]
+COM_003-->90[One]
+89-->90[One]
+COM_004-->91[One]
+90-->91[One]
+NAS_005-->92[One]
+91-->92[One]
+92-->UWP_102G
+style UWP_104A fill:#ade
+UWP_001V-->93[One]
+UWP_001-->93[One]
+UWP_001Y-->94[One]
+93-->94[One]
+ENL_003-->95[One]
+94-->95[One]
+COM_001-->96[One]
+95-->96[One]
+COM_002-->97[One]
+96-->97[One]
+COM_003-->98[One]
+97-->98[One]
+COM_004-->99[One]
+98-->99[One]
+NAS_005-->100[One]
+99-->100[One]
+100-->UWP_104A
+style UWP_104B fill:#ade
+UWP_001V-->101[One]
+UWP_001-->101[One]
+UWP_001Y-->102[One]
+101-->102[One]
+ENL_003-->103[One]
+102-->103[One]
+COM_001-->104[One]
+103-->104[One]
+COM_002-->105[One]
+104-->105[One]
+COM_003-->106[One]
+105-->106[One]
+COM_004-->107[One]
+106-->107[One]
+NAS_005-->108[One]
+107-->108[One]
+108-->UWP_104B
+style UWP_104C fill:#ade
+UWP_001V-->109[One]
+UWP_001-->109[One]
+UWP_001Y-->110[One]
+109-->110[One]
+ENL_003-->111[One]
+110-->111[One]
+COM_001-->112[One]
+111-->112[One]
+COM_002-->113[One]
+112-->113[One]
+COM_003-->114[One]
+113-->114[One]
+COM_004-->115[One]
+114-->115[One]
+NAS_005-->116[One]
+115-->116[One]
+116-->UWP_104C
+style UWP_104D fill:#ade
+UWP_001V-->117[One]
+UWP_001-->117[One]
+UWP_001Y-->118[One]
+117-->118[One]
+ENL_003-->119[One]
+118-->119[One]
+COM_001-->120[One]
+119-->120[One]
+COM_002-->121[One]
+120-->121[One]
+COM_003-->122[One]
+121-->122[One]
+COM_004-->123[One]
+122-->123[One]
+NAS_005-->124[One]
+123-->124[One]
+124-->UWP_104D
+style UWP_104E fill:#ade
+UWP_001V-->125[One]
+UWP_001-->125[One]
+UWP_001Y-->126[One]
+125-->126[One]
+ENL_003-->127[One]
+126-->127[One]
+COM_001-->128[One]
+127-->128[One]
+COM_002-->129[One]
+128-->129[One]
+COM_003-->130[One]
+129-->130[One]
+COM_004-->131[One]
+130-->131[One]
+NAS_005-->132[One]
+131-->132[One]
+132-->UWP_104E
+style UWP_104F fill:#ade
+UWP_001V-->133[One]
+UWP_001-->133[One]
+UWP_001Y-->134[One]
+133-->134[One]
+ENL_003-->135[One]
+134-->135[One]
+COM_001-->136[One]
+135-->136[One]
+COM_002-->137[One]
+136-->137[One]
+COM_003-->138[One]
+137-->138[One]
+COM_004-->139[One]
+138-->139[One]
+UWP_104FY-->140[Both]
+NAS_005-->140[Both]
+140-->141[One]
+139-->141[One]
+141-->UWP_104F
+style ANS_001 fill:#ade
+style ANS_002 fill:#ade
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style BIS_002C fill:#ade
+BIS_002B-->142[One]
+BIS_001B-->142[One]
+142-->BIS_002C
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->143[One]
+CHE_002A-->143[One]
+143-->CHE_002B
+style CHE_008A fill:#ade
+CHE_002BH-->144[One]
+CHE_002B-->144[One]
+144-->CHE_008A
+style CHE_008B fill:#ade
+CHE_118A-->145[One]
+CHE_008A-->145[One]
+CHE_128A-->146[One]
+145-->146[One]
+146-->CHE_008B
+style PLS_021 fill:#ade
+AMR_021-->147[One]
+PLS_021V-->147[One]
+AMR_021-->148[Both]
+147-->148[Both]
+148-->PLS_021
+style ECS_015 fill:#ade
+style ECN_001A fill:#ade
+style ECN_001B fill:#ade
+style MGT_011A fill:#ade
+style MGT_011B fill:#ade
+MGT_011A-->MGT_011B
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->149[One]
+MAT_016A-->149[One]
+MAT_021A-->150[One]
+149-->150[One]
+MAT_021AH-->151[One]
+150-->151[One]
+151-->MAT_016B
+style MAT_016C fill:#ade
+MAT_017B-->152[One]
+MAT_016B-->152[One]
+MAT_021B-->153[One]
+152-->153[One]
+MAT_021BH-->154[One]
+153-->154[One]
+154-->MAT_016C
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->155[One]
+MAT_016A-->155[One]
+MAT_021A-->156[One]
+155-->156[One]
+MAT_021AH-->157[One]
+156-->157[One]
+157-->MAT_017B
+style MAT_017C fill:#ade
+MAT_017B-->MAT_017C
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->158[One]
+MAT_021A-->158[One]
+MAT_017A-->159[One]
+158-->159[One]
+159-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->160[One]
+MAT_016C-->160[One]
+MAT_021B-->161[One]
+160-->161[One]
+MAT_021BH-->162[One]
+161-->162[One]
+MAT_017B-->163[One]
+162-->163[One]
+163-->MAT_021C
+style PLS_120 fill:#ade
+style STA_100 fill:#ade
+MAT_017B-->164[One]
+MAT_016B-->164[One]
+MAT_021B-->165[One]
+164-->165[One]
+165-->STA_100
+style STA_103 fill:#ade
+STA_013Y-->166[One]
+STA_013-->166[One]
+STA_032-->167[One]
+166-->167[One]
+STA_100-->168[One]
+167-->168[One]
+MAT_017B-->169[One]
+MAT_016B-->169[One]
+MAT_021B-->170[One]
+169-->170[One]
+170-->171[Both]
+168-->171[Both]
+171-->STA_103
+style BIS_101 fill:#ade
+BIS_002B-->172[Both]
+BIS_002A-->172[Both]
+CHE_118A-->173[One]
+CHE_008A-->173[One]
+CHE_128A-->174[One]
+173-->174[One]
+174-->175[Both]
+172-->175[Both]
+STA_013Y-->176[One]
+STA_013-->176[One]
+STA_100-->177[One]
+176-->177[One]
+STA_102-->178[One]
+177-->178[One]
+STA_130A-->179[One]
+178-->179[One]
+179-->180[Both]
+175-->180[Both]
+STA_100-->181[Both]
+180-->181[Both]
+181-->BIS_101
+style NUT_115 fill:#ade
+CHE_118B-->182[One]
+CHE_008B-->182[One]
+182-->NUT_115
+style NPB_101 fill:#ade
+CHE_002BH-->183[One]
+CHE_002B-->183[One]
+183-->184[Both]
+BIS_002A-->184[Both]
+184-->NPB_101
+style ANS_100 fill:#ade
+CHE_002B-->185[Both]
+BIS_002A-->185[Both]
+185-->ANS_100
+style ARE_100A fill:#ade
+ECN_001AV-->186[One]
+ECN_001A-->186[One]
+ECN_001B-->187[Both]
+186-->187[Both]
+MAT_016B-->188[Both]
+MAT_016A-->188[Both]
+MAT_016C-->189[Both]
+188-->189[Both]
+MAT_017B-->190[Both]
+MAT_017A-->190[Both]
+190-->191[One]
+189-->191[One]
+MAT_021B-->192[Both]
+MAT_021A-->192[Both]
+192-->193[One]
+191-->193[One]
+193-->194[Both]
+187-->194[Both]
+194-->ARE_100A
+style ARE_113 fill:#ade
+ECN_001AV-->195[One]
+ECN_001A-->195[One]
+195-->ARE_113
+style ARE_130 fill:#ade
+ARE_100A-->196[Both]
+ARE_106-->196[Both]
+STA_013Y-->197[One]
+STA_013-->197[One]
+197-->198[Both]
+196-->198[Both]
+STA_103-->199[Both]
+198-->199[Both]
+199-->ARE_130
+style ARE_136 fill:#ade
+ARE_106-->200[Both]
+ARE_100B-->200[Both]
+ARE_100A-->201[Both]
+200-->201[Both]
+STA_013Y-->202[One]
+STA_013-->202[One]
+202-->203[Both]
+201-->203[Both]
+STA_103-->204[Both]
+203-->204[Both]
+204-->ARE_136
+style ARE_138 fill:#ade
+ARE_100A-->205[Both]
+ARE_100B-->205[Both]
+205-->ARE_138
+style ARE_120 fill:#ade
+ARE_100A-->ARE_120
+style ARE_132 fill:#ade
+ECN_001AV-->206[One]
+ECN_001A-->206[One]
+UWP_104AY-->207[One]
+UWP_104A-->207[One]
+UWP_101-->208[One]
+207-->208[One]
+208-->209[Both]
+206-->209[Both]
+209-->ARE_132
+style ARE_140 fill:#ade
+ECN_001AV-->210[One]
+ECN_001A-->210[One]
+210-->ARE_140
+style ARE_145 fill:#ade
+style ARE_157 fill:#ade
+ARE_100A-->211[Both]
+ARE_155-->211[Both]
+STA_013Y-->212[One]
+STA_013-->212[One]
+212-->213[Both]
+211-->213[Both]
+STA_103-->214[Both]
+213-->214[Both]
+214-->ARE_157
+style ANS_128 fill:#ade
+ECS_015-->215[One]
+PLS_021-->215[One]
+215-->ANS_128
+style ARE_155 fill:#ade
+STA_013Y-->216[One]
+STA_013-->216[One]
+216-->217[Both]
+ARE_100A-->217[Both]
+STA_103-->218[Both]
+217-->218[Both]
+218-->ARE_155
+style ANS_018 fill:#ade
+style ANS_118 fill:#ade
+WFC_120-->ANS_118
+style ANS_119 fill:#ade
+BIS_002B-->ANS_119
+style ANS_131 fill:#ade
+WFC_120-->219[Both]
+MCB_150-->219[Both]
+219-->ANS_131
+style ANS_148 fill:#ade
+style ANS_042 fill:#ade
+style ANS_140 fill:#ade
+ANS_100-->220[One]
+NPB_101-->220[One]
+220-->ANS_140
+style ANS_142 fill:#ade
+BIS_101-->221[Both]
+ANS_042-->221[Both]
+ANS_100-->222[One]
+NPB_101-->222[One]
+222-->223[Both]
+221-->223[Both]
+223-->ANS_142
+style ANS_148 fill:#ade
+style ANS_041 fill:#ade
+style ANS_041L fill:#ade
+ANS_041-->ANS_041L
+style ANS_146 fill:#ade
+style ANS_147 fill:#ade
+ANS_002-->ANS_147
+style ANS_148 fill:#ade
+style ANS_015 fill:#ade
+style ANS_115 fill:#ade
+BIS_101-->224[Both]
+ANS_015-->224[Both]
+NUT_115-->225[Both]
+224-->225[Both]
+NPB_101-->226[One]
+ANS_100-->226[One]
+226-->227[Both]
+225-->227[Both]
+227-->ANS_115
+style ANS_141 fill:#ade
+ANS_115-->ANS_141
+style ANS_148 fill:#ade
+style ANS_041 fill:#ade
+style ANS_041L fill:#ade
+ANS_041-->ANS_041L
+style ANS_143 fill:#ade
+ANS_100-->228[One]
+NPB_101-->228[One]
+228-->229[Both]
+NUT_115-->229[Both]
+ANS_041-->230[Both]
+229-->230[Both]
+230-->ANS_143
+style ANS_144 fill:#ade
+ANS_041-->ANS_144
+style ANS_145 fill:#ade
+ANS_002-->ANS_145
+style ANS_148 fill:#ade
+style AVS_011 fill:#ade
+style ANS_143 fill:#ade
+ANS_100-->231[One]
+NPB_101-->231[One]
+231-->232[Both]
+NUT_115-->232[Both]
+ANS_041-->233[Both]
+232-->233[Both]
+233-->ANS_143
+style ANS_145 fill:#ade
+ANS_002-->ANS_145
+style ANS_148 fill:#ade
+style ARE_018 fill:#ade
+style ARE_112 fill:#ade
+style ARE_113 fill:#ade
+ECN_001AV-->234[One]
+ECN_001A-->234[One]
+234-->ARE_113
+style ARE_118 fill:#ade
+MGT_011B-->235[Both]
+MGT_011A-->235[Both]
+235-->ARE_118
+style ARE_120 fill:#ade
+ARE_100A-->ARE_120
+style ARE_130 fill:#ade
+ARE_100A-->236[Both]
+ARE_106-->236[Both]
+STA_013Y-->237[One]
+STA_013-->237[One]
+237-->238[Both]
+236-->238[Both]
+STA_103-->239[Both]
+238-->239[Both]
+239-->ARE_130
+style ARE_132 fill:#ade
+ECN_001AV-->240[One]
+ECN_001A-->240[One]
+UWP_104AY-->241[One]
+UWP_104A-->241[One]
+UWP_101-->242[One]
+241-->242[One]
+242-->243[Both]
+240-->243[Both]
+243-->ARE_132
+style ARE_136 fill:#ade
+ARE_106-->244[Both]
+ARE_100B-->244[Both]
+ARE_100A-->245[Both]
+244-->245[Both]
+STA_013Y-->246[One]
+STA_013-->246[One]
+246-->247[Both]
+245-->247[Both]
+STA_103-->248[Both]
+247-->248[Both]
+248-->ARE_136
+style ARE_138 fill:#ade
+ARE_100A-->249[Both]
+ARE_100B-->249[Both]
+249-->ARE_138
+style ARE_140 fill:#ade
+ECN_001AV-->250[One]
+ECN_001A-->250[One]
+250-->ARE_140
+style ARE_142 fill:#ade
+ECN_001B-->ARE_142
+style ARE_143 fill:#ade
+style ARE_144 fill:#ade
+ARE_100A-->ARE_144
+style ARE_145 fill:#ade
+style ARE_150 fill:#ade
+ARE_100A-->ARE_150
+style ARE_155 fill:#ade
+STA_013Y-->251[One]
+STA_013-->251[One]
+251-->252[Both]
+ARE_100A-->252[Both]
+STA_103-->253[Both]
+252-->253[Both]
+253-->ARE_155
+style ARE_157 fill:#ade
+ARE_100A-->254[Both]
+ARE_155-->254[Both]
+STA_013Y-->255[One]
+STA_013-->255[One]
+255-->256[Both]
+254-->256[Both]
+STA_103-->257[Both]
+256-->257[Both]
+257-->ARE_157
+style ARE_176 fill:#ade
+ECN_100A-->258[One]
+ARE_100A-->258[One]
+ECN_100-->259[One]
+258-->259[One]
+259-->ARE_176
+style ANS_103 fill:#ade
+NPB_102-->260[One]
+ANS_104-->260[One]
+WFC_141-->261[One]
+260-->261[One]
+261-->ANS_103
+style ANS_104 fill:#ade
+BIS_002B-->262[One]
+ANS_002-->262[One]
+262-->ANS_104
+style ANS_106 fill:#ade
+NPB_102-->263[One]
+ANS_104-->263[One]
+263-->ANS_106
+style ANS_115 fill:#ade
+BIS_101-->264[Both]
+ANS_015-->264[Both]
+NUT_115-->265[Both]
+264-->265[Both]
+NPB_101-->266[One]
+ANS_100-->266[One]
+266-->267[Both]
+265-->267[Both]
+267-->ANS_115
+style ANS_118 fill:#ade
+WFC_120-->ANS_118
+style ANS_119 fill:#ade
+BIS_002B-->ANS_119
+style ANS_120 fill:#ade
+ANS_002-->ANS_120
+style ANS_120L fill:#ade
+ANS_120-->268[Both]
+ANS_002-->268[Both]
+268-->ANS_120L
+style ANS_123 fill:#ade
+BIS_103-->269[One]
+ABI_103-->269[One]
+NPB_101-->270[One]
+ANS_100-->270[One]
+270-->271[Both]
+269-->271[Both]
+271-->ANS_123
+style ANS_124 fill:#ade
+ANS_100-->272[One]
+NPB_101-->272[One]
+BIS_103-->273[One]
+ABI_103-->273[One]
+273-->274[Both]
+272-->274[Both]
+274-->ANS_124
+style ANS_125 fill:#ade
+ANS_100-->275[One]
+NPB_101-->275[One]
+ANS_015-->276[Both]
+275-->276[Both]
+276-->ANS_125
+style ANS_126 fill:#ade
+NUT_115-->277[Both]
+ANS_015-->277[Both]
+277-->ANS_126
+style ANS_127 fill:#ade
+NPB_101-->278[One]
+ANS_100-->278[One]
+278-->279[Both]
+ANS_115-->279[Both]
+279-->ANS_127
+style ANS_128 fill:#ade
+ECS_015-->280[One]
+PLS_021-->280[One]
+280-->ANS_128
+style ANS_129 fill:#ade
+BIS_002B-->281[Both]
+BIS_002A-->281[Both]
+281-->282[One]
+BIS_010-->282[One]
+CHE_002A-->283[Both]
+282-->283[Both]
+CHE_002B-->284[Both]
+283-->284[Both]
+CHE_008B-->285[Both]
+CHE_008A-->285[Both]
+CHE_118B-->286[Both]
+CHE_118A-->286[Both]
+286-->287[One]
+285-->287[One]
+287-->288[Both]
+284-->288[Both]
+288-->ANS_129
+style ANS_131 fill:#ade
+WFC_120-->289[Both]
+MCB_150-->289[Both]
+289-->ANS_131
+style ANS_136 fill:#ade
+BIS_002A-->290[Both]
+ANS_002-->290[Both]
+BIS_002B-->291[Both]
+290-->291[Both]
+BIS_002C-->292[Both]
+291-->292[Both]
+CHE_008B-->293[Both]
+CHE_008A-->293[Both]
+CHE_118B-->294[Both]
+CHE_118A-->294[Both]
+294-->295[One]
+293-->295[One]
+295-->296[Both]
+292-->296[Both]
+296-->ANS_136
+style ANS_137 fill:#ade
+BIS_002A-->297[Both]
+ANS_002-->297[Both]
+BIS_002B-->298[Both]
+297-->298[Both]
+BIS_002C-->299[Both]
+298-->299[Both]
+CHE_008B-->300[Both]
+CHE_008A-->300[Both]
+CHE_118B-->301[Both]
+CHE_118A-->301[Both]
+301-->302[One]
+300-->302[One]
+302-->303[Both]
+299-->303[Both]
+303-->ANS_137
+style ANS_140 fill:#ade
+ANS_100-->304[One]
+NPB_101-->304[One]
+304-->ANS_140
+style ANS_141 fill:#ade
+ANS_115-->ANS_141
+style ANS_142 fill:#ade
+BIS_101-->305[Both]
+ANS_042-->305[Both]
+ANS_100-->306[One]
+NPB_101-->306[One]
+306-->307[Both]
+305-->307[Both]
+307-->ANS_142
+style ANS_143 fill:#ade
+ANS_100-->308[One]
+NPB_101-->308[One]
+308-->309[Both]
+NUT_115-->309[Both]
+ANS_041-->310[Both]
+309-->310[Both]
+310-->ANS_143
+style ANS_144 fill:#ade
+ANS_041-->ANS_144
+style ANS_145 fill:#ade
+ANS_002-->ANS_145
+style ANS_146 fill:#ade
+style ANS_147 fill:#ade
+ANS_002-->ANS_147
+style ANS_149 fill:#ade
+ANS_115-->ANS_149
+style ANS_170 fill:#ade
+style ANS_192 fill:#ade
+style ANS_194 fill:#ade
+ANS_135-->311[One]
+ANS_106-->311[One]
+ANS_136-->312[One]
+311-->312[One]
+ANS_137-->313[One]
+312-->313[One]
+ANS_139-->314[One]
+313-->314[One]
+ANG_111-->315[One]
+314-->315[One]
+ANS_133-->316[One]
+315-->316[One]
+316-->ANS_194
+style ANS_194HA fill:#ade
+ANS_100-->317[One]
+NPB_101-->317[One]
+BIS_103-->318[One]
+ABI_103-->318[One]
+318-->319[Both]
+317-->319[Both]
+319-->ANS_194HA
+style ANS_194HB fill:#ade
+ANS_100-->320[One]
+NPB_101-->320[One]
+BIS_103-->321[One]
+ABI_103-->321[One]
+321-->322[Both]
+320-->322[Both]
+322-->ANS_194HB
+style ANS_194HC fill:#ade
+ANS_100-->323[One]
+NPB_101-->323[One]
+BIS_103-->324[One]
+ABI_103-->324[One]
+324-->325[Both]
+323-->325[Both]
+325-->ANS_194HC
+style AVS_100 fill:#ade
+BIS_002B-->326[Both]
+BIS_002A-->326[Both]
+ANS_002-->327[Both]
+326-->327[Both]
+327-->AVS_100
+style AVS_103 fill:#ade
+BIS_002B-->328[Both]
+BIS_002A-->328[Both]
+328-->AVS_103
+style AVS_115 fill:#ade
+BIS_002A-->AVS_115
+style AVS_121 fill:#ade
+BIS_002B-->329[Both]
+BIS_002A-->329[Both]
+329-->AVS_121
+style AVS_123 fill:#ade
+BIS_002B-->330[Both]
+BIS_002A-->330[Both]
+330-->AVS_123
+style AVS_149 fill:#ade
+AVS_011-->AVS_149
+style AVS_150 fill:#ade
+BIS_103-->331[One]
+ABI_103-->331[One]
+331-->AVS_150
+style ANG_101 fill:#ade
+BIS_102-->332[One]
+BIS_102-->332[One]
+332-->333[Both]
+BIS_101-->333[Both]
+333-->ANG_101
+style ANG_105 fill:#ade
+BIS_101-->334[Both]
+ANS_015-->334[Both]
+334-->ANG_105
+style ANG_107 fill:#ade
+BIS_101-->ANG_107
+style ANG_111 fill:#ade
+BIS_101-->335[Both]
+BIS_002C-->335[Both]
+ABI_102-->336[One]
+BIS_102-->336[One]
+336-->337[Both]
+335-->337[Both]
+ABI_103-->338[One]
+BIS_103-->338[One]
+338-->339[Both]
+337-->339[Both]
+339-->ANG_111
+style NUT_122 fill:#ade
+BIS_103-->340[One]
+ABI_103-->340[One]
+BIS_002A-->341[Both]
+340-->341[Both]
+BIS_002B-->342[Both]
+341-->342[Both]
+BIS_002C-->343[Both]
+342-->343[Both]
+343-->NUT_122
+style NUT_123 fill:#ade
+BIS_103-->344[One]
+ABI_103-->344[One]
+344-->NUT_123
+style NUT_123L fill:#ade
+BIS_103-->345[One]
+ABI_103-->345[One]
+345-->NUT_123L
+style NUT_124 fill:#ade
+ABI_103-->346[One]
+BIS_103-->346[One]
+346-->NUT_124
+style ABI_102 fill:#ade
+CHE_002B-->347[Both]
+CHE_002A-->347[Both]
+CHE_008A-->348[Both]
+347-->348[Both]
+CHE_008B-->349[Both]
+348-->349[Both]
+CHE_118B-->350[Both]
+CHE_118A-->350[Both]
+350-->351[One]
+349-->351[One]
+351-->ABI_102
+style ABI_103 fill:#ade
+BIS_102-->352[One]
+ABI_102-->352[One]
+352-->ABI_103
+style ECS_124 fill:#ade
+ECS_032A-->353[One]
+ECS_010-->353[One]
+ECS_030-->354[One]
+353-->354[One]
+ECS_036A-->355[One]
+354-->355[One]
+ENG_006-->356[One]
+355-->356[One]
+STA_013-->357[One]
+STA_012-->357[One]
+STA_013Y-->358[One]
+357-->358[One]
+STA_032-->359[One]
+358-->359[One]
+STA_100-->360[One]
+359-->360[One]
+STA_131A-->361[One]
+360-->361[One]
+MAT_135A-->362[One]
+361-->362[One]
+BIM_105-->363[One]
+362-->363[One]
+363-->364[Both]
+356-->364[Both]
+MCB_010-->365[One]
+BIS_002A-->365[One]
+365-->366[Both]
+364-->366[Both]
+366-->ECS_124
+style MGT_100 fill:#ade
+MGT_011A-->MGT_100
+style NPB_117 fill:#ade
+BIS_002B-->367[Both]
+BIS_002A-->367[Both]
+CHE_002B-->368[Both]
+367-->368[Both]
+368-->NPB_117
+style NPB_121 fill:#ade
+NPB_110C-->369[One]
+NPB_101-->369[One]
+ANS_100-->370[One]
+369-->370[One]
+370-->NPB_121
+style NPB_121L fill:#ade
+NPB_121-->NPB_121L
+style NPB_130 fill:#ade
+NPB_101-->371[One]
+NPB_110C-->371[One]
+371-->NPB_130
+style WFC_120 fill:#ade
+BIS_002B-->372[Both]
+BIS_002A-->372[Both]
+372-->WFC_120
+style WFC_120L fill:#ade
+WFC_120-->WFC_120L
+style WFC_130 fill:#ade
+ESP_100-->373[One]
+EVE_101-->373[One]
+BIS_002B-->374[Both]
+BIS_002A-->374[Both]
+BIS_002C-->375[Both]
+374-->375[Both]
+ESP_100-->376[One]
+375-->376[One]
+376-->377[Both]
+373-->377[Both]
+377-->WFC_130

@@ -1,0 +1,496 @@
+graph BT;
+style 2 fill:#ddd
+2[Units: 24]-->PSC_041
+style 3 fill:#ddd
+3[Choose one:]-->PSC_100
+3[Choose one:]-->PSC_100Y
+3[Choose one:]-->PSC_130
+3[Choose one:]-->PSC_131
+3[Choose one:]-->PSC_132
+3[Choose one:]-->PSC_133
+3[Choose one:]-->PSC_135
+3[Choose one:]-->PSC_136
+3[Choose one:]-->PSC_139
+style 4 fill:#ddd
+4[Group B:]-->PSC_101
+4[Group B:]-->PSC_113
+4[Group B:]-->PSC_121
+4[Group B:]-->PSC_125
+4[Group B:]-->PSC_126
+4[Group B:]-->PSC_137
+4[Group B:]-->PSC_159
+style 5 fill:#ddd
+5[Choose one:]-->PSC_122
+5[Choose one:]-->NPB_150
+style 6 fill:#ddd
+6[Choose one:]-->PSC_123
+6[Choose one:]-->NPB_152
+style 7 fill:#ddd
+7[Choose one:]-->PSC_124
+7[Choose one:]-->NPB_124
+style 8 fill:#ddd
+8[Group C:]-->PSC_151
+8[Group C:]-->PSC_152
+8[Group C:]-->PSC_154
+8[Group C:]-->PSC_158
+8[Group C:]-->PSC_161
+8[Group C:]-->PSC_162
+8[Group C:]-->PSC_165
+8[Group C:]-->PSC_168
+style 9 fill:#ddd
+9[Group D:]-->HDE_100A
+9[Group D:]-->HDE_100B
+9[Group D:]-->PSC_140
+9[Group D:]-->PSC_143
+9[Group D:]-->PSC_145
+9[Group D:]-->PSC_146
+9[Group D:]-->PSC_148
+style 10 fill:#ddd
+10[Choose one:]-->PSC_141
+10[Choose one:]-->HDE_101
+style 11 fill:#ddd
+11[Choose one:]-->PSC_142
+11[Choose one:]-->HDE_102
+style 12 fill:#ddd
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->AAS_141
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->ANT_132
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->CHI_120
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->CHI_121
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->CHI_122
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->CHI_123
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->CMN_120
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->CMN_122
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->CNS_100
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->EDU_110
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->EXB_102
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->HDE_100A
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->HDE_100B
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->HDE_100C
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->HDE_117
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->HDE_163
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->LIN_171
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->NPB_102
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->NPB_168
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->POL_170
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->SOC_126
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->SOC_135
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->SOC_152
+12[An elective is any upper division Psychology course from inside or outside the Core Groups or any of the courses below:]-->SOC_171
+style PSC_041 fill:#ade
+PSC_001Y-->13[One]
+PSC_001-->13[One]
+PSC_012Y-->14[Both]
+13-->14[Both]
+14-->PSC_041
+style PSC_100 fill:#ade
+PSC_001Y-->15[One]
+PSC_001-->15[One]
+PSC_041-->16[Both]
+15-->16[Both]
+16-->PSC_100
+style PSC_100Y fill:#ade
+PSC_001Y-->17[One]
+PSC_001-->17[One]
+PSC_041-->18[Both]
+17-->18[Both]
+18-->PSC_100Y
+style PSC_130 fill:#ade
+PSC_001Y-->19[One]
+PSC_001-->19[One]
+PSC_041-->20[Both]
+19-->20[Both]
+STA_013-->21[One]
+PSC_012Y-->21[One]
+STA_100-->22[One]
+21-->22[One]
+22-->23[Both]
+20-->23[Both]
+23-->PSC_130
+style PSC_131 fill:#ade
+PSC_001Y-->24[One]
+PSC_001-->24[One]
+PSC_041-->25[Both]
+24-->25[Both]
+PSC_135-->26[One]
+PSC_100-->26[One]
+26-->27[Both]
+25-->27[Both]
+27-->PSC_131
+style PSC_132 fill:#ade
+PSC_001Y-->28[One]
+PSC_001-->28[One]
+PSC_041-->29[Both]
+28-->29[Both]
+PSC_135-->30[One]
+PSC_100-->30[One]
+30-->31[Both]
+29-->31[Both]
+31-->PSC_132
+style PSC_133 fill:#ade
+PSC_100Y-->32[One]
+PSC_100-->32[One]
+PSC_135-->33[One]
+32-->33[One]
+ARE_100A-->34[One]
+33-->34[One]
+ECN_100A-->35[One]
+34-->35[One]
+NPB_162-->36[One]
+35-->36[One]
+NPB_163-->37[One]
+36-->37[One]
+STA_013Y-->38[One]
+STA_013-->38[One]
+STA_100-->39[One]
+38-->39[One]
+PSC_103A-->40[One]
+39-->40[One]
+40-->41[Both]
+37-->41[Both]
+41-->PSC_133
+style PSC_135 fill:#ade
+PSC_001Y-->42[One]
+PSC_001-->42[One]
+42-->PSC_135
+style PSC_136 fill:#ade
+PSC_001Y-->43[One]
+PSC_001-->43[One]
+PSC_041-->44[Both]
+43-->44[Both]
+PSC_135-->45[One]
+PSC_100-->45[One]
+MUS_006C-->46[One]
+45-->46[One]
+46-->47[Both]
+44-->47[Both]
+47-->PSC_136
+style PSC_139 fill:#ade
+PSC_001Y-->48[One]
+PSC_001-->48[One]
+PSC_041-->49[Both]
+48-->49[Both]
+PSC_135-->50[Both]
+49-->50[Both]
+50-->PSC_139
+style PSC_101 fill:#ade
+PSC_001Y-->51[One]
+PSC_001-->51[One]
+PSC_041-->52[Both]
+51-->52[Both]
+52-->PSC_101
+style PSC_113 fill:#ade
+PSC_101-->PSC_113
+style PSC_121 fill:#ade
+PSC_001Y-->53[One]
+PSC_001-->53[One]
+PSC_041-->54[Both]
+53-->54[Both]
+PSC_101-->55[Both]
+54-->55[Both]
+55-->PSC_121
+style PSC_125 fill:#ade
+PSC_101-->PSC_125
+style PSC_126 fill:#ade
+PSC_001Y-->56[One]
+PSC_001-->56[One]
+PSC_041-->57[Both]
+56-->57[Both]
+57-->PSC_126
+style PSC_137 fill:#ade
+PSC_001Y-->58[One]
+PSC_001-->58[One]
+PSC_041-->59[Both]
+58-->59[Both]
+PSC_101-->60[Both]
+59-->60[Both]
+60-->PSC_137
+style PSC_159 fill:#ade
+PSC_001Y-->61[One]
+PSC_001-->61[One]
+PSC_041-->62[Both]
+61-->62[Both]
+62-->PSC_159
+style PSC_122 fill:#ade
+NPB_102-->63[One]
+PSC_101-->63[One]
+63-->PSC_122
+style NPB_150 fill:#ade
+PSC_101-->64[One]
+NPB_102-->64[One]
+64-->NPB_150
+style PSC_123 fill:#ade
+NPB_102-->65[One]
+PSC_101-->65[One]
+65-->66[Both]
+NPB_101-->66[Both]
+66-->PSC_123
+style NPB_152 fill:#ade
+NPB_110C-->67[One]
+NPB_101-->67[One]
+PSC_101-->68[One]
+NPB_102-->68[One]
+68-->69[Both]
+67-->69[Both]
+69-->NPB_152
+style PSC_124 fill:#ade
+NPB_101-->70[One]
+NPB_100-->70[One]
+NPB_110B-->71[One]
+70-->71[One]
+PSC_121-->72[One]
+71-->72[One]
+72-->PSC_124
+style NPB_124 fill:#ade
+NPB_100-->73[One]
+NPB_101-->73[One]
+NPB_110B-->74[One]
+73-->74[One]
+PSC_121-->75[One]
+74-->75[One]
+75-->NPB_124
+style PSC_151 fill:#ade
+PSC_001Y-->76[One]
+PSC_001-->76[One]
+76-->PSC_151
+style PSC_152 fill:#ade
+PSC_001Y-->77[One]
+PSC_001-->77[One]
+PSC_041-->78[Both]
+77-->78[Both]
+78-->PSC_152
+style PSC_154 fill:#ade
+PSC_001Y-->79[One]
+PSC_001-->79[One]
+PSC_041-->80[Both]
+79-->80[Both]
+80-->PSC_154
+style PSC_158 fill:#ade
+PSC_001Y-->81[One]
+PSC_001-->81[One]
+PSC_041-->82[Both]
+81-->82[Both]
+82-->PSC_158
+style PSC_161 fill:#ade
+PSC_001Y-->83[One]
+PSC_001-->83[One]
+PSC_041-->84[Both]
+83-->84[Both]
+84-->PSC_161
+style PSC_162 fill:#ade
+PSC_001Y-->85[One]
+PSC_001-->85[One]
+PSC_041-->86[Both]
+85-->86[Both]
+86-->PSC_162
+style PSC_165 fill:#ade
+PSC_001Y-->87[One]
+PSC_001-->87[One]
+PSC_041-->88[Both]
+87-->88[Both]
+PSC_168-->89[Both]
+88-->89[Both]
+PSC_151-->90[One]
+PSC_140-->90[One]
+90-->91[Both]
+89-->91[Both]
+91-->PSC_165
+style PSC_168 fill:#ade
+PSC_001Y-->92[One]
+PSC_001-->92[One]
+PSC_041-->93[Both]
+92-->93[Both]
+93-->PSC_168
+style HDE_100A fill:#ade
+PSC_001Y-->94[One]
+PSC_001-->94[One]
+BIS_010-->95[One]
+BIS_002A-->95[One]
+BIS_001A-->96[One]
+95-->96[One]
+BIS_010V-->97[One]
+96-->97[One]
+MCB_010-->98[One]
+97-->98[One]
+NPB_010-->99[One]
+98-->99[One]
+NPB_012-->100[One]
+99-->100[One]
+MIC_010-->101[One]
+100-->101[One]
+101-->102[Both]
+94-->102[Both]
+102-->HDE_100A
+style HDE_100B fill:#ade
+PSC_140-->103[One]
+HDE_100A-->103[One]
+PSC_001Y-->104[One]
+PSC_001-->104[One]
+104-->105[Both]
+103-->105[Both]
+105-->HDE_100B
+style PSC_140 fill:#ade
+PSC_001Y-->106[One]
+PSC_001-->106[One]
+PSC_041-->107[Both]
+106-->107[Both]
+107-->PSC_140
+style PSC_143 fill:#ade
+PSC_001Y-->108[One]
+PSC_001-->108[One]
+PSC_041-->109[Both]
+108-->109[Both]
+HDE_100A-->110[One]
+PSC_140-->110[One]
+110-->111[Both]
+109-->111[Both]
+111-->PSC_143
+style PSC_145 fill:#ade
+HDE_100A-->112[One]
+PSC_140-->112[One]
+HDE_100B-->113[One]
+112-->113[One]
+PSC_121-->114[One]
+PSC_101-->114[One]
+NPB_161-->115[One]
+114-->115[One]
+HDE_163-->116[One]
+115-->116[One]
+116-->117[Both]
+113-->117[Both]
+117-->118[One]
+PSC_135-->118[One]
+118-->PSC_145
+style PSC_146 fill:#ade
+PSC_001Y-->119[One]
+PSC_001-->119[One]
+PSC_041-->120[Both]
+119-->120[Both]
+120-->PSC_146
+style PSC_148 fill:#ade
+PSC_001Y-->121[One]
+PSC_001-->121[One]
+PSC_041-->122[Both]
+121-->122[Both]
+PSC_141-->123[One]
+PSC_140-->123[One]
+HDE_100A-->124[One]
+123-->124[One]
+HDE_100B-->125[One]
+124-->125[One]
+125-->126[Both]
+122-->126[Both]
+126-->PSC_148
+style PSC_141 fill:#ade
+HDE_100A-->127[One]
+PSC_140-->127[One]
+HDE_100B-->128[One]
+127-->128[One]
+128-->PSC_141
+style HDE_101 fill:#ade
+HDE_100B-->129[One]
+HDE_100A-->129[One]
+PSC_140-->130[One]
+129-->130[One]
+130-->HDE_101
+style PSC_142 fill:#ade
+HDE_100A-->131[One]
+PSC_140-->131[One]
+HDE_100B-->132[One]
+131-->132[One]
+132-->PSC_142
+style HDE_102 fill:#ade
+HDE_100B-->133[One]
+HDE_100A-->133[One]
+PSC_140-->134[One]
+133-->134[One]
+134-->HDE_102
+style AAS_141 fill:#ade
+AAS_010-->AAS_141
+style ANT_132 fill:#ade
+style CHI_120 fill:#ade
+style CHI_121 fill:#ade
+CHI_020-->135[One]
+CHI_010-->135[One]
+135-->CHI_121
+style CHI_122 fill:#ade
+style CHI_123 fill:#ade
+CHI_021-->136[One]
+CHI_010-->136[One]
+136-->CHI_123
+style CMN_120 fill:#ade
+style CMN_122 fill:#ade
+style CNS_100 fill:#ade
+style EDU_110 fill:#ade
+style EXB_102 fill:#ade
+style HDE_100A fill:#ade
+PSC_001Y-->137[One]
+PSC_001-->137[One]
+BIS_010-->138[One]
+BIS_002A-->138[One]
+BIS_001A-->139[One]
+138-->139[One]
+BIS_010V-->140[One]
+139-->140[One]
+MCB_010-->141[One]
+140-->141[One]
+NPB_010-->142[One]
+141-->142[One]
+NPB_012-->143[One]
+142-->143[One]
+MIC_010-->144[One]
+143-->144[One]
+144-->145[Both]
+137-->145[Both]
+145-->HDE_100A
+style HDE_100B fill:#ade
+PSC_140-->146[One]
+HDE_100A-->146[One]
+PSC_001Y-->147[One]
+PSC_001-->147[One]
+147-->148[Both]
+146-->148[Both]
+148-->HDE_100B
+style HDE_100C fill:#ade
+PSC_001Y-->149[One]
+PSC_001-->149[One]
+149-->HDE_100C
+style HDE_117 fill:#ade
+style HDE_163 fill:#ade
+PSC_001Y-->150[One]
+PSC_001-->150[One]
+150-->HDE_163
+style LIN_171 fill:#ade
+LIN_001Y-->151[One]
+LIN_001-->151[One]
+LIN_103A-->152[Both]
+151-->152[Both]
+152-->LIN_171
+style NPB_102 fill:#ade
+BIS_001B-->153[Both]
+BIS_001A-->153[Both]
+BIS_001C-->154[Both]
+153-->154[Both]
+BIS_002B-->155[Both]
+BIS_002A-->155[Both]
+BIS_002C-->156[Both]
+155-->156[Both]
+156-->157[One]
+154-->157[One]
+157-->NPB_102
+style NPB_168 fill:#ade
+NPB_110B-->158[One]
+NPB_100-->158[One]
+NPB_110C-->159[One]
+158-->159[One]
+NPB_101-->160[One]
+159-->160[One]
+160-->NPB_168
+style POL_170 fill:#ade
+style SOC_126 fill:#ade
+SOC_001-->SOC_126
+style SOC_135 fill:#ade
+SOC_001-->SOC_135
+style SOC_152 fill:#ade
+SOC_001-->SOC_152
+style SOC_171 fill:#ade
+SOC_001-->SOC_171

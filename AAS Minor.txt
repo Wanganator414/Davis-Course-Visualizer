@@ -1,0 +1,14 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose one:]-->AAS_010
+2[Choose one:]-->AAS_012
+2[Choose one:]-->AAS_015
+2[Choose one:]-->AAS_017
+2[Choose one:]-->AAS_018
+2[Choose one:]-->AAS_080
+style AAS_010 fill:#ade
+style AAS_012 fill:#ade
+style AAS_015 fill:#ade
+style AAS_017 fill:#ade
+style AAS_018 fill:#ade
+style AAS_080 fill:#ade

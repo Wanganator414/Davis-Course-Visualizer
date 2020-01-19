@@ -1,0 +1,115 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose a series:]-->MAT_016A
+2[Choose a series:]-->MAT_016B
+2[Choose a series:]-->MAT_021A
+2[Choose a series:]-->MAT_021B
+style 3 fill:#ddd
+3[Choose:]-->STA_106
+3[Choose:]-->STA_108
+3[Choose:]-->MPM_402
+3[Choose:]-->MPM_403
+style 4 fill:#ddd
+4[Required Courses]-->EPI_202
+4[Required Courses]-->EPI_203
+4[Required Courses]-->EPI_204
+4[Required Courses]-->EPI_205
+4[Required Courses]-->EPI_206
+4[Required Courses]-->EPI_207
+4[Required Courses]-->EPI_208
+4[Required Courses]-->EPI_290
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->5[One]
+MAT_016A-->5[One]
+MAT_021A-->6[One]
+5-->6[One]
+MAT_021AH-->7[One]
+6-->7[One]
+7-->MAT_016B
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->8[One]
+MAT_021A-->8[One]
+MAT_017A-->9[One]
+8-->9[One]
+9-->MAT_021B
+style STA_106 fill:#ade
+STA_013Y-->10[One]
+STA_013-->10[One]
+STA_032-->11[One]
+10-->11[One]
+STA_100-->12[One]
+11-->12[One]
+12-->STA_106
+style STA_108 fill:#ade
+STA_013Y-->13[One]
+STA_013-->13[One]
+STA_032-->14[One]
+13-->14[One]
+STA_100-->15[One]
+14-->15[One]
+15-->STA_108
+style MPM_402 fill:#ade
+style MPM_403 fill:#ade
+style EPI_202 fill:#ade
+MAT_016B-->16[Both]
+MAT_016A-->16[Both]
+MAT_017B-->17[Both]
+MAT_017A-->17[Both]
+17-->18[One]
+16-->18[One]
+MAT_021B-->19[Both]
+MAT_021A-->19[Both]
+19-->20[One]
+18-->20[One]
+STA_102-->21[Both]
+20-->21[Both]
+PHR_403-->22[Both]
+PHR_402-->22[Both]
+22-->23[One]
+STA_108-->23[One]
+EPI_205-->24[One]
+23-->24[One]
+24-->25[Both]
+21-->25[Both]
+25-->EPI_202
+style EPI_203 fill:#ade
+STA_130A-->26[One]
+EPI_202-->26[One]
+STA_131A-->27[One]
+26-->27[One]
+STA_133-->28[One]
+27-->28[One]
+EPI_205-->29[Both]
+28-->29[Both]
+EPI_205-->30[Both]
+29-->30[Both]
+30-->EPI_203
+style EPI_204 fill:#ade
+STA_130B-->31[One]
+EPI_203-->31[One]
+STA_131B-->32[One]
+31-->32[One]
+STA_133-->33[One]
+32-->33[One]
+EPI_205-->34[Both]
+33-->34[Both]
+EPI_205-->35[Both]
+34-->35[Both]
+35-->EPI_204
+style EPI_205 fill:#ade
+MPM_202-->EPI_205
+style EPI_206 fill:#ade
+EPI_205-->EPI_206
+style EPI_207 fill:#ade
+EPI_206-->EPI_207
+style EPI_208 fill:#ade
+EPI_207-->36[Both]
+EPI_204-->36[Both]
+PHR_202-->37[One]
+STA_144-->37[One]
+37-->38[Both]
+36-->38[Both]
+38-->EPI_208
+style EPI_290 fill:#ade

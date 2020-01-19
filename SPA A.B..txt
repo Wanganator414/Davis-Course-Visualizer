@@ -1,0 +1,457 @@
+graph BT;
+style 2 fill:#ddd
+2[Choose one:]-->SPA_001
+2[Choose one:]-->SPA_001S
+style 3 fill:#ddd
+3[Choose one:]-->SPA_002
+3[Choose one:]-->SPA_002S
+3[Choose one:]-->SPA_002V
+3[Choose one:]-->SPA_002Y
+style 4 fill:#ddd
+4[Choose one:]-->SPA_003
+4[Choose one:]-->SPA_003S
+4[Choose one:]-->SPA_003V
+4[Choose one:]-->SPA_003Y
+style 5 fill:#ddd
+5[Choose one:]-->SPA_021
+5[Choose one:]-->SPA_021S
+5[Choose one:]-->SPA_021V
+5[Choose one:]-->SPA_021Y
+style 6 fill:#ddd
+6[Choose one:]-->SPA_022
+6[Choose one:]-->SPA_022S
+6[Choose one:]-->SPA_022V
+6[Choose one:]-->SPA_022Y
+style 7 fill:#ddd
+7[Choose one:]-->SPA_023
+7[Choose one:]-->SPA_023S
+style 8 fill:#ddd
+8[Choose one:]-->SPA_024
+8[Choose one:]-->SPA_024S
+8[Choose one:]-->SPA_031
+8[Choose one:]-->SPA_032
+8[Choose one:]-->SPA_033
+style 9 fill:#ddd
+9[Group 1]-->SPA_100
+9[Group 1]-->SPA_100S
+9[Group 1]-->SPA_141
+9[Group 1]-->SPA_141S
+9[Group 1]-->SPA_170
+9[Group 1]-->SPA_170S
+style 10 fill:#ddd
+10[Group 2]-->SPA_111N
+10[Group 2]-->SPA_115
+10[Group 2]-->SPA_116
+10[Group 2]-->SPA_116S
+style 11 fill:#ddd
+11[Group 3]-->SPA_130
+11[Group 3]-->SPA_131N
+11[Group 3]-->SPA_134A
+11[Group 3]-->SPA_142
+style 12 fill:#ddd
+12[Group 4]-->SPA_150N
+12[Group 4]-->SPA_151
+12[Group 4]-->SPA_157
+12[Group 4]-->SPA_159
+12[Group 4]-->SPA_159S
+style 13 fill:#ddd
+13[Group 5]-->SPA_117
+13[Group 5]-->SPA_174
+13[Group 5]-->SPA_176
+13[Group 5]-->SPA_177
+style 14 fill:#ddd
+14[African American & African Studies]-->AAS_107A
+14[African American & African Studies]-->AAS_180
+style 15 fill:#ddd
+15[Anthropology]-->ANT_144
+style 16 fill:#ddd
+16[Art History]-->AHI_151
+style 17 fill:#ddd
+17[Chicana/o Studies]-->CHI_154
+17[Chicana/o Studies]-->CHI_155
+17[Chicana/o Studies]-->CHI_156
+17[Chicana/o Studies]-->CHI_160
+17[Chicana/o Studies]-->CHI_170
+17[Chicana/o Studies]-->CHI_171
+style 18 fill:#ddd
+18[Comparative Literature]-->COM_152
+18[Comparative Literature]-->COM_165
+18[Comparative Literature]-->COM_165S
+style 19 fill:#ddd
+19[Education]-->EDU_151
+19[Education]-->EDU_152
+style 20 fill:#ddd
+20[History]-->HIS_159
+20[History]-->HIS_160
+20[History]-->HIS_164
+20[History]-->HIS_165
+20[History]-->HIS_166A
+20[History]-->HIS_166B
+20[History]-->HIS_167
+20[History]-->HIS_168
+20[History]-->HIS_169A
+20[History]-->HIS_169B
+style 21 fill:#ddd
+21[Linguistics]-->LIN_166
+style 22 fill:#ddd
+22[Native American Studies]-->NAS_120
+22[Native American Studies]-->NAS_133A
+22[Native American Studies]-->NAS_133B
+22[Native American Studies]-->NAS_184
+style SPA_001 fill:#ade
+style SPA_001S fill:#ade
+style SPA_002 fill:#ade
+SPA_001S-->23[One]
+SPA_001-->23[One]
+SPA_001Y-->24[One]
+23-->24[One]
+24-->SPA_002
+style SPA_002S fill:#ade
+SPA_001S-->25[One]
+SPA_001-->25[One]
+SPA_001Y-->26[One]
+25-->26[One]
+26-->SPA_002S
+style SPA_002V fill:#ade
+SPA_001S-->27[One]
+SPA_001-->27[One]
+SPA_001Y-->28[One]
+27-->28[One]
+28-->SPA_002V
+style SPA_002Y fill:#ade
+SPA_001S-->29[One]
+SPA_001-->29[One]
+29-->SPA_002Y
+style SPA_003 fill:#ade
+SPA_002S-->30[One]
+SPA_002-->30[One]
+SPA_002V-->31[One]
+30-->31[One]
+SPA_002Y-->32[One]
+31-->32[One]
+32-->SPA_003
+style SPA_003S fill:#ade
+SPA_002S-->33[One]
+SPA_002-->33[One]
+SPA_002V-->34[One]
+33-->34[One]
+SPA_002Y-->35[One]
+34-->35[One]
+35-->SPA_003S
+style SPA_003V fill:#ade
+SPA_002S-->36[One]
+SPA_002-->36[One]
+SPA_002V-->37[One]
+36-->37[One]
+SPA_002Y-->38[One]
+37-->38[One]
+38-->SPA_003V
+style SPA_003Y fill:#ade
+SPA_002S-->39[One]
+SPA_002-->39[One]
+SPA_002V-->40[One]
+39-->40[One]
+SPA_002Y-->41[One]
+40-->41[One]
+41-->SPA_003Y
+style SPA_021 fill:#ade
+SPA_003S-->42[One]
+SPA_003-->42[One]
+SPA_003V-->43[One]
+42-->43[One]
+SPA_003Y-->44[One]
+43-->44[One]
+44-->SPA_021
+style SPA_021S fill:#ade
+SPA_003S-->45[One]
+SPA_003-->45[One]
+SPA_003V-->46[One]
+45-->46[One]
+SPA_003Y-->47[One]
+46-->47[One]
+47-->SPA_021S
+style SPA_021V fill:#ade
+SPA_003Y-->48[One]
+SPA_003-->48[One]
+SPA_003V-->49[One]
+48-->49[One]
+49-->SPA_021V
+style SPA_021Y fill:#ade
+SPA_003S-->50[One]
+SPA_003-->50[One]
+SPA_003V-->51[One]
+50-->51[One]
+SPA_003Y-->52[One]
+51-->52[One]
+52-->SPA_021Y
+style SPA_022 fill:#ade
+SPA_021S-->53[One]
+SPA_021-->53[One]
+SPA_021V-->54[One]
+53-->54[One]
+SPA_021Y-->55[One]
+54-->55[One]
+55-->SPA_022
+style SPA_022S fill:#ade
+SPA_021S-->56[One]
+SPA_021-->56[One]
+SPA_021V-->57[One]
+56-->57[One]
+SPA_021Y-->58[One]
+57-->58[One]
+58-->SPA_022S
+style SPA_022V fill:#ade
+SPA_021S-->59[One]
+SPA_021-->59[One]
+SPA_021V-->60[One]
+59-->60[One]
+SPA_021Y-->61[One]
+60-->61[One]
+61-->SPA_022V
+style SPA_022Y fill:#ade
+SPA_021S-->62[One]
+SPA_021-->62[One]
+SPA_021V-->63[One]
+62-->63[One]
+SPA_021Y-->64[One]
+63-->64[One]
+64-->SPA_022Y
+style SPA_023 fill:#ade
+SPA_022S-->65[One]
+SPA_022-->65[One]
+SPA_022V-->66[One]
+65-->66[One]
+SPA_022Y-->67[One]
+66-->67[One]
+67-->SPA_023
+style SPA_023S fill:#ade
+SPA_022S-->68[One]
+SPA_022-->68[One]
+SPA_022V-->69[One]
+68-->69[One]
+SPA_022Y-->70[One]
+69-->70[One]
+70-->SPA_023S
+style SPA_024 fill:#ade
+SPA_023S-->71[One]
+SPA_023-->71[One]
+71-->SPA_024
+style SPA_024S fill:#ade
+SPA_023S-->72[One]
+SPA_023-->72[One]
+72-->SPA_024S
+style SPA_031 fill:#ade
+SPA_003V-->73[One]
+SPA_003-->73[One]
+SPA_003Y-->74[One]
+73-->74[One]
+74-->SPA_031
+style SPA_032 fill:#ade
+SPA_031-->SPA_032
+style SPA_033 fill:#ade
+SPA_032-->SPA_033
+style SPA_100 fill:#ade
+SPA_024S-->75[One]
+SPA_024-->75[One]
+SPA_033-->76[One]
+75-->76[One]
+76-->SPA_100
+style SPA_100S fill:#ade
+SPA_033-->77[One]
+SPA_024-->77[One]
+77-->SPA_100S
+style SPA_141 fill:#ade
+SPA_024S-->78[One]
+SPA_024-->78[One]
+SPA_033-->79[One]
+78-->79[One]
+79-->SPA_141
+style SPA_141S fill:#ade
+SPA_024S-->80[One]
+SPA_024-->80[One]
+SPA_033-->81[One]
+80-->81[One]
+81-->SPA_141S
+style SPA_170 fill:#ade
+SPA_024S-->82[One]
+SPA_024-->82[One]
+SPA_033-->83[One]
+82-->83[One]
+83-->SPA_170
+style SPA_170S fill:#ade
+SPA_024S-->84[One]
+SPA_024-->84[One]
+SPA_033-->85[One]
+84-->85[One]
+85-->SPA_170S
+style SPA_111N fill:#ade
+style SPA_115 fill:#ade
+style SPA_116 fill:#ade
+style SPA_116S fill:#ade
+style SPA_130 fill:#ade
+SPA_100S-->86[One]
+SPA_100-->86[One]
+SPA_141-->87[One]
+86-->87[One]
+SPA_141S-->88[One]
+87-->88[One]
+SPA_170-->89[One]
+88-->89[One]
+SPA_170S-->90[One]
+89-->90[One]
+90-->SPA_130
+style SPA_131N fill:#ade
+SPA_100S-->91[One]
+SPA_100-->91[One]
+SPA_141-->92[One]
+91-->92[One]
+SPA_141S-->93[One]
+92-->93[One]
+SPA_170-->94[One]
+93-->94[One]
+SPA_170S-->95[One]
+94-->95[One]
+95-->SPA_131N
+style SPA_134A fill:#ade
+SPA_100S-->96[One]
+SPA_100-->96[One]
+SPA_141-->97[One]
+96-->97[One]
+SPA_141S-->98[One]
+97-->98[One]
+SPA_170-->99[One]
+98-->99[One]
+SPA_170S-->100[One]
+99-->100[One]
+100-->SPA_134A
+style SPA_142 fill:#ade
+SPA_100S-->101[One]
+SPA_100-->101[One]
+SPA_141-->102[One]
+101-->102[One]
+SPA_141S-->103[One]
+102-->103[One]
+SPA_170-->104[One]
+103-->104[One]
+SPA_170S-->105[One]
+104-->105[One]
+105-->SPA_142
+style SPA_150N fill:#ade
+SPA_100S-->106[One]
+SPA_100-->106[One]
+SPA_141-->107[One]
+106-->107[One]
+SPA_141S-->108[One]
+107-->108[One]
+SPA_170-->109[One]
+108-->109[One]
+SPA_170S-->110[One]
+109-->110[One]
+110-->SPA_150N
+style SPA_151 fill:#ade
+SPA_100S-->111[One]
+SPA_100-->111[One]
+SPA_141-->112[One]
+111-->112[One]
+SPA_141S-->113[One]
+112-->113[One]
+SPA_170-->114[One]
+113-->114[One]
+SPA_170S-->115[One]
+114-->115[One]
+115-->SPA_151
+style SPA_157 fill:#ade
+SPA_100S-->116[One]
+SPA_100-->116[One]
+SPA_141-->117[One]
+116-->117[One]
+SPA_141S-->118[One]
+117-->118[One]
+SPA_170-->119[One]
+118-->119[One]
+SPA_170S-->120[One]
+119-->120[One]
+120-->SPA_157
+style SPA_159 fill:#ade
+SPA_100S-->121[One]
+SPA_100-->121[One]
+SPA_141-->122[One]
+121-->122[One]
+SPA_141S-->123[One]
+122-->123[One]
+SPA_170-->124[One]
+123-->124[One]
+SPA_170S-->125[One]
+124-->125[One]
+125-->SPA_159
+style SPA_159S fill:#ade
+SPA_100S-->126[One]
+SPA_100-->126[One]
+SPA_141-->127[One]
+126-->127[One]
+SPA_141S-->128[One]
+127-->128[One]
+SPA_170-->129[One]
+128-->129[One]
+SPA_170S-->130[One]
+129-->130[One]
+130-->SPA_159S
+style SPA_117 fill:#ade
+style SPA_174 fill:#ade
+SPA_033-->131[One]
+SPA_024-->131[One]
+131-->SPA_174
+style SPA_176 fill:#ade
+SPA_033-->132[One]
+SPA_024-->132[One]
+132-->SPA_176
+style SPA_177 fill:#ade
+SPA_024S-->133[One]
+SPA_024-->133[One]
+SPA_033-->134[One]
+133-->134[One]
+134-->SPA_177
+style AAS_107A fill:#ade
+style AAS_180 fill:#ade
+style ANT_144 fill:#ade
+style AHI_151 fill:#ade
+style CHI_154 fill:#ade
+style CHI_155 fill:#ade
+style CHI_156 fill:#ade
+style CHI_160 fill:#ade
+style CHI_170 fill:#ade
+style CHI_171 fill:#ade
+CHI_070-->CHI_171
+style COM_152 fill:#ade
+style COM_165 fill:#ade
+style COM_165S fill:#ade
+style EDU_151 fill:#ade
+style EDU_152 fill:#ade
+style HIS_159 fill:#ade
+style HIS_160 fill:#ade
+style HIS_164 fill:#ade
+style HIS_165 fill:#ade
+style HIS_166A fill:#ade
+style HIS_166B fill:#ade
+style HIS_167 fill:#ade
+style HIS_168 fill:#ade
+style HIS_169A fill:#ade
+style HIS_169B fill:#ade
+style LIN_166 fill:#ade
+LIN_001Y-->135[One]
+LIN_001-->135[One]
+SPA_111N-->136[One]
+135-->136[One]
+136-->LIN_166
+style NAS_120 fill:#ade
+NAS_055-->137[One]
+NAS_010-->137[One]
+137-->138[Both]
+NAS_001-->138[Both]
+138-->NAS_120
+style NAS_133A fill:#ade
+style NAS_133B fill:#ade
+style NAS_184 fill:#ade
+NAS_010-->139[One]
+NAS_001-->139[One]
+139-->NAS_184

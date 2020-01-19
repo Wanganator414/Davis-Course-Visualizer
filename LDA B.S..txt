@@ -1,0 +1,567 @@
+graph BT;
+style 2 fill:#ddd
+2[Also counts toward English Composition Requirement]-->UWP_001
+2[Also counts toward English Composition Requirement]-->UWP_101
+2[Also counts toward English Composition Requirement]-->UWP_102A
+2[Also counts toward English Composition Requirement]-->UWP_102B
+2[Also counts toward English Composition Requirement]-->UWP_102C
+2[Also counts toward English Composition Requirement]-->UWP_102D
+2[Also counts toward English Composition Requirement]-->UWP_102E
+2[Also counts toward English Composition Requirement]-->UWP_102F
+2[Also counts toward English Composition Requirement]-->UWP_102G
+2[Also counts toward English Composition Requirement]-->UWP_102H
+2[Also counts toward English Composition Requirement]-->UWP_102I
+2[Also counts toward English Composition Requirement]-->UWP_102J
+2[Also counts toward English Composition Requirement]-->UWP_102K
+2[Also counts toward English Composition Requirement]-->UWP_102L
+2[Also counts toward English Composition Requirement]-->UWP_104A
+2[Also counts toward English Composition Requirement]-->UWP_104AY
+2[Also counts toward English Composition Requirement]-->UWP_104B
+2[Also counts toward English Composition Requirement]-->UWP_104C
+2[Also counts toward English Composition Requirement]-->UWP_104D
+2[Also counts toward English Composition Requirement]-->UWP_104E
+2[Also counts toward English Composition Requirement]-->UWP_104F
+2[Also counts toward English Composition Requirement]-->UWP_104FY
+2[Also counts toward English Composition Requirement]-->UWP_104I
+2[Also counts toward English Composition Requirement]-->UWP_104J
+2[Also counts toward English Composition Requirement]-->UWP_104T
+2[Also counts toward English Composition Requirement]-->CMN_001
+style 3 fill:#ddd
+3[Also counts toward English Composition Requirement]-->BIS_002B
+3[Also counts toward English Composition Requirement]-->ENH_006
+style 4 fill:#ddd
+4[Choose one:]-->MAT_016A
+4[Choose one:]-->STA_013
+style 5 fill:#ddd
+5[Choose one:]-->CHE_002A
+5[Choose one:]-->CHE_010
+5[Choose one:]-->PHY_001A
+5[Choose one:]-->PHY_010
+5[Choose one:]-->GEL_001
+5[Choose one:]-->SSC_010
+style 6 fill:#ddd
+6[Landscape Architecture]-->LDA_001
+6[Landscape Architecture]-->LDA_002
+6[Landscape Architecture]-->LDA_003
+6[Landscape Architecture]-->LDA_021
+6[Landscape Architecture]-->LDA_023
+6[Landscape Architecture]-->LDA_030
+6[Landscape Architecture]-->LDA_050
+6[Landscape Architecture]-->LDA_060
+6[Landscape Architecture]-->LDA_070
+style 7 fill:#ddd
+7[Landscape Architecture]-->LDA_102
+7[Landscape Architecture]-->LDA_160
+7[Landscape Architecture]-->LDA_161
+7[Landscape Architecture]-->LDA_170
+7[Landscape Architecture]-->LDA_171
+7[Landscape Architecture]-->LDA_182
+7[Landscape Architecture]-->LDA_183
+7[Landscape Architecture]-->LDA_184
+style 8 fill:#ddd
+8[Choose one:]-->LDA_120
+8[Choose one:]-->LDA_150
+8[Choose one:]-->LDA_190
+style 9 fill:#ddd
+9[Environmental Horticulture]-->ENH_105
+9[Environmental Horticulture]-->ENH_133
+style UWP_001 fill:#ade
+style UWP_101 fill:#ade
+UWP_001V-->10[One]
+UWP_001-->10[One]
+UWP_001Y-->11[One]
+10-->11[One]
+COM_001-->12[One]
+11-->12[One]
+COM_002-->13[One]
+12-->13[One]
+COM_003-->14[One]
+13-->14[One]
+COM_004-->15[One]
+14-->15[One]
+ENL_003-->16[One]
+15-->16[One]
+NAS_005-->17[One]
+16-->17[One]
+17-->UWP_101
+style UWP_102A fill:#ade
+UWP_001V-->18[One]
+UWP_001-->18[One]
+UWP_001Y-->19[One]
+18-->19[One]
+ENL_003-->20[One]
+19-->20[One]
+COM_001-->21[One]
+20-->21[One]
+COM_002-->22[One]
+21-->22[One]
+COM_003-->23[One]
+22-->23[One]
+COM_004-->24[One]
+23-->24[One]
+NAS_005-->25[One]
+24-->25[One]
+25-->UWP_102A
+style UWP_102B fill:#ade
+UWP_001V-->26[One]
+UWP_001-->26[One]
+UWP_001Y-->27[One]
+26-->27[One]
+ENL_003-->28[One]
+27-->28[One]
+COM_001-->29[One]
+28-->29[One]
+COM_002-->30[One]
+29-->30[One]
+COM_003-->31[One]
+30-->31[One]
+COM_004-->32[One]
+31-->32[One]
+NAS_005-->33[One]
+32-->33[One]
+33-->UWP_102B
+style UWP_102C fill:#ade
+UWP_001V-->34[One]
+UWP_001-->34[One]
+UWP_001Y-->35[One]
+34-->35[One]
+ENL_003-->36[One]
+35-->36[One]
+COM_001-->37[One]
+36-->37[One]
+COM_002-->38[One]
+37-->38[One]
+COM_003-->39[One]
+38-->39[One]
+COM_004-->40[One]
+39-->40[One]
+NAS_005-->41[One]
+40-->41[One]
+41-->UWP_102C
+style UWP_102D fill:#ade
+UWP_001V-->42[One]
+UWP_001-->42[One]
+UWP_001Y-->43[One]
+42-->43[One]
+ENL_003-->44[One]
+43-->44[One]
+COM_001-->45[One]
+44-->45[One]
+COM_002-->46[One]
+45-->46[One]
+COM_003-->47[One]
+46-->47[One]
+COM_004-->48[One]
+47-->48[One]
+NAS_005-->49[One]
+48-->49[One]
+49-->UWP_102D
+style UWP_102E fill:#ade
+UWP_001V-->50[One]
+UWP_001-->50[One]
+UWP_001Y-->51[One]
+50-->51[One]
+ENL_003-->52[One]
+51-->52[One]
+COM_001-->53[One]
+52-->53[One]
+COM_002-->54[One]
+53-->54[One]
+COM_003-->55[One]
+54-->55[One]
+COM_004-->56[One]
+55-->56[One]
+NAS_005-->57[One]
+56-->57[One]
+57-->UWP_102E
+style UWP_102F fill:#ade
+UWP_001V-->58[One]
+UWP_001-->58[One]
+UWP_001Y-->59[One]
+58-->59[One]
+ENL_003-->60[One]
+59-->60[One]
+COM_001-->61[One]
+60-->61[One]
+COM_002-->62[One]
+61-->62[One]
+COM_003-->63[One]
+62-->63[One]
+COM_004-->64[One]
+63-->64[One]
+NAS_005-->65[One]
+64-->65[One]
+65-->UWP_102F
+style UWP_102G fill:#ade
+UWP_001V-->66[One]
+UWP_001-->66[One]
+UWP_001Y-->67[One]
+66-->67[One]
+ENL_003-->68[One]
+67-->68[One]
+COM_001-->69[One]
+68-->69[One]
+COM_002-->70[One]
+69-->70[One]
+COM_003-->71[One]
+70-->71[One]
+COM_004-->72[One]
+71-->72[One]
+NAS_005-->73[One]
+72-->73[One]
+73-->UWP_102G
+style UWP_102H fill:#ade
+UWP_001V-->74[One]
+UWP_001-->74[One]
+UWP_001Y-->75[One]
+74-->75[One]
+ENL_003-->76[One]
+75-->76[One]
+COM_001-->77[One]
+76-->77[One]
+COM_002-->78[One]
+77-->78[One]
+COM_003-->79[One]
+78-->79[One]
+COM_004-->80[One]
+79-->80[One]
+NAS_005-->81[One]
+80-->81[One]
+81-->UWP_102H
+style UWP_102I fill:#ade
+UWP_001V-->82[One]
+UWP_001-->82[One]
+UWP_001Y-->83[One]
+82-->83[One]
+ENL_003-->84[One]
+83-->84[One]
+COM_001-->85[One]
+84-->85[One]
+COM_002-->86[One]
+85-->86[One]
+COM_003-->87[One]
+86-->87[One]
+COM_004-->88[One]
+87-->88[One]
+NAS_005-->89[One]
+88-->89[One]
+89-->UWP_102I
+style UWP_102J fill:#ade
+UWP_001V-->90[One]
+UWP_001-->90[One]
+UWP_001Y-->91[One]
+90-->91[One]
+ENL_003-->92[One]
+91-->92[One]
+COM_001-->93[One]
+92-->93[One]
+COM_002-->94[One]
+93-->94[One]
+COM_003-->95[One]
+94-->95[One]
+COM_004-->96[One]
+95-->96[One]
+NAS_005-->97[One]
+96-->97[One]
+97-->UWP_102J
+style UWP_102K fill:#ade
+UWP_001V-->98[One]
+UWP_001-->98[One]
+UWP_001Y-->99[One]
+98-->99[One]
+ENL_003-->100[One]
+99-->100[One]
+COM_001-->101[One]
+100-->101[One]
+COM_002-->102[One]
+101-->102[One]
+COM_003-->103[One]
+102-->103[One]
+COM_004-->104[One]
+103-->104[One]
+NAS_005-->105[One]
+104-->105[One]
+105-->UWP_102K
+style UWP_102L fill:#ade
+UWP_001V-->106[One]
+UWP_001-->106[One]
+UWP_001Y-->107[One]
+106-->107[One]
+ENL_003-->108[One]
+107-->108[One]
+COM_001-->109[One]
+108-->109[One]
+COM_002-->110[One]
+109-->110[One]
+COM_003-->111[One]
+110-->111[One]
+COM_004-->112[One]
+111-->112[One]
+NAS_005-->113[One]
+112-->113[One]
+113-->UWP_102L
+style UWP_104A fill:#ade
+UWP_001V-->114[One]
+UWP_001-->114[One]
+UWP_001Y-->115[One]
+114-->115[One]
+ENL_003-->116[One]
+115-->116[One]
+COM_001-->117[One]
+116-->117[One]
+COM_002-->118[One]
+117-->118[One]
+COM_003-->119[One]
+118-->119[One]
+COM_004-->120[One]
+119-->120[One]
+NAS_005-->121[One]
+120-->121[One]
+121-->UWP_104A
+style UWP_104AY fill:#ade
+UWP_001V-->122[One]
+UWP_001-->122[One]
+UWP_001Y-->123[One]
+122-->123[One]
+ENL_003-->124[One]
+123-->124[One]
+COM_001-->125[One]
+124-->125[One]
+COM_002-->126[One]
+125-->126[One]
+COM_003-->127[One]
+126-->127[One]
+COM_004-->128[One]
+127-->128[One]
+NAS_005-->129[One]
+128-->129[One]
+129-->UWP_104AY
+style UWP_104B fill:#ade
+UWP_001V-->130[One]
+UWP_001-->130[One]
+UWP_001Y-->131[One]
+130-->131[One]
+ENL_003-->132[One]
+131-->132[One]
+COM_001-->133[One]
+132-->133[One]
+COM_002-->134[One]
+133-->134[One]
+COM_003-->135[One]
+134-->135[One]
+COM_004-->136[One]
+135-->136[One]
+NAS_005-->137[One]
+136-->137[One]
+137-->UWP_104B
+style UWP_104C fill:#ade
+UWP_001V-->138[One]
+UWP_001-->138[One]
+UWP_001Y-->139[One]
+138-->139[One]
+ENL_003-->140[One]
+139-->140[One]
+COM_001-->141[One]
+140-->141[One]
+COM_002-->142[One]
+141-->142[One]
+COM_003-->143[One]
+142-->143[One]
+COM_004-->144[One]
+143-->144[One]
+NAS_005-->145[One]
+144-->145[One]
+145-->UWP_104C
+style UWP_104D fill:#ade
+UWP_001V-->146[One]
+UWP_001-->146[One]
+UWP_001Y-->147[One]
+146-->147[One]
+ENL_003-->148[One]
+147-->148[One]
+COM_001-->149[One]
+148-->149[One]
+COM_002-->150[One]
+149-->150[One]
+COM_003-->151[One]
+150-->151[One]
+COM_004-->152[One]
+151-->152[One]
+NAS_005-->153[One]
+152-->153[One]
+153-->UWP_104D
+style UWP_104E fill:#ade
+UWP_001V-->154[One]
+UWP_001-->154[One]
+UWP_001Y-->155[One]
+154-->155[One]
+ENL_003-->156[One]
+155-->156[One]
+COM_001-->157[One]
+156-->157[One]
+COM_002-->158[One]
+157-->158[One]
+COM_003-->159[One]
+158-->159[One]
+COM_004-->160[One]
+159-->160[One]
+NAS_005-->161[One]
+160-->161[One]
+161-->UWP_104E
+style UWP_104F fill:#ade
+UWP_001V-->162[One]
+UWP_001-->162[One]
+UWP_001Y-->163[One]
+162-->163[One]
+ENL_003-->164[One]
+163-->164[One]
+COM_001-->165[One]
+164-->165[One]
+COM_002-->166[One]
+165-->166[One]
+COM_003-->167[One]
+166-->167[One]
+COM_004-->168[One]
+167-->168[One]
+UWP_104FY-->169[Both]
+NAS_005-->169[Both]
+169-->170[One]
+168-->170[One]
+170-->UWP_104F
+style UWP_104FY fill:#ade
+UWP_001Y-->171[One]
+UWP_001V-->171[One]
+ENL_003-->172[One]
+171-->172[One]
+COM_001-->173[One]
+172-->173[One]
+COM_002-->174[One]
+173-->174[One]
+COM_003-->175[One]
+174-->175[One]
+COM_004-->176[One]
+175-->176[One]
+UWP_104F-->177[Both]
+NAS_005-->177[Both]
+177-->178[One]
+176-->178[One]
+178-->179[Both]
+UWP_001-->179[Both]
+179-->UWP_104FY
+style UWP_104I fill:#ade
+UWP_001V-->180[One]
+UWP_001-->180[One]
+UWP_001Y-->181[One]
+180-->181[One]
+ENL_003-->182[One]
+181-->182[One]
+COM_001-->183[One]
+182-->183[One]
+COM_002-->184[One]
+183-->184[One]
+COM_003-->185[One]
+184-->185[One]
+COM_004-->186[One]
+185-->186[One]
+NAS_005-->187[One]
+186-->187[One]
+187-->UWP_104I
+style UWP_104J fill:#ade
+UWP_001V-->188[One]
+UWP_001-->188[One]
+UWP_001Y-->189[One]
+188-->189[One]
+ENL_003-->190[One]
+189-->190[One]
+COM_001-->191[One]
+190-->191[One]
+COM_002-->192[One]
+191-->192[One]
+COM_003-->193[One]
+192-->193[One]
+COM_004-->194[One]
+193-->194[One]
+NAS_005-->195[One]
+194-->195[One]
+195-->UWP_104J
+style UWP_104T fill:#ade
+UWP_001V-->196[One]
+UWP_001-->196[One]
+UWP_001Y-->197[One]
+196-->197[One]
+ENL_003-->198[One]
+197-->198[One]
+COM_001-->199[One]
+198-->199[One]
+COM_002-->200[One]
+199-->200[One]
+COM_003-->201[One]
+200-->201[One]
+COM_004-->202[One]
+201-->202[One]
+NAS_005-->203[One]
+202-->203[One]
+203-->UWP_104T
+style CMN_001 fill:#ade
+style BIS_002B fill:#ade
+style ENH_006 fill:#ade
+style MAT_016A fill:#ade
+style STA_013 fill:#ade
+style CHE_002A fill:#ade
+style CHE_010 fill:#ade
+style PHY_001A fill:#ade
+style PHY_010 fill:#ade
+style GEL_001 fill:#ade
+style SSC_010 fill:#ade
+style LDA_001 fill:#ade
+style LDA_002 fill:#ade
+style LDA_003 fill:#ade
+style LDA_021 fill:#ade
+LDA_001-->LDA_021
+style LDA_023 fill:#ade
+LDA_021-->LDA_023
+style LDA_030 fill:#ade
+style LDA_050 fill:#ade
+BIS_002B-->LDA_050
+style LDA_060 fill:#ade
+LDA_070-->LDA_060
+style LDA_070 fill:#ade
+LDA_021-->LDA_070
+style LDA_102 fill:#ade
+LDA_171-->LDA_102
+style LDA_160 fill:#ade
+LDA_002-->204[Both]
+LDA_001-->204[Both]
+LDA_003-->205[Both]
+204-->205[Both]
+LDA_021-->206[Both]
+205-->206[Both]
+LDA_030-->207[Both]
+206-->207[Both]
+LDA_050-->208[Both]
+207-->208[Both]
+LDA_070-->209[Both]
+208-->209[Both]
+209-->LDA_160
+style LDA_161 fill:#ade
+LDA_171-->LDA_161
+style LDA_170 fill:#ade
+LDA_160-->LDA_170
+style LDA_171 fill:#ade
+LDA_170-->LDA_171
+style LDA_182 fill:#ade
+LDA_171-->LDA_182
+style LDA_183 fill:#ade
+LDA_182-->LDA_183
+style LDA_184 fill:#ade
+LDA_183-->LDA_184
+style LDA_120 fill:#ade
+LDA_023-->LDA_120
+style LDA_150 fill:#ade
+style LDA_190 fill:#ade
+style ENH_105 fill:#ade
+ENH_006-->ENH_105
+style ENH_133 fill:#ade
+BIS_002C-->210[One]
+PLS_002-->210[One]
+210-->ENH_133

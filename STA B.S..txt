@@ -1,0 +1,1058 @@
+graph BT;
+style 2 fill:#ddd
+2[Mathematics]-->MAT_021A
+2[Mathematics]-->MAT_021B
+2[Mathematics]-->MAT_021C
+2[Mathematics]-->MAT_021D
+style 3 fill:#ddd
+3[Choose one:]-->MAT_022A
+3[Choose one:]-->MAT_067
+style 4 fill:#ddd
+4[Computer Science Engineering choose one:]-->ECS_032A
+4[Computer Science Engineering choose one:]-->ECS_036A
+style 5 fill:#ddd
+5[Statistics choose one:]-->STA_013
+5[Statistics choose one:]-->STA_032
+5[Statistics choose one:]-->STA_100
+style 6 fill:#ddd
+6[Depth Subject Matter]-->STA_106
+6[Depth Subject Matter]-->STA_108
+6[Depth Subject Matter]-->STA_131A
+6[Depth Subject Matter]-->STA_131B
+6[Depth Subject Matter]-->STA_131C
+6[Depth Subject Matter]-->STA_138
+style 7 fill:#ddd
+7[Choose three:]-->STA_104
+7[Choose three:]-->STA_135
+7[Choose three:]-->STA_137
+7[Choose three:]-->STA_141A
+style 8 fill:#ddd
+8[Choose one:]-->STA_141B
+8[Choose one:]-->STA_141C
+8[Choose one:]-->STA_144
+8[Choose one:]-->STA_145
+8[Choose one:]-->STA_160
+8[Choose one:]-->MAT_168
+style 9 fill:#ddd
+9[Choose one approved four unit course:]-->STA_194HA
+9[Choose one approved four unit course:]-->STA_194HB
+9[Choose one approved four unit course:]-->STA_199
+style 10 fill:#ddd
+10[Mathematics]-->MAT_127A
+10[Mathematics]-->MAT_127B
+style 11 fill:#ddd
+11[Choose one:]-->MAT_108
+11[Choose one:]-->MAT_127C
+11[Choose one:]-->MAT_167
+style 12 fill:#ddd
+12[Choose a series:]-->MAT_016A
+12[Choose a series:]-->MAT_016B
+12[Choose a series:]-->MAT_016C
+12[Choose a series:]-->MAT_017A
+12[Choose a series:]-->MAT_017B
+12[Choose a series:]-->MAT_017C
+12[Choose a series:]-->MAT_021A
+12[Choose a series:]-->MAT_021B
+12[Choose a series:]-->MAT_021C
+style 13 fill:#ddd
+13[MAT 021 series preferred.]-->MAT_022A
+style 14 fill:#ddd
+14[Computer Science Engineering choose one:]-->ECS_032A
+14[Computer Science Engineering choose one:]-->ECS_036A
+style 15 fill:#ddd
+15[Statistics choose one:]-->STA_013
+15[Statistics choose one:]-->STA_032
+15[Statistics choose one:]-->STA_100
+style 16 fill:#ddd
+16[Depth Subject Matter]-->STA_106
+16[Depth Subject Matter]-->STA_108
+16[Depth Subject Matter]-->STA_130A
+16[Depth Subject Matter]-->STA_130B
+16[Depth Subject Matter]-->STA_138
+16[Depth Subject Matter]-->STA_141A
+style 17 fill:#ddd
+17[Choose three:]-->STA_104
+17[Choose three:]-->STA_135
+17[Choose three:]-->STA_137
+style 18 fill:#ddd
+18[Choose one:]-->STA_141B
+18[Choose one:]-->STA_141C
+18[Choose one:]-->STA_144
+18[Choose one:]-->STA_145
+18[Choose one:]-->STA_160
+18[Choose one:]-->MAT_168
+style 19 fill:#ddd
+19[Choose one approved four unit course:]-->STA_194HA
+19[Choose one approved four unit course:]-->STA_194HB
+19[Choose one approved four unit course:]-->STA_199
+style 20 fill:#ddd
+20[Mathematics]-->MAT_021A
+20[Mathematics]-->MAT_021B
+20[Mathematics]-->MAT_021C
+20[Mathematics]-->MAT_021D
+20[Mathematics]-->MAT_022A
+style 21 fill:#ddd
+21[Computer Science Engineering choose one:]-->ECS_034
+21[Computer Science Engineering choose one:]-->ECS_036C
+style 22 fill:#ddd
+22[Statistics choose one:]-->STA_013
+22[Statistics choose one:]-->STA_032
+22[Statistics choose one:]-->STA_100
+style 23 fill:#ddd
+23[Statistics]-->STA_106
+23[Statistics]-->STA_108
+23[Statistics]-->STA_131A
+23[Statistics]-->STA_131B
+23[Statistics]-->STA_141A
+style 24 fill:#ddd
+24[Choose two:]-->STA_104
+24[Choose two:]-->STA_135
+24[Choose two:]-->STA_137
+24[Choose two:]-->STA_138
+24[Choose two:]-->STA_144
+24[Choose two:]-->STA_145
+24[Choose two:]-->STA_160
+style 25 fill:#ddd
+25[Choose one approved four unit course:]-->STA_194HA
+25[Choose one approved four unit course:]-->STA_194HB
+25[Choose one approved four unit course:]-->STA_199
+style 26 fill:#ddd
+26[Choose one:]-->ECS_130
+26[Choose one:]-->ECS_145
+26[Choose one:]-->ECS_165A
+style 27 fill:#ddd
+27[Scientific Computational Algorithm & Visualization choose two:]-->ECS_122A
+27[Scientific Computational Algorithm & Visualization choose two:]-->ECS_129
+27[Scientific Computational Algorithm & Visualization choose two:]-->ECS_140A
+27[Scientific Computational Algorithm & Visualization choose two:]-->ECS_158
+27[Scientific Computational Algorithm & Visualization choose two:]-->ECS_163
+27[Scientific Computational Algorithm & Visualization choose two:]-->STA_141B
+27[Scientific Computational Algorithm & Visualization choose two:]-->STA_141C
+style 28 fill:#ddd
+28[Mathematics choose two:]-->MAT_124
+28[Mathematics choose two:]-->MAT_128A
+28[Mathematics choose two:]-->MAT_128B
+28[Mathematics choose two:]-->MAT_129
+28[Mathematics choose two:]-->MAT_145
+28[Mathematics choose two:]-->MAT_148
+28[Mathematics choose two:]-->MAT_160
+28[Mathematics choose two:]-->MAT_165
+28[Mathematics choose two:]-->MAT_167
+28[Mathematics choose two:]-->MAT_168
+style 29 fill:#ddd
+29[Mathematics]-->MAT_021A
+29[Mathematics]-->MAT_021B
+29[Mathematics]-->MAT_021C
+29[Mathematics]-->MAT_021D
+29[Mathematics]-->MAT_022A
+style 30 fill:#ddd
+30[Computer Science Engineering choose one:]-->ECS_032A
+30[Computer Science Engineering choose one:]-->ECS_036A
+style 31 fill:#ddd
+31[Statistics choose one:]-->STA_013
+31[Statistics choose one:]-->STA_032
+31[Statistics choose one:]-->STA_100
+style 32 fill:#ddd
+32[Statistics]-->STA_106
+32[Statistics]-->STA_108
+32[Statistics]-->STA_131A
+32[Statistics]-->STA_131B
+32[Statistics]-->STA_131C
+32[Statistics]-->STA_135
+32[Statistics]-->STA_141A
+32[Statistics]-->STA_141B
+32[Statistics]-->STA_141C
+32[Statistics]-->STA_160
+style 33 fill:#ddd
+33[Computer Science Engineering]-->ECS_171
+style 34 fill:#ddd
+34[Mathematics choose one:]-->MAT_167
+34[Mathematics choose one:]-->MAT_168
+style 35 fill:#ddd
+35[Choose one:]-->STA_104
+35[Choose one:]-->STA_137
+35[Choose one:]-->STA_138
+35[Choose one:]-->STA_144
+35[Choose one:]-->STA_145
+35[Choose one:]-->MAT_128A
+35[Choose one:]-->ECS_122A
+35[Choose one:]-->ECS_158
+35[Choose one:]-->ECS_163
+35[Choose one:]-->ECS_165A
+style 36 fill:#ddd
+36[Choose one approved four unit course:]-->STA_194HA
+36[Choose one approved four unit course:]-->STA_194HB
+36[Choose one approved four unit course:]-->STA_199
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->37[One]
+MAT_021A-->37[One]
+MAT_017A-->38[One]
+37-->38[One]
+38-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->39[One]
+MAT_016C-->39[One]
+MAT_021B-->40[One]
+39-->40[One]
+MAT_021BH-->41[One]
+40-->41[One]
+MAT_017B-->42[One]
+41-->42[One]
+42-->MAT_021C
+style MAT_021D fill:#ade
+MAT_021CH-->43[One]
+MAT_021C-->43[One]
+MAT_017C-->44[One]
+43-->44[One]
+44-->MAT_021D
+style MAT_022A fill:#ade
+MAT_017C-->45[One]
+MAT_016C-->45[One]
+MAT_021C-->46[One]
+45-->46[One]
+MAT_021CH-->47[One]
+46-->47[One]
+EME_005-->48[One]
+ENG_006-->48[One]
+ECH_060-->49[One]
+48-->49[One]
+MAT_022AL-->50[One]
+49-->50[One]
+50-->51[Both]
+47-->51[Both]
+51-->MAT_022A
+style MAT_067 fill:#ade
+MAT_021CH-->52[One]
+MAT_021C-->52[One]
+52-->MAT_067
+style ECS_032A fill:#ade
+style ECS_036A fill:#ade
+style STA_013 fill:#ade
+style STA_032 fill:#ade
+MAT_021B-->53[One]
+MAT_016B-->53[One]
+MAT_017B-->54[One]
+53-->54[One]
+54-->STA_032
+style STA_100 fill:#ade
+MAT_017B-->55[One]
+MAT_016B-->55[One]
+MAT_021B-->56[One]
+55-->56[One]
+56-->STA_100
+style STA_106 fill:#ade
+STA_013Y-->57[One]
+STA_013-->57[One]
+STA_032-->58[One]
+57-->58[One]
+STA_100-->59[One]
+58-->59[One]
+59-->STA_106
+style STA_108 fill:#ade
+STA_013Y-->60[One]
+STA_013-->60[One]
+STA_032-->61[One]
+60-->61[One]
+STA_100-->62[One]
+61-->62[One]
+62-->STA_108
+style STA_131A fill:#ade
+MAT_021C-->63[Both]
+MAT_021B-->63[Both]
+MAT_067-->64[One]
+MAT_022A-->64[One]
+64-->65[Both]
+63-->65[Both]
+65-->STA_131A
+style STA_131B fill:#ade
+MAT_135A-->66[One]
+STA_131A-->66[One]
+66-->STA_131B
+style STA_131C fill:#ade
+STA_131B-->STA_131C
+style STA_138 fill:#ade
+STA_131B-->67[One]
+STA_130B-->67[One]
+STA_108-->68[Both]
+STA_106-->68[Both]
+68-->69[One]
+67-->69[One]
+69-->STA_138
+style STA_104 fill:#ade
+STA_013Y-->70[One]
+STA_013-->70[One]
+STA_032-->71[One]
+70-->71[One]
+STA_100-->72[One]
+71-->72[One]
+72-->STA_104
+style STA_135 fill:#ade
+STA_131B-->73[One]
+STA_130B-->73[One]
+MAT_067-->74[One]
+MAT_022A-->74[One]
+74-->75[Both]
+73-->75[Both]
+75-->STA_135
+style STA_137 fill:#ade
+STA_108-->STA_137
+style STA_141A fill:#ade
+STA_106-->76[One]
+STA_108-->76[One]
+STA_100-->77[One]
+STA_032-->77[One]
+STA_013-->78[One]
+77-->78[One]
+STA_013Y-->79[One]
+78-->79[One]
+79-->80[Both]
+76-->80[Both]
+80-->STA_141A
+style STA_141B fill:#ade
+STA_141A-->STA_141B
+style STA_141C fill:#ade
+ECS_010-->81[Both]
+STA_141A-->81[Both]
+81-->82[One]
+STA_141B-->82[One]
+82-->STA_141C
+style STA_144 fill:#ade
+STA_131B-->83[One]
+STA_130B-->83[One]
+STA_108-->84[Both]
+STA_106-->84[Both]
+84-->85[One]
+83-->85[One]
+85-->STA_144
+style STA_145 fill:#ade
+STA_131B-->86[One]
+STA_130B-->86[One]
+86-->STA_145
+style STA_160 fill:#ade
+STA_108-->87[Both]
+STA_106-->87[Both]
+STA_131B-->88[One]
+STA_130B-->88[One]
+88-->89[Both]
+87-->89[Both]
+STA_141A-->90[One]
+STA_141-->90[One]
+90-->91[Both]
+89-->91[Both]
+91-->STA_160
+style MAT_168 fill:#ade
+MAT_108-->92[Both]
+MAT_022A-->92[Both]
+MAT_067-->93[One]
+92-->93[One]
+93-->94[Both]
+MAT_021C-->94[Both]
+94-->MAT_168
+style STA_194HA fill:#ade
+style STA_194HB fill:#ade
+style STA_199 fill:#ade
+style MAT_127A fill:#ade
+MAT_021CH-->95[One]
+MAT_021C-->95[One]
+MAT_108-->96[Both]
+MAT_022A-->96[Both]
+96-->97[One]
+MAT_067-->97[One]
+97-->98[Both]
+95-->98[Both]
+98-->MAT_127A
+style MAT_127B fill:#ade
+MAT_127A-->MAT_127B
+style MAT_108 fill:#ade
+MAT_021B-->MAT_108
+style MAT_127C fill:#ade
+MAT_127B-->MAT_127C
+style MAT_167 fill:#ade
+MAT_067-->99[One]
+MAT_022A-->99[One]
+99-->MAT_167
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->100[One]
+MAT_016A-->100[One]
+MAT_021A-->101[One]
+100-->101[One]
+MAT_021AH-->102[One]
+101-->102[One]
+102-->MAT_016B
+style MAT_016C fill:#ade
+MAT_017B-->103[One]
+MAT_016B-->103[One]
+MAT_021B-->104[One]
+103-->104[One]
+MAT_021BH-->105[One]
+104-->105[One]
+105-->MAT_016C
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->106[One]
+MAT_016A-->106[One]
+MAT_021A-->107[One]
+106-->107[One]
+MAT_021AH-->108[One]
+107-->108[One]
+108-->MAT_017B
+style MAT_017C fill:#ade
+MAT_017B-->MAT_017C
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->109[One]
+MAT_021A-->109[One]
+MAT_017A-->110[One]
+109-->110[One]
+110-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->111[One]
+MAT_016C-->111[One]
+MAT_021B-->112[One]
+111-->112[One]
+MAT_021BH-->113[One]
+112-->113[One]
+MAT_017B-->114[One]
+113-->114[One]
+114-->MAT_021C
+style MAT_022A fill:#ade
+MAT_017C-->115[One]
+MAT_016C-->115[One]
+MAT_021C-->116[One]
+115-->116[One]
+MAT_021CH-->117[One]
+116-->117[One]
+EME_005-->118[One]
+ENG_006-->118[One]
+ECH_060-->119[One]
+118-->119[One]
+MAT_022AL-->120[One]
+119-->120[One]
+120-->121[Both]
+117-->121[Both]
+121-->MAT_022A
+style ECS_032A fill:#ade
+style ECS_036A fill:#ade
+style STA_013 fill:#ade
+style STA_032 fill:#ade
+MAT_021B-->122[One]
+MAT_016B-->122[One]
+MAT_017B-->123[One]
+122-->123[One]
+123-->STA_032
+style STA_100 fill:#ade
+MAT_017B-->124[One]
+MAT_016B-->124[One]
+MAT_021B-->125[One]
+124-->125[One]
+125-->STA_100
+style STA_106 fill:#ade
+STA_013Y-->126[One]
+STA_013-->126[One]
+STA_032-->127[One]
+126-->127[One]
+STA_100-->128[One]
+127-->128[One]
+128-->STA_106
+style STA_108 fill:#ade
+STA_013Y-->129[One]
+STA_013-->129[One]
+STA_032-->130[One]
+129-->130[One]
+STA_100-->131[One]
+130-->131[One]
+131-->STA_108
+style STA_130A fill:#ade
+MAT_017C-->132[One]
+MAT_016C-->132[One]
+MAT_021C-->133[One]
+132-->133[One]
+133-->STA_130A
+style STA_130B fill:#ade
+STA_131A-->134[One]
+STA_130A-->134[One]
+MAT_135A-->135[One]
+134-->135[One]
+135-->STA_130B
+style STA_138 fill:#ade
+STA_131B-->136[One]
+STA_130B-->136[One]
+STA_108-->137[Both]
+STA_106-->137[Both]
+137-->138[One]
+136-->138[One]
+138-->STA_138
+style STA_141A fill:#ade
+STA_106-->139[One]
+STA_108-->139[One]
+STA_100-->140[One]
+STA_032-->140[One]
+STA_013-->141[One]
+140-->141[One]
+STA_013Y-->142[One]
+141-->142[One]
+142-->143[Both]
+139-->143[Both]
+143-->STA_141A
+style STA_104 fill:#ade
+STA_013Y-->144[One]
+STA_013-->144[One]
+STA_032-->145[One]
+144-->145[One]
+STA_100-->146[One]
+145-->146[One]
+146-->STA_104
+style STA_135 fill:#ade
+STA_131B-->147[One]
+STA_130B-->147[One]
+MAT_067-->148[One]
+MAT_022A-->148[One]
+148-->149[Both]
+147-->149[Both]
+149-->STA_135
+style STA_137 fill:#ade
+STA_108-->STA_137
+style STA_141B fill:#ade
+STA_141A-->STA_141B
+style STA_141C fill:#ade
+ECS_010-->150[Both]
+STA_141A-->150[Both]
+150-->151[One]
+STA_141B-->151[One]
+151-->STA_141C
+style STA_144 fill:#ade
+STA_131B-->152[One]
+STA_130B-->152[One]
+STA_108-->153[Both]
+STA_106-->153[Both]
+153-->154[One]
+152-->154[One]
+154-->STA_144
+style STA_145 fill:#ade
+STA_131B-->155[One]
+STA_130B-->155[One]
+155-->STA_145
+style STA_160 fill:#ade
+STA_108-->156[Both]
+STA_106-->156[Both]
+STA_131B-->157[One]
+STA_130B-->157[One]
+157-->158[Both]
+156-->158[Both]
+STA_141A-->159[One]
+STA_141-->159[One]
+159-->160[Both]
+158-->160[Both]
+160-->STA_160
+style MAT_168 fill:#ade
+MAT_108-->161[Both]
+MAT_022A-->161[Both]
+MAT_067-->162[One]
+161-->162[One]
+162-->163[Both]
+MAT_021C-->163[Both]
+163-->MAT_168
+style STA_194HA fill:#ade
+style STA_194HB fill:#ade
+style STA_199 fill:#ade
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->164[One]
+MAT_021A-->164[One]
+MAT_017A-->165[One]
+164-->165[One]
+165-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->166[One]
+MAT_016C-->166[One]
+MAT_021B-->167[One]
+166-->167[One]
+MAT_021BH-->168[One]
+167-->168[One]
+MAT_017B-->169[One]
+168-->169[One]
+169-->MAT_021C
+style MAT_021D fill:#ade
+MAT_021CH-->170[One]
+MAT_021C-->170[One]
+MAT_017C-->171[One]
+170-->171[One]
+171-->MAT_021D
+style MAT_022A fill:#ade
+MAT_017C-->172[One]
+MAT_016C-->172[One]
+MAT_021C-->173[One]
+172-->173[One]
+MAT_021CH-->174[One]
+173-->174[One]
+EME_005-->175[One]
+ENG_006-->175[One]
+ECH_060-->176[One]
+175-->176[One]
+MAT_022AL-->177[One]
+176-->177[One]
+177-->178[Both]
+174-->178[Both]
+178-->MAT_022A
+style ECS_034 fill:#ade
+ECS_032B-->ECS_034
+style ECS_036C fill:#ade
+ECS_036B-->179[One]
+ECS_040-->179[One]
+ECS_020-->180[Both]
+179-->180[Both]
+180-->ECS_036C
+style STA_013 fill:#ade
+style STA_032 fill:#ade
+MAT_021B-->181[One]
+MAT_016B-->181[One]
+MAT_017B-->182[One]
+181-->182[One]
+182-->STA_032
+style STA_100 fill:#ade
+MAT_017B-->183[One]
+MAT_016B-->183[One]
+MAT_021B-->184[One]
+183-->184[One]
+184-->STA_100
+style STA_106 fill:#ade
+STA_013Y-->185[One]
+STA_013-->185[One]
+STA_032-->186[One]
+185-->186[One]
+STA_100-->187[One]
+186-->187[One]
+187-->STA_106
+style STA_108 fill:#ade
+STA_013Y-->188[One]
+STA_013-->188[One]
+STA_032-->189[One]
+188-->189[One]
+STA_100-->190[One]
+189-->190[One]
+190-->STA_108
+style STA_131A fill:#ade
+MAT_021C-->191[Both]
+MAT_021B-->191[Both]
+MAT_067-->192[One]
+MAT_022A-->192[One]
+192-->193[Both]
+191-->193[Both]
+193-->STA_131A
+style STA_131B fill:#ade
+MAT_135A-->194[One]
+STA_131A-->194[One]
+194-->STA_131B
+style STA_141A fill:#ade
+STA_106-->195[One]
+STA_108-->195[One]
+STA_100-->196[One]
+STA_032-->196[One]
+STA_013-->197[One]
+196-->197[One]
+STA_013Y-->198[One]
+197-->198[One]
+198-->199[Both]
+195-->199[Both]
+199-->STA_141A
+style STA_104 fill:#ade
+STA_013Y-->200[One]
+STA_013-->200[One]
+STA_032-->201[One]
+200-->201[One]
+STA_100-->202[One]
+201-->202[One]
+202-->STA_104
+style STA_135 fill:#ade
+STA_131B-->203[One]
+STA_130B-->203[One]
+MAT_067-->204[One]
+MAT_022A-->204[One]
+204-->205[Both]
+203-->205[Both]
+205-->STA_135
+style STA_137 fill:#ade
+STA_108-->STA_137
+style STA_138 fill:#ade
+STA_131B-->206[One]
+STA_130B-->206[One]
+STA_108-->207[Both]
+STA_106-->207[Both]
+207-->208[One]
+206-->208[One]
+208-->STA_138
+style STA_144 fill:#ade
+STA_131B-->209[One]
+STA_130B-->209[One]
+STA_108-->210[Both]
+STA_106-->210[Both]
+210-->211[One]
+209-->211[One]
+211-->STA_144
+style STA_145 fill:#ade
+STA_131B-->212[One]
+STA_130B-->212[One]
+212-->STA_145
+style STA_160 fill:#ade
+STA_108-->213[Both]
+STA_106-->213[Both]
+STA_131B-->214[One]
+STA_130B-->214[One]
+214-->215[Both]
+213-->215[Both]
+STA_141A-->216[One]
+STA_141-->216[One]
+216-->217[Both]
+215-->217[Both]
+217-->STA_160
+style STA_194HA fill:#ade
+style STA_194HB fill:#ade
+style STA_199 fill:#ade
+style ECS_130 fill:#ade
+ENG_006-->218[One]
+ECS_030-->218[One]
+ECS_032A-->219[One]
+218-->219[One]
+ECS_010-->220[One]
+219-->220[One]
+ECS_036A-->221[One]
+220-->221[One]
+MAT_067-->222[One]
+MAT_022A-->222[One]
+222-->223[Both]
+221-->223[Both]
+223-->ECS_130
+style ECS_145 fill:#ade
+ECS_036C-->224[One]
+ECS_034-->224[One]
+ECS_060-->225[One]
+224-->225[One]
+225-->ECS_145
+style ECS_165A fill:#ade
+ECS_032B-->226[One]
+ECS_060-->226[One]
+ECS_036C-->227[One]
+226-->227[One]
+227-->ECS_165A
+style ECS_122A fill:#ade
+ECS_032B-->228[One]
+ECS_060-->228[One]
+ECS_036C-->229[One]
+228-->229[One]
+229-->230[Both]
+ECS_020-->230[Both]
+230-->ECS_122A
+style ECS_129 fill:#ade
+MCB_010-->231[One]
+BIS_002A-->231[One]
+ECS_032A-->232[One]
+ECS_010-->232[One]
+ECS_036A-->233[One]
+232-->233[One]
+233-->234[Both]
+231-->234[Both]
+234-->ECS_129
+style ECS_140A fill:#ade
+ECS_032B-->235[One]
+ECS_060-->235[One]
+ECS_036C-->236[One]
+235-->236[One]
+236-->237[Both]
+ECS_050-->237[Both]
+ECS_020-->238[Both]
+237-->238[Both]
+238-->ECS_140A
+style ECS_158 fill:#ade
+ECS_150-->ECS_158
+style ECS_163 fill:#ade
+ECS_032B-->239[One]
+ECS_060-->239[One]
+ECS_036C-->240[One]
+239-->240[One]
+240-->ECS_163
+style STA_141B fill:#ade
+STA_141A-->STA_141B
+style STA_141C fill:#ade
+ECS_010-->241[Both]
+STA_141A-->241[Both]
+241-->242[One]
+STA_141B-->242[One]
+242-->STA_141C
+style MAT_124 fill:#ade
+MAT_067-->243[One]
+MAT_022A-->243[One]
+243-->244[Both]
+MAT_022B-->244[Both]
+244-->MAT_124
+style MAT_128A fill:#ade
+ENG_006-->245[One]
+ECS_032A-->245[One]
+EME_005-->246[One]
+245-->246[One]
+ECS_030-->247[One]
+246-->247[One]
+247-->248[Both]
+MAT_021C-->248[Both]
+248-->MAT_128A
+style MAT_128B fill:#ade
+MAT_067-->249[One]
+MAT_022A-->249[One]
+ENG_006-->250[One]
+ECS_032A-->250[One]
+EME_005-->251[One]
+250-->251[One]
+ECS_030-->252[One]
+251-->252[One]
+252-->253[Both]
+249-->253[Both]
+253-->MAT_128B
+style MAT_129 fill:#ade
+MAT_022B-->254[Both]
+MAT_021D-->254[Both]
+MAT_067-->255[One]
+MAT_022A-->255[One]
+255-->256[Both]
+254-->256[Both]
+MAT_025-->257[Both]
+256-->257[Both]
+257-->MAT_129
+style MAT_145 fill:#ade
+MAT_021C-->MAT_145
+style MAT_148 fill:#ade
+MAT_108-->258[Both]
+MAT_022A-->258[Both]
+258-->259[One]
+MAT_067-->259[One]
+259-->MAT_148
+style MAT_160 fill:#ade
+MAT_167-->MAT_160
+style MAT_165 fill:#ade
+MAT_067-->260[One]
+MAT_022A-->260[One]
+MAT_108-->261[One]
+MAT_025-->261[One]
+MAT_114-->262[One]
+261-->262[One]
+MAT_115A-->263[One]
+262-->263[One]
+MAT_145-->264[One]
+263-->264[One]
+264-->265[Both]
+260-->265[Both]
+265-->MAT_165
+style MAT_167 fill:#ade
+MAT_067-->266[One]
+MAT_022A-->266[One]
+266-->MAT_167
+style MAT_168 fill:#ade
+MAT_108-->267[Both]
+MAT_022A-->267[Both]
+MAT_067-->268[One]
+267-->268[One]
+268-->269[Both]
+MAT_021C-->269[Both]
+269-->MAT_168
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->270[One]
+MAT_021A-->270[One]
+MAT_017A-->271[One]
+270-->271[One]
+271-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->272[One]
+MAT_016C-->272[One]
+MAT_021B-->273[One]
+272-->273[One]
+MAT_021BH-->274[One]
+273-->274[One]
+MAT_017B-->275[One]
+274-->275[One]
+275-->MAT_021C
+style MAT_021D fill:#ade
+MAT_021CH-->276[One]
+MAT_021C-->276[One]
+MAT_017C-->277[One]
+276-->277[One]
+277-->MAT_021D
+style MAT_022A fill:#ade
+MAT_017C-->278[One]
+MAT_016C-->278[One]
+MAT_021C-->279[One]
+278-->279[One]
+MAT_021CH-->280[One]
+279-->280[One]
+EME_005-->281[One]
+ENG_006-->281[One]
+ECH_060-->282[One]
+281-->282[One]
+MAT_022AL-->283[One]
+282-->283[One]
+283-->284[Both]
+280-->284[Both]
+284-->MAT_022A
+style ECS_032A fill:#ade
+style ECS_036A fill:#ade
+style STA_013 fill:#ade
+style STA_032 fill:#ade
+MAT_021B-->285[One]
+MAT_016B-->285[One]
+MAT_017B-->286[One]
+285-->286[One]
+286-->STA_032
+style STA_100 fill:#ade
+MAT_017B-->287[One]
+MAT_016B-->287[One]
+MAT_021B-->288[One]
+287-->288[One]
+288-->STA_100
+style STA_106 fill:#ade
+STA_013Y-->289[One]
+STA_013-->289[One]
+STA_032-->290[One]
+289-->290[One]
+STA_100-->291[One]
+290-->291[One]
+291-->STA_106
+style STA_108 fill:#ade
+STA_013Y-->292[One]
+STA_013-->292[One]
+STA_032-->293[One]
+292-->293[One]
+STA_100-->294[One]
+293-->294[One]
+294-->STA_108
+style STA_131A fill:#ade
+MAT_021C-->295[Both]
+MAT_021B-->295[Both]
+MAT_067-->296[One]
+MAT_022A-->296[One]
+296-->297[Both]
+295-->297[Both]
+297-->STA_131A
+style STA_131B fill:#ade
+MAT_135A-->298[One]
+STA_131A-->298[One]
+298-->STA_131B
+style STA_131C fill:#ade
+STA_131B-->STA_131C
+style STA_135 fill:#ade
+STA_131B-->299[One]
+STA_130B-->299[One]
+MAT_067-->300[One]
+MAT_022A-->300[One]
+300-->301[Both]
+299-->301[Both]
+301-->STA_135
+style STA_141A fill:#ade
+STA_106-->302[One]
+STA_108-->302[One]
+STA_100-->303[One]
+STA_032-->303[One]
+STA_013-->304[One]
+303-->304[One]
+STA_013Y-->305[One]
+304-->305[One]
+305-->306[Both]
+302-->306[Both]
+306-->STA_141A
+style STA_141B fill:#ade
+STA_141A-->STA_141B
+style STA_141C fill:#ade
+ECS_010-->307[Both]
+STA_141A-->307[Both]
+307-->308[One]
+STA_141B-->308[One]
+308-->STA_141C
+style STA_160 fill:#ade
+STA_108-->309[Both]
+STA_106-->309[Both]
+STA_131B-->310[One]
+STA_130B-->310[One]
+310-->311[Both]
+309-->311[Both]
+STA_141A-->312[One]
+STA_141-->312[One]
+312-->313[Both]
+311-->313[Both]
+313-->STA_160
+style ECS_171 fill:#ade
+style MAT_167 fill:#ade
+MAT_067-->314[One]
+MAT_022A-->314[One]
+314-->MAT_167
+style MAT_168 fill:#ade
+MAT_108-->315[Both]
+MAT_022A-->315[Both]
+MAT_067-->316[One]
+315-->316[One]
+316-->317[Both]
+MAT_021C-->317[Both]
+317-->MAT_168
+style STA_104 fill:#ade
+STA_013Y-->318[One]
+STA_013-->318[One]
+STA_032-->319[One]
+318-->319[One]
+STA_100-->320[One]
+319-->320[One]
+320-->STA_104
+style STA_137 fill:#ade
+STA_108-->STA_137
+style STA_138 fill:#ade
+STA_131B-->321[One]
+STA_130B-->321[One]
+STA_108-->322[Both]
+STA_106-->322[Both]
+322-->323[One]
+321-->323[One]
+323-->STA_138
+style STA_144 fill:#ade
+STA_131B-->324[One]
+STA_130B-->324[One]
+STA_108-->325[Both]
+STA_106-->325[Both]
+325-->326[One]
+324-->326[One]
+326-->STA_144
+style STA_145 fill:#ade
+STA_131B-->327[One]
+STA_130B-->327[One]
+327-->STA_145
+style MAT_128A fill:#ade
+ENG_006-->328[One]
+ECS_032A-->328[One]
+EME_005-->329[One]
+328-->329[One]
+ECS_030-->330[One]
+329-->330[One]
+330-->331[Both]
+MAT_021C-->331[Both]
+331-->MAT_128A
+style ECS_122A fill:#ade
+ECS_032B-->332[One]
+ECS_060-->332[One]
+ECS_036C-->333[One]
+332-->333[One]
+333-->334[Both]
+ECS_020-->334[Both]
+334-->ECS_122A
+style ECS_158 fill:#ade
+ECS_150-->ECS_158
+style ECS_163 fill:#ade
+ECS_032B-->335[One]
+ECS_060-->335[One]
+ECS_036C-->336[One]
+335-->336[One]
+336-->ECS_163
+style ECS_165A fill:#ade
+ECS_032B-->337[One]
+ECS_060-->337[One]
+ECS_036C-->338[One]
+337-->338[One]
+338-->ECS_165A
+style STA_194HA fill:#ade
+style STA_194HB fill:#ade
+style STA_199 fill:#ade

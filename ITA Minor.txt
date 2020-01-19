@@ -1,0 +1,128 @@
+graph BT;
+style 2 fill:#ddd
+2[Three required courses:]-->ITA_105
+style 3 fill:#ddd
+3[Choose one:]-->ITA_101
+3[Choose one:]-->ITA_101S
+style 4 fill:#ddd
+4[Choose one Italian literature course taught in Italian:]-->ITA_112
+4[Choose one Italian literature course taught in Italian:]-->ITA_113
+4[Choose one Italian literature course taught in Italian:]-->ITA_114
+4[Choose one Italian literature course taught in Italian:]-->ITA_115A
+4[Choose one Italian literature course taught in Italian:]-->ITA_115B
+4[Choose one Italian literature course taught in Italian:]-->ITA_115C
+4[Choose one Italian literature course taught in Italian:]-->ITA_115D
+4[Choose one Italian literature course taught in Italian:]-->ITA_118
+4[Choose one Italian literature course taught in Italian:]-->ITA_119
+4[Choose one Italian literature course taught in Italian:]-->ITA_120A
+4[Choose one Italian literature course taught in Italian:]-->ITA_120B
+4[Choose one Italian literature course taught in Italian:]-->ITA_145
+style 5 fill:#ddd
+5[Choose two Elective Courses in Italian literature, cinema, or culture in consultation with the Italian faculty advisor. In addition to the literature courses listed above, students may choose:]-->ITA_104
+5[Choose two Elective Courses in Italian literature, cinema, or culture in consultation with the Italian faculty advisor. In addition to the literature courses listed above, students may choose:]-->ITA_128
+5[Choose two Elective Courses in Italian literature, cinema, or culture in consultation with the Italian faculty advisor. In addition to the literature courses listed above, students may choose:]-->ITA_131
+5[Choose two Elective Courses in Italian literature, cinema, or culture in consultation with the Italian faculty advisor. In addition to the literature courses listed above, students may choose:]-->ITA_150
+style 6 fill:#ddd
+6[Choose one:]-->ITA_107
+6[Choose one:]-->ITA_107S
+style 7 fill:#ddd
+7[Choose one:]-->ITA_108
+7[Choose one:]-->ITA_108S
+style 8 fill:#ddd
+8[Choose one:]-->ITA_121
+8[Choose one:]-->FMS_121
+8[Choose one:]-->ITA_121S
+8[Choose one:]-->FMS_121S
+style 9 fill:#ddd
+9[Choose one:]-->ITA_141
+9[Choose one:]-->COM_138
+style 10 fill:#ddd
+10[Choose one:]-->ITA_145
+10[Choose one:]-->ITA_145S
+style ITA_105 fill:#ade
+ITA_009S-->11[One]
+ITA_009-->11[One]
+11-->ITA_105
+style ITA_101 fill:#ade
+ITA_009S-->12[One]
+ITA_009-->12[One]
+12-->ITA_101
+style ITA_101S fill:#ade
+ITA_009S-->13[One]
+ITA_009-->13[One]
+13-->ITA_101S
+style ITA_112 fill:#ade
+ITA_009S-->14[One]
+ITA_009-->14[One]
+14-->ITA_112
+style ITA_113 fill:#ade
+ITA_009S-->15[One]
+ITA_009-->15[One]
+15-->ITA_113
+style ITA_114 fill:#ade
+ITA_009S-->16[One]
+ITA_009-->16[One]
+16-->ITA_114
+style ITA_115A fill:#ade
+ITA_009S-->17[One]
+ITA_009-->17[One]
+17-->ITA_115A
+style ITA_115B fill:#ade
+ITA_115A-->ITA_115B
+style ITA_115C fill:#ade
+ITA_009-->ITA_115C
+style ITA_115D fill:#ade
+ITA_009S-->18[One]
+ITA_009-->18[One]
+18-->ITA_115D
+style ITA_118 fill:#ade
+ITA_009S-->19[One]
+ITA_009-->19[One]
+19-->ITA_118
+style ITA_119 fill:#ade
+ITA_009S-->20[One]
+ITA_009-->20[One]
+20-->ITA_119
+style ITA_120A fill:#ade
+ITA_009-->ITA_120A
+style ITA_120B fill:#ade
+ITA_009-->ITA_120B
+style ITA_145 fill:#ade
+ITA_009S-->21[One]
+ITA_009-->21[One]
+21-->ITA_145
+style ITA_104 fill:#ade
+ITA_009S-->22[One]
+ITA_009-->22[One]
+22-->ITA_104
+style ITA_128 fill:#ade
+ITA_009S-->23[One]
+ITA_009-->23[One]
+23-->ITA_128
+style ITA_131 fill:#ade
+ITA_009S-->24[One]
+ITA_009-->24[One]
+24-->ITA_131
+style ITA_150 fill:#ade
+style ITA_107 fill:#ade
+style ITA_107S fill:#ade
+style ITA_108 fill:#ade
+style ITA_108S fill:#ade
+style ITA_121 fill:#ade
+FMS_001-->ITA_121
+style FMS_121 fill:#ade
+FMS_001-->FMS_121
+style ITA_121S fill:#ade
+FMS_001-->ITA_121S
+style FMS_121S fill:#ade
+FMS_001-->FMS_121S
+style ITA_141 fill:#ade
+style COM_138 fill:#ade
+style ITA_145 fill:#ade
+ITA_009S-->25[One]
+ITA_009-->25[One]
+25-->ITA_145
+style ITA_145S fill:#ade
+ITA_009S-->26[One]
+ITA_009-->26[One]
+26-->ITA_145S

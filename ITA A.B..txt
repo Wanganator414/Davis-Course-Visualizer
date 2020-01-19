@@ -1,0 +1,195 @@
+graph BT;
+style 2 fill:#ddd
+2[Units: 27]-->ITA_001
+2[Units: 27]-->ITA_002
+2[Units: 27]-->ITA_003
+2[Units: 27]-->ITA_004
+2[Units: 27]-->ITA_005
+2[Units: 27]-->ITA_009
+style 3 fill:#ddd
+3[Choose one:]-->ITA_101
+3[Choose one:]-->ITA_101S
+3[Choose one:]-->ITA_105
+style 4 fill:#ddd
+4[a Medieval Italian:]-->ITA_112
+4[a Medieval Italian:]-->ITA_113
+4[a Medieval Italian:]-->ITA_114
+4[a Medieval Italian:]-->ITA_145
+style 5 fill:#ddd
+5[b Renaissance Italian:]-->ITA_115A
+5[b Renaissance Italian:]-->ITA_115B
+5[b Renaissance Italian:]-->ITA_115C
+5[b Renaissance Italian:]-->ITA_115D
+5[b Renaissance Italian:]-->ITA_145
+style 6 fill:#ddd
+6[c Modern Italian:]-->ITA_118
+6[c Modern Italian:]-->ITA_119
+6[c Modern Italian:]-->ITA_120A
+6[c Modern Italian:]-->ITA_120B
+6[c Modern Italian:]-->ITA_145
+style 7 fill:#ddd
+7[Five Elective Courses in Italian literature, cinema, or culture, to be chosen in consultation with the Italian faculty advisor, from among the following:]-->ITA_104
+7[Five Elective Courses in Italian literature, cinema, or culture, to be chosen in consultation with the Italian faculty advisor, from among the following:]-->ITA_128
+7[Five Elective Courses in Italian literature, cinema, or culture, to be chosen in consultation with the Italian faculty advisor, from among the following:]-->ITA_131
+7[Five Elective Courses in Italian literature, cinema, or culture, to be chosen in consultation with the Italian faculty advisor, from among the following:]-->ITA_150
+7[Five Elective Courses in Italian literature, cinema, or culture, to be chosen in consultation with the Italian faculty advisor, from among the following:]-->ITA_194H
+7[Five Elective Courses in Italian literature, cinema, or culture, to be chosen in consultation with the Italian faculty advisor, from among the following:]-->ITA_195H
+style 8 fill:#ddd
+8[Choose one:]-->ITA_107
+8[Choose one:]-->ITA_107S
+style 9 fill:#ddd
+9[Choose one:]-->ITA_108
+9[Choose one:]-->ITA_108S
+style 10 fill:#ddd
+10[Choose one:]-->ITA_145
+10[Choose one:]-->ITA_145S
+style 11 fill:#ddd
+11[Choose one:]-->ITA_121
+11[Choose one:]-->FMS_121
+style 12 fill:#ddd
+12[Choose one:]-->ITA_121S
+12[Choose one:]-->FMS_121S
+style 13 fill:#ddd
+13[Choose one:]-->ITA_141
+13[Choose one:]-->COM_138
+style 14 fill:#ddd
+14[Up to two of the five electives may be selected from courses in related fields offered in other departments. These must be chosen in consultation with the Italian faculty advisor. Sample courses include:]-->AHI_178B
+14[Up to two of the five electives may be selected from courses in related fields offered in other departments. These must be chosen in consultation with the Italian faculty advisor. Sample courses include:]-->AHI_178C
+14[Up to two of the five electives may be selected from courses in related fields offered in other departments. These must be chosen in consultation with the Italian faculty advisor. Sample courses include:]-->ANT_146N
+14[Up to two of the five electives may be selected from courses in related fields offered in other departments. These must be chosen in consultation with the Italian faculty advisor. Sample courses include:]-->COM_158
+14[Up to two of the five electives may be selected from courses in related fields offered in other departments. These must be chosen in consultation with the Italian faculty advisor. Sample courses include:]-->COM_164A
+14[Up to two of the five electives may be selected from courses in related fields offered in other departments. These must be chosen in consultation with the Italian faculty advisor. Sample courses include:]-->COM_164B
+14[Up to two of the five electives may be selected from courses in related fields offered in other departments. These must be chosen in consultation with the Italian faculty advisor. Sample courses include:]-->COM_167
+14[Up to two of the five electives may be selected from courses in related fields offered in other departments. These must be chosen in consultation with the Italian faculty advisor. Sample courses include:]-->FMS_120
+14[Up to two of the five electives may be selected from courses in related fields offered in other departments. These must be chosen in consultation with the Italian faculty advisor. Sample courses include:]-->HIS_146A
+14[Up to two of the five electives may be selected from courses in related fields offered in other departments. These must be chosen in consultation with the Italian faculty advisor. Sample courses include:]-->HIS_146B
+style ITA_001 fill:#ade
+style ITA_002 fill:#ade
+ITA_001S-->15[One]
+ITA_001-->15[One]
+15-->ITA_002
+style ITA_003 fill:#ade
+ITA_002S-->16[One]
+ITA_002-->16[One]
+16-->ITA_003
+style ITA_004 fill:#ade
+ITA_003S-->17[One]
+ITA_003-->17[One]
+17-->ITA_004
+style ITA_005 fill:#ade
+ITA_004S-->18[One]
+ITA_004-->18[One]
+18-->ITA_005
+style ITA_009 fill:#ade
+ITA_005S-->19[One]
+ITA_005-->19[One]
+19-->ITA_009
+style ITA_101 fill:#ade
+ITA_009S-->20[One]
+ITA_009-->20[One]
+20-->ITA_101
+style ITA_101S fill:#ade
+ITA_009S-->21[One]
+ITA_009-->21[One]
+21-->ITA_101S
+style ITA_105 fill:#ade
+ITA_009S-->22[One]
+ITA_009-->22[One]
+22-->ITA_105
+style ITA_112 fill:#ade
+ITA_009S-->23[One]
+ITA_009-->23[One]
+23-->ITA_112
+style ITA_113 fill:#ade
+ITA_009S-->24[One]
+ITA_009-->24[One]
+24-->ITA_113
+style ITA_114 fill:#ade
+ITA_009S-->25[One]
+ITA_009-->25[One]
+25-->ITA_114
+style ITA_145 fill:#ade
+ITA_009S-->26[One]
+ITA_009-->26[One]
+26-->ITA_145
+style ITA_115A fill:#ade
+ITA_009S-->27[One]
+ITA_009-->27[One]
+27-->ITA_115A
+style ITA_115B fill:#ade
+ITA_115A-->ITA_115B
+style ITA_115C fill:#ade
+ITA_009-->ITA_115C
+style ITA_115D fill:#ade
+ITA_009S-->28[One]
+ITA_009-->28[One]
+28-->ITA_115D
+style ITA_145 fill:#ade
+ITA_009S-->29[One]
+ITA_009-->29[One]
+29-->ITA_145
+style ITA_118 fill:#ade
+ITA_009S-->30[One]
+ITA_009-->30[One]
+30-->ITA_118
+style ITA_119 fill:#ade
+ITA_009S-->31[One]
+ITA_009-->31[One]
+31-->ITA_119
+style ITA_120A fill:#ade
+ITA_009-->ITA_120A
+style ITA_120B fill:#ade
+ITA_009-->ITA_120B
+style ITA_145 fill:#ade
+ITA_009S-->32[One]
+ITA_009-->32[One]
+32-->ITA_145
+style ITA_104 fill:#ade
+ITA_009S-->33[One]
+ITA_009-->33[One]
+33-->ITA_104
+style ITA_128 fill:#ade
+ITA_009S-->34[One]
+ITA_009-->34[One]
+34-->ITA_128
+style ITA_131 fill:#ade
+ITA_009S-->35[One]
+ITA_009-->35[One]
+35-->ITA_131
+style ITA_150 fill:#ade
+style ITA_194H fill:#ade
+style ITA_195H fill:#ade
+ITA_194H-->ITA_195H
+style ITA_107 fill:#ade
+style ITA_107S fill:#ade
+style ITA_108 fill:#ade
+style ITA_108S fill:#ade
+style ITA_145 fill:#ade
+ITA_009S-->36[One]
+ITA_009-->36[One]
+36-->ITA_145
+style ITA_145S fill:#ade
+ITA_009S-->37[One]
+ITA_009-->37[One]
+37-->ITA_145S
+style ITA_121 fill:#ade
+FMS_001-->ITA_121
+style FMS_121 fill:#ade
+FMS_001-->FMS_121
+style ITA_121S fill:#ade
+FMS_001-->ITA_121S
+style FMS_121S fill:#ade
+FMS_001-->FMS_121S
+style ITA_141 fill:#ade
+style COM_138 fill:#ade
+style AHI_178B fill:#ade
+style AHI_178C fill:#ade
+style ANT_146N fill:#ade
+style COM_158 fill:#ade
+style COM_164A fill:#ade
+style COM_164B fill:#ade
+style COM_167 fill:#ade
+style FMS_120 fill:#ade
+FMS_001-->FMS_120
+style HIS_146A fill:#ade
+style HIS_146B fill:#ade

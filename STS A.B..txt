@@ -1,0 +1,217 @@
+graph BT;
+style 2 fill:#ddd
+2[Units: 16]-->STS_001
+style 3 fill:#ddd
+3[Choose three additional courses:]-->STS_002
+3[Choose three additional courses:]-->STS_011
+3[Choose three additional courses:]-->STS_016
+3[Choose three additional courses:]-->STS_032
+3[Choose three additional courses:]-->STS_040A
+3[Choose three additional courses:]-->STS_040B
+3[Choose three additional courses:]-->STS_050
+3[Choose three additional courses:]-->PHI_030
+3[Choose three additional courses:]-->PHI_031
+3[Choose three additional courses:]-->PHI_032
+style 4 fill:#ddd
+4[Choose one:]-->STS_020
+style 5 fill:#ddd
+5[Choose three for 12 units:]-->STS_101
+5[Choose three for 12 units:]-->STS_108
+5[Choose three for 12 units:]-->STS_121
+5[Choose three for 12 units:]-->STS_122
+5[Choose three for 12 units:]-->STS_150
+5[Choose three for 12 units:]-->STS_151
+5[Choose three for 12 units:]-->STS_164
+5[Choose three for 12 units:]-->STS_175
+5[Choose three for 12 units:]-->STS_176
+style 6 fill:#ddd
+6[1 Law & Innovation]-->STS_108
+6[1 Law & Innovation]-->STS_109
+6[1 Law & Innovation]-->STS_110
+6[1 Law & Innovation]-->STS_112
+6[1 Law & Innovation]-->STS_113
+6[1 Law & Innovation]-->STS_114
+6[1 Law & Innovation]-->STS_162
+6[1 Law & Innovation]-->STS_176
+6[1 Law & Innovation]-->CRD_118
+6[1 Law & Innovation]-->CRD_140
+style 7 fill:#ddd
+7[2 Health & Environment]-->STS_109
+7[2 Health & Environment]-->STS_121
+7[2 Health & Environment]-->STS_122
+7[2 Health & Environment]-->STS_129
+7[2 Health & Environment]-->STS_130A
+7[2 Health & Environment]-->STS_130B
+7[2 Health & Environment]-->STS_131
+7[2 Health & Environment]-->STS_150
+7[2 Health & Environment]-->STS_165
+7[2 Health & Environment]-->ANT_104N
+7[2 Health & Environment]-->ANT_131
+7[2 Health & Environment]-->PHI_120
+style 8 fill:#ddd
+8[3 Data & Media Technologies]-->STS_101
+8[3 Data & Media Technologies]-->STS_109
+8[3 Data & Media Technologies]-->STS_110
+8[3 Data & Media Technologies]-->STS_112
+8[3 Data & Media Technologies]-->STS_113
+8[3 Data & Media Technologies]-->STS_114
+8[3 Data & Media Technologies]-->STS_115
+8[3 Data & Media Technologies]-->STS_151
+8[3 Data & Media Technologies]-->STS_152
+8[3 Data & Media Technologies]-->STS_160
+8[3 Data & Media Technologies]-->STS_161
+8[3 Data & Media Technologies]-->STS_162
+8[3 Data & Media Technologies]-->STS_163
+8[3 Data & Media Technologies]-->STS_164
+8[3 Data & Media Technologies]-->STS_172
+8[3 Data & Media Technologies]-->STS_173
+style 9 fill:#ddd
+9[4 History & Philosophy of Science]-->STS_110
+9[4 History & Philosophy of Science]-->STS_112
+9[4 History & Philosophy of Science]-->STS_113
+9[4 History & Philosophy of Science]-->STS_114
+9[4 History & Philosophy of Science]-->STS_122
+9[4 History & Philosophy of Science]-->STS_129
+9[4 History & Philosophy of Science]-->STS_130A
+9[4 History & Philosophy of Science]-->STS_130B
+9[4 History & Philosophy of Science]-->STS_131
+9[4 History & Philosophy of Science]-->STS_150
+9[4 History & Philosophy of Science]-->STS_161
+9[4 History & Philosophy of Science]-->STS_164
+9[4 History & Philosophy of Science]-->CLA_101E
+9[4 History & Philosophy of Science]-->PHI_107
+9[4 History & Philosophy of Science]-->PHI_108
+9[4 History & Philosophy of Science]-->PHI_109
+9[4 History & Philosophy of Science]-->PHI_111
+9[4 History & Philosophy of Science]-->PHI_120
+9[4 History & Philosophy of Science]-->PHI_121
+9[4 History & Philosophy of Science]-->PHI_131
+9[4 History & Philosophy of Science]-->PHI_189I
+style STS_001 fill:#ade
+style STS_002 fill:#ade
+style STS_011 fill:#ade
+style STS_016 fill:#ade
+style STS_032 fill:#ade
+style STS_040A fill:#ade
+style STS_040B fill:#ade
+STS_040A-->STS_040B
+style STS_050 fill:#ade
+style PHI_030 fill:#ade
+style PHI_031 fill:#ade
+style PHI_032 fill:#ade
+style STS_020 fill:#ade
+style STS_101 fill:#ade
+style STS_108 fill:#ade
+STS_001-->STS_108
+style STS_121 fill:#ade
+style STS_122 fill:#ade
+style STS_150 fill:#ade
+style STS_151 fill:#ade
+style STS_164 fill:#ade
+ENL_003-->10[One]
+STS_001-->10[One]
+10-->STS_164
+style STS_175 fill:#ade
+style STS_176 fill:#ade
+SOC_001-->STS_176
+style STS_108 fill:#ade
+STS_001-->STS_108
+style STS_109 fill:#ade
+style STS_110 fill:#ade
+style STS_112 fill:#ade
+style STS_113 fill:#ade
+style STS_114 fill:#ade
+style STS_162 fill:#ade
+TCS_001-->11[One]
+STS_020-->11[One]
+11-->STS_162
+style STS_176 fill:#ade
+SOC_001-->STS_176
+style CRD_118 fill:#ade
+CRD_002-->12[One]
+CRD_001-->12[One]
+SOC_001-->13[One]
+12-->13[One]
+ANT_002-->14[One]
+13-->14[One]
+14-->CRD_118
+style CRD_140 fill:#ade
+CRD_002-->15[One]
+CRD_001-->15[One]
+SOC_001-->16[One]
+15-->16[One]
+ANT_002-->17[One]
+16-->17[One]
+17-->CRD_140
+style STS_109 fill:#ade
+style STS_121 fill:#ade
+style STS_122 fill:#ade
+style STS_129 fill:#ade
+style STS_130A fill:#ade
+style STS_130B fill:#ade
+style STS_131 fill:#ade
+style STS_150 fill:#ade
+style STS_165 fill:#ade
+style ANT_104N fill:#ade
+style ANT_131 fill:#ade
+style PHI_120 fill:#ade
+style STS_101 fill:#ade
+style STS_109 fill:#ade
+style STS_110 fill:#ade
+style STS_112 fill:#ade
+style STS_113 fill:#ade
+style STS_114 fill:#ade
+style STS_115 fill:#ade
+style STS_151 fill:#ade
+style STS_152 fill:#ade
+style STS_160 fill:#ade
+style STS_161 fill:#ade
+STS_001-->STS_161
+style STS_162 fill:#ade
+TCS_001-->18[One]
+STS_020-->18[One]
+18-->STS_162
+style STS_163 fill:#ade
+style STS_164 fill:#ade
+ENL_003-->19[One]
+STS_001-->19[One]
+19-->STS_164
+style STS_172 fill:#ade
+TCS_001-->20[One]
+STS_001-->20[One]
+ENL_003-->21[One]
+20-->21[One]
+21-->STS_172
+style STS_173 fill:#ade
+ENL_003-->22[One]
+STS_001-->22[One]
+22-->STS_173
+style STS_110 fill:#ade
+style STS_112 fill:#ade
+style STS_113 fill:#ade
+style STS_114 fill:#ade
+style STS_122 fill:#ade
+style STS_129 fill:#ade
+style STS_130A fill:#ade
+style STS_130B fill:#ade
+style STS_131 fill:#ade
+style STS_150 fill:#ade
+style STS_161 fill:#ade
+STS_001-->STS_161
+style STS_164 fill:#ade
+ENL_003-->23[One]
+STS_001-->23[One]
+23-->STS_164
+style CLA_101E fill:#ade
+CLA_051-->24[One]
+CLA_050-->24[One]
+24-->CLA_101E
+style PHI_107 fill:#ade
+style PHI_108 fill:#ade
+style PHI_109 fill:#ade
+style PHI_111 fill:#ade
+style PHI_120 fill:#ade
+style PHI_121 fill:#ade
+style PHI_131 fill:#ade
+PHI_012-->PHI_131
+style PHI_189I fill:#ade

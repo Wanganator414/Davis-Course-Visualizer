@@ -1,0 +1,677 @@
+graph BT;
+style 2 fill:#ddd
+2[Biological Science]-->BIS_002A
+2[Biological Science]-->BIS_002B
+2[Biological Science]-->BIS_002C
+style 3 fill:#ddd
+3[Choose a series:]-->CHE_002A
+3[Choose a series:]-->CHE_002B
+3[Choose a series:]-->CHE_003A
+3[Choose a series:]-->CHE_003B
+style 4 fill:#ddd
+4[Choose a series:]-->CHE_008A
+4[Choose a series:]-->CHE_008B
+4[Choose a series:]-->CHE_118A
+4[Choose a series:]-->CHE_118B
+4[Choose a series:]-->CHE_118C
+style 5 fill:#ddd
+5[Mathematics choose a series:]-->MAT_017A
+5[Mathematics choose a series:]-->MAT_017B
+5[Mathematics choose a series:]-->MAT_021A
+5[Mathematics choose a series:]-->MAT_021B
+style 6 fill:#ddd
+6[Physics choose a series:]-->PHY_001A
+6[Physics choose a series:]-->PHY_001B
+6[Physics choose a series:]-->PHY_007A
+6[Physics choose a series:]-->PHY_007B
+6[Physics choose a series:]-->PHY_007C
+style 7 fill:#ddd
+7[Chemistry choose one:]-->CHE_002C
+7[Chemistry choose one:]-->CHE_003C
+style 8 fill:#ddd
+8[Mathematics choose one:]-->MAT_017C
+8[Mathematics choose one:]-->MAT_021C
+style 9 fill:#ddd
+9[Biological Science]-->BIS_101
+style 10 fill:#ddd
+10[Choose BIS 105 or 102 & 103:]-->BIS_105
+10[Choose BIS 105 or 102 & 103:]-->BIS_102
+10[Choose BIS 105 or 102 & 103:]-->BIS_103
+style 11 fill:#ddd
+11[Statistics choose one:]-->STA_100
+11[Statistics choose one:]-->STA_013
+style 12 fill:#ddd
+12[Evolution & Ecology]-->EVE_100
+style 13 fill:#ddd
+13[Ecology]-->ESP_100
+13[Ecology]-->EVE_101
+style 14 fill:#ddd
+14[Microbiology]-->FST_104
+14[Microbiology]-->MIC_102
+14[Microbiology]-->MIC_162
+14[Microbiology]-->MIC_170
+style 15 fill:#ddd
+15[Animal Physiology, Behavior or Development]-->BIS_104
+15[Animal Physiology, Behavior or Development]-->MCB_150
+15[Animal Physiology, Behavior or Development]-->NPB_100
+15[Animal Physiology, Behavior or Development]-->NPB_101
+15[Animal Physiology, Behavior or Development]-->NPB_102
+15[Animal Physiology, Behavior or Development]-->NPB_141
+style 16 fill:#ddd
+16[Plant Physiology or Development:]-->PLB_105
+16[Plant Physiology or Development:]-->PLB_111
+16[Plant Physiology or Development:]-->PLB_112
+16[Plant Physiology or Development:]-->PLB_113
+16[Plant Physiology or Development:]-->PLB_116
+16[Plant Physiology or Development:]-->PLB_126
+style 17 fill:#ddd
+17[Choose two with three hours lab or field work/week:]-->EVE_110
+17[Choose two with three hours lab or field work/week:]-->EVE_117
+17[Choose two with three hours lab or field work/week:]-->EVE_119
+17[Choose two with three hours lab or field work/week:]-->EVE_140
+17[Choose two with three hours lab or field work/week:]-->EVE_180A
+17[Choose two with three hours lab or field work/week:]-->EVE_180B
+17[Choose two with three hours lab or field work/week:]-->EXB_104L
+17[Choose two with three hours lab or field work/week:]-->EXB_115
+17[Choose two with three hours lab or field work/week:]-->MIC_103L
+17[Choose two with three hours lab or field work/week:]-->NPB_100L
+17[Choose two with three hours lab or field work/week:]-->NPB_101L
+17[Choose two with three hours lab or field work/week:]-->NPB_121L
+17[Choose two with three hours lab or field work/week:]-->NPB_123
+17[Choose two with three hours lab or field work/week:]-->PLB_117
+17[Choose two with three hours lab or field work/week:]-->PLB_119
+style 18 fill:#ddd
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->BIS_180L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->CHA_101L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->EVE_105
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->EVE_106
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->EVE_108
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->EVE_112L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->EVE_114
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->EXB_106L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->FST_104L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->MIC_104L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->MIC_105L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->MCB_120L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->MCB_140L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->MCB_160L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->NPB_111L
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->NPB_141P
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->PLB_102
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->PLB_105
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->PLB_116
+18[Choose one with six hours lab or field work/week a course may fulfill both the lab and a depth topic requirement:]-->PLB_148
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style BIS_002C fill:#ade
+BIS_002B-->19[One]
+BIS_001B-->19[One]
+19-->BIS_002C
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->20[One]
+CHE_002A-->20[One]
+20-->CHE_002B
+style CHE_003A fill:#ade
+CHE_002A-->21[Both]
+WKL_041C-->21[Both]
+CHE_002B-->22[Both]
+21-->22[Both]
+CHE_002C-->23[Both]
+22-->23[Both]
+CHE_002AH-->24[Both]
+23-->24[Both]
+CHE_002BH-->25[Both]
+24-->25[Both]
+CHE_002CH-->26[Both]
+25-->26[Both]
+CHE_002C-->27[Both]
+26-->27[Both]
+27-->CHE_003A
+style CHE_003B fill:#ade
+CHE_002A-->28[One]
+CHE_002A-->28[One]
+28-->29[Both]
+CHE_003A-->29[Both]
+CHE_002B-->30[Both]
+29-->30[Both]
+CHE_002C-->31[Both]
+30-->31[Both]
+CHE_002AH-->32[Both]
+31-->32[Both]
+CHE_002BH-->33[Both]
+32-->33[Both]
+CHE_002CH-->34[Both]
+33-->34[Both]
+34-->CHE_003B
+style CHE_008A fill:#ade
+CHE_002BH-->35[One]
+CHE_002B-->35[One]
+35-->CHE_008A
+style CHE_008B fill:#ade
+CHE_118A-->36[One]
+CHE_008A-->36[One]
+CHE_128A-->37[One]
+36-->37[One]
+37-->CHE_008B
+style CHE_118A fill:#ade
+CHE_002CH-->38[One]
+CHE_002C-->38[One]
+38-->CHE_118A
+style CHE_118B fill:#ade
+CHE_128A-->39[One]
+CHE_118A-->39[One]
+39-->CHE_118B
+style CHE_118C fill:#ade
+CHE_129A-->40[Both]
+CHE_128B-->40[Both]
+40-->41[One]
+CHE_118B-->41[One]
+CHE_128-->42[Both]
+41-->42[Both]
+CHE_129A-->43[Both]
+42-->43[Both]
+43-->CHE_118C
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->44[One]
+MAT_016A-->44[One]
+MAT_021A-->45[One]
+44-->45[One]
+MAT_021AH-->46[One]
+45-->46[One]
+46-->MAT_017B
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->47[One]
+MAT_021A-->47[One]
+MAT_017A-->48[One]
+47-->48[One]
+48-->MAT_021B
+style PHY_001A fill:#ade
+style PHY_001B fill:#ade
+PHY_009A-->49[One]
+PHY_001A-->49[One]
+PHY_007A-->50[Both]
+49-->50[Both]
+PHY_007B-->51[Both]
+50-->51[Both]
+PHY_007C-->52[Both]
+51-->52[Both]
+PHY_009B-->53[Both]
+52-->53[Both]
+PHY_009D-->54[One]
+PHY_009C-->54[One]
+54-->55[Both]
+53-->55[Both]
+55-->PHY_001B
+style PHY_007A fill:#ade
+MAT_017B-->56[One]
+MAT_016B-->56[One]
+MAT_021B-->57[One]
+56-->57[One]
+MAT_016B-->58[One]
+57-->58[One]
+MAT_017B-->59[One]
+58-->59[One]
+MAT_021B-->60[One]
+59-->60[One]
+60-->PHY_007A
+style PHY_007B fill:#ade
+PHY_007A-->PHY_007B
+style PHY_007C fill:#ade
+PHY_007B-->PHY_007C
+style CHE_002C fill:#ade
+CHE_002BH-->61[One]
+CHE_002B-->61[One]
+61-->CHE_002C
+style CHE_003C fill:#ade
+CHE_002A-->62[One]
+CHE_002B-->62[One]
+62-->63[Both]
+CHE_003B-->63[Both]
+CHE_002B-->64[Both]
+63-->64[Both]
+CHE_002C-->65[Both]
+64-->65[Both]
+CHE_002AH-->66[Both]
+65-->66[Both]
+CHE_002BH-->67[Both]
+66-->67[Both]
+CHE_002CH-->68[Both]
+67-->68[Both]
+68-->CHE_003C
+style MAT_017C fill:#ade
+MAT_017B-->MAT_017C
+style MAT_021C fill:#ade
+MAT_017C-->69[One]
+MAT_016C-->69[One]
+MAT_021B-->70[One]
+69-->70[One]
+MAT_021BH-->71[One]
+70-->71[One]
+MAT_017B-->72[One]
+71-->72[One]
+72-->MAT_021C
+style BIS_101 fill:#ade
+BIS_002B-->73[Both]
+BIS_002A-->73[Both]
+CHE_118A-->74[One]
+CHE_008A-->74[One]
+CHE_128A-->75[One]
+74-->75[One]
+75-->76[Both]
+73-->76[Both]
+STA_013Y-->77[One]
+STA_013-->77[One]
+STA_100-->78[One]
+77-->78[One]
+STA_102-->79[One]
+78-->79[One]
+STA_130A-->80[One]
+79-->80[One]
+80-->81[Both]
+76-->81[Both]
+STA_100-->82[Both]
+81-->82[Both]
+82-->BIS_101
+style BIS_105 fill:#ade
+BIS_001B-->83[Both]
+BIS_001A-->83[Both]
+BIS_001C-->84[Both]
+83-->84[Both]
+BIS_002B-->85[Both]
+BIS_002A-->85[Both]
+BIS_002C-->86[Both]
+85-->86[Both]
+86-->87[One]
+84-->87[One]
+CHE_118B-->88[One]
+CHE_008B-->88[One]
+CHE_128B-->89[One]
+88-->89[One]
+89-->90[Both]
+87-->90[Both]
+90-->BIS_105
+style BIS_102 fill:#ade
+BIS_002A-->91[One]
+BIS_001A-->91[One]
+CHE_118B-->92[One]
+CHE_008B-->92[One]
+CHE_128B-->93[One]
+92-->93[One]
+93-->94[Both]
+91-->94[Both]
+94-->BIS_102
+style BIS_103 fill:#ade
+BIS_102-->BIS_103
+style STA_100 fill:#ade
+MAT_017B-->95[One]
+MAT_016B-->95[One]
+MAT_021B-->96[One]
+95-->96[One]
+96-->STA_100
+style STA_013 fill:#ade
+style EVE_100 fill:#ade
+BIS_002B-->97[Both]
+BIS_002A-->97[Both]
+BIS_002C-->98[Both]
+97-->98[Both]
+MAT_017A-->99[One]
+MAT_016A-->99[One]
+MAT_021A-->100[One]
+99-->100[One]
+100-->101[Both]
+98-->101[Both]
+MAT_017B-->102[One]
+MAT_016B-->102[One]
+MAT_021B-->103[One]
+102-->103[One]
+103-->104[Both]
+101-->104[Both]
+104-->EVE_100
+style ESP_100 fill:#ade
+BIS_002B-->105[Both]
+BIS_002A-->105[Both]
+BIS_002C-->106[Both]
+105-->106[Both]
+MAT_016B-->107[Both]
+MAT_016A-->107[Both]
+MAT_017B-->108[Both]
+MAT_017A-->108[Both]
+108-->109[One]
+107-->109[One]
+MAT_021B-->110[Both]
+MAT_021A-->110[Both]
+110-->111[One]
+109-->111[One]
+111-->112[Both]
+106-->112[Both]
+112-->ESP_100
+style EVE_101 fill:#ade
+BIS_002B-->113[Both]
+BIS_002A-->113[Both]
+BIS_002C-->114[Both]
+113-->114[Both]
+MAT_017A-->115[One]
+MAT_016A-->115[One]
+MAT_021A-->116[One]
+115-->116[One]
+116-->117[Both]
+114-->117[Both]
+MAT_017B-->118[One]
+MAT_016B-->118[One]
+MAT_021B-->119[One]
+118-->119[One]
+119-->120[Both]
+117-->120[Both]
+120-->EVE_101
+style FST_104 fill:#ade
+BIS_103-->121[Both]
+BIS_002A-->121[Both]
+MIC_102-->122[Both]
+121-->122[Both]
+122-->FST_104
+style MIC_102 fill:#ade
+BIS_002A-->123[One]
+BIS_001A-->123[One]
+CHE_002B-->124[Both]
+123-->124[Both]
+124-->MIC_102
+style MIC_162 fill:#ade
+BIS_101-->MIC_162
+style MIC_170 fill:#ade
+BIS_101-->MIC_170
+style BIS_104 fill:#ade
+BIS_105-->125[One]
+BIS_102-->125[One]
+125-->126[Both]
+BIS_101-->126[Both]
+126-->BIS_104
+style MCB_150 fill:#ade
+BIS_101-->MCB_150
+style NPB_100 fill:#ade
+PHY_009A-->127[Both]
+BIS_002A-->127[Both]
+PHY_007A-->128[One]
+PHY_009B-->128[One]
+128-->129[Both]
+127-->129[Both]
+129-->NPB_100
+style NPB_101 fill:#ade
+CHE_002BH-->130[One]
+CHE_002B-->130[One]
+130-->131[Both]
+BIS_002A-->131[Both]
+131-->NPB_101
+style NPB_102 fill:#ade
+BIS_001B-->132[Both]
+BIS_001A-->132[Both]
+BIS_001C-->133[Both]
+132-->133[Both]
+BIS_002B-->134[Both]
+BIS_002A-->134[Both]
+BIS_002C-->135[Both]
+134-->135[Both]
+135-->136[One]
+133-->136[One]
+136-->NPB_102
+style NPB_141 fill:#ade
+style PLB_105 fill:#ade
+BIS_002C-->PLB_105
+style PLB_111 fill:#ade
+BIS_002B-->137[Both]
+BIS_002A-->137[Both]
+BIS_002C-->138[Both]
+137-->138[Both]
+CHE_118B-->139[One]
+CHE_008B-->139[One]
+139-->140[Both]
+138-->140[Both]
+PHY_007C-->141[Both]
+140-->141[Both]
+141-->PLB_111
+style PLB_112 fill:#ade
+BIS_002B-->142[Both]
+BIS_002A-->142[Both]
+BIS_002C-->143[Both]
+142-->143[Both]
+CHE_118B-->144[One]
+CHE_008B-->144[One]
+144-->145[Both]
+143-->145[Both]
+BIS_101-->146[Both]
+145-->146[Both]
+146-->PLB_112
+style PLB_113 fill:#ade
+BIS_002B-->147[Both]
+BIS_002A-->147[Both]
+BIS_002C-->148[Both]
+147-->148[Both]
+BIS_101-->149[Both]
+148-->149[Both]
+149-->PLB_113
+style PLB_116 fill:#ade
+PLS_002-->150[Both]
+BIS_002C-->150[Both]
+150-->PLB_116
+style PLB_126 fill:#ade
+BIS_105-->151[One]
+BIS_103-->151[One]
+151-->PLB_126
+style EVE_110 fill:#ade
+BIS_002B-->152[One]
+BIS_001B-->152[One]
+EVE_112-->153[Both]
+152-->153[Both]
+153-->EVE_110
+style EVE_117 fill:#ade
+BIS_001B-->154[Both]
+BIS_001A-->154[Both]
+BIS_001C-->155[Both]
+154-->155[Both]
+BIS_002B-->156[Both]
+BIS_002A-->156[Both]
+BIS_002C-->157[Both]
+156-->157[Both]
+157-->158[One]
+155-->158[One]
+158-->EVE_117
+style EVE_119 fill:#ade
+style EVE_140 fill:#ade
+BIS_001B-->159[Both]
+BIS_001A-->159[Both]
+BIS_001C-->160[Both]
+159-->160[Both]
+BIS_002B-->161[Both]
+BIS_002A-->161[Both]
+BIS_002C-->162[Both]
+161-->162[Both]
+162-->163[One]
+160-->163[One]
+163-->EVE_140
+style EVE_180A fill:#ade
+ESP_100-->164[One]
+EVE_101-->164[One]
+ENT_105-->165[One]
+164-->165[One]
+165-->166[Both]
+EVE_100-->166[Both]
+166-->EVE_180A
+style EVE_180B fill:#ade
+ENT_180A-->167[One]
+EVE_180A-->167[One]
+167-->EVE_180B
+style EXB_104L fill:#ade
+EXB_102-->168[Both]
+EXB_101-->168[Both]
+EXB_103-->169[Both]
+168-->169[Both]
+169-->EXB_104L
+style EXB_115 fill:#ade
+EXB_103-->EXB_115
+style MIC_103L fill:#ade
+CHE_002B-->170[Both]
+MIC_102-->170[Both]
+170-->MIC_103L
+style NPB_100L fill:#ade
+NPB_110B-->171[One]
+NPB_100-->171[One]
+171-->NPB_100L
+style NPB_101L fill:#ade
+NPB_110C-->172[One]
+NPB_101-->172[One]
+172-->NPB_101L
+style NPB_121L fill:#ade
+NPB_121-->NPB_121L
+style NPB_123 fill:#ade
+BIS_001B-->173[Both]
+BIS_001A-->173[Both]
+BIS_002B-->174[Both]
+BIS_002A-->174[Both]
+174-->175[One]
+173-->175[One]
+175-->NPB_123
+style PLB_117 fill:#ade
+BIS_001B-->176[Both]
+BIS_001A-->176[Both]
+BIS_001C-->177[Both]
+176-->177[Both]
+BIS_002B-->178[Both]
+BIS_002A-->178[Both]
+BIS_002C-->179[Both]
+178-->179[Both]
+179-->180[One]
+177-->180[One]
+180-->PLB_117
+style PLB_119 fill:#ade
+style BIS_180L fill:#ade
+BIS_183-->181[One]
+BIS_181-->181[One]
+MCB_182-->182[One]
+181-->182[One]
+182-->BIS_180L
+style CHA_101L fill:#ade
+CHA_101-->183[One]
+EXB_106-->183[One]
+183-->184[Both]
+BIS_002A-->184[Both]
+CHA_101-->185[One]
+EXB_106-->185[One]
+185-->186[Both]
+184-->186[Both]
+186-->CHA_101L
+style EVE_105 fill:#ade
+BIS_001B-->187[Both]
+BIS_001A-->187[Both]
+BIS_002C-->188[Both]
+BIS_002B-->188[Both]
+188-->189[One]
+187-->189[One]
+189-->EVE_105
+style EVE_106 fill:#ade
+BIS_002B-->190[One]
+BIS_001B-->190[One]
+EVE_112-->191[Both]
+190-->191[Both]
+191-->EVE_106
+style EVE_108 fill:#ade
+BIS_001B-->192[Both]
+BIS_001A-->192[Both]
+BIS_001C-->193[Both]
+192-->193[Both]
+BIS_002B-->194[Both]
+BIS_002A-->194[Both]
+BIS_002C-->195[Both]
+194-->195[Both]
+195-->196[One]
+193-->196[One]
+196-->EVE_108
+style EVE_112L fill:#ade
+BIS_002C-->197[Both]
+BIS_002B-->197[Both]
+197-->198[One]
+BIS_001B-->198[One]
+EVE_112-->199[Both]
+198-->199[Both]
+EVE_112-->200[Both]
+199-->200[Both]
+200-->EVE_112L
+style EVE_114 fill:#ade
+BIS_001B-->201[Both]
+BIS_001A-->201[Both]
+BIS_001C-->202[Both]
+201-->202[Both]
+BIS_002B-->203[One]
+202-->203[One]
+EVE_112-->204[Both]
+203-->204[Both]
+EVE_101-->205[Both]
+204-->205[Both]
+205-->EVE_114
+style EXB_106L fill:#ade
+CHA_101-->206[One]
+EXB_106-->206[One]
+206-->207[Both]
+BIS_002A-->207[Both]
+CHA_101-->208[One]
+EXB_106-->208[One]
+208-->209[Both]
+207-->209[Both]
+209-->EXB_106L
+style FST_104L fill:#ade
+BIS_103-->210[Both]
+BIS_002A-->210[Both]
+FST_104-->211[Both]
+210-->211[Both]
+211-->FST_104L
+style MIC_104L fill:#ade
+CHE_118B-->212[One]
+CHE_008B-->212[One]
+CHE_129A-->213[One]
+212-->213[One]
+213-->214[Both]
+MIC_102-->214[Both]
+214-->MIC_104L
+style MIC_105L fill:#ade
+MIC_104-->215[One]
+MIC_102-->215[One]
+MIC_104L-->216[One]
+MIC_102L-->216[One]
+216-->217[Both]
+215-->217[Both]
+MIC_105-->218[Both]
+217-->218[Both]
+218-->MIC_105L
+style MCB_120L fill:#ade
+MCB_120-->219[Both]
+MCB_120-->219[Both]
+219-->220[One]
+BIS_102-->220[One]
+220-->MCB_120L
+style MCB_140L fill:#ade
+BIS_104-->MCB_140L
+style MCB_160L fill:#ade
+BIS_101-->MCB_160L
+style NPB_111L fill:#ade
+NPB_101L-->NPB_111L
+style NPB_141P fill:#ade
+NPB_141-->221[Both]
+NPB_141-->221[Both]
+221-->NPB_141P
+style PLB_102 fill:#ade
+BIS_002C-->222[One]
+PLS_002-->222[One]
+222-->PLB_102
+style PLB_105 fill:#ade
+BIS_002C-->PLB_105
+style PLB_116 fill:#ade
+PLS_002-->223[Both]
+BIS_002C-->223[Both]
+223-->PLB_116
+style PLB_148 fill:#ade
+BIS_001B-->224[Both]
+BIS_001A-->224[Both]
+BIS_001C-->225[Both]
+224-->225[Both]
+225-->PLB_148

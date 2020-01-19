@@ -1,0 +1,73 @@
+graph BT;
+style 2 fill:#ddd
+2[Science & Society]-->SAS_013
+style 3 fill:#ddd
+3[Pathology, Microbiology & Immunology]-->PMI_129Y
+style 4 fill:#ddd
+4[Medicine & Epidemiology]-->VME_158
+style 5 fill:#ddd
+5[Global Disease Biology]-->GDB_101
+5[Global Disease Biology]-->GDB_102
+style 6 fill:#ddd
+6[Choose one:]-->ENT_153
+6[Choose one:]-->ENT_156
+6[Choose one:]-->GDB_103
+6[Choose one:]-->MIC_162
+6[Choose one:]-->PLP_120
+6[Choose one:]-->PMI_127
+6[Choose one:]-->PMI_128
+style SAS_013 fill:#ade
+style PMI_129Y fill:#ade
+style VME_158 fill:#ade
+BIS_002B-->7[Both]
+BIS_002A-->7[Both]
+7-->VME_158
+style GDB_101 fill:#ade
+BIS_002A-->8[Both]
+SAS_013-->8[Both]
+BIS_002B-->9[Both]
+8-->9[Both]
+BIS_002C-->10[Both]
+9-->10[Both]
+STA_013Y-->11[One]
+STA_013-->11[One]
+PLS_120-->12[One]
+STA_100-->12[One]
+12-->13[One]
+11-->13[One]
+13-->14[Both]
+10-->14[Both]
+14-->GDB_101
+style GDB_102 fill:#ade
+SAS_013-->15[Both]
+GDB_101-->15[Both]
+BIS_002A-->16[Both]
+15-->16[Both]
+BIS_002B-->17[Both]
+16-->17[Both]
+BIS_002C-->18[Both]
+17-->18[Both]
+PMI_129Y-->19[Both]
+18-->19[Both]
+VME_158-->20[Both]
+19-->20[Both]
+20-->GDB_102
+style ENT_153 fill:#ade
+BIS_002B-->21[Both]
+BIS_002A-->21[Both]
+21-->ENT_153
+style ENT_156 fill:#ade
+BIS_002A-->ENT_156
+style GDB_103 fill:#ade
+BIS_002B-->22[Both]
+BIS_002A-->22[Both]
+BIS_002C-->23[Both]
+22-->23[Both]
+23-->GDB_103
+style MIC_162 fill:#ade
+BIS_101-->MIC_162
+style PLP_120 fill:#ade
+style PMI_127 fill:#ade
+PMI_127L-->PMI_127
+style PMI_128 fill:#ade
+BIS_102-->PMI_128
