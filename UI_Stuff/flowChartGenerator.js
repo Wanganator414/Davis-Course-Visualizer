@@ -14,7 +14,6 @@ $(document).init(function() {
   console.log("mermaid started");
 });
 
-console.log("FUCK YEAH");
 $.ajax({
   url: "mermaid.txt", // File path to user selected major data
   dataType: "text",
