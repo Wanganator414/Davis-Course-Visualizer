@@ -1,7 +1,7 @@
 let config = {
   //Config file for how the chart looks
-  startOnLoad: false,
-  theme: "default",
+  startOnLoad: true,
+  theme: "forest",
   flowchart: {
     useMaxWidth: false,
     htmlLabels: true
