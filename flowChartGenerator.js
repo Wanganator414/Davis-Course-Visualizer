@@ -1,6 +1,6 @@
 let config = {
   //Config file for how the chart looks
-  startOnLoad: true,
+  startOnLoad: false,
   theme: "forest",
   flowchart: {
     useMaxWidth: false,
