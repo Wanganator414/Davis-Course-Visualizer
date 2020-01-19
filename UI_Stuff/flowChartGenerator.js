@@ -14,12 +14,6 @@ $(document).init(function() {
   console.log("mermaid started");
 });
 
-// $(document).init(function() {
-//   //Inject parsed text files into div elements
-//   $(".mermaid").load("mermaid.txt");
-//   console.log("Inject Files");
-// });
-
 console.log("FUCK YEAH");
 $.ajax({
   url: "mermaid.txt", // File path to user selected major data
