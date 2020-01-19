@@ -1,0 +1,1125 @@
+style 2 fill:#ddd
+2[Sociology]-->SOC_001
+2[Sociology]-->SOC_046A
+2[Sociology]-->SOC_046B
+style 3 fill:#ddd
+3[Choose one:]-->SOC_002
+3[Choose one:]-->SOC_003
+3[Choose one:]-->SOC_004
+3[Choose one:]-->SOC_005
+3[Choose one:]-->SOC_011
+3[Choose one:]-->SOC_025
+3[Choose one:]-->SOC_030A
+3[Choose one:]-->SOC_030B
+style 4 fill:#ddd
+4[Anthropology choose one:]-->ANT_002
+4[Anthropology choose one:]-->ANT_020
+style 5 fill:#ddd
+5[History choose one:]-->HIS_004A
+5[History choose one:]-->HIS_004B
+5[History choose one:]-->HIS_004C
+5[History choose one:]-->HIS_006
+5[History choose one:]-->HIS_007A
+5[History choose one:]-->HIS_007B
+5[History choose one:]-->HIS_007C
+5[History choose one:]-->HIS_008
+5[History choose one:]-->HIS_009A
+5[History choose one:]-->HIS_009B
+5[History choose one:]-->HIS_010C
+5[History choose one:]-->HIS_015A
+5[History choose one:]-->HIS_015B
+5[History choose one:]-->HIS_017A
+5[History choose one:]-->HIS_017B
+style 6 fill:#ddd
+6[Philosophy choose one:]-->PHI_005
+6[Philosophy choose one:]-->PHI_014
+6[Philosophy choose one:]-->PHI_024
+style 7 fill:#ddd
+7[Depth Subject Matter]-->SOC_100
+style 8 fill:#ddd
+8[Individual, Culture & Society]-->SOC_125
+8[Individual, Culture & Society]-->SOC_126
+8[Individual, Culture & Society]-->SOC_135
+style 9 fill:#ddd
+9[Stratification & Social Differentiation]-->SOC_130
+9[Stratification & Social Differentiation]-->SOC_132
+9[Stratification & Social Differentiation]-->SOC_140
+style 10 fill:#ddd
+10[Organizations & Institutions]-->SOC_118
+10[Organizations & Institutions]-->SOC_131
+10[Organizations & Institutions]-->SOC_146
+10[Organizations & Institutions]-->SOC_180A
+style 11 fill:#ddd
+11[Social Dynamics]-->SOC_104
+11[Social Dynamics]-->SOC_141
+11[Social Dynamics]-->SOC_143A
+11[Social Dynamics]-->SOC_170
+style 12 fill:#ddd
+12[Individual, Culture & Society]-->SOC_102
+12[Individual, Culture & Society]-->SOC_120
+12[Individual, Culture & Society]-->SOC_122
+12[Individual, Culture & Society]-->SOC_125
+12[Individual, Culture & Society]-->SOC_126
+12[Individual, Culture & Society]-->SOC_128
+12[Individual, Culture & Society]-->SOC_129
+12[Individual, Culture & Society]-->SOC_131
+12[Individual, Culture & Society]-->SOC_132
+12[Individual, Culture & Society]-->SOC_134
+12[Individual, Culture & Society]-->SOC_135
+12[Individual, Culture & Society]-->SOC_137
+12[Individual, Culture & Society]-->SOC_143B
+12[Individual, Culture & Society]-->SOC_148
+12[Individual, Culture & Society]-->SOC_150
+12[Individual, Culture & Society]-->SOC_152
+12[Individual, Culture & Society]-->SOC_153
+12[Individual, Culture & Society]-->SOC_172
+12[Individual, Culture & Society]-->SOC_173
+12[Individual, Culture & Society]-->SOC_174
+12[Individual, Culture & Society]-->SOC_175
+12[Individual, Culture & Society]-->SOC_176
+style 13 fill:#ddd
+13[Stratification & Social Differentiation]-->SOC_118
+13[Stratification & Social Differentiation]-->SOC_128
+13[Stratification & Social Differentiation]-->SOC_129
+13[Stratification & Social Differentiation]-->SOC_130
+13[Stratification & Social Differentiation]-->SOC_132
+13[Stratification & Social Differentiation]-->SOC_133
+13[Stratification & Social Differentiation]-->SOC_134
+13[Stratification & Social Differentiation]-->SOC_140
+13[Stratification & Social Differentiation]-->SOC_145A
+13[Stratification & Social Differentiation]-->SOC_145B
+13[Stratification & Social Differentiation]-->SOC_171
+13[Stratification & Social Differentiation]-->SOC_172
+13[Stratification & Social Differentiation]-->SOC_185
+13[Stratification & Social Differentiation]-->SOC_185Y
+13[Stratification & Social Differentiation]-->SOC_188
+style 14 fill:#ddd
+14[Choose one:]-->AAS_123
+14[Choose one:]-->ASA_100
+14[Choose one:]-->CHI_110
+14[Choose one:]-->NAS_115
+style 15 fill:#ddd
+15[Organizations & Institutions]-->SOC_118
+15[Organizations & Institutions]-->SOC_124
+15[Organizations & Institutions]-->SOC_131
+15[Organizations & Institutions]-->SOC_133
+15[Organizations & Institutions]-->SOC_139
+15[Organizations & Institutions]-->SOC_146
+15[Organizations & Institutions]-->SOC_149
+15[Organizations & Institutions]-->SOC_150
+15[Organizations & Institutions]-->SOC_151
+15[Organizations & Institutions]-->SOC_154
+15[Organizations & Institutions]-->SOC_155
+15[Organizations & Institutions]-->SOC_159
+15[Organizations & Institutions]-->SOC_160
+15[Organizations & Institutions]-->SOC_180A
+15[Organizations & Institutions]-->SOC_180B
+15[Organizations & Institutions]-->SOC_181
+15[Organizations & Institutions]-->SOC_182
+15[Organizations & Institutions]-->SOC_183
+style 16 fill:#ddd
+16[Choose one:]-->SOC_185
+16[Choose one:]-->SOC_185Y
+style 17 fill:#ddd
+17[Social Dynamics]-->SOC_104
+17[Social Dynamics]-->SOC_123
+17[Social Dynamics]-->SOC_125
+17[Social Dynamics]-->SOC_138
+17[Social Dynamics]-->SOC_141
+17[Social Dynamics]-->SOC_143A
+17[Social Dynamics]-->SOC_145A
+17[Social Dynamics]-->SOC_145B
+17[Social Dynamics]-->SOC_147
+17[Social Dynamics]-->SOC_148
+17[Social Dynamics]-->SOC_156
+17[Social Dynamics]-->SOC_157
+17[Social Dynamics]-->SOC_158
+17[Social Dynamics]-->SOC_170
+style 18 fill:#ddd
+18[Sociology]-->SOC_001
+18[Sociology]-->SOC_046A
+18[Sociology]-->SOC_046B
+style 19 fill:#ddd
+19[Choose one:]-->SOC_003
+19[Choose one:]-->SOC_004
+19[Choose one:]-->SOC_011
+style 20 fill:#ddd
+20[Choose one:]-->ANT_002
+20[Choose one:]-->ANT_020
+20[Choose one:]-->POL_001
+20[Choose one:]-->POL_003
+20[Choose one:]-->POL_004
+20[Choose one:]-->POL_007
+style 21 fill:#ddd
+21[History choose one:]-->HIS_004A
+21[History choose one:]-->HIS_004B
+21[History choose one:]-->HIS_004C
+21[History choose one:]-->HIS_006
+21[History choose one:]-->HIS_007A
+21[History choose one:]-->HIS_007B
+21[History choose one:]-->HIS_007C
+21[History choose one:]-->HIS_008
+21[History choose one:]-->HIS_009A
+21[History choose one:]-->HIS_009B
+21[History choose one:]-->HIS_010C
+21[History choose one:]-->HIS_015A
+21[History choose one:]-->HIS_015B
+21[History choose one:]-->HIS_017A
+21[History choose one:]-->HIS_017B
+style 22 fill:#ddd
+22[Philosophy choose one:]-->PHI_005
+22[Philosophy choose one:]-->PHI_014
+22[Philosophy choose one:]-->PHI_024
+style 23 fill:#ddd
+23[Sociology]-->SOC_100
+23[Sociology]-->SOC_155
+style 24 fill:#ddd
+24[Individual Culture & Society choose one:]-->SOC_125
+24[Individual Culture & Society choose one:]-->SOC_126
+24[Individual Culture & Society choose one:]-->SOC_135
+style 25 fill:#ddd
+25[Stratification & Social Differentiation choose one:]-->SOC_130
+25[Stratification & Social Differentiation choose one:]-->SOC_132
+25[Stratification & Social Differentiation choose one:]-->SOC_140
+style 26 fill:#ddd
+26[Organizations & Institutions choose one:]-->SOC_118
+26[Organizations & Institutions choose one:]-->SOC_131
+26[Organizations & Institutions choose one:]-->SOC_146
+26[Organizations & Institutions choose one:]-->SOC_160
+26[Organizations & Institutions choose one:]-->SOC_180A
+style 27 fill:#ddd
+27[Crime & Social Dynamics choose three:]-->SOC_120
+27[Crime & Social Dynamics choose three:]-->SOC_150
+27[Crime & Social Dynamics choose three:]-->SOC_151
+27[Crime & Social Dynamics choose three:]-->SOC_152
+27[Crime & Social Dynamics choose three:]-->SOC_171
+style 28 fill:#ddd
+28[Stratifications & Social Dynamics choose one:]-->SOC_118
+28[Stratifications & Social Dynamics choose one:]-->SOC_137
+28[Stratifications & Social Dynamics choose one:]-->SOC_148
+28[Stratifications & Social Dynamics choose one:]-->SOC_156
+28[Stratifications & Social Dynamics choose one:]-->SOC_157
+28[Stratifications & Social Dynamics choose one:]-->SOC_158
+28[Stratifications & Social Dynamics choose one:]-->AAS_123
+28[Stratifications & Social Dynamics choose one:]-->AAS_145A
+28[Stratifications & Social Dynamics choose one:]-->AAS_145B
+28[Stratifications & Social Dynamics choose one:]-->CHI_130
+28[Stratifications & Social Dynamics choose one:]-->CHI_132
+28[Stratifications & Social Dynamics choose one:]-->NAS_117
+28[Stratifications & Social Dynamics choose one:]-->NAS_118
+style 29 fill:#ddd
+29[Legal Studies choose one:]-->ASA_155
+29[Legal Studies choose one:]-->CHI_182
+29[Legal Studies choose one:]-->ENL_107
+29[Legal Studies choose one:]-->ESP_161
+29[Legal Studies choose one:]-->ETX_138
+29[Legal Studies choose one:]-->HYD_150
+29[Legal Studies choose one:]-->PHI_119
+29[Legal Studies choose one:]-->POL_122
+29[Legal Studies choose one:]-->POL_150
+29[Legal Studies choose one:]-->POL_151
+29[Legal Studies choose one:]-->POL_152
+29[Legal Studies choose one:]-->POL_154
+29[Legal Studies choose one:]-->PSC_153
+29[Legal Studies choose one:]-->UWP_104B
+29[Legal Studies choose one:]-->WMS_140
+style 30 fill:#ddd
+30[Sociology]-->SOC_001
+30[Sociology]-->SOC_046A
+30[Sociology]-->SOC_046B
+style 31 fill:#ddd
+31[Choose one:]-->SOC_002
+31[Choose one:]-->SOC_003
+style 32 fill:#ddd
+32[Psychology]-->PSC_001
+style 33 fill:#ddd
+33[Choose two:]-->ASA_001
+33[Choose two:]-->ASA_002
+33[Choose two:]-->AAS_010
+33[Choose two:]-->AAS_015
+33[Choose two:]-->CHI_010
+33[Choose two:]-->CHI_050
+33[Choose two:]-->NAS_001
+33[Choose two:]-->NAS_010
+33[Choose two:]-->SOC_004
+33[Choose two:]-->SOC_011
+33[Choose two:]-->SOC_030A
+33[Choose two:]-->SOC_030B
+style 34 fill:#ddd
+34[Sociology]-->SOC_100
+34[Sociology]-->SOC_131
+34[Sociology]-->SOC_140
+style 35 fill:#ddd
+35[Choose one:]-->SOC_185
+35[Choose one:]-->SOC_185Y
+style 36 fill:#ddd
+36[Psychology choose one:]-->PSC_140
+36[Psychology choose one:]-->PSC_142
+36[Psychology choose one:]-->PSC_151
+36[Psychology choose one:]-->PSC_168
+style 37 fill:#ddd
+37[Social Issues choose two:]-->SOC_104
+37[Social Issues choose two:]-->SOC_120
+37[Social Issues choose two:]-->SOC_122
+37[Social Issues choose two:]-->SOC_124
+37[Social Issues choose two:]-->SOC_139
+37[Social Issues choose two:]-->SOC_143A
+37[Social Issues choose two:]-->SOC_146
+37[Social Issues choose two:]-->SOC_149
+37[Social Issues choose two:]-->SOC_150
+37[Social Issues choose two:]-->SOC_153
+37[Social Issues choose two:]-->SOC_154
+37[Social Issues choose two:]-->SOC_155
+37[Social Issues choose two:]-->SOC_156
+37[Social Issues choose two:]-->SOC_160
+37[Social Issues choose two:]-->SOC_170
+37[Social Issues choose two:]-->SOC_171
+style 38 fill:#ddd
+38[Social Interaction choose one:]-->SOC_126
+38[Social Interaction choose one:]-->SOC_128
+38[Social Interaction choose one:]-->SOC_143B
+38[Social Interaction choose one:]-->SOC_148
+38[Social Interaction choose one:]-->SOC_157
+style 39 fill:#ddd
+39[Race & Ethnicity choose one:]-->AAS_100
+39[Race & Ethnicity choose one:]-->ASA_102
+39[Race & Ethnicity choose one:]-->ASA_131
+39[Race & Ethnicity choose one:]-->ASA_150
+39[Race & Ethnicity choose one:]-->ASA_150B
+39[Race & Ethnicity choose one:]-->ASA_150C
+39[Race & Ethnicity choose one:]-->ASA_150D
+39[Race & Ethnicity choose one:]-->ASA_150E
+39[Race & Ethnicity choose one:]-->CHI_110
+39[Race & Ethnicity choose one:]-->CRD_176
+39[Race & Ethnicity choose one:]-->NAS_115
+39[Race & Ethnicity choose one:]-->SOC_129
+39[Race & Ethnicity choose one:]-->SOC_130
+39[Race & Ethnicity choose one:]-->SOC_134
+39[Race & Ethnicity choose one:]-->SOC_137
+39[Race & Ethnicity choose one:]-->SOC_172
+style 40 fill:#ddd
+40[Gender choose one:]-->SOC_132
+40[Gender choose one:]-->SOC_133
+40[Gender choose one:]-->SOC_145B
+40[Gender choose one:]-->SOC_172
+style 41 fill:#ddd
+41[Organizational Behavior choose one:]-->SOC_139
+41[Organizational Behavior choose one:]-->SOC_146
+41[Organizational Behavior choose one:]-->SOC_151
+41[Organizational Behavior choose one:]-->SOC_154
+41[Organizational Behavior choose one:]-->SOC_159
+41[Organizational Behavior choose one:]-->SOC_180A
+41[Organizational Behavior choose one:]-->SOC_180B
+41[Organizational Behavior choose one:]-->SOC_181
+41[Organizational Behavior choose one:]-->SOC_182
+41[Organizational Behavior choose one:]-->SOC_183
+style 42 fill:#ddd
+42[Sociology]-->SOC_001
+42[Sociology]-->SOC_005
+42[Sociology]-->SOC_046A
+42[Sociology]-->SOC_046B
+style 43 fill:#ddd
+43[Economics]-->ECN_001B
+style 44 fill:#ddd
+44[Anthropology choose one:]-->ANT_002
+44[Anthropology choose one:]-->ANT_020
+style 45 fill:#ddd
+45[Choose one:]-->HIS_010C
+45[Choose one:]-->POL_002
+style 46 fill:#ddd
+46[Sociology]-->SOC_100
+46[Sociology]-->SOC_104
+46[Sociology]-->SOC_141
+46[Sociology]-->SOC_145A
+46[Sociology]-->SOC_170
+style 47 fill:#ddd
+47[Choose one:]-->ANT_126A
+47[Choose one:]-->ANT_126B
+47[Choose one:]-->ECN_115A
+style 48 fill:#ddd
+48[Choose three:]-->ANT_127
+48[Choose three:]-->SOC_118
+48[Choose three:]-->SOC_130
+48[Choose three:]-->SOC_131
+48[Choose three:]-->SOC_143A
+48[Choose three:]-->SOC_144
+48[Choose three:]-->SOC_145B
+48[Choose three:]-->SOC_156
+48[Choose three:]-->SOC_158
+style 49 fill:#ddd
+49[Africa choose three:]-->AAS_110
+49[Africa choose three:]-->AAS_111
+49[Africa choose three:]-->AAS_162
+49[Africa choose three:]-->ANT_140A
+49[Africa choose three:]-->ANT_140B
+49[Africa choose three:]-->HIS_115A
+49[Africa choose three:]-->HIS_115B
+49[Africa choose three:]-->HIS_115C
+49[Africa choose three:]-->HIS_116
+49[Africa choose three:]-->POL_134
+style 50 fill:#ddd
+50[Latin America choose three:]-->AAS_107A
+50[Latin America choose three:]-->AAS_180
+50[Latin America choose three:]-->ANT_144
+50[Latin America choose three:]-->HIS_159
+50[Latin America choose three:]-->HIS_162
+50[Latin America choose three:]-->HIS_163A
+50[Latin America choose three:]-->HIS_163B
+50[Latin America choose three:]-->HIS_164
+50[Latin America choose three:]-->HIS_165
+50[Latin America choose three:]-->HIS_166A
+50[Latin America choose three:]-->HIS_166B
+50[Latin America choose three:]-->HIS_167
+50[Latin America choose three:]-->HIS_168
+50[Latin America choose three:]-->NAS_120
+50[Latin America choose three:]-->NAS_133
+50[Latin America choose three:]-->SOC_158
+50[Latin America choose three:]-->SPA_170
+50[Latin America choose three:]-->SPA_172
+50[Latin America choose three:]-->SPA_173
+style 51 fill:#ddd
+51[Middle East choose three:]-->ANT_142
+51[Middle East choose three:]-->HIS_112A
+51[Middle East choose three:]-->HIS_112B
+51[Middle East choose three:]-->HIS_113
+51[Middle East choose three:]-->HIS_190A
+51[Middle East choose three:]-->HIS_190B
+51[Middle East choose three:]-->HIS_190C
+51[Middle East choose three:]-->HIS_193A
+51[Middle East choose three:]-->HIS_193B
+style 52 fill:#ddd
+52[Middle Eastern Studies see an advisor.]-->RST_162
+52[Middle Eastern Studies see an advisor.]-->WMS_184
+style 53 fill:#ddd
+53[Asia-China & Japan choose three:]-->AAS_107C
+53[Asia-China & Japan choose three:]-->ANT_148A
+53[Asia-China & Japan choose three:]-->ANT_149A
+53[Asia-China & Japan choose three:]-->ANT_149B
+53[Asia-China & Japan choose three:]-->EAS_113
+53[Asia-China & Japan choose three:]-->ECN_171
+53[Asia-China & Japan choose three:]-->HIS_191A
+53[Asia-China & Japan choose three:]-->HIS_191B
+53[Asia-China & Japan choose three:]-->HIS_191C
+53[Asia-China & Japan choose three:]-->HIS_191D
+53[Asia-China & Japan choose three:]-->HIS_191E
+53[Asia-China & Japan choose three:]-->HIS_191F
+53[Asia-China & Japan choose three:]-->HIS_191G
+53[Asia-China & Japan choose three:]-->HIS_191H
+53[Asia-China & Japan choose three:]-->HIS_191J
+53[Asia-China & Japan choose three:]-->HIS_194A
+53[Asia-China & Japan choose three:]-->HIS_194B
+53[Asia-China & Japan choose three:]-->HIS_194C
+53[Asia-China & Japan choose three:]-->POL_148A
+53[Asia-China & Japan choose three:]-->POL_148B
+53[Asia-China & Japan choose three:]-->RST_165
+53[Asia-China & Japan choose three:]-->RST_170
+53[Asia-China & Japan choose three:]-->RST_172
+53[Asia-China & Japan choose three:]-->SOC_147
+53[Asia-China & Japan choose three:]-->SOC_188
+style 54 fill:#ddd
+54[Southeast Asia/Pacific choose three:]-->ANT_143A
+54[Southeast Asia/Pacific choose three:]-->ANT_145
+54[Southeast Asia/Pacific choose three:]-->ANT_147
+54[Southeast Asia/Pacific choose three:]-->ECN_171
+54[Southeast Asia/Pacific choose three:]-->HIS_191A
+54[Southeast Asia/Pacific choose three:]-->HIS_191B
+54[Southeast Asia/Pacific choose three:]-->HIS_191C
+54[Southeast Asia/Pacific choose three:]-->HIS_191D
+54[Southeast Asia/Pacific choose three:]-->HIS_191E
+54[Southeast Asia/Pacific choose three:]-->HIS_191F
+54[Southeast Asia/Pacific choose three:]-->HIS_191G
+54[Southeast Asia/Pacific choose three:]-->HIS_191H
+54[Southeast Asia/Pacific choose three:]-->HIS_191J
+54[Southeast Asia/Pacific choose three:]-->HIS_195B
+54[Southeast Asia/Pacific choose three:]-->HIS_196A
+54[Southeast Asia/Pacific choose three:]-->HIS_196B
+54[Southeast Asia/Pacific choose three:]-->POL_148B
+54[Southeast Asia/Pacific choose three:]-->POL_148C
+54[Southeast Asia/Pacific choose three:]-->RST_165
+54[Southeast Asia/Pacific choose three:]-->RST_170
+54[Southeast Asia/Pacific choose three:]-->RST_172
+style SOC_001 fill:#ade
+style SOC_046A fill:#ade
+style SOC_046B fill:#ade
+style SOC_002 fill:#ade
+style SOC_003 fill:#ade
+style SOC_004 fill:#ade
+style SOC_005 fill:#ade
+style SOC_011 fill:#ade
+style SOC_025 fill:#ade
+style SOC_030A fill:#ade
+style SOC_030B fill:#ade
+SOC_030A-->SOC_030B
+style ANT_002 fill:#ade
+style ANT_020 fill:#ade
+style HIS_004A fill:#ade
+style HIS_004B fill:#ade
+style HIS_004C fill:#ade
+style HIS_006 fill:#ade
+style HIS_007A fill:#ade
+style HIS_007B fill:#ade
+style HIS_007C fill:#ade
+style HIS_008 fill:#ade
+style HIS_009A fill:#ade
+style HIS_009B fill:#ade
+style HIS_010C fill:#ade
+style HIS_015A fill:#ade
+style HIS_015B fill:#ade
+style HIS_017A fill:#ade
+style HIS_017B fill:#ade
+style PHI_005 fill:#ade
+style PHI_014 fill:#ade
+style PHI_024 fill:#ade
+style SOC_100 fill:#ade
+SOC_001-->SOC_100
+style SOC_125 fill:#ade
+SOC_001-->SOC_125
+style SOC_126 fill:#ade
+SOC_001-->SOC_126
+style SOC_135 fill:#ade
+SOC_001-->SOC_135
+style SOC_130 fill:#ade
+SOC_001-->SOC_130
+style SOC_132 fill:#ade
+SOC_001-->SOC_132
+style SOC_140 fill:#ade
+SOC_001-->SOC_140
+style SOC_118 fill:#ade
+SOC_001-->SOC_118
+style SOC_131 fill:#ade
+SOC_001-->SOC_131
+style SOC_146 fill:#ade
+SOC_001-->SOC_146
+style SOC_180A fill:#ade
+SOC_001-->SOC_180A
+style SOC_104 fill:#ade
+SOC_002-->55[Both]
+SOC_001-->55[Both]
+55-->SOC_104
+style SOC_141 fill:#ade
+SOC_001-->SOC_141
+style SOC_143A fill:#ade
+SOC_001-->SOC_143A
+style SOC_170 fill:#ade
+SOC_001-->SOC_170
+style SOC_102 fill:#ade
+SOC_001-->SOC_102
+style SOC_120 fill:#ade
+SOC_001-->SOC_120
+style SOC_122 fill:#ade
+SOC_001-->SOC_122
+style SOC_125 fill:#ade
+SOC_001-->SOC_125
+style SOC_126 fill:#ade
+SOC_001-->SOC_126
+style SOC_128 fill:#ade
+SOC_001-->SOC_128
+style SOC_129 fill:#ade
+SOC_001-->SOC_129
+style SOC_131 fill:#ade
+SOC_001-->SOC_131
+style SOC_132 fill:#ade
+SOC_001-->SOC_132
+style SOC_134 fill:#ade
+SOC_001-->SOC_134
+style SOC_135 fill:#ade
+SOC_001-->SOC_135
+style SOC_137 fill:#ade
+SOC_001-->SOC_137
+style SOC_143B fill:#ade
+SOC_001-->SOC_143B
+style SOC_148 fill:#ade
+SOC_001-->SOC_148
+style SOC_150 fill:#ade
+SOC_001-->SOC_150
+style SOC_152 fill:#ade
+SOC_001-->SOC_152
+style SOC_153 fill:#ade
+SOC_001-->SOC_153
+style SOC_172 fill:#ade
+SOC_001-->SOC_172
+style SOC_173 fill:#ade
+SOC_001-->SOC_173
+style SOC_174 fill:#ade
+SOC_001-->SOC_174
+style SOC_175 fill:#ade
+SOC_001-->SOC_175
+style SOC_176 fill:#ade
+SOC_001-->SOC_176
+style SOC_118 fill:#ade
+SOC_001-->SOC_118
+style SOC_128 fill:#ade
+SOC_001-->SOC_128
+style SOC_129 fill:#ade
+SOC_001-->SOC_129
+style SOC_130 fill:#ade
+SOC_001-->SOC_130
+style SOC_132 fill:#ade
+SOC_001-->SOC_132
+style SOC_133 fill:#ade
+SOC_001-->SOC_133
+style SOC_134 fill:#ade
+SOC_001-->SOC_134
+style SOC_140 fill:#ade
+SOC_001-->SOC_140
+style SOC_145A fill:#ade
+SOC_001-->SOC_145A
+style SOC_145B fill:#ade
+SOC_001-->SOC_145B
+style SOC_171 fill:#ade
+SOC_001-->SOC_171
+style SOC_172 fill:#ade
+SOC_001-->SOC_172
+style SOC_185 fill:#ade
+SOC_001-->SOC_185
+style SOC_185Y fill:#ade
+SOC_001-->SOC_185Y
+style SOC_188 fill:#ade
+SOC_001-->SOC_188
+style AAS_123 fill:#ade
+style ASA_100 fill:#ade
+style CHI_110 fill:#ade
+SOC_001-->56[One]
+CHI_010-->56[One]
+56-->CHI_110
+style NAS_115 fill:#ade
+style SOC_118 fill:#ade
+SOC_001-->SOC_118
+style SOC_124 fill:#ade
+SOC_001-->SOC_124
+style SOC_131 fill:#ade
+SOC_001-->SOC_131
+style SOC_133 fill:#ade
+SOC_001-->SOC_133
+style SOC_139 fill:#ade
+SOC_001-->SOC_139
+style SOC_146 fill:#ade
+SOC_001-->SOC_146
+style SOC_149 fill:#ade
+SOC_001-->SOC_149
+style SOC_150 fill:#ade
+SOC_001-->SOC_150
+style SOC_151 fill:#ade
+SOC_001-->SOC_151
+style SOC_154 fill:#ade
+SOC_001-->SOC_154
+style SOC_155 fill:#ade
+SOC_001-->SOC_155
+style SOC_159 fill:#ade
+SOC_001-->SOC_159
+style SOC_160 fill:#ade
+SOC_001-->SOC_160
+style SOC_180A fill:#ade
+SOC_001-->SOC_180A
+style SOC_180B fill:#ade
+SOC_001-->SOC_180B
+style SOC_181 fill:#ade
+SOC_001-->SOC_181
+style SOC_182 fill:#ade
+SOC_001-->SOC_182
+style SOC_183 fill:#ade
+SOC_001-->SOC_183
+style SOC_185 fill:#ade
+SOC_001-->SOC_185
+style SOC_185Y fill:#ade
+SOC_001-->SOC_185Y
+style SOC_104 fill:#ade
+SOC_002-->57[Both]
+SOC_001-->57[Both]
+57-->SOC_104
+style SOC_123 fill:#ade
+style SOC_125 fill:#ade
+SOC_001-->SOC_125
+style SOC_138 fill:#ade
+SOC_001-->SOC_138
+style SOC_141 fill:#ade
+SOC_001-->SOC_141
+style SOC_143A fill:#ade
+SOC_001-->SOC_143A
+style SOC_145A fill:#ade
+SOC_001-->SOC_145A
+style SOC_145B fill:#ade
+SOC_001-->SOC_145B
+style SOC_147 fill:#ade
+SOC_001-->SOC_147
+style SOC_148 fill:#ade
+SOC_001-->SOC_148
+style SOC_156 fill:#ade
+SOC_001-->SOC_156
+style SOC_157 fill:#ade
+SOC_001-->SOC_157
+style SOC_158 fill:#ade
+SOC_001-->SOC_158
+style SOC_170 fill:#ade
+SOC_001-->SOC_170
+style SOC_001 fill:#ade
+style SOC_046A fill:#ade
+style SOC_046B fill:#ade
+style SOC_003 fill:#ade
+style SOC_004 fill:#ade
+style SOC_011 fill:#ade
+style ANT_002 fill:#ade
+style ANT_020 fill:#ade
+style POL_001 fill:#ade
+style POL_003 fill:#ade
+style POL_004 fill:#ade
+style POL_007 fill:#ade
+style HIS_004A fill:#ade
+style HIS_004B fill:#ade
+style HIS_004C fill:#ade
+style HIS_006 fill:#ade
+style HIS_007A fill:#ade
+style HIS_007B fill:#ade
+style HIS_007C fill:#ade
+style HIS_008 fill:#ade
+style HIS_009A fill:#ade
+style HIS_009B fill:#ade
+style HIS_010C fill:#ade
+style HIS_015A fill:#ade
+style HIS_015B fill:#ade
+style HIS_017A fill:#ade
+style HIS_017B fill:#ade
+style PHI_005 fill:#ade
+style PHI_014 fill:#ade
+style PHI_024 fill:#ade
+style SOC_100 fill:#ade
+SOC_001-->SOC_100
+style SOC_155 fill:#ade
+SOC_001-->SOC_155
+style SOC_125 fill:#ade
+SOC_001-->SOC_125
+style SOC_126 fill:#ade
+SOC_001-->SOC_126
+style SOC_135 fill:#ade
+SOC_001-->SOC_135
+style SOC_130 fill:#ade
+SOC_001-->SOC_130
+style SOC_132 fill:#ade
+SOC_001-->SOC_132
+style SOC_140 fill:#ade
+SOC_001-->SOC_140
+style SOC_118 fill:#ade
+SOC_001-->SOC_118
+style SOC_131 fill:#ade
+SOC_001-->SOC_131
+style SOC_146 fill:#ade
+SOC_001-->SOC_146
+style SOC_160 fill:#ade
+SOC_001-->SOC_160
+style SOC_180A fill:#ade
+SOC_001-->SOC_180A
+style SOC_120 fill:#ade
+SOC_001-->SOC_120
+style SOC_150 fill:#ade
+SOC_001-->SOC_150
+style SOC_151 fill:#ade
+SOC_001-->SOC_151
+style SOC_152 fill:#ade
+SOC_001-->SOC_152
+style SOC_171 fill:#ade
+SOC_001-->SOC_171
+style SOC_118 fill:#ade
+SOC_001-->SOC_118
+style SOC_137 fill:#ade
+SOC_001-->SOC_137
+style SOC_148 fill:#ade
+SOC_001-->SOC_148
+style SOC_156 fill:#ade
+SOC_001-->SOC_156
+style SOC_157 fill:#ade
+SOC_001-->SOC_157
+style SOC_158 fill:#ade
+SOC_001-->SOC_158
+style AAS_123 fill:#ade
+style AAS_145A fill:#ade
+AAS_080-->58[One]
+AAS_010-->58[One]
+58-->AAS_145A
+style AAS_145B fill:#ade
+AAS_080-->59[Both]
+AAS_010-->59[Both]
+AAS_145A-->60[Both]
+59-->60[Both]
+60-->AAS_145B
+style CHI_130 fill:#ade
+style CHI_132 fill:#ade
+style NAS_117 fill:#ade
+POL_002-->61[Both]
+NAS_116-->61[Both]
+61-->NAS_117
+style NAS_118 fill:#ade
+style ASA_155 fill:#ade
+style CHI_182 fill:#ade
+CHI_010-->CHI_182
+style ENL_107 fill:#ade
+UWP_001V-->62[One]
+UWP_001-->62[One]
+UWP_001Y-->63[One]
+62-->63[One]
+63-->64[One]
+ENL_003-->64[One]
+64-->ENL_107
+style ESP_161 fill:#ade
+style ETX_138 fill:#ade
+style HYD_150 fill:#ade
+style PHI_119 fill:#ade
+style POL_122 fill:#ade
+style POL_150 fill:#ade
+style POL_151 fill:#ade
+style POL_152 fill:#ade
+style POL_154 fill:#ade
+style PSC_153 fill:#ade
+PSC_001Y-->65[One]
+PSC_001-->65[One]
+PSC_041-->66[Both]
+65-->66[Both]
+66-->PSC_153
+style UWP_104B fill:#ade
+UWP_001V-->67[One]
+UWP_001-->67[One]
+UWP_001Y-->68[One]
+67-->68[One]
+ENL_003-->69[One]
+68-->69[One]
+COM_001-->70[One]
+69-->70[One]
+COM_002-->71[One]
+70-->71[One]
+COM_003-->72[One]
+71-->72[One]
+COM_004-->73[One]
+72-->73[One]
+NAS_005-->74[One]
+73-->74[One]
+74-->UWP_104B
+style WMS_140 fill:#ade
+style SOC_001 fill:#ade
+style SOC_046A fill:#ade
+style SOC_046B fill:#ade
+style SOC_002 fill:#ade
+style SOC_003 fill:#ade
+style PSC_001 fill:#ade
+style ASA_001 fill:#ade
+style ASA_002 fill:#ade
+style AAS_010 fill:#ade
+style AAS_015 fill:#ade
+style CHI_010 fill:#ade
+style CHI_050 fill:#ade
+style NAS_001 fill:#ade
+style NAS_010 fill:#ade
+style SOC_004 fill:#ade
+style SOC_011 fill:#ade
+style SOC_030A fill:#ade
+style SOC_030B fill:#ade
+SOC_030A-->SOC_030B
+style SOC_100 fill:#ade
+SOC_001-->SOC_100
+style SOC_131 fill:#ade
+SOC_001-->SOC_131
+style SOC_140 fill:#ade
+SOC_001-->SOC_140
+style SOC_185 fill:#ade
+SOC_001-->SOC_185
+style SOC_185Y fill:#ade
+SOC_001-->SOC_185Y
+style PSC_140 fill:#ade
+PSC_001Y-->75[One]
+PSC_001-->75[One]
+PSC_041-->76[Both]
+75-->76[Both]
+76-->PSC_140
+style PSC_142 fill:#ade
+HDE_100A-->77[One]
+PSC_140-->77[One]
+HDE_100B-->78[One]
+77-->78[One]
+78-->PSC_142
+style PSC_151 fill:#ade
+PSC_001Y-->79[One]
+PSC_001-->79[One]
+79-->PSC_151
+style PSC_168 fill:#ade
+PSC_001Y-->80[One]
+PSC_001-->80[One]
+PSC_041-->81[Both]
+80-->81[Both]
+81-->PSC_168
+style SOC_104 fill:#ade
+SOC_002-->82[Both]
+SOC_001-->82[Both]
+82-->SOC_104
+style SOC_120 fill:#ade
+SOC_001-->SOC_120
+style SOC_122 fill:#ade
+SOC_001-->SOC_122
+style SOC_124 fill:#ade
+SOC_001-->SOC_124
+style SOC_139 fill:#ade
+SOC_001-->SOC_139
+style SOC_143A fill:#ade
+SOC_001-->SOC_143A
+style SOC_146 fill:#ade
+SOC_001-->SOC_146
+style SOC_149 fill:#ade
+SOC_001-->SOC_149
+style SOC_150 fill:#ade
+SOC_001-->SOC_150
+style SOC_153 fill:#ade
+SOC_001-->SOC_153
+style SOC_154 fill:#ade
+SOC_001-->SOC_154
+style SOC_155 fill:#ade
+SOC_001-->SOC_155
+style SOC_156 fill:#ade
+SOC_001-->SOC_156
+style SOC_160 fill:#ade
+SOC_001-->SOC_160
+style SOC_170 fill:#ade
+SOC_001-->SOC_170
+style SOC_171 fill:#ade
+SOC_001-->SOC_171
+style SOC_126 fill:#ade
+SOC_001-->SOC_126
+style SOC_128 fill:#ade
+SOC_001-->SOC_128
+style SOC_143B fill:#ade
+SOC_001-->SOC_143B
+style SOC_148 fill:#ade
+SOC_001-->SOC_148
+style SOC_157 fill:#ade
+SOC_001-->SOC_157
+style AAS_100 fill:#ade
+style ASA_102 fill:#ade
+ASA_002-->83[One]
+ASA_001-->83[One]
+ASA_003-->84[One]
+83-->84[One]
+ASA_004-->85[One]
+84-->85[One]
+85-->ASA_102
+style ASA_131 fill:#ade
+style ASA_150 fill:#ade
+style ASA_150B fill:#ade
+style ASA_150C fill:#ade
+style ASA_150D fill:#ade
+style ASA_150E fill:#ade
+style CHI_110 fill:#ade
+SOC_001-->86[One]
+CHI_010-->86[One]
+86-->CHI_110
+style CRD_176 fill:#ade
+style NAS_115 fill:#ade
+style SOC_129 fill:#ade
+SOC_001-->SOC_129
+style SOC_130 fill:#ade
+SOC_001-->SOC_130
+style SOC_134 fill:#ade
+SOC_001-->SOC_134
+style SOC_137 fill:#ade
+SOC_001-->SOC_137
+style SOC_172 fill:#ade
+SOC_001-->SOC_172
+style SOC_132 fill:#ade
+SOC_001-->SOC_132
+style SOC_133 fill:#ade
+SOC_001-->SOC_133
+style SOC_145B fill:#ade
+SOC_001-->SOC_145B
+style SOC_172 fill:#ade
+SOC_001-->SOC_172
+style SOC_139 fill:#ade
+SOC_001-->SOC_139
+style SOC_146 fill:#ade
+SOC_001-->SOC_146
+style SOC_151 fill:#ade
+SOC_001-->SOC_151
+style SOC_154 fill:#ade
+SOC_001-->SOC_154
+style SOC_159 fill:#ade
+SOC_001-->SOC_159
+style SOC_180A fill:#ade
+SOC_001-->SOC_180A
+style SOC_180B fill:#ade
+SOC_001-->SOC_180B
+style SOC_181 fill:#ade
+SOC_001-->SOC_181
+style SOC_182 fill:#ade
+SOC_001-->SOC_182
+style SOC_183 fill:#ade
+SOC_001-->SOC_183
+style SOC_001 fill:#ade
+style SOC_005 fill:#ade
+style SOC_046A fill:#ade
+style SOC_046B fill:#ade
+style ECN_001B fill:#ade
+style ANT_002 fill:#ade
+style ANT_020 fill:#ade
+style HIS_010C fill:#ade
+style POL_002 fill:#ade
+style SOC_100 fill:#ade
+SOC_001-->SOC_100
+style SOC_104 fill:#ade
+SOC_002-->87[Both]
+SOC_001-->87[Both]
+87-->SOC_104
+style SOC_141 fill:#ade
+SOC_001-->SOC_141
+style SOC_145A fill:#ade
+SOC_001-->SOC_145A
+style SOC_170 fill:#ade
+SOC_001-->SOC_170
+style ANT_126A fill:#ade
+style ANT_126B fill:#ade
+style ECN_115A fill:#ade
+ECN_001AV-->88[One]
+ECN_001A-->88[One]
+ECN_001B-->89[Both]
+88-->89[Both]
+89-->ECN_115A
+style ANT_127 fill:#ade
+ANT_002-->ANT_127
+style SOC_118 fill:#ade
+SOC_001-->SOC_118
+style SOC_130 fill:#ade
+SOC_001-->SOC_130
+style SOC_131 fill:#ade
+SOC_001-->SOC_131
+style SOC_143A fill:#ade
+SOC_001-->SOC_143A
+style SOC_144 fill:#ade
+SOC_001-->SOC_144
+style SOC_145B fill:#ade
+SOC_001-->SOC_145B
+style SOC_156 fill:#ade
+SOC_001-->SOC_156
+style SOC_158 fill:#ade
+SOC_001-->SOC_158
+style AAS_110 fill:#ade
+style AAS_111 fill:#ade
+AAS_012-->AAS_111
+style AAS_162 fill:#ade
+AAS_012-->90[One]
+RST_060-->90[One]
+AAS_110-->91[One]
+90-->91[One]
+91-->AAS_162
+style ANT_140A fill:#ade
+style ANT_140B fill:#ade
+style HIS_115A fill:#ade
+style HIS_115B fill:#ade
+style HIS_115C fill:#ade
+style HIS_116 fill:#ade
+style POL_134 fill:#ade
+style AAS_107A fill:#ade
+style AAS_180 fill:#ade
+style ANT_144 fill:#ade
+style HIS_159 fill:#ade
+style HIS_162 fill:#ade
+style HIS_163A fill:#ade
+style HIS_163B fill:#ade
+style HIS_164 fill:#ade
+style HIS_165 fill:#ade
+style HIS_166A fill:#ade
+style HIS_166B fill:#ade
+style HIS_167 fill:#ade
+style HIS_168 fill:#ade
+style NAS_120 fill:#ade
+NAS_055-->92[One]
+NAS_010-->92[One]
+92-->93[Both]
+NAS_001-->93[Both]
+93-->NAS_120
+style NAS_133 fill:#ade
+style SOC_158 fill:#ade
+SOC_001-->SOC_158
+style SPA_170 fill:#ade
+SPA_024S-->94[One]
+SPA_024-->94[One]
+SPA_033-->95[One]
+94-->95[One]
+95-->SPA_170
+style SPA_172 fill:#ade
+SPA_024S-->96[One]
+SPA_024-->96[One]
+SPA_033-->97[One]
+96-->97[One]
+97-->SPA_172
+style SPA_173 fill:#ade
+SPA_024S-->98[One]
+SPA_024-->98[One]
+SPA_033-->99[One]
+98-->99[One]
+99-->SPA_173
+style ANT_142 fill:#ade
+style HIS_112A fill:#ade
+style HIS_112B fill:#ade
+style HIS_113 fill:#ade
+style HIS_190A fill:#ade
+style HIS_190B fill:#ade
+style HIS_190C fill:#ade
+style HIS_193A fill:#ade
+style HIS_193B fill:#ade
+style RST_162 fill:#ade
+style WMS_184 fill:#ade
+style AAS_107C fill:#ade
+style ANT_148A fill:#ade
+style ANT_149A fill:#ade
+style ANT_149B fill:#ade
+style EAS_113 fill:#ade
+HIS_193-->100[Both]
+HIS_190C-->100[Both]
+100-->EAS_113
+style ECN_171 fill:#ade
+ECN_001AV-->101[One]
+ECN_001A-->101[One]
+ECN_001B-->102[Both]
+101-->102[Both]
+102-->ECN_171
+style HIS_191A fill:#ade
+style HIS_191B fill:#ade
+style HIS_191C fill:#ade
+style HIS_191D fill:#ade
+style HIS_191E fill:#ade
+style HIS_191F fill:#ade
+style HIS_191G fill:#ade
+style HIS_191H fill:#ade
+style HIS_191J fill:#ade
+style HIS_194A fill:#ade
+style HIS_194B fill:#ade
+style HIS_194C fill:#ade
+style POL_148A fill:#ade
+style POL_148B fill:#ade
+style RST_165 fill:#ade
+style RST_170 fill:#ade
+style RST_172 fill:#ade
+style SOC_147 fill:#ade
+SOC_001-->SOC_147
+style SOC_188 fill:#ade
+SOC_001-->SOC_188
+style ANT_143A fill:#ade
+style ANT_145 fill:#ade
+ANT_002-->ANT_145
+style ANT_147 fill:#ade
+style ECN_171 fill:#ade
+ECN_001AV-->103[One]
+ECN_001A-->103[One]
+ECN_001B-->104[Both]
+103-->104[Both]
+104-->ECN_171
+style HIS_191A fill:#ade
+style HIS_191B fill:#ade
+style HIS_191C fill:#ade
+style HIS_191D fill:#ade
+style HIS_191E fill:#ade
+style HIS_191F fill:#ade
+style HIS_191G fill:#ade
+style HIS_191H fill:#ade
+style HIS_191J fill:#ade
+style HIS_195B fill:#ade
+style HIS_196A fill:#ade
+style HIS_196B fill:#ade
+style POL_148B fill:#ade
+style POL_148C fill:#ade
+style RST_165 fill:#ade
+style RST_170 fill:#ade
+style RST_172 fill:#ade

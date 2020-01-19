@@ -1,0 +1,127 @@
+style 2 fill:#ddd
+2[Preparatory Subject Matter]-->PHI_012
+style 3 fill:#ddd
+3[(a) General Philosophy:]-->PHI_001
+style 4 fill:#ddd
+4[(b) Ancient Philosophy:]-->PHI_021
+style 5 fill:#ddd
+5[(c) Early Modern Philosophy:]-->PHI_022
+style 6 fill:#ddd
+6[(d) Philosophy of Mind:]-->PHI_013G
+style 7 fill:#ddd
+7[(e) Ethics]-->PHI_014
+7[(e) Ethics]-->PHI_015
+7[(e) Ethics]-->PHI_024
+style 8 fill:#ddd
+8[(f) Philosophy of Science:]-->PHI_030
+8[(f) Philosophy of Science:]-->PHI_031
+8[(f) Philosophy of Science:]-->PHI_032
+8[(f) Philosophy of Science:]-->PHI_038
+style 9 fill:#ddd
+9[(g) Philosophy of Language:]-->PHI_017
+style 10 fill:#ddd
+10[(h) Metaphysics:]-->PHI_101
+style 11 fill:#ddd
+11[(i) Theory of Knowledge:]-->PHI_102
+style 12 fill:#ddd
+12[Preparatory Subject Matter]-->PHI_005
+12[Preparatory Subject Matter]-->PHI_012
+12[Preparatory Subject Matter]-->PHI_024
+style 13 fill:#ddd
+13[Choose one:]-->PHI_014
+13[Choose one:]-->PHI_015
+13[Choose one:]-->PHI_016
+style 14 fill:#ddd
+14[Depth Subject Matter]-->PHI_112
+14[Depth Subject Matter]-->PHI_119
+style 15 fill:#ddd
+15[Choose two:]-->PHI_102
+15[Choose two:]-->PHI_116
+15[Choose two:]-->PHI_118
+15[Choose two:]-->PHI_121
+15[Choose two:]-->PHI_128
+15[Choose two:]-->PHI_189F
+style 16 fill:#ddd
+16[History of Philosophy choose one:]-->PHI_114
+16[History of Philosophy choose one:]-->PHI_141
+16[History of Philosophy choose one:]-->PHI_143
+16[History of Philosophy choose one:]-->PHI_145
+16[History of Philosophy choose one:]-->PHI_161
+16[History of Philosophy choose one:]-->PHI_162
+16[History of Philosophy choose one:]-->PHI_168
+16[History of Philosophy choose one:]-->PHI_170
+16[History of Philosophy choose one:]-->PHI_174
+16[History of Philosophy choose one:]-->PHI_175
+16[History of Philosophy choose one:]-->PHI_189A
+style 17 fill:#ddd
+17[Preparatory Subject Matter]-->PHI_012
+17[Preparatory Subject Matter]-->PHI_015
+17[Preparatory Subject Matter]-->PHI_038
+style 18 fill:#ddd
+18[Choose one:]-->PHI_024
+18[Choose one:]-->PHI_030
+18[Choose one:]-->PHI_031
+18[Choose one:]-->PHI_032
+style 19 fill:#ddd
+19[Depth Subject Matter]-->PHI_112
+19[Depth Subject Matter]-->PHI_121
+style 20 fill:#ddd
+20[Choose one:]-->PHI_107
+20[Choose one:]-->PHI_108
+20[Choose one:]-->PHI_128
+20[Choose one:]-->PHI_189I
+style PHI_012 fill:#ade
+style PHI_001 fill:#ade
+style PHI_021 fill:#ade
+style PHI_022 fill:#ade
+style PHI_013G fill:#ade
+style PHI_014 fill:#ade
+style PHI_015 fill:#ade
+style PHI_024 fill:#ade
+style PHI_030 fill:#ade
+style PHI_031 fill:#ade
+style PHI_032 fill:#ade
+style PHI_038 fill:#ade
+style PHI_017 fill:#ade
+style PHI_101 fill:#ade
+style PHI_102 fill:#ade
+style PHI_005 fill:#ade
+style PHI_012 fill:#ade
+style PHI_024 fill:#ade
+style PHI_014 fill:#ade
+style PHI_015 fill:#ade
+style PHI_016 fill:#ade
+style PHI_112 fill:#ade
+PHI_012-->PHI_112
+style PHI_119 fill:#ade
+style PHI_102 fill:#ade
+style PHI_116 fill:#ade
+style PHI_118 fill:#ade
+style PHI_121 fill:#ade
+style PHI_128 fill:#ade
+style PHI_189F fill:#ade
+style PHI_114 fill:#ade
+style PHI_141 fill:#ade
+style PHI_143 fill:#ade
+style PHI_145 fill:#ade
+style PHI_161 fill:#ade
+style PHI_162 fill:#ade
+style PHI_168 fill:#ade
+style PHI_170 fill:#ade
+style PHI_174 fill:#ade
+style PHI_175 fill:#ade
+style PHI_189A fill:#ade
+style PHI_012 fill:#ade
+style PHI_015 fill:#ade
+style PHI_038 fill:#ade
+style PHI_024 fill:#ade
+style PHI_030 fill:#ade
+style PHI_031 fill:#ade
+style PHI_032 fill:#ade
+style PHI_112 fill:#ade
+PHI_012-->PHI_112
+style PHI_121 fill:#ade
+style PHI_107 fill:#ade
+style PHI_108 fill:#ade
+style PHI_128 fill:#ade
+style PHI_189I fill:#ade

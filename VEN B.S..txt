@@ -1,0 +1,679 @@
+style 2 fill:#ddd
+2[Biological Science]-->BIS_002A
+style 3 fill:#ddd
+3[Chemistry]-->CHE_002A
+3[Chemistry]-->CHE_002B
+3[Chemistry]-->CHE_002C
+3[Chemistry]-->CHE_008A
+3[Chemistry]-->CHE_008B
+style 4 fill:#ddd
+4[Mathematics]-->MAT_016A
+4[Mathematics]-->MAT_016B
+style 5 fill:#ddd
+5[Physics choose PHY 001A & 001B or 007A:]-->PHY_001A
+5[Physics choose PHY 001A & 001B or 007A:]-->PHY_001B
+5[Physics choose PHY 001A & 001B or 007A:]-->PHY_007A
+style 6 fill:#ddd
+6[Plant Science]-->PLS_002
+style 7 fill:#ddd
+7[Choose one:]-->PLS_021
+style 8 fill:#ddd
+8[Viticulture & Enology]-->VEN_002
+8[Viticulture & Enology]-->VEN_003
+style 9 fill:#ddd
+9[Biological Science choose BIS 102 & 103 or 105:]-->BIS_102
+9[Biological Science choose BIS 102 & 103 or 105:]-->BIS_103
+9[Biological Science choose BIS 102 & 103 or 105:]-->BIS_105
+style 10 fill:#ddd
+10[Microbiology]-->MIC_102
+10[Microbiology]-->MIC_103L
+style 11 fill:#ddd
+11[Choose one:]-->PLS_120
+11[Choose one:]-->STA_106
+style 12 fill:#ddd
+12[Viticulture & Enology]-->VEN_101A
+12[Viticulture & Enology]-->VEN_101B
+12[Viticulture & Enology]-->VEN_101C
+12[Viticulture & Enology]-->VEN_110
+12[Viticulture & Enology]-->VEN_118
+12[Viticulture & Enology]-->VEN_123
+12[Viticulture & Enology]-->VEN_124
+12[Viticulture & Enology]-->VEN_125
+12[Viticulture & Enology]-->VEN_126
+12[Viticulture & Enology]-->VEN_128
+12[Viticulture & Enology]-->VEN_135
+style 13 fill:#ddd
+13[In consultation with the advisor, choose three:]-->VEN_123L
+13[In consultation with the advisor, choose three:]-->VEN_124L
+13[In consultation with the advisor, choose three:]-->VEN_125L
+13[In consultation with the advisor, choose three:]-->VEN_126L
+13[In consultation with the advisor, choose three:]-->VEN_127L
+13[In consultation with the advisor, choose three:]-->VEN_128L
+style 14 fill:#ddd
+14[(A) Plant Science Area:]-->ABT_150
+14[(A) Plant Science Area:]-->ATM_133
+14[(A) Plant Science Area:]-->BIS_101
+14[(A) Plant Science Area:]-->BIT_160
+14[(A) Plant Science Area:]-->ENT_110
+14[(A) Plant Science Area:]-->HYD_110
+14[(A) Plant Science Area:]-->HYD_124
+14[(A) Plant Science Area:]-->MCB_126
+14[(A) Plant Science Area:]-->NEM_100
+14[(A) Plant Science Area:]-->PLB_111
+14[(A) Plant Science Area:]-->PLB_112
+14[(A) Plant Science Area:]-->PLB_123
+14[(A) Plant Science Area:]-->PLB_143
+14[(A) Plant Science Area:]-->PLP_120
+14[(A) Plant Science Area:]-->PLS_154
+14[(A) Plant Science Area:]-->PLS_157
+14[(A) Plant Science Area:]-->PLS_158
+14[(A) Plant Science Area:]-->PLS_171
+14[(A) Plant Science Area:]-->PLS_176
+14[(A) Plant Science Area:]-->SSC_100
+14[(A) Plant Science Area:]-->SSC_102
+14[(A) Plant Science Area:]-->SSC_109
+14[(A) Plant Science Area:]-->SSC_118
+14[(A) Plant Science Area:]-->VEN_111
+style 15 fill:#ddd
+15[(B) Food Science & Microbiology Area:]-->BIS_101
+15[(B) Food Science & Microbiology Area:]-->FST_102A
+15[(B) Food Science & Microbiology Area:]-->FST_102B
+15[(B) Food Science & Microbiology Area:]-->FST_104
+15[(B) Food Science & Microbiology Area:]-->FST_104L
+15[(B) Food Science & Microbiology Area:]-->FST_109
+15[(B) Food Science & Microbiology Area:]-->FST_110
+15[(B) Food Science & Microbiology Area:]-->FST_110L
+15[(B) Food Science & Microbiology Area:]-->FST_127
+15[(B) Food Science & Microbiology Area:]-->MIC_140
+15[(B) Food Science & Microbiology Area:]-->MIC_150
+15[(B) Food Science & Microbiology Area:]-->MIC_155L
+15[(B) Food Science & Microbiology Area:]-->VEN_140
+style 16 fill:#ddd
+16[(C) Economics & Business Area:]-->ARE_100A
+16[(C) Economics & Business Area:]-->ARE_112
+16[(C) Economics & Business Area:]-->ARE_113
+16[(C) Economics & Business Area:]-->ARE_118
+16[(C) Economics & Business Area:]-->ARE_130
+16[(C) Economics & Business Area:]-->ARE_140
+16[(C) Economics & Business Area:]-->ARE_150
+16[(C) Economics & Business Area:]-->ECN_001A
+16[(C) Economics & Business Area:]-->ECN_001B
+16[(C) Economics & Business Area:]-->MGT_011A
+16[(C) Economics & Business Area:]-->MGT_011B
+16[(C) Economics & Business Area:]-->VEN_111
+style 17 fill:#ddd
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->FRE_021
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->FRE_022
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->FRE_023
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->GER_011
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->GER_020
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->GER_021
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->GER_022
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->ITA_004
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->ITA_005
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->SPA_008
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->SPA_021
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->SPA_022
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->SPA_028
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->SPA_031
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->SPA_032
+17[At least one course must be Intermediate or Conversational qualifying Intermediate or Conversational courses are listed below:]-->SPA_033
+style 18 fill:#ddd
+18[May be increased to 12 units in exceptional circumstances.]-->VEN_190X
+18[May be increased to 12 units in exceptional circumstances.]-->VEN_192
+18[May be increased to 12 units in exceptional circumstances.]-->VEN_198
+18[May be increased to 12 units in exceptional circumstances.]-->VEN_199
+18[May be increased to 12 units in exceptional circumstances.]-->VEN_290
+18[May be increased to 12 units in exceptional circumstances.]-->VEN_298
+style BIS_002A fill:#ade
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->19[One]
+CHE_002A-->19[One]
+19-->CHE_002B
+style CHE_002C fill:#ade
+CHE_002BH-->20[One]
+CHE_002B-->20[One]
+20-->CHE_002C
+style CHE_008A fill:#ade
+CHE_002BH-->21[One]
+CHE_002B-->21[One]
+21-->CHE_008A
+style CHE_008B fill:#ade
+CHE_118A-->22[One]
+CHE_008A-->22[One]
+CHE_128A-->23[One]
+22-->23[One]
+23-->CHE_008B
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->24[One]
+MAT_016A-->24[One]
+MAT_021A-->25[One]
+24-->25[One]
+MAT_021AH-->26[One]
+25-->26[One]
+26-->MAT_016B
+style PHY_001A fill:#ade
+style PHY_001B fill:#ade
+PHY_009A-->27[One]
+PHY_001A-->27[One]
+PHY_007A-->28[Both]
+27-->28[Both]
+PHY_007B-->29[Both]
+28-->29[Both]
+PHY_007C-->30[Both]
+29-->30[Both]
+PHY_009B-->31[Both]
+30-->31[Both]
+PHY_009D-->32[One]
+PHY_009C-->32[One]
+32-->33[Both]
+31-->33[Both]
+33-->PHY_001B
+style PHY_007A fill:#ade
+MAT_017B-->34[One]
+MAT_016B-->34[One]
+MAT_021B-->35[One]
+34-->35[One]
+MAT_016B-->36[One]
+35-->36[One]
+MAT_017B-->37[One]
+36-->37[One]
+MAT_021B-->38[One]
+37-->38[One]
+38-->PHY_007A
+style PLS_002 fill:#ade
+style PLS_021 fill:#ade
+AMR_021-->39[One]
+PLS_021V-->39[One]
+AMR_021-->40[Both]
+39-->40[Both]
+40-->PLS_021
+style VEN_002 fill:#ade
+style VEN_003 fill:#ade
+style BIS_102 fill:#ade
+BIS_002A-->41[One]
+BIS_001A-->41[One]
+CHE_118B-->42[One]
+CHE_008B-->42[One]
+CHE_128B-->43[One]
+42-->43[One]
+43-->44[Both]
+41-->44[Both]
+44-->BIS_102
+style BIS_103 fill:#ade
+BIS_102-->BIS_103
+style BIS_105 fill:#ade
+BIS_001B-->45[Both]
+BIS_001A-->45[Both]
+BIS_001C-->46[Both]
+45-->46[Both]
+BIS_002B-->47[Both]
+BIS_002A-->47[Both]
+BIS_002C-->48[Both]
+47-->48[Both]
+48-->49[One]
+46-->49[One]
+CHE_118B-->50[One]
+CHE_008B-->50[One]
+CHE_128B-->51[One]
+50-->51[One]
+51-->52[Both]
+49-->52[Both]
+52-->BIS_105
+style MIC_102 fill:#ade
+BIS_002A-->53[One]
+BIS_001A-->53[One]
+CHE_002B-->54[Both]
+53-->54[Both]
+54-->MIC_102
+style MIC_103L fill:#ade
+CHE_002B-->55[Both]
+MIC_102-->55[Both]
+55-->MIC_103L
+style PLS_120 fill:#ade
+style STA_106 fill:#ade
+STA_013Y-->56[One]
+STA_013-->56[One]
+STA_032-->57[One]
+56-->57[One]
+STA_100-->58[One]
+57-->58[One]
+58-->STA_106
+style VEN_101A fill:#ade
+VEN_002-->VEN_101A
+style VEN_101B fill:#ade
+VEN_002-->VEN_101B
+style VEN_101C fill:#ade
+VEN_002-->VEN_101C
+style VEN_110 fill:#ade
+VEN_002-->VEN_110
+style VEN_118 fill:#ade
+VEN_002-->VEN_118
+style VEN_123 fill:#ade
+PLS_021-->59[Both]
+CHE_002C-->59[Both]
+CHE_118B-->60[One]
+CHE_008B-->60[One]
+CHE_128B-->61[One]
+60-->61[One]
+61-->62[Both]
+59-->62[Both]
+62-->VEN_123
+style VEN_124 fill:#ade
+VEN_123-->63[Both]
+VEN_003-->63[Both]
+BIS_105-->64[One]
+BIS_102-->64[One]
+64-->65[Both]
+63-->65[Both]
+65-->VEN_124
+style VEN_125 fill:#ade
+STA_106-->66[One]
+PLS_120-->66[One]
+66-->VEN_125
+style VEN_126 fill:#ade
+VEN_124-->VEN_126
+style VEN_128 fill:#ade
+VEN_124-->67[Both]
+VEN_123-->67[Both]
+MIC_102-->68[Both]
+67-->68[Both]
+MIC_103L-->69[Both]
+68-->69[Both]
+VEN_125-->70[Both]
+69-->70[Both]
+70-->VEN_128
+style VEN_135 fill:#ade
+MAT_016A-->71[Both]
+PLS_021-->71[Both]
+MAT_016B-->72[Both]
+71-->72[Both]
+PHY_001B-->73[Both]
+PHY_001A-->73[Both]
+PHY_007A-->74[One]
+73-->74[One]
+74-->75[Both]
+72-->75[Both]
+75-->VEN_135
+style VEN_123L fill:#ade
+CHE_002C-->76[Both]
+VEN_123-->76[Both]
+PLS_021-->77[Both]
+76-->77[Both]
+CHE_118B-->78[One]
+CHE_008B-->78[One]
+CHE_128B-->79[One]
+78-->79[One]
+79-->80[Both]
+77-->80[Both]
+80-->VEN_123L
+style VEN_124L fill:#ade
+VEN_124-->VEN_124L
+style VEN_125L fill:#ade
+VEN_125-->VEN_125L
+style VEN_126L fill:#ade
+VEN_123L-->81[Both]
+VEN_126-->81[Both]
+81-->VEN_126L
+style VEN_127L fill:#ade
+VEN_123L-->82[Both]
+VEN_123-->82[Both]
+VEN_126-->83[Both]
+82-->83[Both]
+VEN_126L-->84[Both]
+83-->84[Both]
+VEN_135-->85[Both]
+84-->85[Both]
+85-->VEN_127L
+style VEN_128L fill:#ade
+VEN_124-->86[Both]
+VEN_123-->86[Both]
+VEN_128-->87[Both]
+86-->87[Both]
+MIC_103L-->88[Both]
+87-->88[Both]
+88-->VEN_128L
+style ABT_150 fill:#ade
+style ATM_133 fill:#ade
+MAT_016B-->ATM_133
+style BIS_101 fill:#ade
+BIS_002B-->89[Both]
+BIS_002A-->89[Both]
+CHE_118A-->90[One]
+CHE_008A-->90[One]
+CHE_128A-->91[One]
+90-->91[One]
+91-->92[Both]
+89-->92[Both]
+STA_013Y-->93[One]
+STA_013-->93[One]
+STA_100-->94[One]
+93-->94[One]
+STA_102-->95[One]
+94-->95[One]
+STA_130A-->96[One]
+95-->96[One]
+96-->97[Both]
+92-->97[Both]
+STA_100-->98[Both]
+97-->98[Both]
+98-->BIS_101
+style BIT_160 fill:#ade
+BIS_002A-->99[One]
+BIS_001A-->99[One]
+PLS_152-->100[One]
+BIS_101-->100[One]
+100-->101[Both]
+99-->101[Both]
+101-->BIT_160
+style ENT_110 fill:#ade
+BIS_001B-->ENT_110
+style HYD_110 fill:#ade
+PHY_007A-->HYD_110
+style HYD_124 fill:#ade
+SSC_107-->102[One]
+SSC_100-->102[One]
+PLB_111-->103[One]
+PLS_100A-->103[One]
+103-->104[Both]
+102-->104[Both]
+104-->HYD_124
+style MCB_126 fill:#ade
+BIS_105-->105[One]
+BIS_103-->105[One]
+105-->MCB_126
+style NEM_100 fill:#ade
+BIS_010-->106[One]
+BIS_001B-->106[One]
+106-->NEM_100
+style PLB_111 fill:#ade
+BIS_002B-->107[Both]
+BIS_002A-->107[Both]
+BIS_002C-->108[Both]
+107-->108[Both]
+CHE_118B-->109[One]
+CHE_008B-->109[One]
+109-->110[Both]
+108-->110[Both]
+PHY_007C-->111[Both]
+110-->111[Both]
+111-->PLB_111
+style PLB_112 fill:#ade
+BIS_002B-->112[Both]
+BIS_002A-->112[Both]
+BIS_002C-->113[Both]
+112-->113[Both]
+CHE_118B-->114[One]
+CHE_008B-->114[One]
+114-->115[Both]
+113-->115[Both]
+BIS_101-->116[Both]
+115-->116[Both]
+116-->PLB_112
+style PLB_123 fill:#ade
+BIS_101-->117[Both]
+BIS_002A-->117[Both]
+PLB_105-->118[Both]
+117-->118[Both]
+118-->PLB_123
+style PLB_143 fill:#ade
+BIS_001C-->119[One]
+PLS_002-->119[One]
+BIS_002C-->120[One]
+119-->120[One]
+120-->PLB_143
+style PLP_120 fill:#ade
+style PLS_154 fill:#ade
+BIS_101-->121[One]
+PLS_152-->121[One]
+121-->PLS_154
+style PLS_157 fill:#ade
+PLB_111-->122[One]
+PLS_100C-->122[One]
+PLB_112-->123[One]
+122-->123[One]
+ENH_102-->124[One]
+123-->124[One]
+VEN_110-->125[One]
+124-->125[One]
+125-->PLS_157
+style PLS_158 fill:#ade
+PLB_111-->126[One]
+PLS_100A-->126[One]
+ENH_102-->127[One]
+126-->127[One]
+VEN_110-->128[One]
+127-->128[One]
+128-->PLS_158
+style PLS_171 fill:#ade
+BIS_001C-->129[One]
+PLS_002-->129[One]
+BIS_002C-->130[One]
+129-->130[One]
+130-->PLS_171
+style PLS_176 fill:#ade
+BIS_001C-->131[One]
+PLS_002-->131[One]
+BIS_002C-->132[One]
+131-->132[One]
+132-->PLS_176
+style SSC_100 fill:#ade
+style SSC_102 fill:#ade
+style SSC_109 fill:#ade
+SSC_100-->SSC_109
+style SSC_118 fill:#ade
+style VEN_111 fill:#ade
+style BIS_101 fill:#ade
+BIS_002B-->133[Both]
+BIS_002A-->133[Both]
+CHE_118A-->134[One]
+CHE_008A-->134[One]
+CHE_128A-->135[One]
+134-->135[One]
+135-->136[Both]
+133-->136[Both]
+STA_013Y-->137[One]
+STA_013-->137[One]
+STA_100-->138[One]
+137-->138[One]
+STA_102-->139[One]
+138-->139[One]
+STA_130A-->140[One]
+139-->140[One]
+140-->141[Both]
+136-->141[Both]
+STA_100-->142[Both]
+141-->142[Both]
+142-->BIS_101
+style FST_102A fill:#ade
+style FST_102B fill:#ade
+CHE_002C-->143[Both]
+FST_102A-->143[Both]
+143-->FST_102B
+style FST_104 fill:#ade
+BIS_103-->144[Both]
+BIS_002A-->144[Both]
+MIC_102-->145[Both]
+144-->145[Both]
+145-->FST_104
+style FST_104L fill:#ade
+BIS_103-->146[Both]
+BIS_002A-->146[Both]
+FST_104-->147[Both]
+146-->147[Both]
+147-->FST_104L
+style FST_109 fill:#ade
+STA_013Y-->148[One]
+STA_013-->148[One]
+148-->FST_109
+style FST_110 fill:#ade
+PHY_007B-->149[Both]
+PHY_007A-->149[Both]
+PHY_007C-->150[Both]
+149-->150[Both]
+MAT_017C-->151[One]
+MAT_016C-->151[One]
+MAT_021C-->152[One]
+151-->152[One]
+152-->153[Both]
+150-->153[Both]
+153-->FST_110
+style FST_110L fill:#ade
+FST_110-->FST_110L
+style FST_127 fill:#ade
+FST_117-->FST_127
+style MIC_140 fill:#ade
+BIS_102-->154[Both]
+BIS_101-->154[Both]
+BIS_103-->155[Both]
+154-->155[Both]
+BIS_105-->156[Both]
+BIS_101-->156[Both]
+156-->157[One]
+155-->157[One]
+157-->MIC_140
+style MIC_150 fill:#ade
+BIS_101-->158[Both]
+MIC_102-->158[Both]
+158-->MIC_150
+style MIC_155L fill:#ade
+MIC_150-->159[One]
+MIC_140-->159[One]
+MIC_120L-->160[Both]
+159-->160[Both]
+160-->MIC_155L
+style VEN_140 fill:#ade
+FST_110A-->161[Both]
+CHE_008B-->161[Both]
+161-->VEN_140
+style ARE_100A fill:#ade
+ECN_001AV-->162[One]
+ECN_001A-->162[One]
+ECN_001B-->163[Both]
+162-->163[Both]
+MAT_016B-->164[Both]
+MAT_016A-->164[Both]
+MAT_016C-->165[Both]
+164-->165[Both]
+MAT_017B-->166[Both]
+MAT_017A-->166[Both]
+166-->167[One]
+165-->167[One]
+MAT_021B-->168[Both]
+MAT_021A-->168[Both]
+168-->169[One]
+167-->169[One]
+169-->170[Both]
+163-->170[Both]
+170-->ARE_100A
+style ARE_112 fill:#ade
+style ARE_113 fill:#ade
+ECN_001AV-->171[One]
+ECN_001A-->171[One]
+171-->ARE_113
+style ARE_118 fill:#ade
+MGT_011B-->172[Both]
+MGT_011A-->172[Both]
+172-->ARE_118
+style ARE_130 fill:#ade
+ARE_100A-->173[Both]
+ARE_106-->173[Both]
+STA_013Y-->174[One]
+STA_013-->174[One]
+174-->175[Both]
+173-->175[Both]
+STA_103-->176[Both]
+175-->176[Both]
+176-->ARE_130
+style ARE_140 fill:#ade
+ECN_001AV-->177[One]
+ECN_001A-->177[One]
+177-->ARE_140
+style ARE_150 fill:#ade
+ARE_100A-->ARE_150
+style ECN_001A fill:#ade
+style ECN_001B fill:#ade
+style MGT_011A fill:#ade
+style MGT_011B fill:#ade
+MGT_011A-->MGT_011B
+style VEN_111 fill:#ade
+style FRE_021 fill:#ade
+FRE_003-->178[One]
+FRE_001A-->178[One]
+FRE_003S-->179[One]
+178-->179[One]
+179-->FRE_021
+style FRE_022 fill:#ade
+FRE_021S-->180[One]
+FRE_021-->180[One]
+180-->FRE_022
+style FRE_023 fill:#ade
+FRE_022S-->181[One]
+FRE_022-->181[One]
+181-->FRE_023
+style GER_011 fill:#ade
+style GER_020 fill:#ade
+GER_006-->182[Both]
+GER_003-->182[Both]
+182-->GER_020
+style GER_021 fill:#ade
+GER_020-->GER_021
+style GER_022 fill:#ade
+GER_021-->GER_022
+style ITA_004 fill:#ade
+ITA_003S-->183[One]
+ITA_003-->183[One]
+183-->ITA_004
+style ITA_005 fill:#ade
+ITA_004S-->184[One]
+ITA_004-->184[One]
+184-->ITA_005
+style SPA_008 fill:#ade
+SPA_003V-->185[One]
+SPA_003-->185[One]
+SPA_003Y-->186[One]
+185-->186[One]
+186-->SPA_008
+style SPA_021 fill:#ade
+SPA_003S-->187[One]
+SPA_003-->187[One]
+SPA_003V-->188[One]
+187-->188[One]
+SPA_003Y-->189[One]
+188-->189[One]
+189-->SPA_021
+style SPA_022 fill:#ade
+SPA_021S-->190[One]
+SPA_021-->190[One]
+SPA_021V-->191[One]
+190-->191[One]
+SPA_021Y-->192[One]
+191-->192[One]
+192-->SPA_022
+style SPA_028 fill:#ade
+SPA_022-->193[One]
+SPA_008-->193[One]
+SPA_022V-->194[One]
+193-->194[One]
+SPA_022Y-->195[One]
+194-->195[One]
+195-->SPA_028
+style SPA_031 fill:#ade
+SPA_003V-->196[One]
+SPA_003-->196[One]
+SPA_003Y-->197[One]
+196-->197[One]
+197-->SPA_031
+style SPA_032 fill:#ade
+SPA_031-->SPA_032
+style SPA_033 fill:#ade
+SPA_032-->SPA_033
+style VEN_190X fill:#ade
+VEN_003-->VEN_190X
+style VEN_192 fill:#ade
+style VEN_198 fill:#ade
+style VEN_199 fill:#ade
+style VEN_290 fill:#ade
+style VEN_298 fill:#ade

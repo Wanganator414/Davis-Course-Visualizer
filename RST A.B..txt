@@ -1,0 +1,26 @@
+style 2 fill:#ddd
+2[(A) Choose one from the RST 001 series:]-->RST_001
+2[(A) Choose one from the RST 001 series:]-->RST_001A
+2[(A) Choose one from the RST 001 series:]-->RST_001B
+2[(A) Choose one from the RST 001 series:]-->RST_001C
+2[(A) Choose one from the RST 001 series:]-->RST_001D
+2[(A) Choose one from the RST 001 series:]-->RST_001E
+2[(A) Choose one from the RST 001 series:]-->RST_001F
+2[(A) Choose one from the RST 001 series:]-->RST_001G
+2[(A) Choose one from the RST 001 series:]-->RST_001H
+2[(A) Choose one from the RST 001 series:]-->RST_001J
+style 3 fill:#ddd
+3[Choose one:]-->RST_100
+3[Choose one:]-->RST_190
+style RST_001 fill:#ade
+style RST_001A fill:#ade
+style RST_001B fill:#ade
+style RST_001C fill:#ade
+style RST_001D fill:#ade
+style RST_001E fill:#ade
+style RST_001F fill:#ade
+style RST_001G fill:#ade
+style RST_001H fill:#ade
+style RST_001J fill:#ade
+style RST_100 fill:#ade
+style RST_190 fill:#ade

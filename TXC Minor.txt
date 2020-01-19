@@ -1,0 +1,80 @@
+style 2 fill:#ddd
+2[Choose one:]-->TXC_006
+2[Choose one:]-->TXC_007
+2[Choose one:]-->TXC_008
+style 3 fill:#ddd
+3[Choose 14 units:]-->FPS_100
+3[Choose 14 units:]-->FPS_110
+3[Choose 14 units:]-->FPS_161
+3[Choose 14 units:]-->FPS_161L
+3[Choose 14 units:]-->TXC_107
+style 4 fill:#ddd
+4[TXC 162 & 162L:]-->TXC_162
+4[TXC 162 & 162L:]-->TXC_162L
+style 5 fill:#ddd
+5[TXC 163 & 163L:]-->TXC_163
+5[TXC 163 & 163L:]-->TXC_163L
+5[TXC 163 & 163L:]-->TXC_164
+5[TXC 163 & 163L:]-->TXC_165
+5[TXC 163 & 163L:]-->TXC_171
+5[TXC 163 & 163L:]-->TXC_173
+5[TXC 163 & 163L:]-->TXC_174
+style TXC_006 fill:#ade
+style TXC_007 fill:#ade
+style TXC_008 fill:#ade
+style FPS_100 fill:#ade
+CHE_002B-->6[Both]
+CHE_002A-->6[Both]
+CHE_008B-->7[Both]
+CHE_008A-->7[Both]
+ENG_045Y-->8[One]
+ENG_045-->8[One]
+8-->9[One]
+7-->9[One]
+9-->10[Both]
+6-->10[Both]
+10-->FPS_100
+style FPS_110 fill:#ade
+CHE_010-->FPS_110
+style FPS_161 fill:#ade
+CHE_008B-->11[Both]
+TXC_006-->11[Both]
+11-->FPS_161
+style FPS_161L fill:#ade
+FPS_161-->FPS_161L
+style TXC_107 fill:#ade
+SOC_002-->TXC_107
+style TXC_162 fill:#ade
+TXC_006-->TXC_162
+style TXC_162L fill:#ade
+TXC_162-->TXC_162L
+style TXC_163 fill:#ade
+CHE_008B-->12[One]
+FPS_110-->12[One]
+12-->13[Both]
+TXC_006-->13[Both]
+13-->TXC_163
+style TXC_163L fill:#ade
+TXC_163-->TXC_163L
+style TXC_164 fill:#ade
+TXC_008-->14[One]
+TXC_006-->14[One]
+14-->TXC_164
+style TXC_165 fill:#ade
+TXC_006-->TXC_165
+style TXC_171 fill:#ade
+TXC_008-->15[Both]
+TXC_006-->15[Both]
+15-->TXC_171
+style TXC_173 fill:#ade
+ECN_001AV-->16[One]
+ECN_001A-->16[One]
+16-->17[Both]
+TXC_008-->17[Both]
+ARE_136-->18[One]
+ARE_113-->18[One]
+18-->19[Both]
+17-->19[Both]
+19-->TXC_173
+style TXC_174 fill:#ade
+TXC_008-->TXC_174

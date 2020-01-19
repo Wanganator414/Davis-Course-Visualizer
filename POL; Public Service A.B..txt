@@ -1,0 +1,361 @@
+style 2 fill:#ddd
+2[Units: 24]-->POL_001
+2[Units: 24]-->POL_051
+style 3 fill:#ddd
+3[Choose three:]-->POL_002
+3[Choose three:]-->POL_003
+3[Choose three:]-->POL_004
+3[Choose three:]-->POL_005
+3[Choose three:]-->POL_007
+style 4 fill:#ddd
+4[Choose one:]-->POL_012Y
+4[Choose one:]-->STA_032
+4[Choose one:]-->STA_013
+style 5 fill:#ddd
+5[Choose three:]-->POL_100
+5[Choose three:]-->POL_102
+5[Choose three:]-->POL_104
+5[Choose three:]-->POL_105
+5[Choose three:]-->POL_106
+5[Choose three:]-->POL_108
+5[Choose three:]-->POL_109
+5[Choose three:]-->POL_113
+5[Choose three:]-->POL_114
+5[Choose three:]-->POL_180
+style 6 fill:#ddd
+6[Internship choose one:]-->POL_192A
+6[Internship choose one:]-->POL_192B
+6[Internship choose one:]-->WAS_192
+style 7 fill:#ddd
+7[Research Paper]-->POL_193
+7[Research Paper]-->WAS_193
+style 8 fill:#ddd
+8[Field (1) Policy Process:]-->POL_100
+8[Field (1) Policy Process:]-->POL_102
+8[Field (1) Policy Process:]-->POL_104
+8[Field (1) Policy Process:]-->POL_105
+8[Field (1) Policy Process:]-->POL_106
+8[Field (1) Policy Process:]-->POL_108
+8[Field (1) Policy Process:]-->POL_109
+8[Field (1) Policy Process:]-->POL_140A
+8[Field (1) Policy Process:]-->POL_160
+8[Field (1) Policy Process:]-->POL_162
+8[Field (1) Policy Process:]-->POL_163
+8[Field (1) Policy Process:]-->POL_164
+8[Field (1) Policy Process:]-->POL_165
+8[Field (1) Policy Process:]-->POL_166
+8[Field (1) Policy Process:]-->POL_168
+8[Field (1) Policy Process:]-->POL_170
+8[Field (1) Policy Process:]-->POL_171
+8[Field (1) Policy Process:]-->POL_172
+8[Field (1) Policy Process:]-->POL_174
+8[Field (1) Policy Process:]-->POL_175
+8[Field (1) Policy Process:]-->POL_180
+8[Field (1) Policy Process:]-->POL_183
+8[Field (1) Policy Process:]-->POL_187
+8[Field (1) Policy Process:]-->POL_195
+8[Field (1) Policy Process:]-->ECN_130
+8[Field (1) Policy Process:]-->ECN_131
+style 9 fill:#ddd
+9[Field (2) Policy Interpretation (Public/Pre-Law):]-->POL_119
+9[Field (2) Policy Interpretation (Public/Pre-Law):]-->POL_150
+9[Field (2) Policy Interpretation (Public/Pre-Law):]-->POL_151
+9[Field (2) Policy Interpretation (Public/Pre-Law):]-->POL_152
+9[Field (2) Policy Interpretation (Public/Pre-Law):]-->POL_153
+9[Field (2) Policy Interpretation (Public/Pre-Law):]-->POL_155
+style 10 fill:#ddd
+10[Field (3) State & Local Policy:]-->POL_100
+10[Field (3) State & Local Policy:]-->POL_102
+10[Field (3) State & Local Policy:]-->POL_104
+10[Field (3) State & Local Policy:]-->ESP_173
+10[Field (3) State & Local Policy:]-->SOC_143A
+style 11 fill:#ddd
+11[Field (4) Foreign Policy:]-->POL_122
+11[Field (4) Foreign Policy:]-->POL_130
+11[Field (4) Foreign Policy:]-->POL_131
+11[Field (4) Foreign Policy:]-->POL_132
+11[Field (4) Foreign Policy:]-->POL_134
+11[Field (4) Foreign Policy:]-->POL_139
+style 12 fill:#ddd
+12[Field (5) Environmental Policy:]-->POL_107
+12[Field (5) Environmental Policy:]-->ESP_160
+12[Field (5) Environmental Policy:]-->ESP_161
+12[Field (5) Environmental Policy:]-->ESP_162
+12[Field (5) Environmental Policy:]-->ESP_166
+12[Field (5) Environmental Policy:]-->ESP_168A
+12[Field (5) Environmental Policy:]-->ESP_168B
+12[Field (5) Environmental Policy:]-->ESP_169
+12[Field (5) Environmental Policy:]-->ESP_171
+12[Field (5) Environmental Policy:]-->ESP_172
+12[Field (5) Environmental Policy:]-->ESP_173
+12[Field (5) Environmental Policy:]-->ESP_179
+style 13 fill:#ddd
+13[Field (6) Economic Policy:]-->ECN_100A
+13[Field (6) Economic Policy:]-->ECN_130
+13[Field (6) Economic Policy:]-->ECN_131
+13[Field (6) Economic Policy:]-->ECN_151A
+13[Field (6) Economic Policy:]-->ECN_151B
+style 14 fill:#ddd
+14[Field (7) Social Policy:]-->SOC_104
+14[Field (7) Social Policy:]-->SOC_124
+14[Field (7) Social Policy:]-->SOC_141
+14[Field (7) Social Policy:]-->SOC_150
+14[Field (7) Social Policy:]-->SOC_151
+14[Field (7) Social Policy:]-->SOC_154
+14[Field (7) Social Policy:]-->SOC_155
+14[Field (7) Social Policy:]-->SOC_175
+14[Field (7) Social Policy:]-->SOC_181
+style 15 fill:#ddd
+15[Field (8) Policy Analysis Tools:]-->ECN_102
+15[Field (8) Policy Analysis Tools:]-->ECN_140
+15[Field (8) Policy Analysis Tools:]-->POL_114
+style 16 fill:#ddd
+16[Field (9)]-->POL_194HA
+16[Field (9)]-->POL_194HB
+style POL_001 fill:#ade
+style POL_051 fill:#ade
+style POL_002 fill:#ade
+style POL_003 fill:#ade
+style POL_004 fill:#ade
+style POL_005 fill:#ade
+style POL_007 fill:#ade
+style POL_012Y fill:#ade
+style STA_032 fill:#ade
+MAT_021B-->17[One]
+MAT_016B-->17[One]
+MAT_017B-->18[One]
+17-->18[One]
+18-->STA_032
+style STA_013 fill:#ade
+style POL_100 fill:#ade
+style POL_102 fill:#ade
+style POL_104 fill:#ade
+style POL_105 fill:#ade
+style POL_106 fill:#ade
+style POL_108 fill:#ade
+style POL_109 fill:#ade
+style POL_113 fill:#ade
+style POL_114 fill:#ade
+style POL_180 fill:#ade
+style POL_192A fill:#ade
+style POL_192B fill:#ade
+POL_192A-->POL_192B
+style WAS_192 fill:#ade
+WAS_193-->19[One]
+WAS_193-->19[One]
+19-->WAS_192
+style POL_193 fill:#ade
+POL_192B-->20[Both]
+POL_192A-->20[Both]
+20-->POL_193
+style WAS_193 fill:#ade
+WAS_192-->WAS_193
+style POL_100 fill:#ade
+style POL_102 fill:#ade
+style POL_104 fill:#ade
+style POL_105 fill:#ade
+style POL_106 fill:#ade
+style POL_108 fill:#ade
+style POL_109 fill:#ade
+style POL_140A fill:#ade
+style POL_160 fill:#ade
+style POL_162 fill:#ade
+style POL_163 fill:#ade
+style POL_164 fill:#ade
+style POL_165 fill:#ade
+style POL_166 fill:#ade
+style POL_168 fill:#ade
+style POL_170 fill:#ade
+style POL_171 fill:#ade
+style POL_172 fill:#ade
+style POL_174 fill:#ade
+style POL_175 fill:#ade
+style POL_180 fill:#ade
+style POL_183 fill:#ade
+style POL_187 fill:#ade
+style POL_195 fill:#ade
+style ECN_130 fill:#ade
+ECN_100A-->21[One]
+ECN_100-->21[One]
+ARE_100A-->22[One]
+21-->22[One]
+ARE_100B-->23[One]
+ECN_100B-->23[One]
+23-->24[Both]
+22-->24[Both]
+24-->ECN_130
+style ECN_131 fill:#ade
+ECN_100A-->25[One]
+ECN_100-->25[One]
+ARE_100A-->26[One]
+25-->26[One]
+ARE_100B-->27[One]
+ECN_100B-->27[One]
+27-->28[Both]
+26-->28[Both]
+28-->ECN_131
+style POL_119 fill:#ade
+style POL_150 fill:#ade
+style POL_151 fill:#ade
+style POL_152 fill:#ade
+style POL_153 fill:#ade
+style POL_155 fill:#ade
+style POL_100 fill:#ade
+style POL_102 fill:#ade
+style POL_104 fill:#ade
+style ESP_173 fill:#ade
+style SOC_143A fill:#ade
+SOC_001-->SOC_143A
+style POL_122 fill:#ade
+style POL_130 fill:#ade
+style POL_131 fill:#ade
+style POL_132 fill:#ade
+style POL_134 fill:#ade
+style POL_139 fill:#ade
+style POL_107 fill:#ade
+style ESP_160 fill:#ade
+POL_001-->ESP_160
+style ESP_161 fill:#ade
+style ESP_162 fill:#ade
+ECN_001AV-->29[One]
+ECN_001A-->29[One]
+29-->ESP_162
+style ESP_166 fill:#ade
+ESP_001-->ESP_166
+style ESP_168A fill:#ade
+ESP_010-->30[One]
+ESP_001-->30[One]
+STA_013Y-->31[One]
+STA_013-->31[One]
+STA_100-->32[One]
+31-->32[One]
+32-->33[Both]
+30-->33[Both]
+ECN_001AV-->34[One]
+ECN_001A-->34[One]
+34-->35[Both]
+33-->35[Both]
+35-->ESP_168A
+style ESP_168B fill:#ade
+ESP_168A-->ESP_168B
+style ESP_169 fill:#ade
+style ESP_171 fill:#ade
+style ESP_172 fill:#ade
+style ESP_173 fill:#ade
+style ESP_179 fill:#ade
+ESP_001-->ESP_179
+style ECN_100A fill:#ade
+ECN_001AV-->36[One]
+ECN_001A-->36[One]
+ECN_001B-->37[Both]
+36-->37[Both]
+MAT_017A-->38[One]
+MAT_016A-->38[One]
+MAT_021A-->39[One]
+38-->39[One]
+39-->40[Both]
+37-->40[Both]
+MAT_017B-->41[One]
+MAT_016B-->41[One]
+MAT_021B-->42[One]
+41-->42[One]
+42-->43[Both]
+40-->43[Both]
+43-->ECN_100A
+style ECN_130 fill:#ade
+ECN_100A-->44[One]
+ECN_100-->44[One]
+ARE_100A-->45[One]
+44-->45[One]
+ARE_100B-->46[One]
+ECN_100B-->46[One]
+46-->47[Both]
+45-->47[Both]
+47-->ECN_130
+style ECN_131 fill:#ade
+ECN_100A-->48[One]
+ECN_100-->48[One]
+ARE_100A-->49[One]
+48-->49[One]
+ARE_100B-->50[One]
+ECN_100B-->50[One]
+50-->51[Both]
+49-->51[Both]
+51-->ECN_131
+style ECN_151A fill:#ade
+ECN_100A-->52[One]
+ECN_100-->52[One]
+ARE_100A-->53[One]
+52-->53[One]
+53-->ECN_151A
+style ECN_151B fill:#ade
+ECN_100A-->54[One]
+ECN_100-->54[One]
+ARE_100A-->55[One]
+54-->55[One]
+55-->ECN_151B
+style SOC_104 fill:#ade
+SOC_002-->56[Both]
+SOC_001-->56[Both]
+56-->SOC_104
+style SOC_124 fill:#ade
+SOC_001-->SOC_124
+style SOC_141 fill:#ade
+SOC_001-->SOC_141
+style SOC_150 fill:#ade
+SOC_001-->SOC_150
+style SOC_151 fill:#ade
+SOC_001-->SOC_151
+style SOC_154 fill:#ade
+SOC_001-->SOC_154
+style SOC_155 fill:#ade
+SOC_001-->SOC_155
+style SOC_175 fill:#ade
+SOC_001-->SOC_175
+style SOC_181 fill:#ade
+SOC_001-->SOC_181
+style ECN_102 fill:#ade
+ECN_001AV-->57[One]
+ECN_001A-->57[One]
+ECN_001B-->58[Both]
+57-->58[Both]
+STA_013Y-->59[One]
+STA_013-->59[One]
+STA_032-->60[One]
+59-->60[One]
+60-->61[Both]
+58-->61[Both]
+MAT_017A-->62[One]
+MAT_016A-->62[One]
+MAT_021A-->63[One]
+62-->63[One]
+63-->64[Both]
+61-->64[Both]
+MAT_017B-->65[One]
+MAT_016B-->65[One]
+MAT_021B-->66[One]
+65-->66[One]
+66-->67[Both]
+64-->67[Both]
+67-->ECN_102
+style ECN_140 fill:#ade
+ECN_100A-->68[One]
+ECN_100-->68[One]
+ARE_100A-->69[One]
+68-->69[One]
+ARE_100B-->70[One]
+ECN_100B-->70[One]
+70-->71[Both]
+69-->71[Both]
+ECN_101-->72[Both]
+71-->72[Both]
+ECN_102-->73[Both]
+72-->73[Both]
+STA_013Y-->74[One]
+STA_013-->74[One]
+74-->75[Both]
+73-->75[Both]
+75-->ECN_140
+style POL_114 fill:#ade
+style POL_194HA fill:#ade
+style POL_194HB fill:#ade

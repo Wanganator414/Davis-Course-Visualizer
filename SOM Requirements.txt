@@ -1,0 +1,114 @@
+style 2 fill:#ddd
+2[Year 1, Foundations Block]-->BCM_410A
+2[Year 1, Foundations Block]-->CHA_400
+2[Year 1, Foundations Block]-->HPH_400
+2[Year 1, Foundations Block]-->CHA_402
+2[Year 1, Foundations Block]-->MDS_411
+2[Year 1, Foundations Block]-->MDS_415A
+style 3 fill:#ddd
+3[Year 1, Mechanisms & Disease Block]-->MMI_480A
+3[Year 1, Mechanisms & Disease Block]-->MMI_480B
+3[Year 1, Mechanisms & Disease Block]-->PMD_410A
+3[Year 1, Mechanisms & Disease Block]-->PHA_400A
+3[Year 1, Mechanisms & Disease Block]-->MDS_406
+3[Year 1, Mechanisms & Disease Block]-->MDS_411
+3[Year 1, Mechanisms & Disease Block]-->MDS_415B
+style 4 fill:#ddd
+4[Year 2, Brain & Behavior Block]-->CHA_403
+4[Year 2, Brain & Behavior Block]-->PMD_410B
+4[Year 2, Brain & Behavior Block]-->PHA_400B
+4[Year 2, Brain & Behavior Block]-->NEU_420
+4[Year 2, Brain & Behavior Block]-->MDS_428
+4[Year 2, Brain & Behavior Block]-->PSY_403
+4[Year 2, Brain & Behavior Block]-->MDS_421A
+4[Year 2, Brain & Behavior Block]-->MDS_415C
+style 5 fill:#ddd
+5[Year 2, Pathophysiology Block]-->DER_420
+5[Year 2, Pathophysiology Block]-->IMD_420D
+5[Year 2, Pathophysiology Block]-->IMD_420C
+5[Year 2, Pathophysiology Block]-->IMD_420E
+5[Year 2, Pathophysiology Block]-->IMD_420A
+5[Year 2, Pathophysiology Block]-->PMD_410C
+5[Year 2, Pathophysiology Block]-->PMD_410D
+5[Year 2, Pathophysiology Block]-->PHA_400C
+5[Year 2, Pathophysiology Block]-->HON_420
+5[Year 2, Pathophysiology Block]-->IMD_420B
+5[Year 2, Pathophysiology Block]-->MDS_415C
+5[Year 2, Pathophysiology Block]-->MDS_421B
+5[Year 2, Pathophysiology Block]-->MDS_421C
+style 6 fill:#ddd
+6[Units: 75-81]-->MDS_429
+style 7 fill:#ddd
+7[Required Third-Year Clerkships]-->IMD_430
+7[Required Third-Year Clerkships]-->SUR_430
+7[Required Third-Year Clerkships]-->PED_430
+7[Required Third-Year Clerkships]-->FAP_430
+7[Required Third-Year Clerkships]-->FAP_431A
+7[Required Third-Year Clerkships]-->FAP_431B
+7[Required Third-Year Clerkships]-->FAP_431C
+7[Required Third-Year Clerkships]-->FAP_431D
+7[Required Third-Year Clerkships]-->OBG_430
+7[Required Third-Year Clerkships]-->PSY_430
+7[Required Third-Year Clerkships]-->MDS_430A
+7[Required Third-Year Clerkships]-->MDS_430B
+7[Required Third-Year Clerkships]-->MDS_430C
+7[Required Third-Year Clerkships]-->MDS_430D
+style 8 fill:#ddd
+8[Units: Â ]-->MDS_449
+style BCM_410A fill:#ade
+style CHA_400 fill:#ade
+style HPH_400 fill:#ade
+style CHA_402 fill:#ade
+style MDS_411 fill:#ade
+style MDS_415A fill:#ade
+style MMI_480A fill:#ade
+style MMI_480B fill:#ade
+style PMD_410A fill:#ade
+style PHA_400A fill:#ade
+style MDS_406 fill:#ade
+HPH_400-->9[Both]
+BCM_410A-->9[Both]
+9-->MDS_406
+style MDS_411 fill:#ade
+style MDS_415B fill:#ade
+style CHA_403 fill:#ade
+CHA_400-->CHA_403
+style PMD_410B fill:#ade
+style PHA_400B fill:#ade
+style NEU_420 fill:#ade
+style MDS_428 fill:#ade
+style PSY_403 fill:#ade
+style MDS_421A fill:#ade
+style MDS_415C fill:#ade
+style DER_420 fill:#ade
+style IMD_420D fill:#ade
+style IMD_420C fill:#ade
+style IMD_420E fill:#ade
+style IMD_420A fill:#ade
+style PMD_410C fill:#ade
+style PMD_410D fill:#ade
+style PHA_400C fill:#ade
+PHA_400B-->10[Both]
+PHA_400A-->10[Both]
+10-->PHA_400C
+style HON_420 fill:#ade
+style IMD_420B fill:#ade
+style MDS_415C fill:#ade
+style MDS_421B fill:#ade
+style MDS_421C fill:#ade
+style MDS_429 fill:#ade
+style IMD_430 fill:#ade
+style SUR_430 fill:#ade
+style PED_430 fill:#ade
+style FAP_430 fill:#ade
+style FAP_431A fill:#ade
+style FAP_431B fill:#ade
+style FAP_431C fill:#ade
+style FAP_431D fill:#ade
+style OBG_430 fill:#ade
+style PSY_430 fill:#ade
+style MDS_430A fill:#ade
+style MDS_430B fill:#ade
+style MDS_430C fill:#ade
+style MDS_430D fill:#ade
+style MDS_449 fill:#ade

@@ -1,0 +1,739 @@
+style 2 fill:#ddd
+2[Choose a series:]-->PHY_009A
+2[Choose a series:]-->PHY_009B
+2[Choose a series:]-->PHY_009C
+2[Choose a series:]-->PHY_009D
+2[Choose a series:]-->PHY_009HA
+2[Choose a series:]-->PHY_009HB
+2[Choose a series:]-->PHY_009HC
+2[Choose a series:]-->PHY_009HD
+2[Choose a series:]-->PHY_009HE
+2[Choose a series:]-->PHY_040
+2[Choose a series:]-->PHY_080
+style 3 fill:#ddd
+3[Mathematics]-->MAT_021A
+3[Mathematics]-->MAT_021B
+3[Mathematics]-->MAT_021C
+3[Mathematics]-->MAT_021D
+3[Mathematics]-->MAT_022A
+3[Mathematics]-->MAT_022B
+style 4 fill:#ddd
+4[Physics]-->PHY_104A
+4[Physics]-->PHY_105A
+4[Physics]-->PHY_105B
+4[Physics]-->PHY_110A
+4[Physics]-->PHY_110B
+4[Physics]-->PHY_110C
+4[Physics]-->PHY_112
+4[Physics]-->PHY_115A
+4[Physics]-->PHY_115B
+style 5 fill:#ddd
+5[Choose one:]-->PHY_102
+style 6 fill:#ddd
+6[(one unit)]-->PHY_104B
+style 7 fill:#ddd
+7[Laboratory Requirement choose PHY 122A or 122B or 116 series:]-->PHY_122A
+7[Laboratory Requirement choose PHY 122A or 122B or 116 series:]-->PHY_122B
+7[Laboratory Requirement choose PHY 122A or 122B or 116 series:]-->PHY_116A
+7[Laboratory Requirement choose PHY 122A or 122B or 116 series:]-->PHY_116B
+7[Laboratory Requirement choose PHY 122A or 122B or 116 series:]-->PHY_116C
+style 8 fill:#ddd
+8[General Relativity/Astrophysical Applications]-->PHY_154
+8[General Relativity/Astrophysical Applications]-->PHY_155
+style 9 fill:#ddd
+9[Condensed Matter]-->PHY_140A
+9[Condensed Matter]-->PHY_140B
+style 10 fill:#ddd
+10[Nuclear/Particle Physics]-->PHY_129A
+10[Nuclear/Particle Physics]-->PHY_130A
+10[Nuclear/Particle Physics]-->PHY_130B
+style 11 fill:#ddd
+11[PHY 194H series:]-->PHY_194HA
+11[PHY 194H series:]-->PHY_194HB
+11[PHY 194H series:]-->PHY_195
+11[PHY 194H series:]-->PHY_198
+11[PHY 194H series:]-->PHY_199
+style 12 fill:#ddd
+12[Choose a series:]-->PHY_009A
+12[Choose a series:]-->PHY_009B
+12[Choose a series:]-->PHY_009C
+12[Choose a series:]-->PHY_009D
+12[Choose a series:]-->PHY_009HA
+12[Choose a series:]-->PHY_009HB
+12[Choose a series:]-->PHY_009HC
+12[Choose a series:]-->PHY_009HD
+12[Choose a series:]-->PHY_009HE
+12[Choose a series:]-->PHY_040
+12[Choose a series:]-->PHY_080
+style 13 fill:#ddd
+13[Mathematics]-->MAT_021A
+13[Mathematics]-->MAT_021B
+13[Mathematics]-->MAT_021C
+13[Mathematics]-->MAT_021D
+13[Mathematics]-->MAT_022A
+13[Mathematics]-->MAT_022B
+style 14 fill:#ddd
+14[Physics]-->PHY_104A
+14[Physics]-->PHY_105A
+14[Physics]-->PHY_108
+14[Physics]-->PHY_108L
+14[Physics]-->PHY_110A
+14[Physics]-->PHY_110B
+14[Physics]-->PHY_112
+14[Physics]-->PHY_115A
+14[Physics]-->PHY_115B
+style 15 fill:#ddd
+15[Choose one:]-->PHY_102
+15[Choose one:]-->PHY_104B
+15[Choose one:]-->PHY_151
+15[Choose one:]-->PHY_152
+15[Choose one:]-->PHY_153
+15[Choose one:]-->PHY_156
+style 16 fill:#ddd
+16[Laboratory Requirement choose one:]-->PHY_122A
+16[Laboratory Requirement choose one:]-->PHY_122B
+16[Laboratory Requirement choose one:]-->PHY_157
+style 17 fill:#ddd
+17[Electives choose two:]-->PHY_105B
+17[Electives choose two:]-->PHY_110C
+17[Electives choose two:]-->PHY_116A
+17[Electives choose two:]-->PHY_129A
+17[Electives choose two:]-->PHY_130A
+17[Electives choose two:]-->PHY_130B
+17[Electives choose two:]-->PHY_150
+17[Electives choose two:]-->PHY_154
+17[Electives choose two:]-->PHY_155
+17[Electives choose two:]-->GEL_163
+style 18 fill:#ddd
+18[PHY 194H series:]-->PHY_194HA
+18[PHY 194H series:]-->PHY_194HB
+18[PHY 194H series:]-->PHY_195
+18[PHY 194H series:]-->PHY_198
+18[PHY 194H series:]-->PHY_199
+style 19 fill:#ddd
+19[Recommended]-->AST_025
+style PHY_009A fill:#ade
+MAT_021M-->20[One]
+MAT_021B-->20[One]
+20-->PHY_009A
+style PHY_009B fill:#ade
+MAT_021C-->21[Both]
+PHY_009A-->21[Both]
+MAT_021D-->22[Both]
+21-->22[Both]
+22-->PHY_009B
+style PHY_009C fill:#ade
+MAT_021D-->23[Both]
+PHY_009B-->23[Both]
+MAT_022A-->24[Both]
+23-->24[Both]
+24-->PHY_009C
+style PHY_009D fill:#ade
+MAT_022A-->25[Both]
+PHY_009C-->25[Both]
+PHY_009HB-->26[Both]
+25-->26[Both]
+26-->PHY_009D
+style PHY_009HA fill:#ade
+MAT_021B-->PHY_009HA
+style PHY_009HB fill:#ade
+PHY_009A-->27[One]
+PHY_009HA-->27[One]
+MAT_021C-->28[Both]
+27-->28[Both]
+28-->PHY_009HB
+style PHY_009HC fill:#ade
+MAT_021D-->29[Both]
+PHY_009HB-->29[Both]
+29-->PHY_009HC
+style PHY_009HD fill:#ade
+MAT_021D-->30[Both]
+PHY_009HC-->30[Both]
+30-->PHY_009HD
+style PHY_009HE fill:#ade
+MAT_022B-->31[Both]
+PHY_009HD-->31[Both]
+31-->PHY_009HE
+style PHY_040 fill:#ade
+style PHY_080 fill:#ade
+PHY_009HD-->32[One]
+PHY_009D-->32[One]
+32-->PHY_080
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->33[One]
+MAT_021A-->33[One]
+MAT_017A-->34[One]
+33-->34[One]
+34-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->35[One]
+MAT_016C-->35[One]
+MAT_021B-->36[One]
+35-->36[One]
+MAT_021BH-->37[One]
+36-->37[One]
+MAT_017B-->38[One]
+37-->38[One]
+38-->MAT_021C
+style MAT_021D fill:#ade
+MAT_021CH-->39[One]
+MAT_021C-->39[One]
+MAT_017C-->40[One]
+39-->40[One]
+40-->MAT_021D
+style MAT_022A fill:#ade
+MAT_017C-->41[One]
+MAT_016C-->41[One]
+MAT_021C-->42[One]
+41-->42[One]
+MAT_021CH-->43[One]
+42-->43[One]
+EME_005-->44[One]
+ENG_006-->44[One]
+ECH_060-->45[One]
+44-->45[One]
+MAT_022AL-->46[One]
+45-->46[One]
+46-->47[Both]
+43-->47[Both]
+47-->MAT_022A
+style MAT_022B fill:#ade
+MAT_067-->48[One]
+MAT_022A-->48[One]
+48-->MAT_022B
+style PHY_104A fill:#ade
+PHY_009C-->49[Both]
+PHY_009B-->49[Both]
+PHY_009D-->50[Both]
+49-->50[Both]
+MAT_022A-->51[Both]
+MAT_021D-->51[Both]
+MAT_022B-->52[Both]
+51-->52[Both]
+52-->53[Both]
+50-->53[Both]
+53-->PHY_104A
+style PHY_105A fill:#ade
+PHY_009C-->54[Both]
+PHY_009B-->54[Both]
+PHY_009D-->55[Both]
+54-->55[Both]
+MAT_022A-->56[Both]
+MAT_021D-->56[Both]
+MAT_022B-->57[Both]
+56-->57[Both]
+57-->58[Both]
+55-->58[Both]
+58-->PHY_105A
+style PHY_105B fill:#ade
+PHY_105A-->59[Both]
+PHY_104A-->59[Both]
+59-->PHY_105B
+style PHY_110A fill:#ade
+PHY_009C-->60[Both]
+PHY_009B-->60[Both]
+PHY_009D-->61[Both]
+60-->61[Both]
+PHY_009HC-->62[Both]
+PHY_009HB-->62[Both]
+PHY_009HD-->63[Both]
+62-->63[Both]
+PHY_009HE-->64[Both]
+63-->64[Both]
+64-->65[One]
+61-->65[One]
+MAT_021D-->66[Both]
+65-->66[Both]
+MAT_022A-->67[Both]
+66-->67[Both]
+MAT_022B-->68[Both]
+67-->68[Both]
+PHY_104A-->69[Both]
+68-->69[Both]
+PHY_105A-->70[Both]
+69-->70[Both]
+70-->PHY_110A
+style PHY_110B fill:#ade
+PHY_104A-->71[Both]
+PHY_110A-->71[Both]
+71-->PHY_110B
+style PHY_110C fill:#ade
+PHY_110B-->PHY_110C
+style PHY_112 fill:#ade
+PHY_115A-->PHY_112
+style PHY_115A fill:#ade
+PHY_105A-->72[Both]
+PHY_104A-->72[Both]
+72-->PHY_115A
+style PHY_115B fill:#ade
+PHY_115A-->PHY_115B
+style PHY_102 fill:#ade
+ECS_030-->73[Both]
+MAT_021D-->73[Both]
+PHY_009HD-->74[One]
+PHY_009D-->74[One]
+74-->75[Both]
+73-->75[Both]
+PHY_104A-->76[Both]
+75-->76[Both]
+PHY_104A-->77[Both]
+76-->77[Both]
+77-->PHY_102
+style PHY_104B fill:#ade
+PHY_105AL-->78[Both]
+PHY_104A-->78[Both]
+78-->PHY_104B
+style PHY_122A fill:#ade
+PHY_105A-->79[Both]
+PHY_104A-->79[Both]
+PHY_110B-->80[Both]
+79-->80[Both]
+PHY_115A-->81[Both]
+80-->81[Both]
+PHY_112-->82[Both]
+81-->82[Both]
+PHY_080-->83[Both]
+82-->83[Both]
+83-->PHY_122A
+style PHY_122B fill:#ade
+PHY_105A-->84[Both]
+PHY_104A-->84[Both]
+PHY_110B-->85[Both]
+84-->85[Both]
+PHY_115A-->86[Both]
+85-->86[Both]
+PHY_112-->87[Both]
+86-->87[Both]
+PHY_080-->88[Both]
+87-->88[Both]
+88-->PHY_122B
+style PHY_116A fill:#ade
+MAT_022B-->89[Both]
+PHY_009C-->89[Both]
+89-->PHY_116A
+style PHY_116B fill:#ade
+PHY_009HD-->90[One]
+PHY_009C-->90[One]
+90-->PHY_116B
+style PHY_116C fill:#ade
+PHY_009HD-->91[One]
+PHY_009D-->91[One]
+PHY_116B-->92[Both]
+91-->92[Both]
+MAT_022B-->93[Both]
+92-->93[Both]
+93-->PHY_116C
+style PHY_154 fill:#ade
+PHY_105B-->94[Both]
+PHY_105A-->94[Both]
+PHY_110B-->95[Both]
+94-->95[Both]
+PHY_115A-->96[Both]
+95-->96[Both]
+PHY_112-->97[Both]
+96-->97[Both]
+PHY_115A-->98[Both]
+PHY_110B-->98[Both]
+98-->99[One]
+PHY_112-->99[One]
+99-->100[Both]
+97-->100[Both]
+PHY_198-->101[Both]
+100-->101[Both]
+101-->PHY_154
+style PHY_155 fill:#ade
+PHY_105A-->102[Both]
+PHY_104A-->102[Both]
+PHY_105B-->103[Both]
+102-->103[Both]
+PHY_110A-->104[Both]
+103-->104[Both]
+PHY_110A-->105[Both]
+PHY_105B-->105[Both]
+105-->106[Both]
+104-->106[Both]
+106-->PHY_155
+style PHY_140A fill:#ade
+PHY_115A-->PHY_140A
+style PHY_140B fill:#ade
+PHY_115A-->PHY_140B
+style PHY_129A fill:#ade
+PHY_115A-->PHY_129A
+style PHY_130A fill:#ade
+PHY_115A-->PHY_130A
+style PHY_130B fill:#ade
+PHY_115A-->PHY_130B
+style PHY_194HA fill:#ade
+style PHY_194HB fill:#ade
+style PHY_195 fill:#ade
+style PHY_198 fill:#ade
+style PHY_199 fill:#ade
+style PHY_009A fill:#ade
+MAT_021M-->107[One]
+MAT_021B-->107[One]
+107-->PHY_009A
+style PHY_009B fill:#ade
+MAT_021C-->108[Both]
+PHY_009A-->108[Both]
+MAT_021D-->109[Both]
+108-->109[Both]
+109-->PHY_009B
+style PHY_009C fill:#ade
+MAT_021D-->110[Both]
+PHY_009B-->110[Both]
+MAT_022A-->111[Both]
+110-->111[Both]
+111-->PHY_009C
+style PHY_009D fill:#ade
+MAT_022A-->112[Both]
+PHY_009C-->112[Both]
+PHY_009HB-->113[Both]
+112-->113[Both]
+113-->PHY_009D
+style PHY_009HA fill:#ade
+MAT_021B-->PHY_009HA
+style PHY_009HB fill:#ade
+PHY_009A-->114[One]
+PHY_009HA-->114[One]
+MAT_021C-->115[Both]
+114-->115[Both]
+115-->PHY_009HB
+style PHY_009HC fill:#ade
+MAT_021D-->116[Both]
+PHY_009HB-->116[Both]
+116-->PHY_009HC
+style PHY_009HD fill:#ade
+MAT_021D-->117[Both]
+PHY_009HC-->117[Both]
+117-->PHY_009HD
+style PHY_009HE fill:#ade
+MAT_022B-->118[Both]
+PHY_009HD-->118[Both]
+118-->PHY_009HE
+style PHY_040 fill:#ade
+style PHY_080 fill:#ade
+PHY_009HD-->119[One]
+PHY_009D-->119[One]
+119-->PHY_080
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->120[One]
+MAT_021A-->120[One]
+MAT_017A-->121[One]
+120-->121[One]
+121-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->122[One]
+MAT_016C-->122[One]
+MAT_021B-->123[One]
+122-->123[One]
+MAT_021BH-->124[One]
+123-->124[One]
+MAT_017B-->125[One]
+124-->125[One]
+125-->MAT_021C
+style MAT_021D fill:#ade
+MAT_021CH-->126[One]
+MAT_021C-->126[One]
+MAT_017C-->127[One]
+126-->127[One]
+127-->MAT_021D
+style MAT_022A fill:#ade
+MAT_017C-->128[One]
+MAT_016C-->128[One]
+MAT_021C-->129[One]
+128-->129[One]
+MAT_021CH-->130[One]
+129-->130[One]
+EME_005-->131[One]
+ENG_006-->131[One]
+ECH_060-->132[One]
+131-->132[One]
+MAT_022AL-->133[One]
+132-->133[One]
+133-->134[Both]
+130-->134[Both]
+134-->MAT_022A
+style MAT_022B fill:#ade
+MAT_067-->135[One]
+MAT_022A-->135[One]
+135-->MAT_022B
+style PHY_104A fill:#ade
+PHY_009C-->136[Both]
+PHY_009B-->136[Both]
+PHY_009D-->137[Both]
+136-->137[Both]
+MAT_022A-->138[Both]
+MAT_021D-->138[Both]
+MAT_022B-->139[Both]
+138-->139[Both]
+139-->140[Both]
+137-->140[Both]
+140-->PHY_104A
+style PHY_105A fill:#ade
+PHY_009C-->141[Both]
+PHY_009B-->141[Both]
+PHY_009D-->142[Both]
+141-->142[Both]
+MAT_022A-->143[Both]
+MAT_021D-->143[Both]
+MAT_022B-->144[Both]
+143-->144[Both]
+144-->145[Both]
+142-->145[Both]
+145-->PHY_105A
+style PHY_108 fill:#ade
+PHY_009B-->146[Both]
+PHY_009A-->146[Both]
+PHY_009C-->147[Both]
+146-->147[Both]
+PHY_009D-->148[Both]
+147-->148[Both]
+PHY_007B-->149[Both]
+PHY_007A-->149[Both]
+PHY_007C-->150[Both]
+149-->150[Both]
+150-->151[One]
+148-->151[One]
+MAT_021B-->152[Both]
+MAT_021A-->152[Both]
+MAT_021C-->153[Both]
+152-->153[Both]
+MAT_021D-->154[Both]
+153-->154[Both]
+154-->155[Both]
+151-->155[Both]
+155-->PHY_108
+style PHY_108L fill:#ade
+PHY_108-->156[Both]
+PHY_108-->156[Both]
+156-->PHY_108L
+style PHY_110A fill:#ade
+PHY_009C-->157[Both]
+PHY_009B-->157[Both]
+PHY_009D-->158[Both]
+157-->158[Both]
+PHY_009HC-->159[Both]
+PHY_009HB-->159[Both]
+PHY_009HD-->160[Both]
+159-->160[Both]
+PHY_009HE-->161[Both]
+160-->161[Both]
+161-->162[One]
+158-->162[One]
+MAT_021D-->163[Both]
+162-->163[Both]
+MAT_022A-->164[Both]
+163-->164[Both]
+MAT_022B-->165[Both]
+164-->165[Both]
+PHY_104A-->166[Both]
+165-->166[Both]
+PHY_105A-->167[Both]
+166-->167[Both]
+167-->PHY_110A
+style PHY_110B fill:#ade
+PHY_104A-->168[Both]
+PHY_110A-->168[Both]
+168-->PHY_110B
+style PHY_112 fill:#ade
+PHY_115A-->PHY_112
+style PHY_115A fill:#ade
+PHY_105A-->169[Both]
+PHY_104A-->169[Both]
+169-->PHY_115A
+style PHY_115B fill:#ade
+PHY_115A-->PHY_115B
+style PHY_102 fill:#ade
+ECS_030-->170[Both]
+MAT_021D-->170[Both]
+PHY_009HD-->171[One]
+PHY_009D-->171[One]
+171-->172[Both]
+170-->172[Both]
+PHY_104A-->173[Both]
+172-->173[Both]
+PHY_104A-->174[Both]
+173-->174[Both]
+174-->PHY_102
+style PHY_104B fill:#ade
+PHY_105AL-->175[Both]
+PHY_104A-->175[Both]
+175-->PHY_104B
+style PHY_151 fill:#ade
+PHY_009B-->176[Both]
+PHY_009A-->176[Both]
+PHY_009C-->177[Both]
+176-->177[Both]
+PHY_009D-->178[Both]
+177-->178[Both]
+178-->PHY_151
+style PHY_152 fill:#ade
+PHY_009B-->179[Both]
+PHY_009A-->179[Both]
+PHY_009C-->180[Both]
+179-->180[Both]
+PHY_009D-->181[Both]
+180-->181[Both]
+PHY_105A-->182[One]
+PHY_105A-->182[One]
+182-->183[Both]
+181-->183[Both]
+183-->PHY_152
+style PHY_153 fill:#ade
+PHY_009B-->184[Both]
+PHY_009A-->184[Both]
+PHY_009C-->185[Both]
+184-->185[Both]
+PHY_009D-->186[Both]
+185-->186[Both]
+PHY_104A-->187[Both]
+186-->187[Both]
+PHY_105A-->188[Both]
+187-->188[Both]
+188-->PHY_153
+style PHY_156 fill:#ade
+PHY_009B-->189[Both]
+PHY_009A-->189[Both]
+PHY_009C-->190[Both]
+189-->190[Both]
+PHY_009D-->191[Both]
+190-->191[Both]
+PHY_105A-->192[One]
+PHY_105A-->192[One]
+192-->193[Both]
+191-->193[Both]
+193-->PHY_156
+style PHY_122A fill:#ade
+PHY_105A-->194[Both]
+PHY_104A-->194[Both]
+PHY_110B-->195[Both]
+194-->195[Both]
+PHY_115A-->196[Both]
+195-->196[Both]
+PHY_112-->197[Both]
+196-->197[Both]
+PHY_080-->198[Both]
+197-->198[Both]
+198-->PHY_122A
+style PHY_122B fill:#ade
+PHY_105A-->199[Both]
+PHY_104A-->199[Both]
+PHY_110B-->200[Both]
+199-->200[Both]
+PHY_115A-->201[Both]
+200-->201[Both]
+PHY_112-->202[Both]
+201-->202[Both]
+PHY_080-->203[Both]
+202-->203[Both]
+203-->PHY_122B
+style PHY_157 fill:#ade
+PHY_105A-->204[Both]
+PHY_104A-->204[Both]
+PHY_110A-->205[Both]
+204-->205[Both]
+PHY_115A-->206[Both]
+205-->206[Both]
+PHY_110B-->207[Both]
+206-->207[Both]
+207-->PHY_157
+style PHY_105B fill:#ade
+PHY_105A-->208[Both]
+PHY_104A-->208[Both]
+208-->PHY_105B
+style PHY_110C fill:#ade
+PHY_110B-->PHY_110C
+style PHY_116A fill:#ade
+MAT_022B-->209[Both]
+PHY_009C-->209[Both]
+209-->PHY_116A
+style PHY_129A fill:#ade
+PHY_115A-->PHY_129A
+style PHY_130A fill:#ade
+PHY_115A-->PHY_130A
+style PHY_130B fill:#ade
+PHY_115A-->PHY_130B
+style PHY_150 fill:#ade
+PHY_009B-->210[Both]
+PHY_009A-->210[Both]
+PHY_009C-->211[Both]
+210-->211[Both]
+PHY_009D-->212[Both]
+211-->212[Both]
+PHY_009HB-->213[Both]
+PHY_009HA-->213[Both]
+PHY_009HC-->214[Both]
+213-->214[Both]
+PHY_009HD-->215[Both]
+214-->215[Both]
+PHY_009HE-->216[Both]
+215-->216[Both]
+216-->217[One]
+212-->217[One]
+217-->PHY_150
+style PHY_154 fill:#ade
+PHY_105B-->218[Both]
+PHY_105A-->218[Both]
+PHY_110B-->219[Both]
+218-->219[Both]
+PHY_115A-->220[Both]
+219-->220[Both]
+PHY_112-->221[Both]
+220-->221[Both]
+PHY_115A-->222[Both]
+PHY_110B-->222[Both]
+222-->223[One]
+PHY_112-->223[One]
+223-->224[Both]
+221-->224[Both]
+PHY_198-->225[Both]
+224-->225[Both]
+225-->PHY_154
+style PHY_155 fill:#ade
+PHY_105A-->226[Both]
+PHY_104A-->226[Both]
+PHY_105B-->227[Both]
+226-->227[Both]
+PHY_110A-->228[Both]
+227-->228[Both]
+PHY_110A-->229[Both]
+PHY_105B-->229[Both]
+229-->230[Both]
+228-->230[Both]
+230-->PHY_155
+style GEL_163 fill:#ade
+GEL_002-->231[One]
+GEL_001-->231[One]
+GEL_028-->232[One]
+231-->232[One]
+GEL_036-->233[One]
+232-->233[One]
+GEL_050-->234[One]
+233-->234[One]
+AST_010G-->235[One]
+234-->235[One]
+AST_010L-->236[One]
+235-->236[One]
+AST_010S-->237[One]
+236-->237[One]
+AST_025-->238[One]
+237-->238[One]
+MAT_017A-->239[One]
+MAT_016A-->239[One]
+MAT_021A-->240[One]
+239-->240[One]
+240-->241[Both]
+238-->241[Both]
+PHY_009A-->242[One]
+PHY_007A-->242[One]
+242-->243[Both]
+241-->243[Both]
+243-->GEL_163
+style PHY_194HA fill:#ade
+style PHY_194HB fill:#ade
+style PHY_195 fill:#ade
+style PHY_198 fill:#ade
+style PHY_199 fill:#ade
+style AST_025 fill:#ade

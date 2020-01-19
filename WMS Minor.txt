@@ -1,0 +1,113 @@
+style 2 fill:#ddd
+2[Women's Studies choose one:]-->WMS_050
+2[Women's Studies choose one:]-->WMS_060
+2[Women's Studies choose one:]-->WMS_070
+2[Women's Studies choose one:]-->WMS_080
+style 3 fill:#ddd
+3[Choose one:]-->AAS_123
+3[Choose one:]-->AAS_133
+3[Choose one:]-->ANT_126B
+3[Choose one:]-->ANT_130A
+3[Choose one:]-->ANT_139BN
+3[Choose one:]-->ASA_112
+3[Choose one:]-->CHI_111
+3[Choose one:]-->CHI_122
+3[Choose one:]-->CHI_131
+3[Choose one:]-->NAS_134
+3[Choose one:]-->NAS_180
+3[Choose one:]-->SOC_131
+3[Choose one:]-->SOC_132
+3[Choose one:]-->SOC_134
+3[Choose one:]-->SOC_145B
+3[Choose one:]-->SOC_158
+3[Choose one:]-->SOC_172
+3[Choose one:]-->WMS_160
+3[Choose one:]-->WMS_180
+style 4 fill:#ddd
+4[Choose one:]-->COM_135
+4[Choose one:]-->COM_138
+4[Choose one:]-->COM_159
+4[Choose one:]-->ENL_185A
+4[Choose one:]-->ENL_185B
+4[Choose one:]-->HIS_102G
+4[Choose one:]-->HIS_102H
+4[Choose one:]-->HIS_102M
+4[Choose one:]-->HIS_148A
+4[Choose one:]-->HIS_148B
+4[Choose one:]-->WMS_102
+4[Choose one:]-->WMS_180
+4[Choose one:]-->WMS_182
+4[Choose one:]-->WMS_184
+style WMS_050 fill:#ade
+style WMS_060 fill:#ade
+style WMS_070 fill:#ade
+style WMS_080 fill:#ade
+style AAS_123 fill:#ade
+style AAS_133 fill:#ade
+style ANT_126B fill:#ade
+style ANT_130A fill:#ade
+style ANT_139BN fill:#ade
+style ASA_112 fill:#ade
+style CHI_111 fill:#ade
+CHI_050-->5[One]
+CHI_010-->5[One]
+HIS_169B-->6[One]
+WMS_050-->6[One]
+6-->7[Both]
+5-->7[Both]
+7-->CHI_111
+style CHI_122 fill:#ade
+style CHI_131 fill:#ade
+POL_001-->8[One]
+CHI_030-->8[One]
+8-->CHI_131
+style NAS_134 fill:#ade
+NAS_010-->9[One]
+NAS_001-->9[One]
+9-->NAS_134
+style NAS_180 fill:#ade
+style SOC_131 fill:#ade
+SOC_001-->SOC_131
+style SOC_132 fill:#ade
+SOC_001-->SOC_132
+style SOC_134 fill:#ade
+SOC_001-->SOC_134
+style SOC_145B fill:#ade
+SOC_001-->SOC_145B
+style SOC_158 fill:#ade
+SOC_001-->SOC_158
+style SOC_172 fill:#ade
+SOC_001-->SOC_172
+style WMS_160 fill:#ade
+style WMS_180 fill:#ade
+style COM_135 fill:#ade
+style COM_138 fill:#ade
+style COM_159 fill:#ade
+COM_002-->10[Both]
+COM_001-->10[Both]
+10-->COM_159
+style ENL_185A fill:#ade
+UWP_001-->11[One]
+ENL_003-->11[One]
+UWP_001V-->12[One]
+11-->12[One]
+UWP_001Y-->13[One]
+12-->13[One]
+13-->ENL_185A
+style ENL_185B fill:#ade
+UWP_001-->14[One]
+ENL_003-->14[One]
+UWP_001V-->15[One]
+14-->15[One]
+UWP_001Y-->16[One]
+15-->16[One]
+16-->ENL_185B
+style HIS_102G fill:#ade
+style HIS_102H fill:#ade
+style HIS_102M fill:#ade
+style HIS_148A fill:#ade
+style HIS_148B fill:#ade
+style WMS_102 fill:#ade
+style WMS_180 fill:#ade
+style WMS_182 fill:#ade
+style WMS_184 fill:#ade

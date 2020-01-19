@@ -1,0 +1,143 @@
+style 2 fill:#ddd
+2[Animal Biology]-->ABI_102
+2[Animal Biology]-->ABI_103
+style 3 fill:#ddd
+3[Biological Science]-->BIS_102
+3[Biological Science]-->BIS_103
+style 4 fill:#ddd
+4[Nutrition]-->NUT_111AY
+4[Nutrition]-->NUT_111B
+style 5 fill:#ddd
+5[Neurobiology, Physiology, & Behavior]-->NPB_101
+style 6 fill:#ddd
+6[Note: If the studentâs major program requires the same course in biochemistry and physiology, only one of the courses may duplicate credit toward the minor. Each program below lists replacement courses to fulfill the minimum unit requirement.]-->NUT_114
+6[Note: If the studentâs major program requires the same course in biochemistry and physiology, only one of the courses may duplicate credit toward the minor. Each program below lists replacement courses to fulfill the minimum unit requirement.]-->NUT_115
+6[Note: If the studentâs major program requires the same course in biochemistry and physiology, only one of the courses may duplicate credit toward the minor. Each program below lists replacement courses to fulfill the minimum unit requirement.]-->NUT_116A
+6[Note: If the studentâs major program requires the same course in biochemistry and physiology, only one of the courses may duplicate credit toward the minor. Each program below lists replacement courses to fulfill the minimum unit requirement.]-->NUT_116B
+6[Note: If the studentâs major program requires the same course in biochemistry and physiology, only one of the courses may duplicate credit toward the minor. Each program below lists replacement courses to fulfill the minimum unit requirement.]-->NUT_117
+style 7 fill:#ddd
+7[Choose one:]-->NUT_120AN
+7[Choose one:]-->NUT_120BN
+7[Choose one:]-->NUT_122
+7[Choose one:]-->NUT_123
+7[Choose one:]-->NUT_124
+style ABI_102 fill:#ade
+CHE_002B-->8[Both]
+CHE_002A-->8[Both]
+CHE_008A-->9[Both]
+8-->9[Both]
+CHE_008B-->10[Both]
+9-->10[Both]
+CHE_118B-->11[Both]
+CHE_118A-->11[Both]
+11-->12[One]
+10-->12[One]
+12-->ABI_102
+style ABI_103 fill:#ade
+BIS_102-->13[One]
+ABI_102-->13[One]
+13-->ABI_103
+style BIS_102 fill:#ade
+BIS_002A-->14[One]
+BIS_001A-->14[One]
+CHE_118B-->15[One]
+CHE_008B-->15[One]
+CHE_128B-->16[One]
+15-->16[One]
+16-->17[Both]
+14-->17[Both]
+17-->BIS_102
+style BIS_103 fill:#ade
+BIS_102-->BIS_103
+style NUT_111AY fill:#ade
+NPB_101-->18[One]
+NPB_101-->18[One]
+18-->19[Both]
+CHE_008B-->19[Both]
+19-->NUT_111AY
+style NUT_111B fill:#ade
+NPB_101-->20[Both]
+CHE_008B-->20[Both]
+NUT_111AY-->21[One]
+NUT_111AV-->21[One]
+NPB_101-->22[One]
+21-->22[One]
+22-->23[Both]
+20-->23[Both]
+23-->NUT_111B
+style NPB_101 fill:#ade
+CHE_002BH-->24[One]
+CHE_002B-->24[One]
+24-->25[Both]
+BIS_002A-->25[Both]
+25-->NPB_101
+style NUT_114 fill:#ade
+ABI_103-->26[Both]
+ABI_102-->26[Both]
+NUT_111AY-->27[One]
+NUT_111AV-->27[One]
+27-->28[Both]
+26-->28[Both]
+NUT_111B-->29[Both]
+28-->29[Both]
+29-->NUT_114
+style NUT_115 fill:#ade
+CHE_118B-->30[One]
+CHE_008B-->30[One]
+30-->NUT_115
+style NUT_116A fill:#ade
+NUT_111AY-->31[One]
+NUT_111AV-->31[One]
+NUT_111B-->32[Both]
+31-->32[Both]
+NUT_112-->33[Both]
+32-->33[Both]
+NPB_101-->34[One]
+NPB_101-->34[One]
+34-->35[Both]
+33-->35[Both]
+35-->NUT_116A
+style NUT_116B fill:#ade
+NUT_111AY-->36[One]
+NUT_111AV-->36[One]
+NUT_111B-->37[Both]
+36-->37[Both]
+NUT_112-->38[Both]
+37-->38[Both]
+NPB_101-->39[One]
+NPB_101-->39[One]
+39-->40[Both]
+38-->40[Both]
+40-->NUT_116B
+style NUT_117 fill:#ade
+NUT_111AY-->41[One]
+NUT_111AV-->41[One]
+NUT_111B-->42[Both]
+41-->42[Both]
+NUT_112-->43[Both]
+42-->43[Both]
+BIS_102-->44[Both]
+43-->44[Both]
+BIS_103-->45[Both]
+44-->45[Both]
+45-->NUT_117
+style NUT_120AN fill:#ade
+style NUT_120BN fill:#ade
+style NUT_122 fill:#ade
+BIS_103-->46[One]
+ABI_103-->46[One]
+BIS_002A-->47[Both]
+46-->47[Both]
+BIS_002B-->48[Both]
+47-->48[Both]
+BIS_002C-->49[Both]
+48-->49[Both]
+49-->NUT_122
+style NUT_123 fill:#ade
+BIS_103-->50[One]
+ABI_103-->50[One]
+50-->NUT_123
+style NUT_124 fill:#ade
+ABI_103-->51[One]
+BIS_103-->51[One]
+51-->NUT_124

@@ -1,0 +1,165 @@
+style 2 fill:#ddd
+2[(a) Anatomy & Morphology]-->EVE_140
+2[(a) Anatomy & Morphology]-->PLB_105
+2[(a) Anatomy & Morphology]-->PLB_116
+style 3 fill:#ddd
+3[(b) Physiology & Development]-->PLB_111
+3[(b) Physiology & Development]-->PLB_112
+3[(b) Physiology & Development]-->PLB_123
+3[(b) Physiology & Development]-->PLP_130
+style 4 fill:#ddd
+4[(c) Evolution & Ecology]-->EVE_100
+4[(c) Evolution & Ecology]-->PLB_102
+4[(c) Evolution & Ecology]-->PLB_108
+4[(c) Evolution & Ecology]-->PLB_117
+4[(c) Evolution & Ecology]-->PLB_143
+style 5 fill:#ddd
+5[(d) Biochemistry & Molecular Genetics]-->BIT_160
+5[(d) Biochemistry & Molecular Genetics]-->PLB_113
+5[(d) Biochemistry & Molecular Genetics]-->PLB_126
+5[(d) Biochemistry & Molecular Genetics]-->PLS_152
+5[(d) Biochemistry & Molecular Genetics]-->PLS_154
+5[(d) Biochemistry & Molecular Genetics]-->PLS_171
+5[(d) Biochemistry & Molecular Genetics]-->PLS_172
+style EVE_140 fill:#ade
+BIS_001B-->6[Both]
+BIS_001A-->6[Both]
+BIS_001C-->7[Both]
+6-->7[Both]
+BIS_002B-->8[Both]
+BIS_002A-->8[Both]
+BIS_002C-->9[Both]
+8-->9[Both]
+9-->10[One]
+7-->10[One]
+10-->EVE_140
+style PLB_105 fill:#ade
+BIS_002C-->PLB_105
+style PLB_116 fill:#ade
+PLS_002-->11[Both]
+BIS_002C-->11[Both]
+11-->PLB_116
+style PLB_111 fill:#ade
+BIS_002B-->12[Both]
+BIS_002A-->12[Both]
+BIS_002C-->13[Both]
+12-->13[Both]
+CHE_118B-->14[One]
+CHE_008B-->14[One]
+14-->15[Both]
+13-->15[Both]
+PHY_007C-->16[Both]
+15-->16[Both]
+16-->PLB_111
+style PLB_112 fill:#ade
+BIS_002B-->17[Both]
+BIS_002A-->17[Both]
+BIS_002C-->18[Both]
+17-->18[Both]
+CHE_118B-->19[One]
+CHE_008B-->19[One]
+19-->20[Both]
+18-->20[Both]
+BIS_101-->21[Both]
+20-->21[Both]
+21-->PLB_112
+style PLB_123 fill:#ade
+BIS_101-->22[Both]
+BIS_002A-->22[Both]
+PLB_105-->23[Both]
+22-->23[Both]
+23-->PLB_123
+style PLP_130 fill:#ade
+BIS_103-->24[Both]
+PLB_119-->24[Both]
+24-->PLP_130
+style EVE_100 fill:#ade
+BIS_002B-->25[Both]
+BIS_002A-->25[Both]
+BIS_002C-->26[Both]
+25-->26[Both]
+MAT_017A-->27[One]
+MAT_016A-->27[One]
+MAT_021A-->28[One]
+27-->28[One]
+28-->29[Both]
+26-->29[Both]
+MAT_017B-->30[One]
+MAT_016B-->30[One]
+MAT_021B-->31[One]
+30-->31[One]
+31-->32[Both]
+29-->32[Both]
+32-->EVE_100
+style PLB_102 fill:#ade
+BIS_002C-->33[One]
+PLS_002-->33[One]
+33-->PLB_102
+style PLB_108 fill:#ade
+BIS_001B-->34[Both]
+BIS_001A-->34[Both]
+BIS_001C-->35[Both]
+34-->35[Both]
+BIS_002B-->36[Both]
+BIS_002A-->36[Both]
+BIS_002C-->37[Both]
+36-->37[Both]
+37-->38[One]
+35-->38[One]
+38-->PLB_108
+style PLB_117 fill:#ade
+BIS_001B-->39[Both]
+BIS_001A-->39[Both]
+BIS_001C-->40[Both]
+39-->40[Both]
+BIS_002B-->41[Both]
+BIS_002A-->41[Both]
+BIS_002C-->42[Both]
+41-->42[Both]
+42-->43[One]
+40-->43[One]
+43-->PLB_117
+style PLB_143 fill:#ade
+BIS_001C-->44[One]
+PLS_002-->44[One]
+BIS_002C-->45[One]
+44-->45[One]
+45-->PLB_143
+style BIT_160 fill:#ade
+BIS_002A-->46[One]
+BIS_001A-->46[One]
+PLS_152-->47[One]
+BIS_101-->47[One]
+47-->48[Both]
+46-->48[Both]
+48-->BIT_160
+style PLB_113 fill:#ade
+BIS_002B-->49[Both]
+BIS_002A-->49[Both]
+BIS_002C-->50[Both]
+49-->50[Both]
+BIS_101-->51[Both]
+50-->51[Both]
+51-->PLB_113
+style PLB_126 fill:#ade
+BIS_105-->52[One]
+BIS_103-->52[One]
+52-->PLB_126
+style PLS_152 fill:#ade
+BIS_002A-->53[One]
+BIS_001A-->53[One]
+53-->PLS_152
+style PLS_154 fill:#ade
+BIS_101-->54[One]
+PLS_152-->54[One]
+54-->PLS_154
+style PLS_171 fill:#ade
+BIS_001C-->55[One]
+PLS_002-->55[One]
+BIS_002C-->56[One]
+55-->56[One]
+56-->PLS_171
+style PLS_172 fill:#ade
+PLS_012-->57[Both]
+PLS_002-->57[Both]
+57-->PLS_172

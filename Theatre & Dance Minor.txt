@@ -1,0 +1,161 @@
+style 2 fill:#ddd
+2[Choose two:]-->DRA_142
+2[Choose two:]-->DRA_150
+2[Choose two:]-->DRA_155
+2[Choose two:]-->DRA_155A
+2[Choose two:]-->DRA_156A
+2[Choose two:]-->DRA_156B
+2[Choose two:]-->DRA_156C
+2[Choose two:]-->DRA_156D
+2[Choose two:]-->DRA_158
+2[Choose two:]-->DRA_159
+style 3 fill:#ddd
+3[Choose eight units:]-->DRA_114
+3[Choose eight units:]-->DRA_115
+3[Choose eight units:]-->DRA_116
+3[Choose eight units:]-->DRA_120
+3[Choose eight units:]-->DRA_121A
+3[Choose eight units:]-->DRA_121B
+3[Choose eight units:]-->DRA_121C
+3[Choose eight units:]-->DRA_122A
+3[Choose eight units:]-->DRA_122B
+3[Choose eight units:]-->DRA_122C
+3[Choose eight units:]-->DRA_124A
+3[Choose eight units:]-->DRA_124B
+3[Choose eight units:]-->DRA_124C
+3[Choose eight units:]-->DRA_124D
+3[Choose eight units:]-->DRA_124E
+3[Choose eight units:]-->DRA_125
+3[Choose eight units:]-->DRA_126
+3[Choose eight units:]-->DRA_127A
+3[Choose eight units:]-->DRA_127B
+3[Choose eight units:]-->DRA_130
+3[Choose eight units:]-->DRA_140A
+3[Choose eight units:]-->DRA_140B
+3[Choose eight units:]-->DRA_140C
+3[Choose eight units:]-->DRA_141
+3[Choose eight units:]-->DRA_142
+3[Choose eight units:]-->DRA_143
+3[Choose eight units:]-->DRA_144A
+3[Choose eight units:]-->DRA_144B
+3[Choose eight units:]-->DRA_144C
+3[Choose eight units:]-->DRA_150
+3[Choose eight units:]-->DRA_154
+3[Choose eight units:]-->DRA_155
+3[Choose eight units:]-->DRA_155A
+3[Choose eight units:]-->DRA_156A
+3[Choose eight units:]-->DRA_156B
+3[Choose eight units:]-->DRA_156C
+3[Choose eight units:]-->DRA_156D
+3[Choose eight units:]-->DRA_158
+3[Choose eight units:]-->DRA_159
+3[Choose eight units:]-->DRA_160A
+3[Choose eight units:]-->DRA_160B
+3[Choose eight units:]-->DRA_170
+style 4 fill:#ddd
+4[Choose two units:]-->DRA_180D
+style 5 fill:#ddd
+5[Choose four units:]-->DRA_145
+5[Choose four units:]-->DRA_180A
+5[Choose four units:]-->DRA_180B
+5[Choose four units:]-->DRA_180C
+5[Choose four units:]-->DRA_180E
+5[Choose four units:]-->DRA_180F
+5[Choose four units:]-->DRA_180G
+style DRA_142 fill:#ade
+style DRA_150 fill:#ade
+style DRA_155 fill:#ade
+style DRA_155A fill:#ade
+style DRA_156A fill:#ade
+style DRA_156B fill:#ade
+style DRA_156C fill:#ade
+style DRA_156D fill:#ade
+style DRA_158 fill:#ade
+style DRA_159 fill:#ade
+style DRA_114 fill:#ade
+style DRA_115 fill:#ade
+style DRA_116 fill:#ade
+style DRA_120 fill:#ade
+DRA_021A-->DRA_120
+style DRA_121A fill:#ade
+DRA_120-->DRA_121A
+style DRA_121B fill:#ade
+DRA_120-->DRA_121B
+style DRA_121C fill:#ade
+DRA_120-->DRA_121C
+style DRA_122A fill:#ade
+DRA_120-->DRA_122A
+style DRA_122B fill:#ade
+DRA_120-->DRA_122B
+style DRA_122C fill:#ade
+DRA_120-->DRA_122C
+style DRA_124A fill:#ade
+style DRA_124B fill:#ade
+style DRA_124C fill:#ade
+style DRA_124D fill:#ade
+style DRA_124E fill:#ade
+style DRA_125 fill:#ade
+DRA_028-->6[One]
+DRA_024-->6[One]
+6-->DRA_125
+style DRA_126 fill:#ade
+style DRA_127A fill:#ade
+style DRA_127B fill:#ade
+DRA_127A-->DRA_127B
+style DRA_130 fill:#ade
+DRA_124B-->7[One]
+DRA_124A-->7[One]
+DRA_124C-->8[One]
+7-->8[One]
+DRA_124D-->9[One]
+8-->9[One]
+DRA_124E-->10[One]
+9-->10[One]
+10-->DRA_130
+style DRA_140A fill:#ade
+DRA_041A-->11[One]
+DRA_040A-->11[One]
+DRA_042A-->12[One]
+11-->12[One]
+12-->DRA_140A
+style DRA_140B fill:#ade
+DRA_140A-->DRA_140B
+style DRA_140C fill:#ade
+DRA_140B-->13[Both]
+DRA_140A-->13[Both]
+13-->DRA_140C
+style DRA_141 fill:#ade
+style DRA_142 fill:#ade
+style DRA_143 fill:#ade
+style DRA_144A fill:#ade
+style DRA_144B fill:#ade
+DRA_144A-->DRA_144B
+style DRA_144C fill:#ade
+DRA_144B-->DRA_144C
+style DRA_150 fill:#ade
+style DRA_154 fill:#ade
+style DRA_155 fill:#ade
+style DRA_155A fill:#ade
+style DRA_156A fill:#ade
+style DRA_156B fill:#ade
+style DRA_156C fill:#ade
+style DRA_156D fill:#ade
+style DRA_158 fill:#ade
+style DRA_159 fill:#ade
+style DRA_160A fill:#ade
+style DRA_160B fill:#ade
+DRA_160A-->DRA_160B
+style DRA_170 fill:#ade
+style DRA_180D fill:#ade
+style DRA_145 fill:#ade
+DRA_140B-->14[Both]
+DRA_140A-->14[Both]
+DRA_140C-->15[Both]
+14-->15[Both]
+15-->DRA_145
+style DRA_180A fill:#ade
+style DRA_180B fill:#ade
+style DRA_180C fill:#ade
+style DRA_180E fill:#ade
+style DRA_180F fill:#ade
+style DRA_180G fill:#ade
