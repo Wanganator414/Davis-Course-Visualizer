@@ -1,0 +1,199 @@
+style 2 fill:#ddd
+2[Area 1 Painting, Drawing, Printmaking]-->ART_101
+2[Area 1 Painting, Drawing, Printmaking]-->ART_102A
+2[Area 1 Painting, Drawing, Printmaking]-->ART_102B
+2[Area 1 Painting, Drawing, Printmaking]-->ART_102C
+2[Area 1 Painting, Drawing, Printmaking]-->ART_103A
+2[Area 1 Painting, Drawing, Printmaking]-->ART_103B
+2[Area 1 Painting, Drawing, Printmaking]-->ART_103C
+2[Area 1 Painting, Drawing, Printmaking]-->ART_105A
+2[Area 1 Painting, Drawing, Printmaking]-->ART_105B
+2[Area 1 Painting, Drawing, Printmaking]-->ART_121
+2[Area 1 Painting, Drawing, Printmaking]-->ART_125A
+2[Area 1 Painting, Drawing, Printmaking]-->ART_125B
+2[Area 1 Painting, Drawing, Printmaking]-->ART_125C
+2[Area 1 Painting, Drawing, Printmaking]-->ART_125D
+2[Area 1 Painting, Drawing, Printmaking]-->ART_129
+2[Area 1 Painting, Drawing, Printmaking]-->ART_171
+style 3 fill:#ddd
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_142A
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_142B
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_142C
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_143
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_151
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_152A
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_152B
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_152C
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_152D
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_152E
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_152F
+3[Area 2 Sculpture & Ceramic Sculpture]-->ART_152G
+style 4 fill:#ddd
+4[Area 3 Photography & Video]-->ART_110A
+4[Area 3 Photography & Video]-->ART_110B
+4[Area 3 Photography & Video]-->ART_111A
+4[Area 3 Photography & Video]-->ART_111B
+4[Area 3 Photography & Video]-->ART_114A
+4[Area 3 Photography & Video]-->ART_114B
+4[Area 3 Photography & Video]-->ART_114C
+4[Area 3 Photography & Video]-->ART_117
+style ART_101 fill:#ade
+ART_007-->5[Both]
+ART_002-->5[Both]
+5-->ART_101
+style ART_102A fill:#ade
+ART_101-->ART_102A
+style ART_102B fill:#ade
+ART_101-->ART_102B
+style ART_102C fill:#ade
+ART_007-->6[Both]
+ART_002-->6[Both]
+ART_101-->7[Both]
+6-->7[Both]
+ART_102B-->8[One]
+ART_102A-->8[One]
+8-->9[Both]
+7-->9[Both]
+9-->ART_102C
+style ART_103A fill:#ade
+ART_002-->ART_103A
+style ART_103B fill:#ade
+ART_002-->ART_103B
+style ART_103C fill:#ade
+ART_002-->ART_103C
+style ART_105A fill:#ade
+ART_103B-->10[One]
+ART_103A-->10[One]
+10-->11[Both]
+ART_002-->11[Both]
+11-->ART_105A
+style ART_105B fill:#ade
+ART_103B-->12[One]
+ART_103A-->12[One]
+ART_002-->13[Both]
+12-->13[Both]
+13-->ART_105B
+style ART_121 fill:#ade
+ART_007-->14[Both]
+ART_002-->14[Both]
+14-->ART_121
+style ART_125A fill:#ade
+ART_011-->ART_125A
+style ART_125B fill:#ade
+ART_011-->ART_125B
+style ART_125C fill:#ade
+ART_011-->ART_125C
+style ART_125D fill:#ade
+ART_011-->ART_125D
+style ART_129 fill:#ade
+ART_125B-->15[One]
+ART_125A-->15[One]
+ART_125C-->16[One]
+15-->16[One]
+ART_125D-->17[One]
+16-->17[One]
+17-->18[Both]
+ART_011-->18[Both]
+18-->ART_129
+style ART_171 fill:#ade
+CHI_070-->ART_171
+style ART_142A fill:#ade
+ART_008-->ART_142A
+style ART_142B fill:#ade
+ART_008-->ART_142B
+style ART_142C fill:#ade
+ART_008-->ART_142C
+style ART_143 fill:#ade
+ART_142B-->19[One]
+ART_142A-->19[One]
+ART_142C-->20[One]
+19-->20[One]
+20-->21[Both]
+ART_008-->21[Both]
+21-->ART_143
+style ART_151 fill:#ade
+ART_005-->ART_151
+style ART_152A fill:#ade
+ART_151-->22[Both]
+ART_005-->22[Both]
+22-->ART_152A
+style ART_152B fill:#ade
+ART_151-->23[Both]
+ART_005-->23[Both]
+23-->ART_152B
+style ART_152C fill:#ade
+ART_151-->24[Both]
+ART_005-->24[Both]
+24-->ART_152C
+style ART_152D fill:#ade
+ART_151-->25[Both]
+ART_005-->25[Both]
+25-->ART_152D
+style ART_152E fill:#ade
+ART_151-->26[Both]
+ART_005-->26[Both]
+26-->ART_152E
+style ART_152F fill:#ade
+ART_151-->27[Both]
+ART_005-->27[Both]
+27-->ART_152F
+style ART_152G fill:#ade
+ART_151-->28[Both]
+ART_005-->28[Both]
+28-->ART_152G
+style ART_110A fill:#ade
+ART_009-->ART_110A
+style ART_110B fill:#ade
+ART_009-->ART_110B
+style ART_111A fill:#ade
+ART_110B-->29[One]
+ART_110A-->29[One]
+29-->30[Both]
+ART_009-->30[Both]
+30-->ART_111A
+style ART_111B fill:#ade
+ART_110B-->31[Both]
+ART_009-->31[Both]
+31-->ART_111B
+style ART_114A fill:#ade
+CTS_020-->32[One]
+ART_012-->32[One]
+CDM_020-->33[One]
+32-->33[One]
+33-->ART_114A
+style ART_114B fill:#ade
+CTS_020-->34[One]
+ART_012-->34[One]
+CDM_020-->35[One]
+34-->35[One]
+35-->ART_114B
+style ART_114C fill:#ade
+CTS_020-->36[One]
+ART_012-->36[One]
+CDM_020-->37[One]
+36-->37[One]
+37-->ART_114C
+style ART_117 fill:#ade
+CTS_020-->38[One]
+ART_012-->38[One]
+ART_114A-->39[One]
+ART_112-->39[One]
+ART_114B-->40[One]
+39-->40[One]
+ART_114C-->41[One]
+40-->41[One]
+CDM_100-->42[One]
+41-->42[One]
+CDM_104-->43[One]
+42-->43[One]
+43-->44[Both]
+38-->44[Both]
+TCS_100-->45[One]
+CDM_105-->45[One]
+TCS_101-->46[One]
+45-->46[One]
+TCS_104-->47[One]
+46-->47[One]
+47-->48[Both]
+44-->48[Both]
+48-->ART_117

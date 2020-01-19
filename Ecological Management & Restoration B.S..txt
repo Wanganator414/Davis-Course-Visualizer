@@ -1,0 +1,481 @@
+style 2 fill:#ddd
+2[Biological Science]-->BIS_002A
+2[Biological Science]-->BIS_002B
+2[Biological Science]-->BIS_002C
+style 3 fill:#ddd
+3[Chemistry]-->CHE_002A
+3[Chemistry]-->CHE_002B
+style 4 fill:#ddd
+4[Physics choose a series:]-->PHY_001A
+4[Physics choose a series:]-->PHY_001B
+4[Physics choose a series:]-->PHY_007A
+4[Physics choose a series:]-->PHY_007B
+4[Physics choose a series:]-->PHY_007C
+style 5 fill:#ddd
+5[Mathematics choose a series:]-->MAT_016A
+5[Mathematics choose a series:]-->MAT_016B
+5[Mathematics choose a series:]-->MAT_017A
+5[Mathematics choose a series:]-->MAT_017B
+5[Mathematics choose a series:]-->MAT_021A
+5[Mathematics choose a series:]-->MAT_021B
+style 6 fill:#ddd
+6[Plant Science]-->PLS_120
+style 7 fill:#ddd
+7[Soil Science]-->SSC_100
+style 8 fill:#ddd
+8[Choose one:]-->PLS_101
+8[Choose one:]-->ESP_001
+style 9 fill:#ddd
+9[Environmental Horticulture]-->ENH_160
+9[Environmental Horticulture]-->ENH_160L
+style 10 fill:#ddd
+10[Plant Science]-->PLS_176
+style 11 fill:#ddd
+11[Soil Science choose one:]-->SSC_102
+11[Soil Science choose one:]-->SSC_105
+11[Soil Science choose one:]-->SSC_111
+11[Soil Science choose one:]-->SSC_118
+11[Soil Science choose one:]-->SSC_120
+style 12 fill:#ddd
+12[Choose one:]-->PLS_152
+12[Choose one:]-->ENH_150
+style 13 fill:#ddd
+13[Choose two ecology courses:]-->ESP_155
+13[Choose two ecology courses:]-->PLB_117
+13[Choose two ecology courses:]-->PLS_131
+13[Choose two ecology courses:]-->PLS_144
+13[Choose two ecology courses:]-->PLS_147
+13[Choose two ecology courses:]-->WFC_156
+13[Choose two ecology courses:]-->WFC_157
+style 14 fill:#ddd
+14[Choose one:]-->EVE_100
+14[Choose one:]-->PLB_108
+14[Choose one:]-->PLS_102
+14[Choose one:]-->PLS_116
+style 15 fill:#ddd
+15[Choose four restoration/conservation courses:]-->PLS_130
+15[Choose four restoration/conservation courses:]-->PLS_135
+15[Choose four restoration/conservation courses:]-->PLS_150
+15[Choose four restoration/conservation courses:]-->ESM_141
+15[Choose four restoration/conservation courses:]-->ESP_127
+15[Choose four restoration/conservation courses:]-->ESP_155L
+15[Choose four restoration/conservation courses:]-->WFC_154
+15[Choose four restoration/conservation courses:]-->WFC_155
+15[Choose four restoration/conservation courses:]-->WFC_155L
+style 16 fill:#ddd
+16[Choose one:]-->ESM_100
+16[Choose one:]-->HYD_143
+16[Choose one:]-->HYD_147
+16[Choose one:]-->HYD_151
+style 17 fill:#ddd
+17[Choose one:]-->PLS_171
+17[Choose one:]-->ENH_120
+style 18 fill:#ddd
+18[Choose one:]-->PLS_100C
+18[Choose one:]-->PLS_163
+style 19 fill:#ddd
+19[Choose one:]-->PLB_111
+19[Choose one:]-->PLS_100A
+style 20 fill:#ddd
+20[Environmental Science & Policy, choose one:]-->ESP_160
+20[Environmental Science & Policy, choose one:]-->ESP_161
+20[Environmental Science & Policy, choose one:]-->ESP_171
+20[Environmental Science & Policy, choose one:]-->ESP_172
+20[Environmental Science & Policy, choose one:]-->ESP_179
+style 21 fill:#ddd
+21[Internship must be selected in consultation with master advisor:]-->PLS_164
+21[Internship must be selected in consultation with master advisor:]-->PLS_192
+style 22 fill:#ddd
+22[In addition to the required coursework listed above, students might consider taking some of the following courses:]-->ENT_107
+22[In addition to the required coursework listed above, students might consider taking some of the following courses:]-->HYD_124
+22[In addition to the required coursework listed above, students might consider taking some of the following courses:]-->LDA_150
+22[In addition to the required coursework listed above, students might consider taking some of the following courses:]-->PLS_135
+22[In addition to the required coursework listed above, students might consider taking some of the following courses:]-->PLS_141
+22[In addition to the required coursework listed above, students might consider taking some of the following courses:]-->PLS_158
+22[In addition to the required coursework listed above, students might consider taking some of the following courses:]-->PLS_162
+22[In addition to the required coursework listed above, students might consider taking some of the following courses:]-->SAS_018
+22[In addition to the required coursework listed above, students might consider taking some of the following courses:]-->SSC_109
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style BIS_002C fill:#ade
+BIS_002B-->23[One]
+BIS_001B-->23[One]
+23-->BIS_002C
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->24[One]
+CHE_002A-->24[One]
+24-->CHE_002B
+style PHY_001A fill:#ade
+style PHY_001B fill:#ade
+PHY_009A-->25[One]
+PHY_001A-->25[One]
+PHY_007A-->26[Both]
+25-->26[Both]
+PHY_007B-->27[Both]
+26-->27[Both]
+PHY_007C-->28[Both]
+27-->28[Both]
+PHY_009B-->29[Both]
+28-->29[Both]
+PHY_009D-->30[One]
+PHY_009C-->30[One]
+30-->31[Both]
+29-->31[Both]
+31-->PHY_001B
+style PHY_007A fill:#ade
+MAT_017B-->32[One]
+MAT_016B-->32[One]
+MAT_021B-->33[One]
+32-->33[One]
+MAT_016B-->34[One]
+33-->34[One]
+MAT_017B-->35[One]
+34-->35[One]
+MAT_021B-->36[One]
+35-->36[One]
+36-->PHY_007A
+style PHY_007B fill:#ade
+PHY_007A-->PHY_007B
+style PHY_007C fill:#ade
+PHY_007B-->PHY_007C
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->37[One]
+MAT_016A-->37[One]
+MAT_021A-->38[One]
+37-->38[One]
+MAT_021AH-->39[One]
+38-->39[One]
+39-->MAT_016B
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->40[One]
+MAT_016A-->40[One]
+MAT_021A-->41[One]
+40-->41[One]
+MAT_021AH-->42[One]
+41-->42[One]
+42-->MAT_017B
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->43[One]
+MAT_021A-->43[One]
+MAT_017A-->44[One]
+43-->44[One]
+44-->MAT_021B
+style PLS_120 fill:#ade
+style SSC_100 fill:#ade
+style PLS_101 fill:#ade
+PLS_002-->PLS_101
+style ESP_001 fill:#ade
+style ENH_160 fill:#ade
+EVE_117-->45[One]
+PLB_117-->45[One]
+PLS_147-->46[One]
+45-->46[One]
+46-->ENH_160
+style ENH_160L fill:#ade
+ENH_160-->ENH_160L
+style PLS_176 fill:#ade
+BIS_001C-->47[One]
+PLS_002-->47[One]
+BIS_002C-->48[One]
+47-->48[One]
+48-->PLS_176
+style SSC_102 fill:#ade
+style SSC_105 fill:#ade
+style SSC_111 fill:#ade
+style SSC_118 fill:#ade
+style SSC_120 fill:#ade
+SSC_100-->SSC_120
+style PLS_152 fill:#ade
+BIS_002A-->49[One]
+BIS_001A-->49[One]
+49-->PLS_152
+style ENH_150 fill:#ade
+BIS_001C-->ENH_150
+style ESP_155 fill:#ade
+BIS_002A-->50[One]
+BIS_002A-->50[One]
+50-->ESP_155
+style PLB_117 fill:#ade
+BIS_001B-->51[Both]
+BIS_001A-->51[Both]
+BIS_001C-->52[Both]
+51-->52[Both]
+BIS_002B-->53[Both]
+BIS_002A-->53[Both]
+BIS_002C-->54[Both]
+53-->54[Both]
+54-->55[One]
+52-->55[One]
+55-->PLB_117
+style PLS_131 fill:#ade
+style PLS_144 fill:#ade
+BIS_001C-->56[One]
+PLS_002-->56[One]
+BIS_002C-->57[One]
+56-->57[One]
+57-->PLS_144
+style PLS_147 fill:#ade
+BIS_002C-->58[One]
+PLS_002-->58[One]
+58-->PLS_147
+style WFC_156 fill:#ade
+EVE_101-->59[One]
+ESP_100-->59[One]
+59-->WFC_156
+style WFC_157 fill:#ade
+style EVE_100 fill:#ade
+BIS_002B-->60[Both]
+BIS_002A-->60[Both]
+BIS_002C-->61[Both]
+60-->61[Both]
+MAT_017A-->62[One]
+MAT_016A-->62[One]
+MAT_021A-->63[One]
+62-->63[One]
+63-->64[Both]
+61-->64[Both]
+MAT_017B-->65[One]
+MAT_016B-->65[One]
+MAT_021B-->66[One]
+65-->66[One]
+66-->67[Both]
+64-->67[Both]
+67-->EVE_100
+style PLB_108 fill:#ade
+BIS_001B-->68[Both]
+BIS_001A-->68[Both]
+BIS_001C-->69[Both]
+68-->69[Both]
+BIS_002B-->70[Both]
+BIS_002A-->70[Both]
+BIS_002C-->71[Both]
+70-->71[Both]
+71-->72[One]
+69-->72[One]
+72-->PLB_108
+style PLS_102 fill:#ade
+BIS_002C-->73[One]
+PLS_002-->73[One]
+73-->PLS_102
+style PLS_116 fill:#ade
+PLS_002-->74[Both]
+BIS_002C-->74[Both]
+74-->PLS_116
+style PLS_130 fill:#ade
+BIS_002B-->75[One]
+PLS_002-->75[One]
+BIS_002C-->76[One]
+75-->76[One]
+76-->PLS_130
+style PLS_135 fill:#ade
+BIS_001B-->77[One]
+BIS_001A-->77[One]
+BIS_001C-->78[One]
+PLS_002-->78[One]
+78-->79[Both]
+77-->79[Both]
+79-->PLS_135
+style PLS_150 fill:#ade
+CHE_002A-->80[Both]
+SSC_010-->80[Both]
+BIS_001C-->81[One]
+PLS_002-->81[One]
+BIS_002C-->82[One]
+81-->82[One]
+82-->83[Both]
+80-->83[Both]
+83-->PLS_150
+style ESM_141 fill:#ade
+PLS_002-->84[One]
+BIS_002A-->84[One]
+BIS_002C-->85[One]
+BIS_002B-->85[One]
+85-->86[Both]
+84-->86[Both]
+ERS_141-->87[Both]
+86-->87[Both]
+ERS_141-->88[Both]
+87-->88[Both]
+88-->ESM_141
+style ESP_127 fill:#ade
+EVE_101-->89[One]
+ESP_100-->89[One]
+89-->ESP_127
+style ESP_155L fill:#ade
+ESP_155-->ESP_155L
+style WFC_154 fill:#ade
+ESP_100-->90[One]
+EVE_101-->90[One]
+BIS_002B-->91[Both]
+BIS_002A-->91[Both]
+BIS_002C-->92[Both]
+91-->92[Both]
+92-->93[Both]
+90-->93[Both]
+93-->WFC_154
+style WFC_155 fill:#ade
+ESP_100-->94[One]
+EVE_101-->94[One]
+ESP_100-->95[One]
+94-->95[One]
+EVE_101-->96[One]
+95-->96[One]
+96-->WFC_155
+style WFC_155L fill:#ade
+ESP_100-->97[One]
+EVE_101-->97[One]
+ESP_100-->98[One]
+WFC_155-->98[One]
+EVE_101-->99[One]
+98-->99[One]
+99-->100[Both]
+97-->100[Both]
+100-->WFC_155L
+style ESM_100 fill:#ade
+MAT_016B-->101[Both]
+CHE_002B-->101[Both]
+PHY_009A-->102[One]
+PHY_007A-->102[One]
+102-->103[Both]
+101-->103[Both]
+ERS_100-->104[Both]
+103-->104[Both]
+ERS_100-->105[Both]
+104-->105[Both]
+105-->ESM_100
+style HYD_143 fill:#ade
+HYD_141-->106[One]
+HYD_010-->106[One]
+ESP_001-->107[One]
+106-->107[One]
+ESM_100-->108[One]
+107-->108[One]
+ESM_108-->109[One]
+108-->109[One]
+ESM_120-->110[One]
+109-->110[One]
+GEL_001-->111[One]
+110-->111[One]
+GEL_050-->112[One]
+111-->112[One]
+SSC_100-->113[One]
+112-->113[One]
+113-->HYD_143
+style HYD_147 fill:#ade
+PHY_009B-->114[One]
+PHY_007B-->114[One]
+MAT_017C-->115[One]
+MAT_016C-->115[One]
+MAT_021C-->116[One]
+115-->116[One]
+116-->117[Both]
+114-->117[Both]
+HYD_141-->118[One]
+ECI_142-->118[One]
+ESM_100-->119[One]
+118-->119[One]
+119-->120[Both]
+117-->120[Both]
+120-->HYD_147
+style HYD_151 fill:#ade
+HYD_141-->121[One]
+ERS_100-->121[One]
+121-->HYD_151
+style PLS_171 fill:#ade
+BIS_001C-->122[One]
+PLS_002-->122[One]
+BIS_002C-->123[One]
+122-->123[One]
+123-->PLS_171
+style ENH_120 fill:#ade
+SSC_100-->124[One]
+SSC_010-->124[One]
+124-->ENH_120
+style PLS_100C fill:#ade
+PLS_100A-->125[One]
+PLS_100A-->125[One]
+125-->PLS_100C
+style PLS_163 fill:#ade
+PLB_117-->126[Both]
+EVE_117-->126[Both]
+ESP_100-->127[Both]
+126-->127[Both]
+SSC_112-->128[One]
+EVE_101-->128[One]
+128-->129[Both]
+127-->129[Both]
+129-->PLS_163
+style PLB_111 fill:#ade
+BIS_002B-->130[Both]
+BIS_002A-->130[Both]
+BIS_002C-->131[Both]
+130-->131[Both]
+CHE_118B-->132[One]
+CHE_008B-->132[One]
+132-->133[Both]
+131-->133[Both]
+PHY_007C-->134[Both]
+133-->134[Both]
+134-->PLB_111
+style PLS_100A fill:#ade
+BIS_002C-->135[One]
+PLS_002-->135[One]
+135-->PLS_100A
+style ESP_160 fill:#ade
+POL_001-->ESP_160
+style ESP_161 fill:#ade
+style ESP_171 fill:#ade
+style ESP_172 fill:#ade
+style ESP_179 fill:#ade
+ESP_001-->ESP_179
+style PLS_164 fill:#ade
+style PLS_192 fill:#ade
+style ENT_107 fill:#ade
+style HYD_124 fill:#ade
+SSC_107-->136[One]
+SSC_100-->136[One]
+PLB_111-->137[One]
+PLS_100A-->137[One]
+137-->138[Both]
+136-->138[Both]
+138-->HYD_124
+style LDA_150 fill:#ade
+style PLS_135 fill:#ade
+BIS_001B-->139[One]
+BIS_001A-->139[One]
+BIS_001C-->140[One]
+PLS_002-->140[One]
+140-->141[Both]
+139-->141[Both]
+141-->PLS_135
+style PLS_141 fill:#ade
+BIS_001C-->142[One]
+PLS_002-->142[One]
+BIS_002C-->143[One]
+142-->143[One]
+143-->PLS_141
+style PLS_158 fill:#ade
+PLB_111-->144[One]
+PLS_100A-->144[One]
+ENH_102-->145[One]
+144-->145[One]
+VEN_110-->146[One]
+145-->146[One]
+146-->PLS_158
+style PLS_162 fill:#ade
+ESP_100-->147[Both]
+PLB_117-->147[Both]
+EVE_101-->148[Both]
+147-->148[Both]
+PLS_163-->149[One]
+EVE_120-->149[One]
+149-->150[Both]
+148-->150[Both]
+150-->PLS_162
+style SAS_018 fill:#ade
+style SSC_109 fill:#ade
+SSC_100-->SSC_109

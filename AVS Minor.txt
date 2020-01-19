@@ -1,0 +1,105 @@
+style 2 fill:#ddd
+2[Choose one:]-->AVS_011
+2[Choose one:]-->AVS_013
+2[Choose one:]-->AVS_014L
+2[Choose one:]-->AVS_015L
+style 3 fill:#ddd
+3[Choose remaining units from:]-->AVS_100
+3[Choose remaining units from:]-->AVS_103
+3[Choose remaining units from:]-->AVS_115
+3[Choose remaining units from:]-->AVS_121
+3[Choose remaining units from:]-->AVS_123
+3[Choose remaining units from:]-->AVS_149
+3[Choose remaining units from:]-->AVS_150
+3[Choose remaining units from:]-->AVS_160
+3[Choose remaining units from:]-->ANS_143
+3[Choose remaining units from:]-->NPB_117
+3[Choose remaining units from:]-->WFC_111
+3[Choose remaining units from:]-->WFC_136
+style 4 fill:#ddd
+4[Related Courses]-->ARE_130
+4[Related Courses]-->ANS_143
+4[Related Courses]-->MCB_150
+4[Related Courses]-->NUT_123
+4[Related Courses]-->NUT_123L
+style AVS_011 fill:#ade
+style AVS_013 fill:#ade
+style AVS_014L fill:#ade
+style AVS_015L fill:#ade
+style AVS_100 fill:#ade
+BIS_002B-->5[Both]
+BIS_002A-->5[Both]
+ANS_002-->6[Both]
+5-->6[Both]
+6-->AVS_100
+style AVS_103 fill:#ade
+BIS_002B-->7[Both]
+BIS_002A-->7[Both]
+7-->AVS_103
+style AVS_115 fill:#ade
+BIS_002A-->AVS_115
+style AVS_121 fill:#ade
+BIS_002B-->8[Both]
+BIS_002A-->8[Both]
+8-->AVS_121
+style AVS_123 fill:#ade
+BIS_002B-->9[Both]
+BIS_002A-->9[Both]
+9-->AVS_123
+style AVS_149 fill:#ade
+AVS_011-->AVS_149
+style AVS_150 fill:#ade
+BIS_103-->10[One]
+ABI_103-->10[One]
+10-->AVS_150
+style AVS_160 fill:#ade
+WFC_111-->11[One]
+AVS_100-->11[One]
+11-->AVS_160
+style ANS_143 fill:#ade
+ANS_100-->12[One]
+NPB_101-->12[One]
+12-->13[Both]
+NUT_115-->13[Both]
+ANS_041-->14[Both]
+13-->14[Both]
+14-->ANS_143
+style NPB_117 fill:#ade
+BIS_002B-->15[Both]
+BIS_002A-->15[Both]
+CHE_002B-->16[Both]
+15-->16[Both]
+16-->NPB_117
+style WFC_111 fill:#ade
+BIS_002B-->17[Both]
+BIS_002A-->17[Both]
+17-->WFC_111
+style WFC_136 fill:#ade
+style ARE_130 fill:#ade
+ARE_100A-->18[Both]
+ARE_106-->18[Both]
+STA_013Y-->19[One]
+STA_013-->19[One]
+19-->20[Both]
+18-->20[Both]
+STA_103-->21[Both]
+20-->21[Both]
+21-->ARE_130
+style ANS_143 fill:#ade
+ANS_100-->22[One]
+NPB_101-->22[One]
+22-->23[Both]
+NUT_115-->23[Both]
+ANS_041-->24[Both]
+23-->24[Both]
+24-->ANS_143
+style MCB_150 fill:#ade
+BIS_101-->MCB_150
+style NUT_123 fill:#ade
+BIS_103-->25[One]
+ABI_103-->25[One]
+25-->NUT_123
+style NUT_123L fill:#ade
+BIS_103-->26[One]
+ABI_103-->26[One]
+26-->NUT_123L

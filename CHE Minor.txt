@@ -1,0 +1,48 @@
+style 2 fill:#ddd
+2[Units: 20-21]-->CHE_105
+2[Units: 20-21]-->CHE_107A
+2[Units: 20-21]-->CHE_107B
+2[Units: 20-21]-->CHE_118A
+2[Units: 20-21]-->CHE_124A
+style 3 fill:#ddd
+3[Choose at least one:]-->CHE_118B
+3[Choose at least one:]-->CHE_124B
+3[Choose at least one:]-->CHE_124C
+style CHE_105 fill:#ade
+CHE_107B-->4[One]
+CHE_110A-->4[One]
+4-->CHE_105
+style CHE_107A fill:#ade
+CHE_002CH-->5[One]
+CHE_002C-->5[One]
+MAT_017C-->6[One]
+MAT_016C-->6[One]
+MAT_021C-->7[One]
+6-->7[One]
+7-->8[Both]
+5-->8[Both]
+PHY_009C-->9[One]
+PHY_007C-->9[One]
+PHY_009HC-->10[One]
+9-->10[One]
+10-->11[Both]
+8-->11[Both]
+11-->CHE_107A
+style CHE_107B fill:#ade
+CHE_107A-->CHE_107B
+style CHE_118A fill:#ade
+CHE_002CH-->12[One]
+CHE_002C-->12[One]
+12-->CHE_118A
+style CHE_124A fill:#ade
+CHE_002CH-->13[One]
+CHE_002C-->13[One]
+13-->CHE_124A
+style CHE_118B fill:#ade
+CHE_128A-->14[One]
+CHE_118A-->14[One]
+14-->CHE_118B
+style CHE_124B fill:#ade
+CHE_124A-->CHE_124B
+style CHE_124C fill:#ade
+CHE_124A-->CHE_124C

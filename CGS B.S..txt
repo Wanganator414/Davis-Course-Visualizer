@@ -1,0 +1,823 @@
+style 2 fill:#ddd
+2[Computer Science Engineering]-->ECS_020
+style 3 fill:#ddd
+3[Choose one:]-->ECS_032A
+3[Choose one:]-->ECS_036A
+style 4 fill:#ddd
+4[Choose one:]-->ECS_032B
+4[Choose one:]-->ECS_036B
+style 5 fill:#ddd
+5[Choose one:]-->ECS_034
+5[Choose one:]-->ECS_036C
+style 6 fill:#ddd
+6[Linguistics choose one:]-->LIN_001
+6[Linguistics choose one:]-->LIN_001Y
+style 7 fill:#ddd
+7[Choose a series:]-->MAT_017A
+7[Choose a series:]-->MAT_017B
+7[Choose a series:]-->MAT_017C
+7[Choose a series:]-->MAT_021A
+7[Choose a series:]-->MAT_021B
+7[Choose a series:]-->MAT_021C
+style 8 fill:#ddd
+8[Choose MAT 022A & 022AL or 027A:]-->MAT_022A
+8[Choose MAT 022A & 022AL or 027A:]-->MAT_022AL
+8[Choose MAT 022A & 022AL or 027A:]-->MAT_027A
+style 9 fill:#ddd
+9[Cognitive Science choose one:]-->PHI_010
+9[Cognitive Science choose one:]-->CGS_001
+style 10 fill:#ddd
+10[Philosophy]-->PHI_012
+10[Philosophy]-->PHI_013G
+style 11 fill:#ddd
+11[Choose one:]-->PSC_001
+11[Choose one:]-->PSC_001Y
+11[Choose one:]-->PSC_041
+style 12 fill:#ddd
+12[Statistics choose one:]-->STA_013
+12[Statistics choose one:]-->STA_100
+style 13 fill:#ddd
+13[Choose one:]-->PSC_100
+13[Choose one:]-->PSC_100Y
+13[Choose one:]-->PHI_112
+style 14 fill:#ddd
+14[Group B: Computation]-->ECS_120
+14[Group B: Computation]-->ECS_170
+14[Group B: Computation]-->ECS_171
+14[Group B: Computation]-->LIN_177
+14[Group B: Computation]-->PHI_133
+style 15 fill:#ddd
+15[Group C: Neuroscience]-->LIN_175
+15[Group C: Neuroscience]-->PSC_101
+15[Group C: Neuroscience]-->PSC_133
+15[Group C: Neuroscience]-->PSC_135
+15[Group C: Neuroscience]-->PSC_139
+15[Group C: Neuroscience]-->PSC_145
+style 16 fill:#ddd
+16[Group D: Philosophy]-->PHI_103
+16[Group D: Philosophy]-->PHI_104
+16[Group D: Philosophy]-->PHI_129
+16[Group D: Philosophy]-->PHI_136
+style 17 fill:#ddd
+17[Group E: Linguistics]-->LIN_103A
+17[Group E: Linguistics]-->LIN_103B
+17[Group E: Linguistics]-->LIN_150
+17[Group E: Linguistics]-->LIN_182
+style 18 fill:#ddd
+18[Group F: Psychology]-->PSC_101
+18[Group F: Psychology]-->PSC_103A
+18[Group F: Psychology]-->PSC_103B
+18[Group F: Psychology]-->PSC_113
+18[Group F: Psychology]-->PSC_121
+18[Group F: Psychology]-->PSC_124
+18[Group F: Psychology]-->PSC_130
+18[Group F: Psychology]-->PSC_131
+18[Group F: Psychology]-->PSC_135
+18[Group F: Psychology]-->PSC_136
+18[Group F: Psychology]-->PSC_137
+18[Group F: Psychology]-->PSC_140
+18[Group F: Psychology]-->PSC_141
+style 19 fill:#ddd
+19[Biological Science]-->BIS_002A
+19[Biological Science]-->BIS_002B
+19[Biological Science]-->BIS_002C
+style 20 fill:#ddd
+20[Linguistics choose one:]-->LIN_001
+20[Linguistics choose one:]-->LIN_001Y
+style 21 fill:#ddd
+21[Mathematics choose a series:]-->MAT_017A
+21[Mathematics choose a series:]-->MAT_017B
+21[Mathematics choose a series:]-->MAT_017C
+21[Mathematics choose a series:]-->MAT_021A
+21[Mathematics choose a series:]-->MAT_021B
+21[Mathematics choose a series:]-->MAT_021C
+style 22 fill:#ddd
+22[Choose one:]-->PHI_010
+22[Choose one:]-->CGS_001
+22[Choose one:]-->PHI_013G
+style 23 fill:#ddd
+23[Physics choose a series:]-->PHY_007A
+23[Physics choose a series:]-->PHY_007B
+23[Physics choose a series:]-->PHY_007C
+23[Physics choose a series:]-->PHY_009A
+23[Physics choose a series:]-->PHY_009B
+23[Physics choose a series:]-->PHY_009C
+style 24 fill:#ddd
+24[Choose one:]-->PSC_001
+24[Choose one:]-->PSC_001Y
+24[Choose one:]-->PSC_041
+style 25 fill:#ddd
+25[Statistics choose one:]-->STA_013
+25[Statistics choose one:]-->STA_100
+style 26 fill:#ddd
+26[One four-unit upper division course in Cognitive Science (CGS).]-->NPB_100
+26[One four-unit upper division course in Cognitive Science (CGS).]-->PSC_103A
+style 27 fill:#ddd
+27[Group B: Computation]-->LIN_177
+27[Group B: Computation]-->NPB_167
+style 28 fill:#ddd
+28[Choose one:]-->NPB_152
+28[Choose one:]-->PSC_123
+28[Choose one:]-->NPB_161
+28[Choose one:]-->NPB_162
+28[Choose one:]-->NPB_163
+28[Choose one:]-->NPB_164
+28[Choose one:]-->NPB_165
+28[Choose one:]-->LIN_175
+28[Choose one:]-->PSC_101
+28[Choose one:]-->PSC_121
+28[Choose one:]-->PSC_133
+28[Choose one:]-->PSC_135
+28[Choose one:]-->PSC_139
+28[Choose one:]-->PSC_145
+style 29 fill:#ddd
+29[Group D: Philosophy]-->PHI_103
+29[Group D: Philosophy]-->PHI_104
+29[Group D: Philosophy]-->PHI_129
+29[Group D: Philosophy]-->PHI_136
+style 30 fill:#ddd
+30[Group E: Linguistics]-->LIN_103A
+30[Group E: Linguistics]-->LIN_103B
+30[Group E: Linguistics]-->LIN_150
+30[Group E: Linguistics]-->LIN_182
+style 31 fill:#ddd
+31[Choose one:]-->NPB_124
+31[Choose one:]-->PSC_124
+style 32 fill:#ddd
+32[Choose one:]-->PSC_100
+32[Choose one:]-->PSC_100Y
+32[Choose one:]-->PSC_101
+32[Choose one:]-->PSC_113
+32[Choose one:]-->PSC_121
+32[Choose one:]-->PSC_130
+32[Choose one:]-->PSC_131
+32[Choose one:]-->PSC_132
+32[Choose one:]-->PSC_135
+32[Choose one:]-->PSC_136
+32[Choose one:]-->PSC_137
+32[Choose one:]-->PSC_140
+32[Choose one:]-->PSC_141
+style ECS_020 fill:#ade
+MAT_017A-->33[One]
+MAT_016A-->33[One]
+MAT_021A-->34[One]
+33-->34[One]
+34-->ECS_020
+style ECS_032A fill:#ade
+style ECS_036A fill:#ade
+style ECS_032B fill:#ade
+ECS_030-->35[One]
+ECS_010-->35[One]
+ECS_032A-->36[One]
+35-->36[One]
+ECS_036A-->37[One]
+36-->37[One]
+37-->ECS_032B
+style ECS_036B fill:#ade
+ECS_036A-->38[One]
+ECS_030-->38[One]
+38-->ECS_036B
+style ECS_034 fill:#ade
+ECS_032B-->ECS_034
+style ECS_036C fill:#ade
+ECS_036B-->39[One]
+ECS_040-->39[One]
+ECS_020-->40[Both]
+39-->40[Both]
+40-->ECS_036C
+style LIN_001 fill:#ade
+style LIN_001Y fill:#ade
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->41[One]
+MAT_016A-->41[One]
+MAT_021A-->42[One]
+41-->42[One]
+MAT_021AH-->43[One]
+42-->43[One]
+43-->MAT_017B
+style MAT_017C fill:#ade
+MAT_017B-->MAT_017C
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->44[One]
+MAT_021A-->44[One]
+MAT_017A-->45[One]
+44-->45[One]
+45-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->46[One]
+MAT_016C-->46[One]
+MAT_021B-->47[One]
+46-->47[One]
+MAT_021BH-->48[One]
+47-->48[One]
+MAT_017B-->49[One]
+48-->49[One]
+49-->MAT_021C
+style MAT_022A fill:#ade
+MAT_017C-->50[One]
+MAT_016C-->50[One]
+MAT_021C-->51[One]
+50-->51[One]
+MAT_021CH-->52[One]
+51-->52[One]
+EME_005-->53[One]
+ENG_006-->53[One]
+ECH_060-->54[One]
+53-->54[One]
+MAT_022AL-->55[One]
+54-->55[One]
+55-->56[Both]
+52-->56[Both]
+56-->MAT_022A
+style MAT_022AL fill:#ade
+MAT_017C-->57[One]
+MAT_016C-->57[One]
+MAT_021C-->58[One]
+57-->58[One]
+MAT_021CH-->59[One]
+58-->59[One]
+59-->MAT_022AL
+style MAT_027A fill:#ade
+MAT_021C-->60[One]
+MAT_017C-->60[One]
+MAT_021CH-->61[One]
+60-->61[One]
+61-->MAT_027A
+style PHI_010 fill:#ade
+style CGS_001 fill:#ade
+style PHI_012 fill:#ade
+style PHI_013G fill:#ade
+style PSC_001 fill:#ade
+style PSC_001Y fill:#ade
+style PSC_041 fill:#ade
+PSC_001Y-->62[One]
+PSC_001-->62[One]
+PSC_012Y-->63[Both]
+62-->63[Both]
+63-->PSC_041
+style STA_013 fill:#ade
+style STA_100 fill:#ade
+MAT_017B-->64[One]
+MAT_016B-->64[One]
+MAT_021B-->65[One]
+64-->65[One]
+65-->STA_100
+style PSC_100 fill:#ade
+PSC_001Y-->66[One]
+PSC_001-->66[One]
+PSC_041-->67[Both]
+66-->67[Both]
+67-->PSC_100
+style PSC_100Y fill:#ade
+PSC_001Y-->68[One]
+PSC_001-->68[One]
+PSC_041-->69[Both]
+68-->69[Both]
+69-->PSC_100Y
+style PHI_112 fill:#ade
+PHI_012-->PHI_112
+style ECS_120 fill:#ade
+MAT_108-->70[One]
+ECS_020-->70[One]
+70-->ECS_120
+style ECS_170 fill:#ade
+ECS_032B-->71[One]
+ECS_060-->71[One]
+ECS_036C-->72[One]
+71-->72[One]
+72-->ECS_170
+style ECS_171 fill:#ade
+style LIN_177 fill:#ade
+style PHI_133 fill:#ade
+PHI_112-->73[Both]
+PHI_012-->73[Both]
+73-->PHI_133
+style LIN_175 fill:#ade
+style PSC_101 fill:#ade
+PSC_001Y-->74[One]
+PSC_001-->74[One]
+PSC_041-->75[Both]
+74-->75[Both]
+75-->PSC_101
+style PSC_133 fill:#ade
+PSC_100Y-->76[One]
+PSC_100-->76[One]
+PSC_135-->77[One]
+76-->77[One]
+ARE_100A-->78[One]
+77-->78[One]
+ECN_100A-->79[One]
+78-->79[One]
+NPB_162-->80[One]
+79-->80[One]
+NPB_163-->81[One]
+80-->81[One]
+STA_013Y-->82[One]
+STA_013-->82[One]
+STA_100-->83[One]
+82-->83[One]
+PSC_103A-->84[One]
+83-->84[One]
+84-->85[Both]
+81-->85[Both]
+85-->PSC_133
+style PSC_135 fill:#ade
+PSC_001Y-->86[One]
+PSC_001-->86[One]
+86-->PSC_135
+style PSC_139 fill:#ade
+PSC_001Y-->87[One]
+PSC_001-->87[One]
+PSC_041-->88[Both]
+87-->88[Both]
+PSC_135-->89[Both]
+88-->89[Both]
+89-->PSC_139
+style PSC_145 fill:#ade
+HDE_100A-->90[One]
+PSC_140-->90[One]
+HDE_100B-->91[One]
+90-->91[One]
+PSC_121-->92[One]
+PSC_101-->92[One]
+NPB_161-->93[One]
+92-->93[One]
+HDE_163-->94[One]
+93-->94[One]
+94-->95[Both]
+91-->95[Both]
+95-->96[One]
+PSC_135-->96[One]
+96-->PSC_145
+style PHI_103 fill:#ade
+style PHI_104 fill:#ade
+style PHI_129 fill:#ade
+style PHI_136 fill:#ade
+PHI_012-->PHI_136
+style LIN_103A fill:#ade
+style LIN_103B fill:#ade
+style LIN_150 fill:#ade
+style LIN_182 fill:#ade
+style PSC_101 fill:#ade
+PSC_001Y-->97[One]
+PSC_001-->97[One]
+PSC_041-->98[Both]
+97-->98[Both]
+98-->PSC_101
+style PSC_103A fill:#ade
+PSC_001Y-->99[One]
+PSC_001-->99[One]
+PSC_041-->100[Both]
+99-->100[Both]
+STA_013Y-->101[One]
+STA_013-->101[One]
+STA_102-->102[One]
+101-->102[One]
+102-->103[Both]
+100-->103[Both]
+103-->PSC_103A
+style PSC_103B fill:#ade
+STA_013Y-->104[One]
+STA_013-->104[One]
+STA_102-->105[One]
+104-->105[One]
+105-->106[Both]
+PSC_103A-->106[Both]
+106-->PSC_103B
+style PSC_113 fill:#ade
+PSC_101-->PSC_113
+style PSC_121 fill:#ade
+PSC_001Y-->107[One]
+PSC_001-->107[One]
+PSC_041-->108[Both]
+107-->108[Both]
+PSC_101-->109[Both]
+108-->109[Both]
+109-->PSC_121
+style PSC_124 fill:#ade
+NPB_101-->110[One]
+NPB_100-->110[One]
+NPB_110B-->111[One]
+110-->111[One]
+PSC_121-->112[One]
+111-->112[One]
+112-->PSC_124
+style PSC_130 fill:#ade
+PSC_001Y-->113[One]
+PSC_001-->113[One]
+PSC_041-->114[Both]
+113-->114[Both]
+STA_013-->115[One]
+PSC_012Y-->115[One]
+STA_100-->116[One]
+115-->116[One]
+116-->117[Both]
+114-->117[Both]
+117-->PSC_130
+style PSC_131 fill:#ade
+PSC_001Y-->118[One]
+PSC_001-->118[One]
+PSC_041-->119[Both]
+118-->119[Both]
+PSC_135-->120[One]
+PSC_100-->120[One]
+120-->121[Both]
+119-->121[Both]
+121-->PSC_131
+style PSC_135 fill:#ade
+PSC_001Y-->122[One]
+PSC_001-->122[One]
+122-->PSC_135
+style PSC_136 fill:#ade
+PSC_001Y-->123[One]
+PSC_001-->123[One]
+PSC_041-->124[Both]
+123-->124[Both]
+PSC_135-->125[One]
+PSC_100-->125[One]
+MUS_006C-->126[One]
+125-->126[One]
+126-->127[Both]
+124-->127[Both]
+127-->PSC_136
+style PSC_137 fill:#ade
+PSC_001Y-->128[One]
+PSC_001-->128[One]
+PSC_041-->129[Both]
+128-->129[Both]
+PSC_101-->130[Both]
+129-->130[Both]
+130-->PSC_137
+style PSC_140 fill:#ade
+PSC_001Y-->131[One]
+PSC_001-->131[One]
+PSC_041-->132[Both]
+131-->132[Both]
+132-->PSC_140
+style PSC_141 fill:#ade
+HDE_100A-->133[One]
+PSC_140-->133[One]
+HDE_100B-->134[One]
+133-->134[One]
+134-->PSC_141
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style BIS_002C fill:#ade
+BIS_002B-->135[One]
+BIS_001B-->135[One]
+135-->BIS_002C
+style LIN_001 fill:#ade
+style LIN_001Y fill:#ade
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->136[One]
+MAT_016A-->136[One]
+MAT_021A-->137[One]
+136-->137[One]
+MAT_021AH-->138[One]
+137-->138[One]
+138-->MAT_017B
+style MAT_017C fill:#ade
+MAT_017B-->MAT_017C
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->139[One]
+MAT_021A-->139[One]
+MAT_017A-->140[One]
+139-->140[One]
+140-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->141[One]
+MAT_016C-->141[One]
+MAT_021B-->142[One]
+141-->142[One]
+MAT_021BH-->143[One]
+142-->143[One]
+MAT_017B-->144[One]
+143-->144[One]
+144-->MAT_021C
+style PHI_010 fill:#ade
+style CGS_001 fill:#ade
+style PHI_013G fill:#ade
+style PHY_007A fill:#ade
+MAT_017B-->145[One]
+MAT_016B-->145[One]
+MAT_021B-->146[One]
+145-->146[One]
+MAT_016B-->147[One]
+146-->147[One]
+MAT_017B-->148[One]
+147-->148[One]
+MAT_021B-->149[One]
+148-->149[One]
+149-->PHY_007A
+style PHY_007B fill:#ade
+PHY_007A-->PHY_007B
+style PHY_007C fill:#ade
+PHY_007B-->PHY_007C
+style PHY_009A fill:#ade
+MAT_021M-->150[One]
+MAT_021B-->150[One]
+150-->PHY_009A
+style PHY_009B fill:#ade
+MAT_021C-->151[Both]
+PHY_009A-->151[Both]
+MAT_021D-->152[Both]
+151-->152[Both]
+152-->PHY_009B
+style PHY_009C fill:#ade
+MAT_021D-->153[Both]
+PHY_009B-->153[Both]
+MAT_022A-->154[Both]
+153-->154[Both]
+154-->PHY_009C
+style PSC_001 fill:#ade
+style PSC_001Y fill:#ade
+style PSC_041 fill:#ade
+PSC_001Y-->155[One]
+PSC_001-->155[One]
+PSC_012Y-->156[Both]
+155-->156[Both]
+156-->PSC_041
+style STA_013 fill:#ade
+style STA_100 fill:#ade
+MAT_017B-->157[One]
+MAT_016B-->157[One]
+MAT_021B-->158[One]
+157-->158[One]
+158-->STA_100
+style NPB_100 fill:#ade
+PHY_009A-->159[Both]
+BIS_002A-->159[Both]
+PHY_007A-->160[One]
+PHY_009B-->160[One]
+160-->161[Both]
+159-->161[Both]
+161-->NPB_100
+style PSC_103A fill:#ade
+PSC_001Y-->162[One]
+PSC_001-->162[One]
+PSC_041-->163[Both]
+162-->163[Both]
+STA_013Y-->164[One]
+STA_013-->164[One]
+STA_102-->165[One]
+164-->165[One]
+165-->166[Both]
+163-->166[Both]
+166-->PSC_103A
+style LIN_177 fill:#ade
+style NPB_167 fill:#ade
+NPB_110B-->167[One]
+NPB_100-->167[One]
+MAT_016B-->168[Both]
+MAT_016A-->168[Both]
+MAT_016C-->169[Both]
+168-->169[Both]
+MAT_017B-->170[Both]
+MAT_017A-->170[Both]
+MAT_017C-->171[Both]
+170-->171[Both]
+171-->172[One]
+169-->172[One]
+MAT_021B-->173[Both]
+MAT_021A-->173[Both]
+MAT_021C-->174[Both]
+173-->174[Both]
+174-->175[One]
+172-->175[One]
+PHY_007A-->176[One]
+175-->176[One]
+176-->177[Both]
+167-->177[Both]
+177-->NPB_167
+style NPB_152 fill:#ade
+NPB_110C-->178[One]
+NPB_101-->178[One]
+PSC_101-->179[One]
+NPB_102-->179[One]
+179-->180[Both]
+178-->180[Both]
+180-->NPB_152
+style PSC_123 fill:#ade
+NPB_102-->181[One]
+PSC_101-->181[One]
+181-->182[Both]
+NPB_101-->182[Both]
+182-->PSC_123
+style NPB_161 fill:#ade
+NPB_101-->183[One]
+NPB_100-->183[One]
+NPB_110B-->184[One]
+183-->184[One]
+184-->NPB_161
+style NPB_162 fill:#ade
+NPB_101-->185[One]
+NPB_100-->185[One]
+NPB_110B-->186[One]
+185-->186[One]
+186-->NPB_162
+style NPB_163 fill:#ade
+NPB_110B-->187[One]
+NPB_100-->187[One]
+187-->NPB_163
+style NPB_164 fill:#ade
+NPB_110B-->188[One]
+NPB_100-->188[One]
+PSC_101-->189[One]
+188-->189[One]
+189-->NPB_164
+style NPB_165 fill:#ade
+NPB_100-->190[One]
+NPB_110B-->190[One]
+NPB_101-->191[One]
+190-->191[One]
+191-->NPB_165
+style LIN_175 fill:#ade
+style PSC_101 fill:#ade
+PSC_001Y-->192[One]
+PSC_001-->192[One]
+PSC_041-->193[Both]
+192-->193[Both]
+193-->PSC_101
+style PSC_121 fill:#ade
+PSC_001Y-->194[One]
+PSC_001-->194[One]
+PSC_041-->195[Both]
+194-->195[Both]
+PSC_101-->196[Both]
+195-->196[Both]
+196-->PSC_121
+style PSC_133 fill:#ade
+PSC_100Y-->197[One]
+PSC_100-->197[One]
+PSC_135-->198[One]
+197-->198[One]
+ARE_100A-->199[One]
+198-->199[One]
+ECN_100A-->200[One]
+199-->200[One]
+NPB_162-->201[One]
+200-->201[One]
+NPB_163-->202[One]
+201-->202[One]
+STA_013Y-->203[One]
+STA_013-->203[One]
+STA_100-->204[One]
+203-->204[One]
+PSC_103A-->205[One]
+204-->205[One]
+205-->206[Both]
+202-->206[Both]
+206-->PSC_133
+style PSC_135 fill:#ade
+PSC_001Y-->207[One]
+PSC_001-->207[One]
+207-->PSC_135
+style PSC_139 fill:#ade
+PSC_001Y-->208[One]
+PSC_001-->208[One]
+PSC_041-->209[Both]
+208-->209[Both]
+PSC_135-->210[Both]
+209-->210[Both]
+210-->PSC_139
+style PSC_145 fill:#ade
+HDE_100A-->211[One]
+PSC_140-->211[One]
+HDE_100B-->212[One]
+211-->212[One]
+PSC_121-->213[One]
+PSC_101-->213[One]
+NPB_161-->214[One]
+213-->214[One]
+HDE_163-->215[One]
+214-->215[One]
+215-->216[Both]
+212-->216[Both]
+216-->217[One]
+PSC_135-->217[One]
+217-->PSC_145
+style PHI_103 fill:#ade
+style PHI_104 fill:#ade
+style PHI_129 fill:#ade
+style PHI_136 fill:#ade
+PHI_012-->PHI_136
+style LIN_103A fill:#ade
+style LIN_103B fill:#ade
+style LIN_150 fill:#ade
+style LIN_182 fill:#ade
+style NPB_124 fill:#ade
+NPB_100-->218[One]
+NPB_101-->218[One]
+NPB_110B-->219[One]
+218-->219[One]
+PSC_121-->220[One]
+219-->220[One]
+220-->NPB_124
+style PSC_124 fill:#ade
+NPB_101-->221[One]
+NPB_100-->221[One]
+NPB_110B-->222[One]
+221-->222[One]
+PSC_121-->223[One]
+222-->223[One]
+223-->PSC_124
+style PSC_100 fill:#ade
+PSC_001Y-->224[One]
+PSC_001-->224[One]
+PSC_041-->225[Both]
+224-->225[Both]
+225-->PSC_100
+style PSC_100Y fill:#ade
+PSC_001Y-->226[One]
+PSC_001-->226[One]
+PSC_041-->227[Both]
+226-->227[Both]
+227-->PSC_100Y
+style PSC_101 fill:#ade
+PSC_001Y-->228[One]
+PSC_001-->228[One]
+PSC_041-->229[Both]
+228-->229[Both]
+229-->PSC_101
+style PSC_113 fill:#ade
+PSC_101-->PSC_113
+style PSC_121 fill:#ade
+PSC_001Y-->230[One]
+PSC_001-->230[One]
+PSC_041-->231[Both]
+230-->231[Both]
+PSC_101-->232[Both]
+231-->232[Both]
+232-->PSC_121
+style PSC_130 fill:#ade
+PSC_001Y-->233[One]
+PSC_001-->233[One]
+PSC_041-->234[Both]
+233-->234[Both]
+STA_013-->235[One]
+PSC_012Y-->235[One]
+STA_100-->236[One]
+235-->236[One]
+236-->237[Both]
+234-->237[Both]
+237-->PSC_130
+style PSC_131 fill:#ade
+PSC_001Y-->238[One]
+PSC_001-->238[One]
+PSC_041-->239[Both]
+238-->239[Both]
+PSC_135-->240[One]
+PSC_100-->240[One]
+240-->241[Both]
+239-->241[Both]
+241-->PSC_131
+style PSC_132 fill:#ade
+PSC_001Y-->242[One]
+PSC_001-->242[One]
+PSC_041-->243[Both]
+242-->243[Both]
+PSC_135-->244[One]
+PSC_100-->244[One]
+244-->245[Both]
+243-->245[Both]
+245-->PSC_132
+style PSC_135 fill:#ade
+PSC_001Y-->246[One]
+PSC_001-->246[One]
+246-->PSC_135
+style PSC_136 fill:#ade
+PSC_001Y-->247[One]
+PSC_001-->247[One]
+PSC_041-->248[Both]
+247-->248[Both]
+PSC_135-->249[One]
+PSC_100-->249[One]
+MUS_006C-->250[One]
+249-->250[One]
+250-->251[Both]
+248-->251[Both]
+251-->PSC_136
+style PSC_137 fill:#ade
+PSC_001Y-->252[One]
+PSC_001-->252[One]
+PSC_041-->253[Both]
+252-->253[Both]
+PSC_101-->254[Both]
+253-->254[Both]
+254-->PSC_137
+style PSC_140 fill:#ade
+PSC_001Y-->255[One]
+PSC_001-->255[One]
+PSC_041-->256[Both]
+255-->256[Both]
+256-->PSC_140
+style PSC_141 fill:#ade
+HDE_100A-->257[One]
+PSC_140-->257[One]
+HDE_100B-->258[One]
+257-->258[One]
+258-->PSC_141

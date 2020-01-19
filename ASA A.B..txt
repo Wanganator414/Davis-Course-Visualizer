@@ -1,0 +1,169 @@
+style 2 fill:#ddd
+2[Units: 32]-->ASA_001
+2[Units: 32]-->ASA_002
+2[Units: 32]-->ASA_003
+2[Units: 32]-->ASA_004
+style 3 fill:#ddd
+3[Choose at least two courses from any of the following methods courses:]-->AAS_101
+3[Choose at least two courses from any of the following methods courses:]-->AMS_100
+3[Choose at least two courses from any of the following methods courses:]-->ANT_013
+3[Choose at least two courses from any of the following methods courses:]-->AHI_005
+3[Choose at least two courses from any of the following methods courses:]-->AHI_100
+3[Choose at least two courses from any of the following methods courses:]-->ART_010
+3[Choose at least two courses from any of the following methods courses:]-->ART_030
+3[Choose at least two courses from any of the following methods courses:]-->CHI_023
+3[Choose at least two courses from any of the following methods courses:]-->ENL_042
+3[Choose at least two courses from any of the following methods courses:]-->ENL_110A
+3[Choose at least two courses from any of the following methods courses:]-->ENL_110B
+3[Choose at least two courses from any of the following methods courses:]-->HIS_101
+3[Choose at least two courses from any of the following methods courses:]-->HDE_120
+3[Choose at least two courses from any of the following methods courses:]-->PHI_005
+3[Choose at least two courses from any of the following methods courses:]-->POL_051
+3[Choose at least two courses from any of the following methods courses:]-->PSC_041
+3[Choose at least two courses from any of the following methods courses:]-->SOC_046A
+3[Choose at least two courses from any of the following methods courses:]-->SOC_046B
+3[Choose at least two courses from any of the following methods courses:]-->STA_013
+3[Choose at least two courses from any of the following methods courses:]-->WMS_104
+style 4 fill:#ddd
+4[Units: 36]-->ASA_192
+style 5 fill:#ddd
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_100
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_102
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_112
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_113
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_114
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_115
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_116
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_121
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_130
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_131
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_132
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_140
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_141
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_150
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_150B
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_150C
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_150D
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_150E
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_150F
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_155
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_189A
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_189B
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_189C
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_189D
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_189E
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_189F
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_189G
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_189H
+5[Choose at least six upper-division Asian American Studies (ASA) courses:]-->ASA_189I
+style 6 fill:#ddd
+6[ASA 194 & 195]-->ASA_194
+6[ASA 194 & 195]-->ASA_195
+6[ASA 194 & 195]-->ASA_198
+style 7 fill:#ddd
+7[Up to six units in ASA 198 and/or ASA 199 can be used to satisfy the Asian American Studies upper division course requirements.]-->ASA_199
+style ASA_001 fill:#ade
+style ASA_002 fill:#ade
+style ASA_003 fill:#ade
+style ASA_004 fill:#ade
+style AAS_101 fill:#ade
+AAS_010-->AAS_101
+style AMS_100 fill:#ade
+style ANT_013 fill:#ade
+style AHI_005 fill:#ade
+style AHI_100 fill:#ade
+style ART_010 fill:#ade
+style ART_030 fill:#ade
+style CHI_023 fill:#ade
+style ENL_042 fill:#ade
+UWP_001V-->8[One]
+UWP_001-->8[One]
+UWP_001Y-->9[One]
+8-->9[One]
+9-->10[One]
+ENL_003-->10[One]
+10-->ENL_042
+style ENL_110A fill:#ade
+UWP_001-->11[One]
+ENL_003-->11[One]
+UWP_001V-->12[One]
+11-->12[One]
+UWP_001Y-->13[One]
+12-->13[One]
+13-->ENL_110A
+style ENL_110B fill:#ade
+UWP_001-->14[One]
+ENL_003-->14[One]
+UWP_001V-->15[One]
+14-->15[One]
+UWP_001Y-->16[One]
+15-->16[One]
+16-->ENL_110B
+style HIS_101 fill:#ade
+style HDE_120 fill:#ade
+STA_013V-->17[One]
+STA_013-->17[One]
+STA_013Y-->18[One]
+17-->18[One]
+EDU_114-->19[One]
+18-->19[One]
+PSC_041-->20[One]
+19-->20[One]
+SOC_046B-->21[Both]
+SOC_046A-->21[Both]
+21-->22[One]
+20-->22[One]
+22-->HDE_120
+style PHI_005 fill:#ade
+style POL_051 fill:#ade
+style PSC_041 fill:#ade
+PSC_001Y-->23[One]
+PSC_001-->23[One]
+PSC_012Y-->24[Both]
+23-->24[Both]
+24-->PSC_041
+style SOC_046A fill:#ade
+style SOC_046B fill:#ade
+style STA_013 fill:#ade
+style WMS_104 fill:#ade
+style ASA_192 fill:#ade
+style ASA_100 fill:#ade
+style ASA_102 fill:#ade
+ASA_002-->25[One]
+ASA_001-->25[One]
+ASA_003-->26[One]
+25-->26[One]
+ASA_004-->27[One]
+26-->27[One]
+27-->ASA_102
+style ASA_112 fill:#ade
+style ASA_113 fill:#ade
+style ASA_114 fill:#ade
+style ASA_115 fill:#ade
+style ASA_116 fill:#ade
+style ASA_121 fill:#ade
+style ASA_130 fill:#ade
+style ASA_131 fill:#ade
+style ASA_132 fill:#ade
+style ASA_140 fill:#ade
+style ASA_141 fill:#ade
+style ASA_150 fill:#ade
+style ASA_150B fill:#ade
+style ASA_150C fill:#ade
+style ASA_150D fill:#ade
+style ASA_150E fill:#ade
+style ASA_150F fill:#ade
+style ASA_155 fill:#ade
+style ASA_189A fill:#ade
+style ASA_189B fill:#ade
+style ASA_189C fill:#ade
+style ASA_189D fill:#ade
+style ASA_189E fill:#ade
+style ASA_189F fill:#ade
+style ASA_189G fill:#ade
+style ASA_189H fill:#ade
+style ASA_189I fill:#ade
+style ASA_194 fill:#ade
+style ASA_195 fill:#ade
+style ASA_198 fill:#ade
+style ASA_199 fill:#ade

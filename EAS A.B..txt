@@ -1,0 +1,211 @@
+style 2 fill:#ddd
+2[History]-->HIS_009A
+2[History]-->HIS_009B
+style 3 fill:#ddd
+3[Choose one:]-->AHI_001D
+3[Choose one:]-->CHN_007
+3[Choose one:]-->CHN_010
+3[Choose one:]-->CHN_011
+3[Choose one:]-->COM_053A
+3[Choose one:]-->EAS_088
+3[Choose one:]-->JPN_010
+3[Choose one:]-->JPN_025
+3[Choose one:]-->JPN_050
+3[Choose one:]-->RST_075
+style 4 fill:#ddd
+4[Choose a series:]-->CHN_001
+4[Choose a series:]-->CHN_002
+4[Choose a series:]-->JPN_001
+4[Choose a series:]-->JPN_002
+style 5 fill:#ddd
+5[Choose 24 units:]-->ANT_134
+5[Choose 24 units:]-->ANT_137
+5[Choose 24 units:]-->ANT_143A
+5[Choose 24 units:]-->ANT_148A
+5[Choose 24 units:]-->ANT_149A
+5[Choose 24 units:]-->ANT_149B
+5[Choose 24 units:]-->AHI_163A
+5[Choose 24 units:]-->AHI_163B
+5[Choose 24 units:]-->AHI_163C
+5[Choose 24 units:]-->AHI_164
+5[Choose 24 units:]-->AHI_190F
+5[Choose 24 units:]-->AHI_190G
+5[Choose 24 units:]-->CHN_100A
+5[Choose 24 units:]-->CHN_100B
+5[Choose 24 units:]-->CHN_101
+5[Choose 24 units:]-->CHN_102
+5[Choose 24 units:]-->CHN_103
+5[Choose 24 units:]-->CHN_104
+5[Choose 24 units:]-->CHN_105
+5[Choose 24 units:]-->CHN_106
+5[Choose 24 units:]-->CHN_107
+5[Choose 24 units:]-->CHN_108
+5[Choose 24 units:]-->CHN_109A
+5[Choose 24 units:]-->CHN_109C
+5[Choose 24 units:]-->CHN_109D
+5[Choose 24 units:]-->CHN_109E
+5[Choose 24 units:]-->CHN_109G
+5[Choose 24 units:]-->CHN_109H
+5[Choose 24 units:]-->CHN_109I
+5[Choose 24 units:]-->CRD_153A
+5[Choose 24 units:]-->COM_110
+5[Choose 24 units:]-->COM_153
+5[Choose 24 units:]-->DES_142A
+5[Choose 24 units:]-->DRA_144A
+5[Choose 24 units:]-->DRA_144B
+5[Choose 24 units:]-->DRA_144C
+5[Choose 24 units:]-->DRA_154
+5[Choose 24 units:]-->EAS_113
+5[Choose 24 units:]-->EAS_190
+5[Choose 24 units:]-->ECN_171
+5[Choose 24 units:]-->HIS_102G
+5[Choose 24 units:]-->HIS_102H
+5[Choose 24 units:]-->HIS_102N
+5[Choose 24 units:]-->HIS_191A
+5[Choose 24 units:]-->HIS_191B
+5[Choose 24 units:]-->HIS_191C
+5[Choose 24 units:]-->HIS_191D
+5[Choose 24 units:]-->HIS_191E
+5[Choose 24 units:]-->HIS_191F
+5[Choose 24 units:]-->HIS_191G
+5[Choose 24 units:]-->HIS_191H
+5[Choose 24 units:]-->HIS_191J
+5[Choose 24 units:]-->HIS_194A
+5[Choose 24 units:]-->HIS_194B
+5[Choose 24 units:]-->HIS_194C
+5[Choose 24 units:]-->HIS_194D
+5[Choose 24 units:]-->HIS_194E
+5[Choose 24 units:]-->HIS_195B
+5[Choose 24 units:]-->JPN_101
+5[Choose 24 units:]-->JPN_102
+5[Choose 24 units:]-->JPN_103
+5[Choose 24 units:]-->JPN_104
+5[Choose 24 units:]-->JPN_105
+5[Choose 24 units:]-->JPN_106
+5[Choose 24 units:]-->JPN_107
+5[Choose 24 units:]-->JPN_108
+5[Choose 24 units:]-->JPN_109
+5[Choose 24 units:]-->JPN_152
+5[Choose 24 units:]-->JPN_156
+5[Choose 24 units:]-->JPN_157
+5[Choose 24 units:]-->MUS_129C
+5[Choose 24 units:]-->POL_148B
+5[Choose 24 units:]-->RST_165
+5[Choose 24 units:]-->RST_170
+5[Choose 24 units:]-->RST_172
+5[Choose 24 units:]-->RST_175A
+5[Choose 24 units:]-->SOC_147
+5[Choose 24 units:]-->SOC_188
+style HIS_009A fill:#ade
+style HIS_009B fill:#ade
+style AHI_001D fill:#ade
+style CHN_007 fill:#ade
+style CHN_010 fill:#ade
+style CHN_011 fill:#ade
+style COM_053A fill:#ade
+style EAS_088 fill:#ade
+style JPN_010 fill:#ade
+style JPN_025 fill:#ade
+style JPN_050 fill:#ade
+style RST_075 fill:#ade
+style CHN_001 fill:#ade
+style CHN_002 fill:#ade
+CHN_001-->CHN_002
+style JPN_001 fill:#ade
+style JPN_002 fill:#ade
+JPN_001-->JPN_002
+style ANT_134 fill:#ade
+style ANT_137 fill:#ade
+style ANT_143A fill:#ade
+style ANT_148A fill:#ade
+style ANT_149A fill:#ade
+style ANT_149B fill:#ade
+style AHI_163A fill:#ade
+style AHI_163B fill:#ade
+style AHI_163C fill:#ade
+style AHI_164 fill:#ade
+style AHI_190F fill:#ade
+style AHI_190G fill:#ade
+style CHN_100A fill:#ade
+style CHN_100B fill:#ade
+style CHN_101 fill:#ade
+style CHN_102 fill:#ade
+style CHN_103 fill:#ade
+style CHN_104 fill:#ade
+style CHN_105 fill:#ade
+style CHN_106 fill:#ade
+style CHN_107 fill:#ade
+style CHN_108 fill:#ade
+style CHN_109A fill:#ade
+style CHN_109C fill:#ade
+style CHN_109D fill:#ade
+style CHN_109E fill:#ade
+style CHN_109G fill:#ade
+style CHN_109H fill:#ade
+style CHN_109I fill:#ade
+style CRD_153A fill:#ade
+style COM_110 fill:#ade
+style COM_153 fill:#ade
+style DES_142A fill:#ade
+style DRA_144A fill:#ade
+style DRA_144B fill:#ade
+DRA_144A-->DRA_144B
+style DRA_144C fill:#ade
+DRA_144B-->DRA_144C
+style DRA_154 fill:#ade
+style EAS_113 fill:#ade
+HIS_193-->6[Both]
+HIS_190C-->6[Both]
+6-->EAS_113
+style EAS_190 fill:#ade
+style ECN_171 fill:#ade
+ECN_001AV-->7[One]
+ECN_001A-->7[One]
+ECN_001B-->8[Both]
+7-->8[Both]
+8-->ECN_171
+style HIS_102G fill:#ade
+style HIS_102H fill:#ade
+style HIS_102N fill:#ade
+style HIS_191A fill:#ade
+style HIS_191B fill:#ade
+style HIS_191C fill:#ade
+style HIS_191D fill:#ade
+style HIS_191E fill:#ade
+style HIS_191F fill:#ade
+style HIS_191G fill:#ade
+style HIS_191H fill:#ade
+style HIS_191J fill:#ade
+style HIS_194A fill:#ade
+style HIS_194B fill:#ade
+style HIS_194C fill:#ade
+style HIS_194D fill:#ade
+style HIS_194E fill:#ade
+style HIS_195B fill:#ade
+style JPN_101 fill:#ade
+style JPN_102 fill:#ade
+style JPN_103 fill:#ade
+style JPN_104 fill:#ade
+style JPN_105 fill:#ade
+style JPN_106 fill:#ade
+style JPN_107 fill:#ade
+style JPN_108 fill:#ade
+style JPN_109 fill:#ade
+style JPN_152 fill:#ade
+style JPN_156 fill:#ade
+style JPN_157 fill:#ade
+style MUS_129C fill:#ade
+MUS_003A-->9[One]
+MUS_011-->9[One]
+MUS_010-->10[One]
+9-->10[One]
+10-->MUS_129C
+style POL_148B fill:#ade
+style RST_165 fill:#ade
+style RST_170 fill:#ade
+style RST_172 fill:#ade
+style RST_175A fill:#ade
+style SOC_147 fill:#ade
+SOC_001-->SOC_147
+style SOC_188 fill:#ade
+SOC_001-->SOC_188

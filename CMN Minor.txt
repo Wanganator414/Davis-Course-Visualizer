@@ -1,0 +1,10 @@
+style 2 fill:#ddd
+2[Choose one:]-->CMN_001
+style 3 fill:#ddd
+3[Choose one:]-->CMN_003
+3[Choose one:]-->CMN_003Y
+3[Choose one:]-->CMN_003V
+style CMN_001 fill:#ade
+style CMN_003 fill:#ade
+style CMN_003Y fill:#ade
+style CMN_003V fill:#ade

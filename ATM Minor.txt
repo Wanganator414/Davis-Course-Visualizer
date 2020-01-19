@@ -1,0 +1,25 @@
+style 2 fill:#ddd
+2[Units: 20-24]-->ATM_060
+2[Units: 20-24]-->ATM_110
+style 3 fill:#ddd
+3[Three upper division Atmospheric Science (ATM) courses excluding 192 or 199.]-->ESM_131
+style ATM_060 fill:#ade
+MAT_021A-->4[One]
+MAT_016A-->4[One]
+PHY_009A-->5[One]
+PHY_007A-->5[One]
+5-->6[Both]
+4-->6[Both]
+6-->ATM_060
+style ATM_110 fill:#ade
+ATM_060-->ATM_110
+style ESM_131 fill:#ade
+CHE_002A-->7[One]
+CHE_010-->7[One]
+CHE_002B-->8[Both]
+7-->8[Both]
+ERS_131-->9[Both]
+8-->9[Both]
+ERS_131-->10[Both]
+9-->10[Both]
+10-->ESM_131

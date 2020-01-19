@@ -1,0 +1,240 @@
+style 2 fill:#ddd
+2[Choose one:]-->ANT_101
+2[Choose one:]-->ANT_103
+2[Choose one:]-->ANT_122A
+2[Choose one:]-->ANT_128A
+2[Choose one:]-->ANT_151
+2[Choose one:]-->ANT_152
+2[Choose one:]-->ANT_153
+2[Choose one:]-->ANT_154A
+2[Choose one:]-->ANT_157
+2[Choose one:]-->ANT_158
+style 3 fill:#ddd
+3[Choose one:]-->ANT_170
+3[Choose one:]-->ANT_172
+3[Choose one:]-->ANT_174
+3[Choose one:]-->ANT_176
+3[Choose one:]-->ANT_177
+3[Choose one:]-->ANT_179
+3[Choose one:]-->ANT_180
+3[Choose one:]-->ANT_181
+3[Choose one:]-->ANT_182
+3[Choose one:]-->ANT_183
+3[Choose one:]-->ANT_184
+3[Choose one:]-->ANT_185
+style 4 fill:#ddd
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_140A
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_140B
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_141C
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_142
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_143A
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_144
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_145
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_146N
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_147
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_148A
+4[Choose one from below or any other sociocultural track course that refers in its title to one or more peoples or regions of the world:]-->ANT_178
+style 5 fill:#ddd
+5[Choose two:]-->ANT_100
+5[Choose two:]-->ANT_104N
+5[Choose two:]-->ANT_109
+5[Choose two:]-->ANT_120
+5[Choose two:]-->ANT_121
+5[Choose two:]-->ANT_122A
+5[Choose two:]-->ANT_122B
+5[Choose two:]-->ANT_123AN
+5[Choose two:]-->ANT_124
+5[Choose two:]-->ANT_125A
+5[Choose two:]-->ANT_125B
+5[Choose two:]-->ANT_126A
+5[Choose two:]-->ANT_126B
+5[Choose two:]-->ANT_127
+5[Choose two:]-->ANT_128B
+5[Choose two:]-->ANT_129
+5[Choose two:]-->ANT_130A
+5[Choose two:]-->ANT_130BN
+5[Choose two:]-->ANT_131
+5[Choose two:]-->ANT_132
+5[Choose two:]-->ANT_133
+5[Choose two:]-->ANT_134
+5[Choose two:]-->ANT_135
+5[Choose two:]-->ANT_136
+5[Choose two:]-->ANT_137
+5[Choose two:]-->ANT_138
+5[Choose two:]-->ANT_139AN
+5[Choose two:]-->ANT_139BN
+style 6 fill:#ddd
+6[Units: 20]-->ANT_170
+style 7 fill:#ddd
+7[Choose two:]-->ANT_172
+7[Choose two:]-->ANT_174
+7[Choose two:]-->ANT_175
+7[Choose two:]-->ANT_176
+7[Choose two:]-->ANT_177
+7[Choose two:]-->ANT_178
+7[Choose two:]-->ANT_179
+style 8 fill:#ddd
+8[Choose two:]-->ANT_156A
+8[Choose two:]-->ANT_156B
+8[Choose two:]-->ANT_180
+8[Choose two:]-->ANT_181
+8[Choose two:]-->ANT_181L
+8[Choose two:]-->ANT_182
+8[Choose two:]-->ANT_183
+8[Choose two:]-->ANT_184
+8[Choose two:]-->ANT_185
+style 9 fill:#ddd
+9[Units: 20]-->ANT_100
+style 10 fill:#ddd
+10[Choose two:]-->ANT_104N
+10[Choose two:]-->ANT_109
+10[Choose two:]-->ANT_120
+10[Choose two:]-->ANT_121
+10[Choose two:]-->ANT_122A
+10[Choose two:]-->ANT_122B
+10[Choose two:]-->ANT_123AN
+10[Choose two:]-->ANT_124
+10[Choose two:]-->ANT_125A
+10[Choose two:]-->ANT_125B
+10[Choose two:]-->ANT_126A
+10[Choose two:]-->ANT_126B
+10[Choose two:]-->ANT_127
+10[Choose two:]-->ANT_128B
+10[Choose two:]-->ANT_129
+10[Choose two:]-->ANT_130A
+10[Choose two:]-->ANT_130BN
+10[Choose two:]-->ANT_131
+10[Choose two:]-->ANT_132
+10[Choose two:]-->ANT_133
+10[Choose two:]-->ANT_134
+10[Choose two:]-->ANT_135
+10[Choose two:]-->ANT_136
+10[Choose two:]-->ANT_137
+10[Choose two:]-->ANT_138
+10[Choose two:]-->ANT_139AN
+10[Choose two:]-->ANT_139BN
+style ANT_101 fill:#ade
+style ANT_103 fill:#ade
+style ANT_122A fill:#ade
+style ANT_128A fill:#ade
+style ANT_151 fill:#ade
+style ANT_152 fill:#ade
+style ANT_153 fill:#ade
+BIS_002B-->11[Both]
+ANT_001-->11[Both]
+MCB_010-->12[Both]
+ANT_001-->12[Both]
+12-->13[One]
+11-->13[One]
+MCB_010-->14[Both]
+BIS_002B-->14[Both]
+14-->15[One]
+13-->15[One]
+15-->ANT_153
+style ANT_154A fill:#ade
+style ANT_157 fill:#ade
+style ANT_158 fill:#ade
+style ANT_170 fill:#ade
+style ANT_172 fill:#ade
+style ANT_174 fill:#ade
+style ANT_176 fill:#ade
+style ANT_177 fill:#ade
+style ANT_179 fill:#ade
+style ANT_180 fill:#ade
+style ANT_181 fill:#ade
+ANT_003-->ANT_181
+style ANT_182 fill:#ade
+style ANT_183 fill:#ade
+style ANT_184 fill:#ade
+style ANT_185 fill:#ade
+style ANT_140A fill:#ade
+style ANT_140B fill:#ade
+style ANT_141C fill:#ade
+style ANT_142 fill:#ade
+style ANT_143A fill:#ade
+style ANT_144 fill:#ade
+style ANT_145 fill:#ade
+ANT_002-->ANT_145
+style ANT_146N fill:#ade
+style ANT_147 fill:#ade
+style ANT_148A fill:#ade
+style ANT_178 fill:#ade
+style ANT_100 fill:#ade
+style ANT_104N fill:#ade
+style ANT_109 fill:#ade
+style ANT_120 fill:#ade
+style ANT_121 fill:#ade
+style ANT_122A fill:#ade
+style ANT_122B fill:#ade
+style ANT_123AN fill:#ade
+style ANT_124 fill:#ade
+style ANT_125A fill:#ade
+style ANT_125B fill:#ade
+style ANT_126A fill:#ade
+style ANT_126B fill:#ade
+style ANT_127 fill:#ade
+ANT_002-->ANT_127
+style ANT_128B fill:#ade
+style ANT_129 fill:#ade
+style ANT_130A fill:#ade
+style ANT_130BN fill:#ade
+style ANT_131 fill:#ade
+style ANT_132 fill:#ade
+style ANT_133 fill:#ade
+style ANT_134 fill:#ade
+style ANT_135 fill:#ade
+style ANT_136 fill:#ade
+style ANT_137 fill:#ade
+style ANT_138 fill:#ade
+style ANT_139AN fill:#ade
+style ANT_139BN fill:#ade
+style ANT_170 fill:#ade
+style ANT_172 fill:#ade
+style ANT_174 fill:#ade
+style ANT_175 fill:#ade
+style ANT_176 fill:#ade
+style ANT_177 fill:#ade
+style ANT_178 fill:#ade
+style ANT_179 fill:#ade
+style ANT_156A fill:#ade
+ANT_156-->ANT_156A
+style ANT_156B fill:#ade
+ANT_156A-->ANT_156B
+style ANT_180 fill:#ade
+style ANT_181 fill:#ade
+ANT_003-->ANT_181
+style ANT_181L fill:#ade
+ANT_181-->ANT_181L
+style ANT_182 fill:#ade
+style ANT_183 fill:#ade
+style ANT_184 fill:#ade
+style ANT_185 fill:#ade
+style ANT_100 fill:#ade
+style ANT_104N fill:#ade
+style ANT_109 fill:#ade
+style ANT_120 fill:#ade
+style ANT_121 fill:#ade
+style ANT_122A fill:#ade
+style ANT_122B fill:#ade
+style ANT_123AN fill:#ade
+style ANT_124 fill:#ade
+style ANT_125A fill:#ade
+style ANT_125B fill:#ade
+style ANT_126A fill:#ade
+style ANT_126B fill:#ade
+style ANT_127 fill:#ade
+ANT_002-->ANT_127
+style ANT_128B fill:#ade
+style ANT_129 fill:#ade
+style ANT_130A fill:#ade
+style ANT_130BN fill:#ade
+style ANT_131 fill:#ade
+style ANT_132 fill:#ade
+style ANT_133 fill:#ade
+style ANT_134 fill:#ade
+style ANT_135 fill:#ade
+style ANT_136 fill:#ade
+style ANT_137 fill:#ade
+style ANT_138 fill:#ade
+style ANT_139AN fill:#ade
+style ANT_139BN fill:#ade

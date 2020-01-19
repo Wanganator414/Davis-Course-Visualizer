@@ -1,0 +1,224 @@
+style 2 fill:#ddd
+2[Ecology, e.g.:]-->EVE_101
+2[Ecology, e.g.:]-->ESP_100
+style 3 fill:#ddd
+3[Genetics, e.g.:]-->BIS_101
+style 4 fill:#ddd
+4[Statistics, e.g.:]-->STA_100
+4[Statistics, e.g.:]-->PSC_103A
+style 5 fill:#ddd
+5[Evolution, e.g.:]-->EVE_100
+style 6 fill:#ddd
+6[Animal Behavior, e.g.:]-->NPB_102
+style 7 fill:#ddd
+7[Physiology, e.g.:]-->NPB_101
+style 8 fill:#ddd
+8[Fundamentals of Animal Behavior]-->ANB_218A
+8[Fundamentals of Animal Behavior]-->ANB_218B
+style 9 fill:#ddd
+9[Methodology & Grant Writing]-->ANB_201
+style 10 fill:#ddd
+10[Advanced Statistics]-->PSC_204A
+10[Advanced Statistics]-->PSC_204B
+10[Advanced Statistics]-->PSC_204D
+10[Advanced Statistics]-->STA_106
+10[Advanced Statistics]-->STA_108
+10[Advanced Statistics]-->STA_138
+10[Advanced Statistics]-->STA_205
+10[Advanced Statistics]-->PLS_205
+10[Advanced Statistics]-->PLS_206
+style 11 fill:#ddd
+11[Graduate Seminars]-->ANB_290
+style 12 fill:#ddd
+12[Strongly recommended a course on teaching science:]-->PSC_390A
+12[Strongly recommended a course on teaching science:]-->PSC_390B
+style 13 fill:#ddd
+13[At least one additional course in statistics or modeling. In addition to the above listed courses, modeling courses include:]-->PBG_231
+13[At least one additional course in statistics or modeling. In addition to the above listed courses, modeling courses include:]-->PSC_120
+style EVE_101 fill:#ade
+BIS_002B-->14[Both]
+BIS_002A-->14[Both]
+BIS_002C-->15[Both]
+14-->15[Both]
+MAT_017A-->16[One]
+MAT_016A-->16[One]
+MAT_021A-->17[One]
+16-->17[One]
+17-->18[Both]
+15-->18[Both]
+MAT_017B-->19[One]
+MAT_016B-->19[One]
+MAT_021B-->20[One]
+19-->20[One]
+20-->21[Both]
+18-->21[Both]
+21-->EVE_101
+style ESP_100 fill:#ade
+BIS_002B-->22[Both]
+BIS_002A-->22[Both]
+BIS_002C-->23[Both]
+22-->23[Both]
+MAT_016B-->24[Both]
+MAT_016A-->24[Both]
+MAT_017B-->25[Both]
+MAT_017A-->25[Both]
+25-->26[One]
+24-->26[One]
+MAT_021B-->27[Both]
+MAT_021A-->27[Both]
+27-->28[One]
+26-->28[One]
+28-->29[Both]
+23-->29[Both]
+29-->ESP_100
+style BIS_101 fill:#ade
+BIS_002B-->30[Both]
+BIS_002A-->30[Both]
+CHE_118A-->31[One]
+CHE_008A-->31[One]
+CHE_128A-->32[One]
+31-->32[One]
+32-->33[Both]
+30-->33[Both]
+STA_013Y-->34[One]
+STA_013-->34[One]
+STA_100-->35[One]
+34-->35[One]
+STA_102-->36[One]
+35-->36[One]
+STA_130A-->37[One]
+36-->37[One]
+37-->38[Both]
+33-->38[Both]
+STA_100-->39[Both]
+38-->39[Both]
+39-->BIS_101
+style STA_100 fill:#ade
+MAT_017B-->40[One]
+MAT_016B-->40[One]
+MAT_021B-->41[One]
+40-->41[One]
+41-->STA_100
+style PSC_103A fill:#ade
+PSC_001Y-->42[One]
+PSC_001-->42[One]
+PSC_041-->43[Both]
+42-->43[Both]
+STA_013Y-->44[One]
+STA_013-->44[One]
+STA_102-->45[One]
+44-->45[One]
+45-->46[Both]
+43-->46[Both]
+46-->PSC_103A
+style EVE_100 fill:#ade
+BIS_002B-->47[Both]
+BIS_002A-->47[Both]
+BIS_002C-->48[Both]
+47-->48[Both]
+MAT_017A-->49[One]
+MAT_016A-->49[One]
+MAT_021A-->50[One]
+49-->50[One]
+50-->51[Both]
+48-->51[Both]
+MAT_017B-->52[One]
+MAT_016B-->52[One]
+MAT_021B-->53[One]
+52-->53[One]
+53-->54[Both]
+51-->54[Both]
+54-->EVE_100
+style NPB_102 fill:#ade
+BIS_001B-->55[Both]
+BIS_001A-->55[Both]
+BIS_001C-->56[Both]
+55-->56[Both]
+BIS_002B-->57[Both]
+BIS_002A-->57[Both]
+BIS_002C-->58[Both]
+57-->58[Both]
+58-->59[One]
+56-->59[One]
+59-->NPB_102
+style NPB_101 fill:#ade
+CHE_002BH-->60[One]
+CHE_002B-->60[One]
+60-->61[Both]
+BIS_002A-->61[Both]
+61-->NPB_101
+style ANB_218A fill:#ade
+PSC_122-->62[Both]
+PSC_101-->62[Both]
+PSC_123-->63[Both]
+62-->63[Both]
+NPB_102-->64[Both]
+63-->64[Both]
+NPB_150-->65[Both]
+64-->65[Both]
+NPB_152-->66[Both]
+65-->66[Both]
+WFC_141-->67[Both]
+66-->67[Both]
+ANS_105-->68[One]
+ENT_104-->68[One]
+68-->69[Both]
+67-->69[Both]
+69-->ANB_218A
+style ANB_218B fill:#ade
+PSC_218A-->70[One]
+ANB_218A-->70[One]
+ECL_218A-->71[One]
+70-->71[One]
+71-->ANB_218B
+style ANB_201 fill:#ade
+style PSC_204A fill:#ade
+STA_102-->PSC_204A
+style PSC_204B fill:#ade
+PSC_204A-->PSC_204B
+style PSC_204D fill:#ade
+PSC_204A-->PSC_204D
+style STA_106 fill:#ade
+STA_013Y-->72[One]
+STA_013-->72[One]
+STA_032-->73[One]
+72-->73[One]
+STA_100-->74[One]
+73-->74[One]
+74-->STA_106
+style STA_108 fill:#ade
+STA_013Y-->75[One]
+STA_013-->75[One]
+STA_032-->76[One]
+75-->76[One]
+STA_100-->77[One]
+76-->77[One]
+77-->STA_108
+style STA_138 fill:#ade
+STA_131B-->78[One]
+STA_130B-->78[One]
+STA_108-->79[Both]
+STA_106-->79[Both]
+79-->80[One]
+78-->80[One]
+80-->STA_138
+style STA_205 fill:#ade
+style PLS_205 fill:#ade
+PLS_120-->PLS_205
+style PLS_206 fill:#ade
+STA_108-->81[One]
+STA_106-->81[One]
+PLS_205-->82[One]
+81-->82[One]
+82-->83[Both]
+PLS_120-->83[Both]
+83-->PLS_206
+style ANB_290 fill:#ade
+style PSC_390A fill:#ade
+style PSC_390B fill:#ade
+style PBG_231 fill:#ade
+MAT_021C-->84[One]
+MAT_016C-->84[One]
+84-->PBG_231
+style PSC_120 fill:#ade
+PSC_100-->PSC_120

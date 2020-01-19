@@ -1,0 +1,77 @@
+style 2 fill:#ddd
+2[Choose one:]-->CHI_010
+2[Choose one:]-->CHI_050
+style 3 fill:#ddd
+3[Choose one:]-->CHI_150
+3[Choose one:]-->CHI_181
+3[Choose one:]-->HIS_169A
+3[Choose one:]-->HIS_169B
+style 4 fill:#ddd
+4[Choose four:]-->CHI_110
+4[Choose four:]-->CHI_111
+4[Choose four:]-->CHI_112
+4[Choose four:]-->CHI_120
+4[Choose four:]-->CHI_121
+4[Choose four:]-->CHI_122
+4[Choose four:]-->CHI_123
+4[Choose four:]-->CHI_130
+4[Choose four:]-->CHI_131
+4[Choose four:]-->CHI_132
+4[Choose four:]-->CHI_154
+4[Choose four:]-->CHI_155
+4[Choose four:]-->CHI_156
+4[Choose four:]-->CHI_160
+4[Choose four:]-->CHI_165
+4[Choose four:]-->CHI_171
+4[Choose four:]-->CHI_172
+style CHI_010 fill:#ade
+style CHI_050 fill:#ade
+style CHI_150 fill:#ade
+style CHI_181 fill:#ade
+WMS_050-->5[One]
+CHI_010-->5[One]
+5-->CHI_181
+style HIS_169A fill:#ade
+style HIS_169B fill:#ade
+style CHI_110 fill:#ade
+SOC_001-->6[One]
+CHI_010-->6[One]
+6-->CHI_110
+style CHI_111 fill:#ade
+CHI_050-->7[One]
+CHI_010-->7[One]
+HIS_169B-->8[One]
+WMS_050-->8[One]
+8-->9[Both]
+7-->9[Both]
+9-->CHI_111
+style CHI_112 fill:#ade
+CHI_010-->CHI_112
+style CHI_120 fill:#ade
+style CHI_121 fill:#ade
+CHI_020-->10[One]
+CHI_010-->10[One]
+10-->CHI_121
+style CHI_122 fill:#ade
+style CHI_123 fill:#ade
+CHI_021-->11[One]
+CHI_010-->11[One]
+11-->CHI_123
+style CHI_130 fill:#ade
+style CHI_131 fill:#ade
+POL_001-->12[One]
+CHI_030-->12[One]
+12-->CHI_131
+style CHI_132 fill:#ade
+style CHI_154 fill:#ade
+style CHI_155 fill:#ade
+style CHI_156 fill:#ade
+style CHI_160 fill:#ade
+style CHI_165 fill:#ade
+CHI_060-->CHI_165
+style CHI_171 fill:#ade
+CHI_070-->CHI_171
+style CHI_172 fill:#ade
+CHI_073-->13[One]
+CHI_070-->13[One]
+13-->CHI_172

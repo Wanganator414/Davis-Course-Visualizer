@@ -1,0 +1,81 @@
+style 2 fill:#ddd
+2[Units: 21-25]-->EEC_100
+style 3 fill:#ddd
+3[Analog Circuits]-->EEC_110A
+3[Analog Circuits]-->EEC_110B
+style 4 fill:#ddd
+4[Electromagnetics]-->EEC_130A
+4[Electromagnetics]-->EEC_130B
+style 5 fill:#ddd
+5[Physical Electronics]-->EEC_140A
+5[Physical Electronics]-->EEC_140B
+style 6 fill:#ddd
+6[Signals & Systems]-->EEC_150A
+6[Signals & Systems]-->EEC_150B
+style 7 fill:#ddd
+7[Communication]-->EEC_150A
+7[Communication]-->EEC_160
+style 8 fill:#ddd
+8[Control Systems]-->EEC_150A
+8[Control Systems]-->EEC_157A
+style 9 fill:#ddd
+9[Digital Systems]-->EEC_018
+9[Digital Systems]-->EEC_180
+style EEC_100 fill:#ade
+MAT_022B-->10[Both]
+ENG_017-->10[Both]
+10-->EEC_100
+style EEC_110A fill:#ade
+EEC_140A-->11[Both]
+EEC_100-->11[Both]
+11-->EEC_110A
+style EEC_110B fill:#ade
+EEC_110A-->EEC_110B
+style EEC_130A fill:#ade
+PHY_009HD-->12[One]
+PHY_009C-->12[One]
+12-->13[Both]
+MAT_021D-->13[Both]
+ENG_017-->14[Both]
+13-->14[Both]
+14-->EEC_130A
+style EEC_130B fill:#ade
+EEC_130A-->EEC_130B
+style EEC_140A fill:#ade
+PHY_009HE-->15[One]
+PHY_009D-->15[One]
+15-->16[Both]
+ENG_017-->16[Both]
+16-->EEC_140A
+style EEC_140B fill:#ade
+EEC_140A-->EEC_140B
+style EEC_150A fill:#ade
+MAT_022AL-->17[One]
+ENG_006-->17[One]
+17-->18[Both]
+EEC_100-->18[Both]
+18-->EEC_150A
+style EEC_150B fill:#ade
+EEC_150A-->EEC_150B
+style EEC_150A fill:#ade
+MAT_022AL-->19[One]
+ENG_006-->19[One]
+19-->20[Both]
+EEC_100-->20[Both]
+20-->EEC_150A
+style EEC_160 fill:#ade
+EEC_150A-->EEC_160
+style EEC_150A fill:#ade
+MAT_022AL-->21[One]
+ENG_006-->21[One]
+21-->22[Both]
+EEC_100-->22[Both]
+22-->EEC_150A
+style EEC_157A fill:#ade
+EEC_100-->EEC_157A
+style EEC_018 fill:#ade
+ENG_017-->EEC_018
+style EEC_180 fill:#ade
+EEC_180A-->23[One]
+EEC_018-->23[One]
+23-->EEC_180

@@ -1,0 +1,212 @@
+style 2 fill:#ddd
+2[Units: 16]-->CHI_050
+2[Units: 16]-->CHI_010
+style 3 fill:#ddd
+3[Choose two:]-->CHI_021
+3[Choose two:]-->CHI_023
+3[Choose two:]-->CHI_030
+3[Choose two:]-->CHI_040
+3[Choose two:]-->CHI_060
+3[Choose two:]-->CHI_065
+3[Choose two:]-->CHI_070
+3[Choose two:]-->CHI_073
+style 4 fill:#ddd
+4[Group A:]-->CHI_100
+4[Group A:]-->CHI_102A
+4[Group A:]-->CHI_102B
+4[Group A:]-->CHI_102C
+4[Group A:]-->CHI_110
+4[Group A:]-->CHI_111
+4[Group A:]-->CHI_112
+4[Group A:]-->CHI_113
+4[Group A:]-->CHI_130
+4[Group A:]-->CHI_131
+4[Group A:]-->CHI_132
+4[Group A:]-->CHI_148
+4[Group A:]-->CHI_150
+4[Group A:]-->CHI_181
+4[Group A:]-->CHI_184
+style 5 fill:#ddd
+5[Group B:]-->CHI_110
+5[Group B:]-->CHI_112
+5[Group B:]-->CHI_113
+5[Group B:]-->CHI_120
+5[Group B:]-->CHI_121
+5[Group B:]-->CHI_122
+5[Group B:]-->CHI_123
+5[Group B:]-->CHI_141
+5[Group B:]-->CHI_145S
+5[Group B:]-->CHI_147S
+5[Group B:]-->CHI_148
+style 6 fill:#ddd
+6[Group C:]-->CHI_154
+6[Group C:]-->CHI_155
+6[Group C:]-->CHI_156
+6[Group C:]-->CHI_157
+6[Group C:]-->CHI_160
+6[Group C:]-->CHI_161
+6[Group C:]-->CHI_165
+6[Group C:]-->CHI_170
+6[Group C:]-->CHI_171
+6[Group C:]-->CHI_172
+style 7 fill:#ddd
+7[Group D:]-->CHI_102A
+7[Group D:]-->CHI_102B
+7[Group D:]-->CHI_102C
+7[Group D:]-->CHI_125S
+7[Group D:]-->CHI_135S
+7[Group D:]-->CHI_140A
+7[Group D:]-->CHI_141
+7[Group D:]-->CHI_145S
+7[Group D:]-->CHI_146S
+7[Group D:]-->CHI_147S
+7[Group D:]-->CHI_180
+7[Group D:]-->CHI_192
+style 8 fill:#ddd
+8[Choose one:]-->CHI_194HA
+8[Choose one:]-->CHI_194HB
+8[Choose one:]-->CHI_194HC
+8[Choose one:]-->CHI_198
+8[Choose one:]-->CHI_199
+style CHI_050 fill:#ade
+style CHI_010 fill:#ade
+style CHI_021 fill:#ade
+CHI_010-->CHI_021
+style CHI_023 fill:#ade
+style CHI_030 fill:#ade
+style CHI_040 fill:#ade
+STA_013Y-->9[One]
+STA_013-->9[One]
+9-->CHI_040
+style CHI_060 fill:#ade
+style CHI_065 fill:#ade
+style CHI_070 fill:#ade
+style CHI_073 fill:#ade
+style CHI_100 fill:#ade
+CHI_050-->10[Both]
+CHI_010-->10[Both]
+10-->CHI_100
+style CHI_102A fill:#ade
+style CHI_102B fill:#ade
+style CHI_102C fill:#ade
+style CHI_110 fill:#ade
+SOC_001-->11[One]
+CHI_010-->11[One]
+11-->CHI_110
+style CHI_111 fill:#ade
+CHI_050-->12[One]
+CHI_010-->12[One]
+HIS_169B-->13[One]
+WMS_050-->13[One]
+13-->14[Both]
+12-->14[Both]
+14-->CHI_111
+style CHI_112 fill:#ade
+CHI_010-->CHI_112
+style CHI_113 fill:#ade
+style CHI_130 fill:#ade
+style CHI_131 fill:#ade
+POL_001-->15[One]
+CHI_030-->15[One]
+15-->CHI_131
+style CHI_132 fill:#ade
+style CHI_148 fill:#ade
+style CHI_150 fill:#ade
+style CHI_181 fill:#ade
+WMS_050-->16[One]
+CHI_010-->16[One]
+16-->CHI_181
+style CHI_184 fill:#ade
+style CHI_110 fill:#ade
+SOC_001-->17[One]
+CHI_010-->17[One]
+17-->CHI_110
+style CHI_112 fill:#ade
+CHI_010-->CHI_112
+style CHI_113 fill:#ade
+style CHI_120 fill:#ade
+style CHI_121 fill:#ade
+CHI_020-->18[One]
+CHI_010-->18[One]
+18-->CHI_121
+style CHI_122 fill:#ade
+style CHI_123 fill:#ade
+CHI_021-->19[One]
+CHI_010-->19[One]
+19-->CHI_123
+style CHI_141 fill:#ade
+style CHI_145S fill:#ade
+BIS_001B-->20[Both]
+BIS_001A-->20[Both]
+BIS_001C-->21[Both]
+20-->21[Both]
+SPA_021V-->22[One]
+SPA_021-->22[One]
+SPA_021Y-->23[One]
+22-->23[One]
+SPA_031-->24[One]
+23-->24[One]
+24-->25[Both]
+21-->25[Both]
+25-->CHI_145S
+style CHI_147S fill:#ade
+style CHI_148 fill:#ade
+style CHI_154 fill:#ade
+style CHI_155 fill:#ade
+style CHI_156 fill:#ade
+style CHI_157 fill:#ade
+style CHI_160 fill:#ade
+style CHI_161 fill:#ade
+style CHI_165 fill:#ade
+CHI_060-->CHI_165
+style CHI_170 fill:#ade
+style CHI_171 fill:#ade
+CHI_070-->CHI_171
+style CHI_172 fill:#ade
+CHI_073-->26[One]
+CHI_070-->26[One]
+26-->CHI_172
+style CHI_102A fill:#ade
+style CHI_102B fill:#ade
+style CHI_102C fill:#ade
+style CHI_125S fill:#ade
+style CHI_135S fill:#ade
+style CHI_140A fill:#ade
+style CHI_141 fill:#ade
+style CHI_145S fill:#ade
+BIS_001B-->27[Both]
+BIS_001A-->27[Both]
+BIS_001C-->28[Both]
+27-->28[Both]
+SPA_021V-->29[One]
+SPA_021-->29[One]
+SPA_021Y-->30[One]
+29-->30[One]
+SPA_031-->31[One]
+30-->31[One]
+31-->32[Both]
+28-->32[Both]
+32-->CHI_145S
+style CHI_146S fill:#ade
+style CHI_147S fill:#ade
+style CHI_180 fill:#ade
+CHI_023-->33[One]
+CHI_010-->33[One]
+33-->CHI_180
+style CHI_192 fill:#ade
+CHI_021-->34[One]
+CHI_010-->34[One]
+CHI_050-->35[One]
+34-->35[One]
+SPA_003V-->36[One]
+SPA_003-->36[One]
+SPA_003-->37[One]
+36-->37[One]
+37-->38[Both]
+35-->38[Both]
+38-->CHI_192
+style CHI_194HA fill:#ade
+style CHI_194HB fill:#ade
+style CHI_194HC fill:#ade
+style CHI_198 fill:#ade
+style CHI_199 fill:#ade

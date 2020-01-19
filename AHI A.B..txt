@@ -1,0 +1,169 @@
+style 2 fill:#ddd
+2[Choose four:]-->AHI_001A
+2[Choose four:]-->AHI_001B
+2[Choose four:]-->AHI_001C
+style 3 fill:#ddd
+3[Choose one:]-->AHI_001D
+3[Choose one:]-->AHI_001DY
+3[Choose one:]-->AHI_001E
+3[Choose one:]-->AHI_005
+3[Choose one:]-->AHI_025
+style 4 fill:#ddd
+4[(1) The Ancient World]-->AHI_152
+4[(1) The Ancient World]-->AHI_172A
+4[(1) The Ancient World]-->AHI_172B
+4[(1) The Ancient World]-->AHI_173
+4[(1) The Ancient World]-->AHI_175
+style 5 fill:#ddd
+5[(2) Asia]-->AHI_154
+5[(2) Asia]-->AHI_157
+5[(2) Asia]-->AHI_163A
+5[(2) Asia]-->AHI_163B
+5[(2) Asia]-->AHI_163C
+5[(2) Asia]-->AHI_163D
+5[(2) Asia]-->AHI_164
+style 6 fill:#ddd
+6[(3) The Middle Ages to 1700]-->AHI_155
+6[(3) The Middle Ages to 1700]-->AHI_156
+style 7 fill:#ddd
+7[AHI 176D (Pending Approval)]-->AHI_178B
+7[AHI 176D (Pending Approval)]-->AHI_178C
+7[AHI 176D (Pending Approval)]-->AHI_179B
+style 8 fill:#ddd
+8[(4) Western Art 1700 to 1900]-->AHI_130
+8[(4) Western Art 1700 to 1900]-->AHI_168
+8[(4) Western Art 1700 to 1900]-->AHI_182
+8[(4) Western Art 1700 to 1900]-->AHI_183A
+8[(4) Western Art 1700 to 1900]-->AHI_183B
+8[(4) Western Art 1700 to 1900]-->AHI_188C
+style 9 fill:#ddd
+9[(5) World Art 20th Century to the Present]-->AHI_122
+9[(5) World Art 20th Century to the Present]-->AHI_163D
+9[(5) World Art 20th Century to the Present]-->AHI_183C
+9[(5) World Art 20th Century to the Present]-->AHI_185
+9[(5) World Art 20th Century to the Present]-->AHI_186
+9[(5) World Art 20th Century to the Present]-->AHI_189
+style 10 fill:#ddd
+10[(6) Art & Issues Across Chronologies]-->AHI_110
+10[(6) Art & Issues Across Chronologies]-->AHI_120A
+10[(6) Art & Issues Across Chronologies]-->AHI_121
+10[(6) Art & Issues Across Chronologies]-->AHI_123
+10[(6) Art & Issues Across Chronologies]-->AHI_181
+10[(6) Art & Issues Across Chronologies]-->AHI_188A
+style 11 fill:#ddd
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190A
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190B
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190C
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190D
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190E
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190F
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190G
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190H
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190I
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190J
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190K
+11[Undergraduate Seminar in Art History, (AHI 190A-L) choose one:]-->AHI_190L
+style 12 fill:#ddd
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_025
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_110
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_120A
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_122
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_123
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_152
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_154
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_155
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_163A
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_168
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_172A
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_172B
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_173
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_175
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_176A
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_176B
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_176C
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_178B
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_178C
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_181
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_184
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_187
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_188A
+12[Emphasis in Architectural History follows the same requirements as for the Art History major above, applying at least six of the following to their respective required areas or as electives:]-->AHI_188B
+style AHI_001A fill:#ade
+style AHI_001B fill:#ade
+style AHI_001C fill:#ade
+style AHI_001D fill:#ade
+style AHI_001DY fill:#ade
+style AHI_001E fill:#ade
+style AHI_005 fill:#ade
+style AHI_025 fill:#ade
+style AHI_152 fill:#ade
+style AHI_172A fill:#ade
+style AHI_172B fill:#ade
+style AHI_173 fill:#ade
+style AHI_175 fill:#ade
+style AHI_154 fill:#ade
+style AHI_157 fill:#ade
+style AHI_163A fill:#ade
+style AHI_163B fill:#ade
+style AHI_163C fill:#ade
+style AHI_163D fill:#ade
+style AHI_164 fill:#ade
+style AHI_155 fill:#ade
+style AHI_156 fill:#ade
+style AHI_178B fill:#ade
+style AHI_178C fill:#ade
+style AHI_179B fill:#ade
+style AHI_130 fill:#ade
+style AHI_168 fill:#ade
+style AHI_182 fill:#ade
+style AHI_183A fill:#ade
+style AHI_183B fill:#ade
+style AHI_188C fill:#ade
+style AHI_122 fill:#ade
+style AHI_163D fill:#ade
+style AHI_183C fill:#ade
+style AHI_185 fill:#ade
+style AHI_186 fill:#ade
+style AHI_189 fill:#ade
+style AHI_110 fill:#ade
+style AHI_120A fill:#ade
+style AHI_121 fill:#ade
+style AHI_123 fill:#ade
+style AHI_181 fill:#ade
+style AHI_188A fill:#ade
+style AHI_190A fill:#ade
+style AHI_190B fill:#ade
+style AHI_190C fill:#ade
+style AHI_190D fill:#ade
+style AHI_190E fill:#ade
+style AHI_190F fill:#ade
+style AHI_190G fill:#ade
+style AHI_190H fill:#ade
+style AHI_190I fill:#ade
+style AHI_190J fill:#ade
+style AHI_190K fill:#ade
+style AHI_190L fill:#ade
+style AHI_025 fill:#ade
+style AHI_110 fill:#ade
+style AHI_120A fill:#ade
+style AHI_122 fill:#ade
+style AHI_123 fill:#ade
+style AHI_152 fill:#ade
+style AHI_154 fill:#ade
+style AHI_155 fill:#ade
+style AHI_163A fill:#ade
+style AHI_168 fill:#ade
+style AHI_172A fill:#ade
+style AHI_172B fill:#ade
+style AHI_173 fill:#ade
+style AHI_175 fill:#ade
+style AHI_176A fill:#ade
+style AHI_176B fill:#ade
+style AHI_176C fill:#ade
+style AHI_178B fill:#ade
+style AHI_178C fill:#ade
+style AHI_181 fill:#ade
+style AHI_184 fill:#ade
+style AHI_187 fill:#ade
+style AHI_188A fill:#ade
+style AHI_188B fill:#ade

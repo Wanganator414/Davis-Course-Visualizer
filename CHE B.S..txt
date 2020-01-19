@@ -1,0 +1,225 @@
+style 2 fill:#ddd
+2[Chemistry choose a series:]-->CHE_002A
+2[Chemistry choose a series:]-->CHE_002B
+2[Chemistry choose a series:]-->CHE_002C
+2[Chemistry choose a series:]-->CHE_002AH
+2[Chemistry choose a series:]-->CHE_002BH
+2[Chemistry choose a series:]-->CHE_002CH
+style 3 fill:#ddd
+3[Physics]-->PHY_009A
+3[Physics]-->PHY_009B
+3[Physics]-->PHY_009C
+3[Physics]-->PHY_009D
+style 4 fill:#ddd
+4[Mathematics]-->MAT_021A
+4[Mathematics]-->MAT_021B
+4[Mathematics]-->MAT_021C
+4[Mathematics]-->MAT_021D
+4[Mathematics]-->MAT_022A
+4[Mathematics]-->MAT_022AL
+4[Mathematics]-->MAT_022B
+style 5 fill:#ddd
+5[Chemistry]-->CHE_105
+5[Chemistry]-->CHE_108
+5[Chemistry]-->CHE_110A
+5[Chemistry]-->CHE_110B
+5[Chemistry]-->CHE_110C
+5[Chemistry]-->CHE_115
+5[Chemistry]-->CHE_124A
+style 6 fill:#ddd
+6[Choose one:]-->CHE_124B
+6[Choose one:]-->CHE_124C
+6[Choose one:]-->CHE_124L
+6[Choose one:]-->CHE_125
+6[Choose one:]-->CHE_128A
+6[Choose one:]-->CHE_128B
+6[Choose one:]-->CHE_128C
+6[Choose one:]-->CHE_129A
+6[Choose one:]-->CHE_129B
+6[Choose one:]-->CHE_129C
+style 7 fill:#ddd
+7[Recommended]-->CHE_194HA
+7[Recommended]-->CHE_194HB
+7[Recommended]-->CHE_194HC
+7[Recommended]-->CHE_199
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->8[One]
+CHE_002A-->8[One]
+8-->CHE_002B
+style CHE_002C fill:#ade
+CHE_002BH-->9[One]
+CHE_002B-->9[One]
+9-->CHE_002C
+style CHE_002AH fill:#ade
+style CHE_002BH fill:#ade
+CHE_002AH-->10[One]
+CHE_002A-->10[One]
+MAT_021B-->11[Both]
+10-->11[Both]
+11-->CHE_002BH
+style CHE_002CH fill:#ade
+CHE_002BH-->12[One]
+CHE_002B-->12[One]
+CHE_002B-->13[One]
+MAT_021C-->13[One]
+13-->14[Both]
+12-->14[Both]
+14-->CHE_002CH
+style PHY_009A fill:#ade
+MAT_021M-->15[One]
+MAT_021B-->15[One]
+15-->PHY_009A
+style PHY_009B fill:#ade
+MAT_021C-->16[Both]
+PHY_009A-->16[Both]
+MAT_021D-->17[Both]
+16-->17[Both]
+17-->PHY_009B
+style PHY_009C fill:#ade
+MAT_021D-->18[Both]
+PHY_009B-->18[Both]
+MAT_022A-->19[Both]
+18-->19[Both]
+19-->PHY_009C
+style PHY_009D fill:#ade
+MAT_022A-->20[Both]
+PHY_009C-->20[Both]
+PHY_009HB-->21[Both]
+20-->21[Both]
+21-->PHY_009D
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->22[One]
+MAT_021A-->22[One]
+MAT_017A-->23[One]
+22-->23[One]
+23-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->24[One]
+MAT_016C-->24[One]
+MAT_021B-->25[One]
+24-->25[One]
+MAT_021BH-->26[One]
+25-->26[One]
+MAT_017B-->27[One]
+26-->27[One]
+27-->MAT_021C
+style MAT_021D fill:#ade
+MAT_021CH-->28[One]
+MAT_021C-->28[One]
+MAT_017C-->29[One]
+28-->29[One]
+29-->MAT_021D
+style MAT_022A fill:#ade
+MAT_017C-->30[One]
+MAT_016C-->30[One]
+MAT_021C-->31[One]
+30-->31[One]
+MAT_021CH-->32[One]
+31-->32[One]
+EME_005-->33[One]
+ENG_006-->33[One]
+ECH_060-->34[One]
+33-->34[One]
+MAT_022AL-->35[One]
+34-->35[One]
+35-->36[Both]
+32-->36[Both]
+36-->MAT_022A
+style MAT_022AL fill:#ade
+MAT_017C-->37[One]
+MAT_016C-->37[One]
+MAT_021C-->38[One]
+37-->38[One]
+MAT_021CH-->39[One]
+38-->39[One]
+39-->MAT_022AL
+style MAT_022B fill:#ade
+MAT_067-->40[One]
+MAT_022A-->40[One]
+40-->MAT_022B
+style CHE_105 fill:#ade
+CHE_107B-->41[One]
+CHE_110A-->41[One]
+41-->CHE_105
+style CHE_108 fill:#ade
+CHE_118C-->42[One]
+CHE_128C-->42[One]
+42-->CHE_108
+style CHE_110A fill:#ade
+PHY_009C-->43[One]
+PHY_007C-->43[One]
+PHY_009HC-->44[One]
+43-->44[One]
+CHE_002CH-->45[One]
+CHE_002C-->45[One]
+45-->46[Both]
+44-->46[Both]
+MAT_017C-->47[One]
+MAT_016C-->47[One]
+MAT_021C-->48[One]
+47-->48[One]
+48-->49[Both]
+46-->49[Both]
+MAT_021D-->50[Both]
+49-->50[Both]
+MAT_022A-->51[Both]
+50-->51[Both]
+MAT_022AL-->52[Both]
+51-->52[Both]
+52-->CHE_110A
+style CHE_110B fill:#ade
+CHE_110A-->CHE_110B
+style CHE_110C fill:#ade
+CHE_110B-->CHE_110C
+style CHE_115 fill:#ade
+CHE_107B-->53[Both]
+CHE_107A-->53[Both]
+53-->54[One]
+CHE_110B-->54[One]
+54-->55[Both]
+CHE_105-->55[Both]
+55-->CHE_115
+style CHE_124A fill:#ade
+CHE_002CH-->56[One]
+CHE_002C-->56[One]
+56-->CHE_124A
+style CHE_124B fill:#ade
+CHE_124A-->CHE_124B
+style CHE_124C fill:#ade
+CHE_124A-->CHE_124C
+style CHE_124L fill:#ade
+CHE_124C-->57[One]
+CHE_124B-->57[One]
+57-->CHE_124L
+style CHE_125 fill:#ade
+CHE_115-->58[Both]
+CHE_110C-->58[Both]
+58-->CHE_125
+style CHE_128A fill:#ade
+CHE_002CH-->59[One]
+CHE_002C-->59[One]
+59-->CHE_128A
+style CHE_128B fill:#ade
+CHE_128A-->CHE_128B
+style CHE_128C fill:#ade
+CHE_128B-->CHE_128C
+style CHE_129A fill:#ade
+CHE_002CH-->60[One]
+CHE_002C-->60[One]
+CHE_128A-->61[Both]
+60-->61[Both]
+61-->CHE_129A
+style CHE_129B fill:#ade
+CHE_128B-->62[Both]
+CHE_129A-->62[Both]
+62-->CHE_129B
+style CHE_129C fill:#ade
+CHE_129B-->63[Both]
+CHE_128C-->63[Both]
+63-->CHE_129C
+style CHE_194HA fill:#ade
+style CHE_194HB fill:#ade
+style CHE_194HC fill:#ade
+style CHE_199 fill:#ade

@@ -1,0 +1,9 @@
+style 2 fill:#ddd
+2[Choose one:]-->COM_001
+2[Choose one:]-->COM_002
+2[Choose one:]-->COM_003
+2[Choose one:]-->COM_004
+style COM_001 fill:#ade
+style COM_002 fill:#ade
+style COM_003 fill:#ade
+style COM_004 fill:#ade
