@@ -72,7 +72,7 @@ select::-ms-expand {
   width: 40em;
   height: 6em;
   line-height: 3;
-  background: #2c3e50;
+  background: #5384b4;
   overflow: hidden;
   border-radius: 0.25em;
 }
@@ -91,7 +91,7 @@ select {
   top: 0;
   right: 0;
   padding: 0 1em;
-  background: #34495e;
+  background: #4d85bd;
   cursor: pointer;
   pointer-events: none;
   -webkit-transition: 0.25s all ease;
