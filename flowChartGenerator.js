@@ -8,15 +8,21 @@ let config = {
   }
 };
 
+let displayTitle = "Select a Major";
 let renderTarget = "";
 let dropDownIndex = 0;
 
 let graphInfo = sessionStorage.getItem("graphInfo");
+displayTitle = sessionStorage.getItem("displayMajor");
 dropDownIndex = sessionStorage.getItem("selectIndex");
 if (graphInfo !== null) {
   renderTarget = sessionStorage.getItem("graphInfo");
 }
+if (displayTitle !== null) {
+  displayTitle = sessionStorage.getItem("displayMajor");
+}
 
+$("#title").text = displayTitle;
 let majorNames = {
   majors: [
     {
@@ -552,7 +558,7 @@ window.onload = function() {
   $("#drop").append(
     $("<option></option>")
       .attr("value", "--")
-      .text("Select a Major")
+      .text(displayTitle)
   );
   for (i = 0; i < 169; i++) {
     try {
@@ -568,7 +574,7 @@ window.onload = function() {
   if (dropDownIndex !== null) {
     console.log(dropDownIndex);
     $("#drop").indexValue = dropDownIndex;
-    this.console.log($("drop").selectedIndex)
+    console.log($("drop").selectedIndex);
   }
 };
 
@@ -577,14 +583,17 @@ let renderGraph = function(indexValue) {
   //Rerenders graph if user has changes view
   //IndexValue is the index of the selected item from the dropdown,+1
   let searchVar = majorNames.majors[indexValue - 1].p + ".txt";
-  dropDownIndex=indexValue; //Target selection index
+  dropDownIndex = indexValue; //Target selection index
   renderTarget = searchVar; //Target file name
+  displayTitle = renderTarget.substring(0, renderTarget.length - 4); //Target major name
+  console.log("DISPLAY MAJOR:" + displayTitle);
   console.log(searchVar);
   location.reload("true");
 };
 
 window.onbeforeunload = function() {
   sessionStorage.setItem("graphInfo", renderTarget);
+  sessionStorage.setItem("displayMajor", displayTitle);
   sessionStorage.setItem("selectIndex", dropDownIndex);
 };
 

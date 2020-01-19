@@ -48,22 +48,32 @@ h1 {
   -webkit-animation: typing 6s steps(31, end),
     blink-caret 0.5s step-end infinite alternate;
 }
+h2{
+  font-family: "Open Sans";
+  font: Consolas, Monaco, monospace;
+  align-self: auto;
+  margin: 2em 1em;
+  white-space: nowrap;
+  overflow: hidden;
+}
 
 select {
   -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
   appearance: none;
+  align-self: center;
   outline: 0;
   color:#f4af1b;
   box-shadow: none;
   border: 0 !important;
-  background: #00154f;
+  background: #04247a;
   background-image: none;
 }
 /* Remove IE arrow */
 select::-ms-expand {
   display: none;
+  align-self: auto;
 }
 /* Custom Select */
 .select {
