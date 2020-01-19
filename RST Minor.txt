@@ -1,3 +1,0 @@
-style 2 fill:#ddd
-2[Choose 16 units of upper division RST courses.]-->RST_190
-style RST_190 fill:#ade

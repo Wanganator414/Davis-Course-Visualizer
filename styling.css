@@ -1,9 +1,6 @@
 body {
-	background: linear-gradient(-45deg, #d5a523, #2352d5, #d5a523, #2352d5);
-	background-size: 1000vh 1000vw;
-	animation: gradient 20s ease infinite;
+  background-color: lightskyblue;
 }
-
 select {
   display: inline-block;
   margin: 0;
@@ -11,14 +8,11 @@ select {
   list-style: none;
 }
 
-@keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
+hr.titleDivider {
+  border: 10px solid orange;
+  border-radius: 5px;
 }
+
+/* div{
+    white-space: pre-line;
+} */

@@ -4,22 +4,24 @@
     <meta charset="utf-8" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.4/mermaid.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.3.0/raphael.min.js"></script>
     <link rel="stylesheet" href="styling.css" />
     <script src="flowChartGenerator.js"></script>
     <link rel="icon" href="hackDavisFavicon.ico" />
   </head>
   <body>
-    <h1>Howdy Partner!</h1>
+    <h1>Course Visualizer Beta!</h1>
     <select
-      align="center"
-      name="ab"
-      onchange="if (this.selectedIndex) renderGraph();"
+      id="drop"
+      name="dropDownMenu"
+      onchange="if (this.selectedIndex){
+        renderGraph(this.selectedIndex);
+      }"
     >
-      <option value="-1">--</option>
-      <option value="1">option 1</option>
-      <option value="2">option 2</option>
-      <option value="3">option 3</option>
     </select>
-    <div class="mermaid"></div>
+    <hr class="titleDivider" />
+    <div class="conatiner">
+      <div class="mermaid"></div>
+    </div>
   </body>
 </html>

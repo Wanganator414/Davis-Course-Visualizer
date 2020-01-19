@@ -1,9 +1,0 @@
-style 2 fill:#ddd
-2[Choose one:]-->CLA_001
-2[Choose one:]-->CLA_002
-2[Choose one:]-->CLA_003
-2[Choose one:]-->CLA_004
-style CLA_001 fill:#ade
-style CLA_002 fill:#ade
-style CLA_003 fill:#ade
-style CLA_004 fill:#ade
