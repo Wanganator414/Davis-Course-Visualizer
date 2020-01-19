@@ -1,3 +1,3 @@
-# HackDavis2020
+# HackDavis2020 Draft Branch
 
-## HackDavis 2020 Project，Displays Course Planning Diagrams For Better Viewing Experience
+## Backend text parsing files for major and class requirements
