@@ -1,7 +1,7 @@
 let config = {
   //Config file for how the chart looks
   startOnLoad: true, //MStart ASAP upon load or some other dependency is gonna complain
-  theme: "forest",
+  theme: "default",
   flowchart: {
     useMaxWidth: true,
     htmlLabels: true

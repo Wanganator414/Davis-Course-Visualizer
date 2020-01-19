@@ -1,5 +1,5 @@
 body {
-  background-color: lightskyblue;
+  background-color: lightgoldenrodyellow;
 }
 select {
   display: inline-block;
@@ -9,10 +9,21 @@ select {
 }
 
 hr.titleDivider {
-  border: 10px solid orange;
-  border-radius: 5px;
+  border: 100px solid orange;
+  border-radius: 50px;
 }
 
-/* div{
-    white-space: pre-line;
-} */
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+h1 { 
+    font-family: 'Open Sans';
+	font: bold 300% Consolas, Monaco, monospace;
+	border-right: .1em solid rgb(0, 0, 0); 
+	width: 31ch;
+	margin: 2em 1em;
+	white-space: nowrap;
+	overflow: hidden;
+	-webkit-animation: typing 6s steps(31, end),
+	           blink-caret .5s step-end infinite alternate;
+}
