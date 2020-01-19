@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Lots Of Work Left To Do
 
 Might need to switch to another framework or do pure *JS* and *HTML*.
@@ -33,3 +34,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+=======
+# HackDavis2020
+
+## HackDavis 2020 Project，Displays Course Planning Diagrams For Better Viewing Experience
+>>>>>>> UI_BOIS
