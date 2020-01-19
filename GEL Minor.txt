@@ -1,0 +1,364 @@
+style 2 fill:#ddd
+2[Choose one:]-->GEL_001
+2[Choose one:]-->GEL_050
+2[Choose one:]-->GEL_050L
+2[Choose one:]-->GEL_101
+2[Choose one:]-->GEL_107
+2[Choose one:]-->GEL_108
+2[Choose one:]-->GEL_109
+style 3 fill:#ddd
+3[Choose one:]-->GEL_116N
+3[Choose one:]-->GEL_134
+style 4 fill:#ddd
+4[Geology]-->GEL_050
+4[Geology]-->GEL_050L
+style 5 fill:#ddd
+5[Civil & Environmental Engineering]-->ECI_171
+5[Civil & Environmental Engineering]-->ECI_171L
+style 6 fill:#ddd
+6[Choose three:]-->GEL_134
+6[Choose three:]-->GEL_161
+6[Choose three:]-->GEL_162
+6[Choose three:]-->HYD_103N
+6[Choose three:]-->HYD_144
+6[Choose three:]-->HYD_146
+6[Choose three:]-->SSC_118
+6[Choose three:]-->SSC_120
+style 7 fill:#ddd
+7[Geology]-->GEL_060
+style 8 fill:#ddd
+8[Choose one:]-->GEL_146
+8[Choose one:]-->GEL_148
+style 9 fill:#ddd
+9[Chemistry]-->CHE_110A
+9[Chemistry]-->CHE_110B
+style 10 fill:#ddd
+10[Choose two electives:]-->CHE_110C
+10[Choose two electives:]-->GEL_108
+10[Choose two electives:]-->GEL_146
+10[Choose two electives:]-->GEL_148
+10[Choose two electives:]-->HYD_134
+10[Choose two electives:]-->SSC_102
+style 11 fill:#ddd
+11[Geology]-->GEL_107
+11[Geology]-->GEL_107L
+11[Geology]-->GEL_108
+style 12 fill:#ddd
+12[Choose one:]-->GEL_141
+12[Choose one:]-->GEL_144
+style 13 fill:#ddd
+13[Choose at least nine units:]-->ANT_151
+13[Choose at least nine units:]-->ANT_152
+13[Choose at least nine units:]-->EVE_100
+13[Choose at least nine units:]-->EVE_101
+13[Choose at least nine units:]-->EVE_102
+13[Choose at least nine units:]-->EVE_105
+13[Choose at least nine units:]-->EVE_112
+13[Choose at least nine units:]-->EVE_112L
+13[Choose at least nine units:]-->EVE_140
+13[Choose at least nine units:]-->EVE_149
+13[Choose at least nine units:]-->GEL_109
+13[Choose at least nine units:]-->GEL_150C
+style GEL_001 fill:#ade
+style GEL_050 fill:#ade
+style GEL_050L fill:#ade
+GEL_050-->GEL_050L
+style GEL_101 fill:#ade
+GEL_050L-->14[Both]
+GEL_050-->14[Both]
+PHY_009A-->15[One]
+PHY_007A-->15[One]
+15-->16[Both]
+14-->16[Both]
+MAT_017A-->17[One]
+MAT_016A-->17[One]
+MAT_021A-->18[One]
+17-->18[One]
+18-->19[Both]
+16-->19[Both]
+19-->GEL_101
+style GEL_107 fill:#ade
+BIS_002A-->20[One]
+GEL_003-->20[One]
+BIS_010-->21[One]
+20-->21[One]
+21-->GEL_107
+style GEL_108 fill:#ade
+GEL_050-->22[One]
+GEL_001-->22[One]
+GEL_116N-->23[One]
+22-->23[One]
+ESP_116N-->24[One]
+23-->24[One]
+CHE_002A-->25[Both]
+24-->25[Both]
+25-->GEL_108
+style GEL_109 fill:#ade
+GEL_050L-->26[Both]
+GEL_050-->26[Both]
+26-->GEL_109
+style GEL_116N fill:#ade
+GEL_002-->27[One]
+GEL_001-->27[One]
+GEL_016-->28[One]
+27-->28[One]
+GEL_050-->29[One]
+28-->29[One]
+29-->GEL_116N
+style GEL_134 fill:#ade
+GEL_050-->30[One]
+GEL_001-->30[One]
+30-->GEL_134
+style GEL_050 fill:#ade
+style GEL_050L fill:#ade
+GEL_050-->GEL_050L
+style ECI_171 fill:#ade
+ECI_100-->31[One]
+ENG_103-->31[One]
+ENG_104-->32[Both]
+31-->32[Both]
+ECI_171L-->33[Both]
+32-->33[Both]
+ECI_171L-->34[Both]
+33-->34[Both]
+34-->ECI_171
+style ECI_171L fill:#ade
+ECI_171-->35[Both]
+ECI_171-->35[Both]
+35-->ECI_171L
+style GEL_134 fill:#ade
+GEL_050-->36[One]
+GEL_001-->36[One]
+36-->GEL_134
+style GEL_161 fill:#ade
+GEL_050-->37[One]
+GEL_001-->37[One]
+37-->38[Both]
+MAT_021C-->38[Both]
+PHY_009C-->39[One]
+PHY_007C-->39[One]
+39-->40[Both]
+38-->40[Both]
+40-->GEL_161
+style GEL_162 fill:#ade
+PHY_009C-->41[One]
+PHY_007C-->41[One]
+41-->42[Both]
+MAT_021C-->42[Both]
+42-->GEL_162
+style HYD_103N fill:#ade
+PHY_009B-->HYD_103N
+style HYD_144 fill:#ade
+MAT_021A-->43[One]
+MAT_016B-->43[One]
+43-->HYD_144
+style HYD_146 fill:#ade
+ECI_144-->44[One]
+HYD_144-->44[One]
+44-->HYD_146
+style SSC_118 fill:#ade
+style SSC_120 fill:#ade
+SSC_100-->SSC_120
+style GEL_060 fill:#ade
+MAT_017A-->45[One]
+MAT_016A-->45[One]
+MAT_021A-->46[One]
+45-->46[One]
+46-->47[Both]
+CHE_002A-->47[Both]
+GEL_050-->48[One]
+GEL_001-->48[One]
+GEL_050L-->49[Both]
+48-->49[Both]
+49-->50[Both]
+47-->50[Both]
+50-->GEL_060
+style GEL_146 fill:#ade
+PHY_007C-->51[Both]
+CHE_002C-->51[Both]
+MAT_016C-->52[Both]
+51-->52[Both]
+52-->GEL_146
+style GEL_148 fill:#ade
+HYD_134-->53[One]
+CHE_002C-->53[One]
+GEL_050-->54[Both]
+53-->54[Both]
+GEL_050L-->55[Both]
+54-->55[Both]
+GEL_060-->56[Both]
+55-->56[Both]
+56-->GEL_148
+style CHE_110A fill:#ade
+PHY_009C-->57[One]
+PHY_007C-->57[One]
+PHY_009HC-->58[One]
+57-->58[One]
+CHE_002CH-->59[One]
+CHE_002C-->59[One]
+59-->60[Both]
+58-->60[Both]
+MAT_017C-->61[One]
+MAT_016C-->61[One]
+MAT_021C-->62[One]
+61-->62[One]
+62-->63[Both]
+60-->63[Both]
+MAT_021D-->64[Both]
+63-->64[Both]
+MAT_022A-->65[Both]
+64-->65[Both]
+MAT_022AL-->66[Both]
+65-->66[Both]
+66-->CHE_110A
+style CHE_110B fill:#ade
+CHE_110A-->CHE_110B
+style CHE_110C fill:#ade
+CHE_110B-->CHE_110C
+style GEL_108 fill:#ade
+GEL_050-->67[One]
+GEL_001-->67[One]
+GEL_116N-->68[One]
+67-->68[One]
+ESP_116N-->69[One]
+68-->69[One]
+CHE_002A-->70[Both]
+69-->70[Both]
+70-->GEL_108
+style GEL_146 fill:#ade
+PHY_007C-->71[Both]
+CHE_002C-->71[Both]
+MAT_016C-->72[Both]
+71-->72[Both]
+72-->GEL_146
+style GEL_148 fill:#ade
+HYD_134-->73[One]
+CHE_002C-->73[One]
+GEL_050-->74[Both]
+73-->74[Both]
+GEL_050L-->75[Both]
+74-->75[Both]
+GEL_060-->76[Both]
+75-->76[Both]
+76-->GEL_148
+style HYD_134 fill:#ade
+CHE_002B-->HYD_134
+style SSC_102 fill:#ade
+style GEL_107 fill:#ade
+BIS_002A-->77[One]
+GEL_003-->77[One]
+BIS_010-->78[One]
+77-->78[One]
+78-->GEL_107
+style GEL_107L fill:#ade
+GEL_003L-->79[Both]
+GEL_003-->79[Both]
+BIS_002B-->80[One]
+79-->80[One]
+GEL_107-->81[Both]
+80-->81[Both]
+81-->GEL_107L
+style GEL_108 fill:#ade
+GEL_050-->82[One]
+GEL_001-->82[One]
+GEL_116N-->83[One]
+82-->83[One]
+ESP_116N-->84[One]
+83-->84[One]
+CHE_002A-->85[Both]
+84-->85[Both]
+85-->GEL_108
+style GEL_141 fill:#ade
+BIS_002A-->86[One]
+GEL_003-->86[One]
+86-->GEL_141
+style GEL_144 fill:#ade
+style ANT_151 fill:#ade
+style ANT_152 fill:#ade
+style EVE_100 fill:#ade
+BIS_002B-->87[Both]
+BIS_002A-->87[Both]
+BIS_002C-->88[Both]
+87-->88[Both]
+MAT_017A-->89[One]
+MAT_016A-->89[One]
+MAT_021A-->90[One]
+89-->90[One]
+90-->91[Both]
+88-->91[Both]
+MAT_017B-->92[One]
+MAT_016B-->92[One]
+MAT_021B-->93[One]
+92-->93[One]
+93-->94[Both]
+91-->94[Both]
+94-->EVE_100
+style EVE_101 fill:#ade
+BIS_002B-->95[Both]
+BIS_002A-->95[Both]
+BIS_002C-->96[Both]
+95-->96[Both]
+MAT_017A-->97[One]
+MAT_016A-->97[One]
+MAT_021A-->98[One]
+97-->98[One]
+98-->99[Both]
+96-->99[Both]
+MAT_017B-->100[One]
+MAT_016B-->100[One]
+MAT_021B-->101[One]
+100-->101[One]
+101-->102[Both]
+99-->102[Both]
+102-->EVE_101
+style EVE_102 fill:#ade
+STA_102-->103[One]
+STA_100-->103[One]
+103-->104[Both]
+BIS_101-->104[Both]
+EVE_100-->105[Both]
+104-->105[Both]
+105-->EVE_102
+style EVE_105 fill:#ade
+BIS_001B-->106[Both]
+BIS_001A-->106[Both]
+BIS_002C-->107[Both]
+BIS_002B-->107[Both]
+107-->108[One]
+106-->108[One]
+108-->EVE_105
+style EVE_112 fill:#ade
+style EVE_112L fill:#ade
+BIS_002C-->109[Both]
+BIS_002B-->109[Both]
+109-->110[One]
+BIS_001B-->110[One]
+EVE_112-->111[Both]
+110-->111[Both]
+EVE_112-->112[Both]
+111-->112[Both]
+112-->EVE_112L
+style EVE_140 fill:#ade
+BIS_001B-->113[Both]
+BIS_001A-->113[Both]
+BIS_001C-->114[Both]
+113-->114[Both]
+BIS_002B-->115[Both]
+BIS_002A-->115[Both]
+BIS_002C-->116[Both]
+115-->116[Both]
+116-->117[One]
+114-->117[One]
+117-->EVE_140
+style EVE_149 fill:#ade
+ESP_100-->118[One]
+EVE_101-->118[One]
+EVE_100-->119[Both]
+118-->119[Both]
+119-->EVE_149
+style GEL_109 fill:#ade
+GEL_050L-->120[Both]
+GEL_050-->120[Both]
+120-->GEL_109
+style GEL_150C fill:#ade
+BIS_002A-->GEL_150C

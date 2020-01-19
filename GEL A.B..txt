@@ -1,0 +1,489 @@
+style 2 fill:#ddd
+2[Geology]-->GEL_050
+2[Geology]-->GEL_050L
+2[Geology]-->GEL_053
+2[Geology]-->GEL_055
+2[Geology]-->GEL_060
+style 3 fill:#ddd
+3[Mathematics choose one series:]-->MAT_016A
+3[Mathematics choose one series:]-->MAT_016B
+3[Mathematics choose one series:]-->MAT_017A
+3[Mathematics choose one series:]-->MAT_017B
+3[Mathematics choose one series:]-->MAT_021A
+3[Mathematics choose one series:]-->MAT_021B
+style 4 fill:#ddd
+4[Chemistry]-->CHE_002A
+4[Chemistry]-->CHE_002B
+style 5 fill:#ddd
+5[Physics]-->PHY_007A
+5[Physics]-->PHY_007B
+style 6 fill:#ddd
+6[Statistics choose one:]-->STA_013
+6[Statistics choose one:]-->STA_032
+6[Statistics choose one:]-->STA_100
+style 7 fill:#ddd
+7[Geology]-->GEL_101
+7[Geology]-->GEL_101L
+7[Geology]-->GEL_103
+7[Geology]-->GEL_107
+7[Geology]-->GEL_107L
+7[Geology]-->GEL_108
+7[Geology]-->GEL_109
+7[Geology]-->GEL_109L
+style 8 fill:#ddd
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_130
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_131
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_132
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_133
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_134
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_136
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_138
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_139
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_140
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_141
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_142
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_143
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_144
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_145
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_146
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_147
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_148
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_149
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_150A
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_150B
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_150C
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_152
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_156
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_160
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_161
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_162
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_163
+8[Choose from courses GEL 130-194 or pre-selected non-GEL courses. Only one of GEL/EDU 181 or GEL/EDU 183 or GEL 185A or 185B or 186 may be applied toward elective credit. Pre-selected non-GEL courses: CHE 100, ECI 171/171L, ESM 100, ESM 186, ESP 152, HYD 144, HYD 146, LDA/ABT 150, SSC 100, WFC 102/102L. Other courses in related fields must be approved in advance by the major advisor. No more than three units of upper division elective credit for courses GEL 115-120. No more than six units of upper division elective credit for GEL 192 or 194A-194B or 194HA-194HB.]-->GEL_175
+style 9 fill:#ddd
+9[Choose one:]-->EDU_181
+9[Choose one:]-->GEL_181
+9[Choose one:]-->GEL_182
+style 10 fill:#ddd
+10[Choose one:]-->EDU_183
+10[Choose one:]-->GEL_183
+style 11 fill:#ddd
+11[Choose one:]-->GEL_185A
+11[Choose one:]-->GEL_185B
+11[Choose one:]-->GEL_186
+11[Choose one:]-->GEL_190
+11[Choose one:]-->GEL_192
+11[Choose one:]-->GEL_194A
+11[Choose one:]-->GEL_194B
+11[Choose one:]-->GEL_194HA
+11[Choose one:]-->GEL_194HB
+style 12 fill:#ddd
+12[Pre-Selected Non-GEL Courses]-->CHE_100
+12[Pre-Selected Non-GEL Courses]-->ECI_171
+12[Pre-Selected Non-GEL Courses]-->ECI_171L
+12[Pre-Selected Non-GEL Courses]-->ESM_100
+12[Pre-Selected Non-GEL Courses]-->ESM_186
+12[Pre-Selected Non-GEL Courses]-->ESP_152
+12[Pre-Selected Non-GEL Courses]-->HYD_144
+12[Pre-Selected Non-GEL Courses]-->HYD_146
+style 13 fill:#ddd
+13[Choose one:]-->ABT_150
+13[Choose one:]-->LDA_150
+13[Choose one:]-->SSC_100
+13[Choose one:]-->WFC_102
+13[Choose one:]-->WFC_102L
+style GEL_050 fill:#ade
+style GEL_050L fill:#ade
+GEL_050-->GEL_050L
+style GEL_053 fill:#ade
+GEL_002-->14[One]
+GEL_001-->14[One]
+GEL_050-->15[One]
+14-->15[One]
+15-->GEL_053
+style GEL_055 fill:#ade
+GEL_002-->16[One]
+GEL_001-->16[One]
+GEL_050-->17[One]
+16-->17[One]
+CHE_002AH-->18[One]
+CHE_002A-->18[One]
+18-->19[Both]
+17-->19[Both]
+CHE_002BH-->20[One]
+CHE_002B-->20[One]
+20-->21[Both]
+19-->21[Both]
+21-->GEL_055
+style GEL_060 fill:#ade
+MAT_017A-->22[One]
+MAT_016A-->22[One]
+MAT_021A-->23[One]
+22-->23[One]
+23-->24[Both]
+CHE_002A-->24[Both]
+GEL_050-->25[One]
+GEL_001-->25[One]
+GEL_050L-->26[Both]
+25-->26[Both]
+26-->27[Both]
+24-->27[Both]
+27-->GEL_060
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->28[One]
+MAT_016A-->28[One]
+MAT_021A-->29[One]
+28-->29[One]
+MAT_021AH-->30[One]
+29-->30[One]
+30-->MAT_016B
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->31[One]
+MAT_016A-->31[One]
+MAT_021A-->32[One]
+31-->32[One]
+MAT_021AH-->33[One]
+32-->33[One]
+33-->MAT_017B
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->34[One]
+MAT_021A-->34[One]
+MAT_017A-->35[One]
+34-->35[One]
+35-->MAT_021B
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->36[One]
+CHE_002A-->36[One]
+36-->CHE_002B
+style PHY_007A fill:#ade
+MAT_017B-->37[One]
+MAT_016B-->37[One]
+MAT_021B-->38[One]
+37-->38[One]
+MAT_016B-->39[One]
+38-->39[One]
+MAT_017B-->40[One]
+39-->40[One]
+MAT_021B-->41[One]
+40-->41[One]
+41-->PHY_007A
+style PHY_007B fill:#ade
+PHY_007A-->PHY_007B
+style STA_013 fill:#ade
+style STA_032 fill:#ade
+MAT_021B-->42[One]
+MAT_016B-->42[One]
+MAT_017B-->43[One]
+42-->43[One]
+43-->STA_032
+style STA_100 fill:#ade
+MAT_017B-->44[One]
+MAT_016B-->44[One]
+MAT_021B-->45[One]
+44-->45[One]
+45-->STA_100
+style GEL_101 fill:#ade
+GEL_050L-->46[Both]
+GEL_050-->46[Both]
+PHY_009A-->47[One]
+PHY_007A-->47[One]
+47-->48[Both]
+46-->48[Both]
+MAT_017A-->49[One]
+MAT_016A-->49[One]
+MAT_021A-->50[One]
+49-->50[One]
+50-->51[Both]
+48-->51[Both]
+51-->GEL_101
+style GEL_101L fill:#ade
+GEL_050L-->52[Both]
+GEL_050-->52[Both]
+PHY_009A-->53[One]
+PHY_007A-->53[One]
+53-->54[Both]
+52-->54[Both]
+GEL_101-->55[Both]
+54-->55[Both]
+55-->GEL_101L
+style GEL_103 fill:#ade
+GEL_101-->56[Both]
+GEL_101L-->56[Both]
+56-->GEL_103
+style GEL_107 fill:#ade
+BIS_002A-->57[One]
+GEL_003-->57[One]
+BIS_010-->58[One]
+57-->58[One]
+58-->GEL_107
+style GEL_107L fill:#ade
+GEL_003L-->59[Both]
+GEL_003-->59[Both]
+BIS_002B-->60[One]
+59-->60[One]
+GEL_107-->61[Both]
+60-->61[Both]
+61-->GEL_107L
+style GEL_108 fill:#ade
+GEL_050-->62[One]
+GEL_001-->62[One]
+GEL_116N-->63[One]
+62-->63[One]
+ESP_116N-->64[One]
+63-->64[One]
+CHE_002A-->65[Both]
+64-->65[Both]
+65-->GEL_108
+style GEL_109 fill:#ade
+GEL_050L-->66[Both]
+GEL_050-->66[Both]
+66-->GEL_109
+style GEL_109L fill:#ade
+GEL_109-->GEL_109L
+style GEL_130 fill:#ade
+GEL_050-->67[One]
+GEL_001-->67[One]
+67-->GEL_130
+style GEL_131 fill:#ade
+style GEL_132 fill:#ade
+CHE_002B-->68[Both]
+GEL_060-->68[Both]
+68-->GEL_132
+style GEL_133 fill:#ade
+CHE_002B-->69[Both]
+CHE_002A-->69[Both]
+69-->GEL_133
+style GEL_134 fill:#ade
+GEL_050-->70[One]
+GEL_001-->70[One]
+70-->GEL_134
+style GEL_136 fill:#ade
+style GEL_138 fill:#ade
+GEL_109-->71[Both]
+GEL_060-->71[Both]
+71-->GEL_138
+style GEL_139 fill:#ade
+GEL_050L-->72[One]
+GEL_050-->72[One]
+72-->GEL_139
+style GEL_140 fill:#ade
+GEL_050-->73[One]
+GEL_001-->73[One]
+MAT_021B-->74[One]
+MAT_016B-->74[One]
+74-->75[Both]
+73-->75[Both]
+75-->GEL_140
+style GEL_141 fill:#ade
+BIS_002A-->76[One]
+GEL_003-->76[One]
+76-->GEL_141
+style GEL_142 fill:#ade
+GEL_050L-->77[Both]
+GEL_050-->77[Both]
+GEL_109-->78[Both]
+77-->78[Both]
+78-->GEL_142
+style GEL_143 fill:#ade
+MAT_021C-->79[One]
+MAT_016C-->79[One]
+79-->80[Both]
+GEL_105-->80[Both]
+CHE_002C-->81[Both]
+80-->81[Both]
+81-->GEL_143
+style GEL_144 fill:#ade
+style GEL_145 fill:#ade
+CHE_002C-->82[One]
+HYD_134-->82[One]
+82-->83[Both]
+GEL_106-->83[Both]
+MAT_021C-->84[One]
+MAT_016C-->84[One]
+84-->85[Both]
+83-->85[Both]
+85-->GEL_145
+style GEL_146 fill:#ade
+PHY_007C-->86[Both]
+CHE_002C-->86[Both]
+MAT_016C-->87[Both]
+86-->87[Both]
+87-->GEL_146
+style GEL_147 fill:#ade
+HYD_134-->88[One]
+CHE_002C-->88[One]
+GEL_060-->89[Both]
+88-->89[Both]
+GEL_062-->90[Both]
+89-->90[Both]
+GEL_105-->91[Both]
+90-->91[Both]
+91-->GEL_147
+style GEL_148 fill:#ade
+HYD_134-->92[One]
+CHE_002C-->92[One]
+GEL_050-->93[Both]
+92-->93[Both]
+GEL_050L-->94[Both]
+93-->94[Both]
+GEL_060-->95[Both]
+94-->95[Both]
+95-->GEL_148
+style GEL_149 fill:#ade
+GEL_050L-->96[Both]
+GEL_050-->96[Both]
+CHE_002B-->97[Both]
+96-->97[Both]
+97-->GEL_149
+style GEL_150A fill:#ade
+GEL_116N-->98[One]
+ESP_116N-->98[One]
+PHY_009B-->99[Both]
+98-->99[Both]
+MAT_021D-->100[Both]
+99-->100[Both]
+CHE_002C-->101[Both]
+100-->101[Both]
+101-->GEL_150A
+style GEL_150B fill:#ade
+ESP_116N-->102[One]
+GEL_116N-->102[One]
+102-->103[One]
+GEL_050-->103[One]
+103-->GEL_150B
+style GEL_150C fill:#ade
+BIS_002A-->GEL_150C
+style GEL_152 fill:#ade
+BIS_002A-->104[One]
+GEL_107-->104[One]
+104-->GEL_152
+style GEL_156 fill:#ade
+ECI_144-->105[One]
+ECI_144-->105[One]
+105-->106[Both]
+HYD_145-->106[Both]
+106-->GEL_156
+style GEL_160 fill:#ade
+MAT_021A-->GEL_160
+style GEL_161 fill:#ade
+GEL_050-->107[One]
+GEL_001-->107[One]
+107-->108[Both]
+MAT_021C-->108[Both]
+PHY_009C-->109[One]
+PHY_007C-->109[One]
+109-->110[Both]
+108-->110[Both]
+110-->GEL_161
+style GEL_162 fill:#ade
+PHY_009C-->111[One]
+PHY_007C-->111[One]
+111-->112[Both]
+MAT_021C-->112[Both]
+112-->GEL_162
+style GEL_163 fill:#ade
+GEL_002-->113[One]
+GEL_001-->113[One]
+GEL_028-->114[One]
+113-->114[One]
+GEL_036-->115[One]
+114-->115[One]
+GEL_050-->116[One]
+115-->116[One]
+AST_010G-->117[One]
+116-->117[One]
+AST_010L-->118[One]
+117-->118[One]
+AST_010S-->119[One]
+118-->119[One]
+AST_025-->120[One]
+119-->120[One]
+MAT_017A-->121[One]
+MAT_016A-->121[One]
+MAT_021A-->122[One]
+121-->122[One]
+122-->123[Both]
+120-->123[Both]
+PHY_009A-->124[One]
+PHY_007A-->124[One]
+124-->125[Both]
+123-->125[Both]
+125-->GEL_163
+style GEL_175 fill:#ade
+style EDU_181 fill:#ade
+style GEL_181 fill:#ade
+style GEL_182 fill:#ade
+style EDU_183 fill:#ade
+style GEL_183 fill:#ade
+style GEL_185A fill:#ade
+style GEL_185B fill:#ade
+style GEL_186 fill:#ade
+style GEL_190 fill:#ade
+style GEL_192 fill:#ade
+style GEL_194A fill:#ade
+style GEL_194B fill:#ade
+style GEL_194HA fill:#ade
+style GEL_194HB fill:#ade
+style CHE_100 fill:#ade
+CHE_002CH-->126[One]
+CHE_002C-->126[One]
+126-->CHE_100
+style ECI_171 fill:#ade
+ECI_100-->127[One]
+ENG_103-->127[One]
+ENG_104-->128[Both]
+127-->128[Both]
+ECI_171L-->129[Both]
+128-->129[Both]
+ECI_171L-->130[Both]
+129-->130[Both]
+130-->ECI_171
+style ECI_171L fill:#ade
+ECI_171-->131[Both]
+ECI_171-->131[Both]
+131-->ECI_171L
+style ESM_100 fill:#ade
+MAT_016B-->132[Both]
+CHE_002B-->132[Both]
+PHY_009A-->133[One]
+PHY_007A-->133[One]
+133-->134[Both]
+132-->134[Both]
+ERS_100-->135[Both]
+134-->135[Both]
+ERS_100-->136[Both]
+135-->136[Both]
+136-->ESM_100
+style ESM_186 fill:#ade
+PHY_009B-->137[One]
+PHY_007C-->137[One]
+137-->138[Both]
+MAT_016B-->138[Both]
+ERS_186-->139[One]
+HYD_186-->139[One]
+139-->140[Both]
+138-->140[Both]
+ERS_186-->141[Both]
+HYD_186-->141[Both]
+141-->142[Both]
+140-->142[Both]
+142-->ESM_186
+style ESP_152 fill:#ade
+PHY_009B-->ESP_152
+style HYD_144 fill:#ade
+MAT_021A-->143[One]
+MAT_016B-->143[One]
+143-->HYD_144
+style HYD_146 fill:#ade
+ECI_144-->144[One]
+HYD_144-->144[One]
+144-->HYD_146
+style ABT_150 fill:#ade
+style LDA_150 fill:#ade
+style SSC_100 fill:#ade
+style WFC_102 fill:#ade
+style WFC_102L fill:#ade
+WFC_102-->WFC_102L

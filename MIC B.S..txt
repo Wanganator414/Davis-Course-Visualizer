@@ -1,0 +1,371 @@
+style 2 fill:#ddd
+2[Biological Science]-->BIS_002A
+2[Biological Science]-->BIS_002B
+2[Biological Science]-->BIS_002C
+style 3 fill:#ddd
+3[Choose a series:]-->CHE_002A
+3[Choose a series:]-->CHE_002B
+3[Choose a series:]-->CHE_002C
+3[Choose a series:]-->CHE_003A
+3[Choose a series:]-->CHE_003B
+3[Choose a series:]-->CHE_003C
+style 4 fill:#ddd
+4[Choose a series:]-->CHE_008A
+4[Choose a series:]-->CHE_008B
+4[Choose a series:]-->CHE_118A
+4[Choose a series:]-->CHE_118B
+4[Choose a series:]-->CHE_118C
+style 5 fill:#ddd
+5[Mathematics choose a series:]-->MAT_017A
+5[Mathematics choose a series:]-->MAT_017B
+5[Mathematics choose a series:]-->MAT_017C
+5[Mathematics choose a series:]-->MAT_021A
+5[Mathematics choose a series:]-->MAT_021B
+5[Mathematics choose a series:]-->MAT_021C
+style 6 fill:#ddd
+6[Physics]-->PHY_007A
+6[Physics]-->PHY_007B
+6[Physics]-->PHY_007C
+style 7 fill:#ddd
+7[Microbiology choose one:]-->MIC_091
+7[Microbiology choose one:]-->MIC_191
+style 8 fill:#ddd
+8[Biological Science]-->BIS_101
+8[Biological Science]-->BIS_104
+style 9 fill:#ddd
+9[Choose BIS 102 & 103 or 105:]-->BIS_102
+9[Choose BIS 102 & 103 or 105:]-->BIS_103
+9[Choose BIS 102 & 103 or 105:]-->BIS_105
+style 10 fill:#ddd
+10[Statistics]-->STA_100
+style 11 fill:#ddd
+11[Microbiology]-->MIC_102
+11[Microbiology]-->MIC_104L
+11[Microbiology]-->MIC_105
+11[Microbiology]-->MIC_105L
+11[Microbiology]-->MIC_111
+style 12 fill:#ddd
+12[1. Molecular Microbiology]-->MIC_115
+12[1. Molecular Microbiology]-->MIC_150
+12[1. Molecular Microbiology]-->MIC_170
+style 13 fill:#ddd
+13[2. Virology]-->MIC_162
+13[2. Virology]-->PMI_128
+style 14 fill:#ddd
+14[3. Immunology]-->MMI_188
+14[3. Immunology]-->PMI_126
+style 15 fill:#ddd
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->BIS_181
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->BIS_183
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->FST_104
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->MCB_121
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->MCB_182
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->MIC_117
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->MIC_120
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->MIC_172
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->MIC_175
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->PLP_130
+15[Choose additional course work from the list below, to achieve a total of 45 or more units. Upper division Microbiology courses not used in satisfaction of any other requirement or:]-->SSC_111
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style BIS_002C fill:#ade
+BIS_002B-->16[One]
+BIS_001B-->16[One]
+16-->BIS_002C
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->17[One]
+CHE_002A-->17[One]
+17-->CHE_002B
+style CHE_002C fill:#ade
+CHE_002BH-->18[One]
+CHE_002B-->18[One]
+18-->CHE_002C
+style CHE_003A fill:#ade
+CHE_002A-->19[Both]
+WKL_041C-->19[Both]
+CHE_002B-->20[Both]
+19-->20[Both]
+CHE_002C-->21[Both]
+20-->21[Both]
+CHE_002AH-->22[Both]
+21-->22[Both]
+CHE_002BH-->23[Both]
+22-->23[Both]
+CHE_002CH-->24[Both]
+23-->24[Both]
+CHE_002C-->25[Both]
+24-->25[Both]
+25-->CHE_003A
+style CHE_003B fill:#ade
+CHE_002A-->26[One]
+CHE_002A-->26[One]
+26-->27[Both]
+CHE_003A-->27[Both]
+CHE_002B-->28[Both]
+27-->28[Both]
+CHE_002C-->29[Both]
+28-->29[Both]
+CHE_002AH-->30[Both]
+29-->30[Both]
+CHE_002BH-->31[Both]
+30-->31[Both]
+CHE_002CH-->32[Both]
+31-->32[Both]
+32-->CHE_003B
+style CHE_003C fill:#ade
+CHE_002A-->33[One]
+CHE_002B-->33[One]
+33-->34[Both]
+CHE_003B-->34[Both]
+CHE_002B-->35[Both]
+34-->35[Both]
+CHE_002C-->36[Both]
+35-->36[Both]
+CHE_002AH-->37[Both]
+36-->37[Both]
+CHE_002BH-->38[Both]
+37-->38[Both]
+CHE_002CH-->39[Both]
+38-->39[Both]
+39-->CHE_003C
+style CHE_008A fill:#ade
+CHE_002BH-->40[One]
+CHE_002B-->40[One]
+40-->CHE_008A
+style CHE_008B fill:#ade
+CHE_118A-->41[One]
+CHE_008A-->41[One]
+CHE_128A-->42[One]
+41-->42[One]
+42-->CHE_008B
+style CHE_118A fill:#ade
+CHE_002CH-->43[One]
+CHE_002C-->43[One]
+43-->CHE_118A
+style CHE_118B fill:#ade
+CHE_128A-->44[One]
+CHE_118A-->44[One]
+44-->CHE_118B
+style CHE_118C fill:#ade
+CHE_129A-->45[Both]
+CHE_128B-->45[Both]
+45-->46[One]
+CHE_118B-->46[One]
+CHE_128-->47[Both]
+46-->47[Both]
+CHE_129A-->48[Both]
+47-->48[Both]
+48-->CHE_118C
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->49[One]
+MAT_016A-->49[One]
+MAT_021A-->50[One]
+49-->50[One]
+MAT_021AH-->51[One]
+50-->51[One]
+51-->MAT_017B
+style MAT_017C fill:#ade
+MAT_017B-->MAT_017C
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->52[One]
+MAT_021A-->52[One]
+MAT_017A-->53[One]
+52-->53[One]
+53-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->54[One]
+MAT_016C-->54[One]
+MAT_021B-->55[One]
+54-->55[One]
+MAT_021BH-->56[One]
+55-->56[One]
+MAT_017B-->57[One]
+56-->57[One]
+57-->MAT_021C
+style PHY_007A fill:#ade
+MAT_017B-->58[One]
+MAT_016B-->58[One]
+MAT_021B-->59[One]
+58-->59[One]
+MAT_016B-->60[One]
+59-->60[One]
+MAT_017B-->61[One]
+60-->61[One]
+MAT_021B-->62[One]
+61-->62[One]
+62-->PHY_007A
+style PHY_007B fill:#ade
+PHY_007A-->PHY_007B
+style PHY_007C fill:#ade
+PHY_007B-->PHY_007C
+style MIC_091 fill:#ade
+BIS_002A-->MIC_091
+style MIC_191 fill:#ade
+BIS_002A-->MIC_191
+style BIS_101 fill:#ade
+BIS_002B-->63[Both]
+BIS_002A-->63[Both]
+CHE_118A-->64[One]
+CHE_008A-->64[One]
+CHE_128A-->65[One]
+64-->65[One]
+65-->66[Both]
+63-->66[Both]
+STA_013Y-->67[One]
+STA_013-->67[One]
+STA_100-->68[One]
+67-->68[One]
+STA_102-->69[One]
+68-->69[One]
+STA_130A-->70[One]
+69-->70[One]
+70-->71[Both]
+66-->71[Both]
+STA_100-->72[Both]
+71-->72[Both]
+72-->BIS_101
+style BIS_104 fill:#ade
+BIS_105-->73[One]
+BIS_102-->73[One]
+73-->74[Both]
+BIS_101-->74[Both]
+74-->BIS_104
+style BIS_102 fill:#ade
+BIS_002A-->75[One]
+BIS_001A-->75[One]
+CHE_118B-->76[One]
+CHE_008B-->76[One]
+CHE_128B-->77[One]
+76-->77[One]
+77-->78[Both]
+75-->78[Both]
+78-->BIS_102
+style BIS_103 fill:#ade
+BIS_102-->BIS_103
+style BIS_105 fill:#ade
+BIS_001B-->79[Both]
+BIS_001A-->79[Both]
+BIS_001C-->80[Both]
+79-->80[Both]
+BIS_002B-->81[Both]
+BIS_002A-->81[Both]
+BIS_002C-->82[Both]
+81-->82[Both]
+82-->83[One]
+80-->83[One]
+CHE_118B-->84[One]
+CHE_008B-->84[One]
+CHE_128B-->85[One]
+84-->85[One]
+85-->86[Both]
+83-->86[Both]
+86-->BIS_105
+style STA_100 fill:#ade
+MAT_017B-->87[One]
+MAT_016B-->87[One]
+MAT_021B-->88[One]
+87-->88[One]
+88-->STA_100
+style MIC_102 fill:#ade
+BIS_002A-->89[One]
+BIS_001A-->89[One]
+CHE_002B-->90[Both]
+89-->90[Both]
+90-->MIC_102
+style MIC_104L fill:#ade
+CHE_118B-->91[One]
+CHE_008B-->91[One]
+CHE_129A-->92[One]
+91-->92[One]
+92-->93[Both]
+MIC_102-->93[Both]
+93-->MIC_104L
+style MIC_105 fill:#ade
+MIC_104-->94[One]
+MIC_102-->94[One]
+BIS_101-->95[Both]
+94-->95[Both]
+95-->MIC_105
+style MIC_105L fill:#ade
+MIC_104-->96[One]
+MIC_102-->96[One]
+MIC_104L-->97[One]
+MIC_102L-->97[One]
+97-->98[Both]
+96-->98[Both]
+MIC_105-->99[Both]
+98-->99[Both]
+99-->MIC_105L
+style MIC_111 fill:#ade
+BIS_101-->100[Both]
+MIC_102-->100[Both]
+100-->MIC_111
+style MIC_115 fill:#ade
+BIS_101-->MIC_115
+style MIC_150 fill:#ade
+BIS_101-->101[Both]
+MIC_102-->101[Both]
+101-->MIC_150
+style MIC_170 fill:#ade
+BIS_101-->MIC_170
+style MIC_162 fill:#ade
+BIS_101-->MIC_162
+style PMI_128 fill:#ade
+BIS_102-->PMI_128
+style MMI_188 fill:#ade
+style PMI_126 fill:#ade
+BIS_102-->PMI_126
+style BIS_181 fill:#ade
+BIS_101-->BIS_181
+style BIS_183 fill:#ade
+BIS_101-->BIS_183
+style FST_104 fill:#ade
+BIS_103-->102[Both]
+BIS_002A-->102[Both]
+MIC_102-->103[Both]
+102-->103[Both]
+103-->FST_104
+style MCB_121 fill:#ade
+BIS_105-->104[One]
+BIS_102-->104[One]
+ABI_102-->105[One]
+104-->105[One]
+105-->106[Both]
+BIS_101-->106[Both]
+106-->MCB_121
+style MCB_182 fill:#ade
+BIS_101-->MCB_182
+style MIC_117 fill:#ade
+MAT_017A-->107[Both]
+BIS_002A-->107[Both]
+MAT_017B-->108[Both]
+107-->108[Both]
+MAT_017C-->109[Both]
+108-->109[Both]
+109-->MIC_117
+style MIC_120 fill:#ade
+BIS_105-->110[One]
+BIS_102-->110[One]
+110-->111[Both]
+MIC_105-->111[Both]
+111-->MIC_120
+style MIC_172 fill:#ade
+MIC_101-->112[One]
+MIC_102-->112[One]
+MIC_104-->113[One]
+112-->113[One]
+113-->MIC_172
+style MIC_175 fill:#ade
+BIS_105-->114[One]
+BIS_102-->114[One]
+114-->115[Both]
+BIS_101-->115[Both]
+115-->MIC_175
+style PLP_130 fill:#ade
+BIS_103-->116[Both]
+PLB_119-->116[Both]
+116-->PLP_130
+style SSC_111 fill:#ade

@@ -1,0 +1,57 @@
+style 2 fill:#ddd
+2[Environmental Toxicology]-->ETX_101
+2[Environmental Toxicology]-->ETX_102A
+2[Environmental Toxicology]-->ETX_103A
+style 3 fill:#ddd
+3[Choose two six units minimum:]-->ETX_104
+3[Choose two six units minimum:]-->ETX_120
+3[Choose two six units minimum:]-->ETX_127
+3[Choose two six units minimum:]-->ETX_128
+3[Choose two six units minimum:]-->ETX_130
+3[Choose two six units minimum:]-->ETX_131
+3[Choose two six units minimum:]-->ETX_135
+3[Choose two six units minimum:]-->ETX_138
+3[Choose two six units minimum:]-->ETX_146
+style ETX_101 fill:#ade
+CHE_118B-->4[One]
+CHE_008B-->4[One]
+CHE_128B-->5[One]
+4-->5[One]
+BIS_001A-->6[Both]
+5-->6[Both]
+6-->ETX_101
+style ETX_102A fill:#ade
+CHE_118B-->7[Both]
+CHE_008B-->7[Both]
+CHE_128B-->8[Both]
+7-->8[Both]
+8-->ETX_102A
+style ETX_103A fill:#ade
+BIS_102-->ETX_103A
+style ETX_104 fill:#ade
+ABI_103-->9[One]
+BIS_103-->9[One]
+9-->10[Both]
+BIS_101-->10[Both]
+10-->ETX_104
+style ETX_120 fill:#ade
+CHE_128B-->11[One]
+CHE_118B-->11[One]
+11-->12[Both]
+CHE_008B-->12[Both]
+BIS_001A-->13[Both]
+12-->13[Both]
+13-->ETX_120
+style ETX_127 fill:#ade
+style ETX_128 fill:#ade
+BIS_103-->14[Both]
+BIS_102-->14[Both]
+14-->ETX_128
+style ETX_130 fill:#ade
+ETX_101-->ETX_130
+style ETX_131 fill:#ade
+style ETX_135 fill:#ade
+ETX_101-->ETX_135
+style ETX_138 fill:#ade
+style ETX_146 fill:#ade
+ETX_112A-->ETX_146

@@ -1,0 +1,437 @@
+style 2 fill:#ddd
+2[(a) Africa:]-->HIS_015A
+2[(a) Africa:]-->HIS_015B
+style 3 fill:#ddd
+3[(b) Asia:]-->HIS_008
+3[(b) Asia:]-->HIS_009A
+3[(b) Asia:]-->HIS_009B
+style 4 fill:#ddd
+4[(c) Europe:]-->HIS_004A
+4[(c) Europe:]-->HIS_004B
+4[(c) Europe:]-->HIS_004C
+style 5 fill:#ddd
+5[(d) Latin America:]-->HIS_007A
+5[(d) Latin America:]-->HIS_007B
+5[(d) Latin America:]-->HIS_007C
+style 6 fill:#ddd
+6[(e) Middle East:]-->HIS_006
+style 7 fill:#ddd
+7[(f) United States:]-->HIS_017A
+7[(f) United States:]-->HIS_017B
+7[(f) United States:]-->HIS_018A
+7[(f) United States:]-->HIS_072A
+7[(f) United States:]-->HIS_072B
+7[(f) United States:]-->HIS_080
+7[(f) United States:]-->HIS_080W
+7[(f) United States:]-->HIS_085
+style 8 fill:#ddd
+8[(g) World:]-->HIS_001
+8[(g) World:]-->HIS_002
+8[(g) World:]-->HIS_003
+8[(g) World:]-->HIS_010A
+8[(g) World:]-->HIS_010B
+8[(g) World:]-->HIS_010C
+8[(g) World:]-->HIS_011
+8[(g) World:]-->HIS_012
+8[(g) World:]-->HIS_013
+8[(g) World:]-->HIS_014
+8[(g) World:]-->HIS_020
+8[(g) World:]-->HIS_090
+style 9 fill:#ddd
+9[History Seminar]-->HIS_101
+9[History Seminar]-->HIS_102A
+9[History Seminar]-->HIS_102B
+9[History Seminar]-->HIS_102D
+9[History Seminar]-->HIS_102E
+9[History Seminar]-->HIS_102F
+9[History Seminar]-->HIS_102G
+9[History Seminar]-->HIS_102H
+9[History Seminar]-->HIS_102I
+9[History Seminar]-->HIS_102J
+9[History Seminar]-->HIS_102K
+9[History Seminar]-->HIS_102L
+9[History Seminar]-->HIS_102M
+9[History Seminar]-->HIS_102N
+9[History Seminar]-->HIS_102O
+9[History Seminar]-->HIS_102P
+9[History Seminar]-->HIS_102Q
+9[History Seminar]-->HIS_102R
+9[History Seminar]-->HIS_102S
+9[History Seminar]-->HIS_102X
+9[History Seminar]-->HIS_103
+style 10 fill:#ddd
+10[(a) Africa:]-->HIS_102O
+10[(a) Africa:]-->HIS_115A
+10[(a) Africa:]-->HIS_115B
+10[(a) Africa:]-->HIS_115C
+10[(a) Africa:]-->HIS_115D
+10[(a) Africa:]-->HIS_115E
+10[(a) Africa:]-->HIS_116
+style 11 fill:#ddd
+11[(b) Asia:]-->HIS_102G
+11[(b) Asia:]-->HIS_102H
+11[(b) Asia:]-->HIS_102N
+11[(b) Asia:]-->HIS_102Q
+11[(b) Asia:]-->HIS_111A
+11[(b) Asia:]-->HIS_191A
+11[(b) Asia:]-->HIS_191B
+11[(b) Asia:]-->HIS_191C
+11[(b) Asia:]-->HIS_191D
+11[(b) Asia:]-->HIS_191E
+11[(b) Asia:]-->HIS_191F
+11[(b) Asia:]-->HIS_191G
+11[(b) Asia:]-->HIS_191H
+11[(b) Asia:]-->HIS_191J
+11[(b) Asia:]-->HIS_194A
+11[(b) Asia:]-->HIS_194B
+11[(b) Asia:]-->HIS_194C
+11[(b) Asia:]-->HIS_194D
+11[(b) Asia:]-->HIS_194E
+11[(b) Asia:]-->HIS_195B
+11[(b) Asia:]-->HIS_195C
+11[(b) Asia:]-->HIS_196A
+11[(b) Asia:]-->HIS_196B
+style 12 fill:#ddd
+12[(c) Europe:]-->HIS_102A
+12[(c) Europe:]-->HIS_102B
+12[(c) Europe:]-->HIS_102D
+12[(c) Europe:]-->HIS_102E
+12[(c) Europe:]-->HIS_102F
+12[(c) Europe:]-->HIS_102I
+12[(c) Europe:]-->HIS_102P
+12[(c) Europe:]-->HIS_111B
+12[(c) Europe:]-->HIS_111C
+12[(c) Europe:]-->HIS_121A
+12[(c) Europe:]-->HIS_121B
+12[(c) Europe:]-->HIS_121C
+12[(c) Europe:]-->HIS_122
+12[(c) Europe:]-->HIS_125
+12[(c) Europe:]-->HIS_126Y
+12[(c) Europe:]-->HIS_130A
+12[(c) Europe:]-->HIS_130B
+12[(c) Europe:]-->HIS_130C
+12[(c) Europe:]-->HIS_131A
+12[(c) Europe:]-->HIS_131B
+12[(c) Europe:]-->HIS_131C
+12[(c) Europe:]-->HIS_132
+12[(c) Europe:]-->HIS_133
+12[(c) Europe:]-->HIS_134A
+12[(c) Europe:]-->HIS_135A
+12[(c) Europe:]-->HIS_135B
+12[(c) Europe:]-->HIS_136
+12[(c) Europe:]-->HIS_138A
+12[(c) Europe:]-->HIS_138B
+12[(c) Europe:]-->HIS_138C
+12[(c) Europe:]-->HIS_139A
+12[(c) Europe:]-->HIS_139B
+12[(c) Europe:]-->HIS_140
+12[(c) Europe:]-->HIS_141
+12[(c) Europe:]-->HIS_142A
+12[(c) Europe:]-->HIS_142B
+12[(c) Europe:]-->HIS_143
+12[(c) Europe:]-->HIS_144A
+12[(c) Europe:]-->HIS_144B
+12[(c) Europe:]-->HIS_145
+12[(c) Europe:]-->HIS_146A
+12[(c) Europe:]-->HIS_146B
+12[(c) Europe:]-->HIS_147A
+12[(c) Europe:]-->HIS_147B
+12[(c) Europe:]-->HIS_147C
+12[(c) Europe:]-->HIS_148A
+12[(c) Europe:]-->HIS_148B
+12[(c) Europe:]-->HIS_148C
+12[(c) Europe:]-->HIS_149
+12[(c) Europe:]-->HIS_151A
+12[(c) Europe:]-->HIS_151B
+12[(c) Europe:]-->HIS_151C
+12[(c) Europe:]-->HIS_151D
+12[(c) Europe:]-->HIS_160
+style 13 fill:#ddd
+13[(d) Latin America:]-->HIS_102J
+13[(d) Latin America:]-->HIS_158
+13[(d) Latin America:]-->HIS_160
+13[(d) Latin America:]-->HIS_161
+13[(d) Latin America:]-->HIS_162
+13[(d) Latin America:]-->HIS_163A
+13[(d) Latin America:]-->HIS_163B
+13[(d) Latin America:]-->HIS_164
+13[(d) Latin America:]-->HIS_165
+13[(d) Latin America:]-->HIS_166A
+13[(d) Latin America:]-->HIS_166B
+13[(d) Latin America:]-->HIS_167
+13[(d) Latin America:]-->HIS_168
+13[(d) Latin America:]-->HIS_169A
+13[(d) Latin America:]-->HIS_169B
+style 14 fill:#ddd
+14[(e) Middle East:]-->HIS_190A
+14[(e) Middle East:]-->HIS_190B
+14[(e) Middle East:]-->HIS_190C
+14[(e) Middle East:]-->HIS_190D
+14[(e) Middle East:]-->HIS_193A
+14[(e) Middle East:]-->HIS_193B
+14[(e) Middle East:]-->HIS_193C
+14[(e) Middle East:]-->HIS_193D
+style 15 fill:#ddd
+15[(f) United States:]-->HIS_102K
+15[(f) United States:]-->HIS_102L
+15[(f) United States:]-->HIS_102M
+15[(f) United States:]-->HIS_169A
+15[(f) United States:]-->HIS_169B
+15[(f) United States:]-->HIS_170A
+15[(f) United States:]-->HIS_170B
+15[(f) United States:]-->HIS_170C
+15[(f) United States:]-->HIS_171A
+15[(f) United States:]-->HIS_171B
+15[(f) United States:]-->HIS_171C
+15[(f) United States:]-->HIS_171D
+15[(f) United States:]-->HIS_172
+15[(f) United States:]-->HIS_173
+15[(f) United States:]-->HIS_174A
+15[(f) United States:]-->HIS_174B
+15[(f) United States:]-->HIS_174C
+15[(f) United States:]-->HIS_174D
+15[(f) United States:]-->HIS_175
+15[(f) United States:]-->HIS_176A
+15[(f) United States:]-->HIS_176B
+15[(f) United States:]-->HIS_177A
+15[(f) United States:]-->HIS_177B
+15[(f) United States:]-->HIS_179
+15[(f) United States:]-->HIS_180AN
+15[(f) United States:]-->HIS_180BN
+15[(f) United States:]-->HIS_180C
+15[(f) United States:]-->HIS_181
+15[(f) United States:]-->HIS_182
+15[(f) United States:]-->HIS_183A
+15[(f) United States:]-->HIS_183B
+15[(f) United States:]-->HIS_184
+15[(f) United States:]-->HIS_185A
+15[(f) United States:]-->HIS_185B
+15[(f) United States:]-->HIS_187
+15[(f) United States:]-->HIS_188
+15[(f) United States:]-->HIS_189
+style 16 fill:#ddd
+16[(g) World:]-->HIS_100
+16[(g) World:]-->HIS_102R
+16[(g) World:]-->HIS_102X
+16[(g) World:]-->HIS_107
+16[(g) World:]-->HIS_108
+16[(g) World:]-->HIS_109
+16[(g) World:]-->HIS_110
+16[(g) World:]-->HIS_110A
+16[(g) World:]-->HIS_112A
+16[(g) World:]-->HIS_112B
+16[(g) World:]-->HIS_112C
+16[(g) World:]-->HIS_113
+16[(g) World:]-->HIS_119
+16[(g) World:]-->HIS_120
+style HIS_015A fill:#ade
+style HIS_015B fill:#ade
+style HIS_008 fill:#ade
+style HIS_009A fill:#ade
+style HIS_009B fill:#ade
+style HIS_004A fill:#ade
+style HIS_004B fill:#ade
+style HIS_004C fill:#ade
+style HIS_007A fill:#ade
+style HIS_007B fill:#ade
+style HIS_007C fill:#ade
+style HIS_006 fill:#ade
+style HIS_017A fill:#ade
+style HIS_017B fill:#ade
+style HIS_018A fill:#ade
+style HIS_072A fill:#ade
+style HIS_072B fill:#ade
+style HIS_080 fill:#ade
+style HIS_080W fill:#ade
+style HIS_085 fill:#ade
+style HIS_001 fill:#ade
+style HIS_002 fill:#ade
+style HIS_003 fill:#ade
+style HIS_010A fill:#ade
+style HIS_010B fill:#ade
+style HIS_010C fill:#ade
+style HIS_011 fill:#ade
+style HIS_012 fill:#ade
+style HIS_013 fill:#ade
+style HIS_014 fill:#ade
+style HIS_020 fill:#ade
+style HIS_090 fill:#ade
+style HIS_101 fill:#ade
+style HIS_102A fill:#ade
+style HIS_102B fill:#ade
+style HIS_102D fill:#ade
+style HIS_102E fill:#ade
+style HIS_102F fill:#ade
+style HIS_102G fill:#ade
+style HIS_102H fill:#ade
+style HIS_102I fill:#ade
+style HIS_102J fill:#ade
+style HIS_102K fill:#ade
+style HIS_102L fill:#ade
+style HIS_102M fill:#ade
+style HIS_102N fill:#ade
+style HIS_102O fill:#ade
+style HIS_102P fill:#ade
+style HIS_102Q fill:#ade
+style HIS_102R fill:#ade
+style HIS_102S fill:#ade
+style HIS_102X fill:#ade
+style HIS_103 fill:#ade
+style HIS_102O fill:#ade
+style HIS_115A fill:#ade
+style HIS_115B fill:#ade
+style HIS_115C fill:#ade
+style HIS_115D fill:#ade
+style HIS_115E fill:#ade
+style HIS_116 fill:#ade
+style HIS_102G fill:#ade
+style HIS_102H fill:#ade
+style HIS_102N fill:#ade
+style HIS_102Q fill:#ade
+style HIS_111A fill:#ade
+style HIS_191A fill:#ade
+style HIS_191B fill:#ade
+style HIS_191C fill:#ade
+style HIS_191D fill:#ade
+style HIS_191E fill:#ade
+style HIS_191F fill:#ade
+style HIS_191G fill:#ade
+style HIS_191H fill:#ade
+style HIS_191J fill:#ade
+style HIS_194A fill:#ade
+style HIS_194B fill:#ade
+style HIS_194C fill:#ade
+style HIS_194D fill:#ade
+style HIS_194E fill:#ade
+style HIS_195B fill:#ade
+style HIS_195C fill:#ade
+style HIS_196A fill:#ade
+style HIS_196B fill:#ade
+style HIS_102A fill:#ade
+style HIS_102B fill:#ade
+style HIS_102D fill:#ade
+style HIS_102E fill:#ade
+style HIS_102F fill:#ade
+style HIS_102I fill:#ade
+style HIS_102P fill:#ade
+style HIS_111B fill:#ade
+style HIS_111C fill:#ade
+style HIS_121A fill:#ade
+style HIS_121B fill:#ade
+style HIS_121C fill:#ade
+style HIS_122 fill:#ade
+style HIS_125 fill:#ade
+style HIS_126Y fill:#ade
+style HIS_130A fill:#ade
+style HIS_130B fill:#ade
+style HIS_130C fill:#ade
+style HIS_131A fill:#ade
+style HIS_131B fill:#ade
+style HIS_131C fill:#ade
+style HIS_132 fill:#ade
+style HIS_133 fill:#ade
+style HIS_134A fill:#ade
+style HIS_135A fill:#ade
+style HIS_135B fill:#ade
+style HIS_136 fill:#ade
+style HIS_138A fill:#ade
+style HIS_138B fill:#ade
+style HIS_138C fill:#ade
+style HIS_139A fill:#ade
+style HIS_139B fill:#ade
+style HIS_140 fill:#ade
+style HIS_141 fill:#ade
+style HIS_142A fill:#ade
+style HIS_142B fill:#ade
+style HIS_143 fill:#ade
+style HIS_144A fill:#ade
+style HIS_144B fill:#ade
+style HIS_145 fill:#ade
+style HIS_146A fill:#ade
+style HIS_146B fill:#ade
+style HIS_147A fill:#ade
+style HIS_147B fill:#ade
+style HIS_147C fill:#ade
+style HIS_148A fill:#ade
+style HIS_148B fill:#ade
+style HIS_148C fill:#ade
+style HIS_149 fill:#ade
+style HIS_151A fill:#ade
+style HIS_151B fill:#ade
+style HIS_151C fill:#ade
+style HIS_151D fill:#ade
+style HIS_160 fill:#ade
+style HIS_102J fill:#ade
+style HIS_158 fill:#ade
+style HIS_160 fill:#ade
+style HIS_161 fill:#ade
+style HIS_162 fill:#ade
+style HIS_163A fill:#ade
+style HIS_163B fill:#ade
+style HIS_164 fill:#ade
+style HIS_165 fill:#ade
+style HIS_166A fill:#ade
+style HIS_166B fill:#ade
+style HIS_167 fill:#ade
+style HIS_168 fill:#ade
+style HIS_169A fill:#ade
+style HIS_169B fill:#ade
+style HIS_190A fill:#ade
+style HIS_190B fill:#ade
+style HIS_190C fill:#ade
+style HIS_190D fill:#ade
+style HIS_193A fill:#ade
+style HIS_193B fill:#ade
+style HIS_193C fill:#ade
+style HIS_193D fill:#ade
+style HIS_102K fill:#ade
+style HIS_102L fill:#ade
+style HIS_102M fill:#ade
+style HIS_169A fill:#ade
+style HIS_169B fill:#ade
+style HIS_170A fill:#ade
+style HIS_170B fill:#ade
+style HIS_170C fill:#ade
+style HIS_171A fill:#ade
+style HIS_171B fill:#ade
+style HIS_171C fill:#ade
+style HIS_171D fill:#ade
+style HIS_172 fill:#ade
+style HIS_173 fill:#ade
+style HIS_174A fill:#ade
+style HIS_174B fill:#ade
+style HIS_174C fill:#ade
+style HIS_174D fill:#ade
+style HIS_175 fill:#ade
+style HIS_176A fill:#ade
+style HIS_176B fill:#ade
+style HIS_177A fill:#ade
+style HIS_177B fill:#ade
+style HIS_179 fill:#ade
+style HIS_180AN fill:#ade
+style HIS_180BN fill:#ade
+style HIS_180C fill:#ade
+style HIS_181 fill:#ade
+style HIS_182 fill:#ade
+style HIS_183A fill:#ade
+style HIS_183B fill:#ade
+style HIS_184 fill:#ade
+style HIS_185A fill:#ade
+style HIS_185B fill:#ade
+style HIS_187 fill:#ade
+style HIS_188 fill:#ade
+style HIS_189 fill:#ade
+style HIS_100 fill:#ade
+style HIS_102R fill:#ade
+style HIS_102X fill:#ade
+style HIS_107 fill:#ade
+style HIS_108 fill:#ade
+style HIS_109 fill:#ade
+style HIS_110 fill:#ade
+style HIS_110A fill:#ade
+style HIS_112A fill:#ade
+style HIS_112B fill:#ade
+style HIS_112C fill:#ade
+style HIS_113 fill:#ade
+style HIS_119 fill:#ade
+style HIS_120 fill:#ade

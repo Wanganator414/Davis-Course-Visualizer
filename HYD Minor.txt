@@ -1,0 +1,62 @@
+style 2 fill:#ddd
+2[Choose one:]-->HYD_103N
+2[Choose one:]-->ENG_103
+style 3 fill:#ddd
+3[Choose one:]-->HYD_141
+3[Choose one:]-->ESM_100
+style 4 fill:#ddd
+4[Hydrology]-->HYD_144
+style 5 fill:#ddd
+5[Soil Science]-->SSC_107
+style 6 fill:#ddd
+6[Choose one:]-->HYD_134
+6[Choose one:]-->CHE_100
+6[Choose one:]-->SSC_111
+6[Choose one:]-->ESP_151
+style HYD_103N fill:#ade
+PHY_009B-->HYD_103N
+style ENG_103 fill:#ade
+MAT_022B-->7[Both]
+ENG_035-->7[Both]
+PHY_009B-->8[Both]
+7-->8[Both]
+8-->ENG_103
+style HYD_141 fill:#ade
+MAT_021B-->9[Both]
+PHY_009B-->9[Both]
+9-->HYD_141
+style ESM_100 fill:#ade
+MAT_016B-->10[Both]
+CHE_002B-->10[Both]
+PHY_009A-->11[One]
+PHY_007A-->11[One]
+11-->12[Both]
+10-->12[Both]
+ERS_100-->13[Both]
+12-->13[Both]
+ERS_100-->14[Both]
+13-->14[Both]
+14-->ESM_100
+style HYD_144 fill:#ade
+MAT_021A-->15[One]
+MAT_016B-->15[One]
+15-->HYD_144
+style SSC_107 fill:#ade
+ERS_100-->16[Both]
+SSC_100-->16[Both]
+MAT_016A-->17[One]
+MAT_016A-->17[One]
+17-->18[Both]
+16-->18[Both]
+18-->SSC_107
+style HYD_134 fill:#ade
+CHE_002B-->HYD_134
+style CHE_100 fill:#ade
+CHE_002CH-->19[One]
+CHE_002C-->19[One]
+19-->CHE_100
+style SSC_111 fill:#ade
+style ESP_151 fill:#ade
+BIS_002B-->20[Both]
+BIS_002A-->20[Both]
+20-->ESP_151

@@ -1,0 +1,268 @@
+style 2 fill:#ddd
+2[Global Disease Biology]-->GDB_090
+style 3 fill:#ddd
+3[Science & Society]-->SAS_013
+style 4 fill:#ddd
+4[Biological Sciences]-->BIS_002A
+4[Biological Sciences]-->BIS_002B
+4[Biological Sciences]-->BIS_002C
+style 5 fill:#ddd
+5[Chemistry]-->CHE_002A
+5[Chemistry]-->CHE_002B
+5[Chemistry]-->CHE_002C
+style 6 fill:#ddd
+6[Choose a series:]-->CHE_008A
+6[Choose a series:]-->CHE_008B
+6[Choose a series:]-->CHE_118A
+6[Choose a series:]-->CHE_118B
+style 7 fill:#ddd
+7[Physics]-->PHY_007A
+7[Physics]-->PHY_007B
+style 8 fill:#ddd
+8[Calculus]-->MAT_017A
+8[Calculus]-->MAT_017B
+8[Calculus]-->MAT_017C
+style 9 fill:#ddd
+9[Biological Sciences]-->BIS_101
+9[Biological Sciences]-->BIS_105
+style 10 fill:#ddd
+10[Evolution & Ecology]-->EVE_100
+style 11 fill:#ddd
+11[Microbiology]-->MIC_102
+11[Microbiology]-->MIC_103L
+style 12 fill:#ddd
+12[Choose one:]-->STA_013
+12[Choose one:]-->STA_100
+12[Choose one:]-->PLS_120
+style 13 fill:#ddd
+13[Pathology, Microbiology & Immunology]-->PMI_129Y
+style 14 fill:#ddd
+14[Medicine & Epidemiology]-->VME_158
+style 15 fill:#ddd
+15[Global Disease Biology]-->GDB_101
+15[Global Disease Biology]-->GDB_102
+15[Global Disease Biology]-->GDB_187
+15[Global Disease Biology]-->GDB_189
+15[Global Disease Biology]-->GDB_189D
+style 16 fill:#ddd
+16[Choose two:]-->ENT_153
+16[Choose two:]-->ENT_156
+16[Choose two:]-->GDB_103
+16[Choose two:]-->MIC_162
+16[Choose two:]-->PLP_120
+16[Choose two:]-->PMI_127
+16[Choose two:]-->PMI_128
+style GDB_090 fill:#ade
+style SAS_013 fill:#ade
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style BIS_002C fill:#ade
+BIS_002B-->17[One]
+BIS_001B-->17[One]
+17-->BIS_002C
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->18[One]
+CHE_002A-->18[One]
+18-->CHE_002B
+style CHE_002C fill:#ade
+CHE_002BH-->19[One]
+CHE_002B-->19[One]
+19-->CHE_002C
+style CHE_008A fill:#ade
+CHE_002BH-->20[One]
+CHE_002B-->20[One]
+20-->CHE_008A
+style CHE_008B fill:#ade
+CHE_118A-->21[One]
+CHE_008A-->21[One]
+CHE_128A-->22[One]
+21-->22[One]
+22-->CHE_008B
+style CHE_118A fill:#ade
+CHE_002CH-->23[One]
+CHE_002C-->23[One]
+23-->CHE_118A
+style CHE_118B fill:#ade
+CHE_128A-->24[One]
+CHE_118A-->24[One]
+24-->CHE_118B
+style PHY_007A fill:#ade
+MAT_017B-->25[One]
+MAT_016B-->25[One]
+MAT_021B-->26[One]
+25-->26[One]
+MAT_016B-->27[One]
+26-->27[One]
+MAT_017B-->28[One]
+27-->28[One]
+MAT_021B-->29[One]
+28-->29[One]
+29-->PHY_007A
+style PHY_007B fill:#ade
+PHY_007A-->PHY_007B
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->30[One]
+MAT_016A-->30[One]
+MAT_021A-->31[One]
+30-->31[One]
+MAT_021AH-->32[One]
+31-->32[One]
+32-->MAT_017B
+style MAT_017C fill:#ade
+MAT_017B-->MAT_017C
+style BIS_101 fill:#ade
+BIS_002B-->33[Both]
+BIS_002A-->33[Both]
+CHE_118A-->34[One]
+CHE_008A-->34[One]
+CHE_128A-->35[One]
+34-->35[One]
+35-->36[Both]
+33-->36[Both]
+STA_013Y-->37[One]
+STA_013-->37[One]
+STA_100-->38[One]
+37-->38[One]
+STA_102-->39[One]
+38-->39[One]
+STA_130A-->40[One]
+39-->40[One]
+40-->41[Both]
+36-->41[Both]
+STA_100-->42[Both]
+41-->42[Both]
+42-->BIS_101
+style BIS_105 fill:#ade
+BIS_001B-->43[Both]
+BIS_001A-->43[Both]
+BIS_001C-->44[Both]
+43-->44[Both]
+BIS_002B-->45[Both]
+BIS_002A-->45[Both]
+BIS_002C-->46[Both]
+45-->46[Both]
+46-->47[One]
+44-->47[One]
+CHE_118B-->48[One]
+CHE_008B-->48[One]
+CHE_128B-->49[One]
+48-->49[One]
+49-->50[Both]
+47-->50[Both]
+50-->BIS_105
+style EVE_100 fill:#ade
+BIS_002B-->51[Both]
+BIS_002A-->51[Both]
+BIS_002C-->52[Both]
+51-->52[Both]
+MAT_017A-->53[One]
+MAT_016A-->53[One]
+MAT_021A-->54[One]
+53-->54[One]
+54-->55[Both]
+52-->55[Both]
+MAT_017B-->56[One]
+MAT_016B-->56[One]
+MAT_021B-->57[One]
+56-->57[One]
+57-->58[Both]
+55-->58[Both]
+58-->EVE_100
+style MIC_102 fill:#ade
+BIS_002A-->59[One]
+BIS_001A-->59[One]
+CHE_002B-->60[Both]
+59-->60[Both]
+60-->MIC_102
+style MIC_103L fill:#ade
+CHE_002B-->61[Both]
+MIC_102-->61[Both]
+61-->MIC_103L
+style STA_013 fill:#ade
+style STA_100 fill:#ade
+MAT_017B-->62[One]
+MAT_016B-->62[One]
+MAT_021B-->63[One]
+62-->63[One]
+63-->STA_100
+style PLS_120 fill:#ade
+style PMI_129Y fill:#ade
+style VME_158 fill:#ade
+BIS_002B-->64[Both]
+BIS_002A-->64[Both]
+64-->VME_158
+style GDB_101 fill:#ade
+BIS_002A-->65[Both]
+SAS_013-->65[Both]
+BIS_002B-->66[Both]
+65-->66[Both]
+BIS_002C-->67[Both]
+66-->67[Both]
+STA_013Y-->68[One]
+STA_013-->68[One]
+PLS_120-->69[One]
+STA_100-->69[One]
+69-->70[One]
+68-->70[One]
+70-->71[Both]
+67-->71[Both]
+71-->GDB_101
+style GDB_102 fill:#ade
+SAS_013-->72[Both]
+GDB_101-->72[Both]
+BIS_002A-->73[Both]
+72-->73[Both]
+BIS_002B-->74[Both]
+73-->74[Both]
+BIS_002C-->75[Both]
+74-->75[Both]
+PMI_129Y-->76[Both]
+75-->76[Both]
+VME_158-->77[Both]
+76-->77[Both]
+77-->GDB_102
+style GDB_187 fill:#ade
+SAS_013-->78[Both]
+GDB_090-->78[Both]
+78-->GDB_187
+style GDB_189 fill:#ade
+GDB_189D-->79[Both]
+GDB_090-->79[Both]
+SAS_013-->80[Both]
+79-->80[Both]
+GBD_189D-->81[Both]
+80-->81[Both]
+GBD_189-->82[Both]
+81-->82[Both]
+82-->GDB_189
+style GDB_189D fill:#ade
+GDB_187-->83[Both]
+GDB_090-->83[Both]
+SAS_013-->84[Both]
+83-->84[Both]
+GDB_189-->85[Both]
+84-->85[Both]
+GBD_189-->86[Both]
+85-->86[Both]
+86-->GDB_189D
+style ENT_153 fill:#ade
+BIS_002B-->87[Both]
+BIS_002A-->87[Both]
+87-->ENT_153
+style ENT_156 fill:#ade
+BIS_002A-->ENT_156
+style GDB_103 fill:#ade
+BIS_002B-->88[Both]
+BIS_002A-->88[Both]
+BIS_002C-->89[Both]
+88-->89[Both]
+89-->GDB_103
+style MIC_162 fill:#ade
+BIS_101-->MIC_162
+style PLP_120 fill:#ade
+style PMI_127 fill:#ade
+PMI_127L-->PMI_127
+style PMI_128 fill:#ade
+BIS_102-->PMI_128

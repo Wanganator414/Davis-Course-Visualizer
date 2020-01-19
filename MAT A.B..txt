@@ -1,0 +1,770 @@
+style 2 fill:#ddd
+2[Calculus]-->MAT_021A
+2[Calculus]-->MAT_021B
+2[Calculus]-->MAT_021C
+2[Calculus]-->MAT_021D
+style 3 fill:#ddd
+3[Linear Algebra & Proof-Writing choose one option:]-->MAT_022A
+3[Linear Algebra & Proof-Writing choose one option:]-->MAT_108
+3[Linear Algebra & Proof-Writing choose one option:]-->MAT_027A
+3[Linear Algebra & Proof-Writing choose one option:]-->MAT_108
+3[Linear Algebra & Proof-Writing choose one option:]-->MAT_067
+style 4 fill:#ddd
+4[MATLAB choose one:]-->MAT_022AL
+style 5 fill:#ddd
+5[Differential Equations choose one:]-->MAT_022B
+5[Differential Equations choose one:]-->MAT_027B
+style 6 fill:#ddd
+6[Programming choose one:]-->ECS_032A
+6[Programming choose one:]-->ENG_006
+style 7 fill:#ddd
+7[A. Core Courses]-->MAT_127A
+7[A. Core Courses]-->MAT_127B
+7[A. Core Courses]-->MAT_127C
+7[A. Core Courses]-->MAT_135A
+7[A. Core Courses]-->MAT_150A
+style 8 fill:#ddd
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_111
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_114
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_115A
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_115B
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_116
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_118A
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_118B
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_118C
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_119A
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_119B
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_124
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_125A
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_125B
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_128A
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_128B
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_128C
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_129
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_133
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_135B
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_141
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_145
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_146
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_147
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_148
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_150B
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_150C
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_160
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_165
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_167
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_168
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_185A
+8[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone. Up to four of these 16 units may be approved upper division courses outside of the Department of Mathematics with extensive use of mathematics.]-->MAT_185B
+style 9 fill:#ddd
+9[C. Capstone Course choose one:]-->MAT_115B
+9[C. Capstone Course choose one:]-->MAT_118B
+9[C. Capstone Course choose one:]-->MAT_119B
+9[C. Capstone Course choose one:]-->MAT_135B
+9[C. Capstone Course choose one:]-->MAT_146
+9[C. Capstone Course choose one:]-->MAT_150B
+9[C. Capstone Course choose one:]-->MAT_150C
+9[C. Capstone Course choose one:]-->MAT_180
+9[C. Capstone Course choose one:]-->MAT_185B
+9[C. Capstone Course choose one:]-->MAT_189
+9[C. Capstone Course choose one:]-->MAT_192
+style 10 fill:#ddd
+10[Must take 3 units.]-->MAT_194
+style 11 fill:#ddd
+11[A. Core Courses]-->MAT_111
+11[A. Core Courses]-->MAT_115A
+11[A. Core Courses]-->MAT_127A
+11[A. Core Courses]-->MAT_127B
+11[A. Core Courses]-->MAT_127C
+11[A. Core Courses]-->MAT_135A
+11[A. Core Courses]-->MAT_141
+11[A. Core Courses]-->MAT_150A
+style 12 fill:#ddd
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_114
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_115B
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_116
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_118A
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_118B
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_118C
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_119A
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_119B
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_124
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_125A
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_125B
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_128A
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_128B
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_128C
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_129
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_133
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_135B
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_145
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_146
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_147
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_148
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_150B
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_150C
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_160
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_165
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_167
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_168
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_185A
+12[MAT 111-185B excluding MAT 180, core courses, and courses being used as a capstone.]-->MAT_185B
+style 13 fill:#ddd
+13[C. Capstone Course choose one:]-->MAT_115B
+13[C. Capstone Course choose one:]-->MAT_118B
+13[C. Capstone Course choose one:]-->MAT_119B
+13[C. Capstone Course choose one:]-->MAT_135B
+13[C. Capstone Course choose one:]-->MAT_146
+13[C. Capstone Course choose one:]-->MAT_150B
+13[C. Capstone Course choose one:]-->MAT_150C
+13[C. Capstone Course choose one:]-->MAT_180
+13[C. Capstone Course choose one:]-->MAT_185B
+13[C. Capstone Course choose one:]-->MAT_189
+13[C. Capstone Course choose one:]-->MAT_192
+style 14 fill:#ddd
+14[Must take 3 units.]-->MAT_194
+style 15 fill:#ddd
+15[Choose one:]-->EDU_183
+15[Choose one:]-->GEL_183
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->16[One]
+MAT_021A-->16[One]
+MAT_017A-->17[One]
+16-->17[One]
+17-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->18[One]
+MAT_016C-->18[One]
+MAT_021B-->19[One]
+18-->19[One]
+MAT_021BH-->20[One]
+19-->20[One]
+MAT_017B-->21[One]
+20-->21[One]
+21-->MAT_021C
+style MAT_021D fill:#ade
+MAT_021CH-->22[One]
+MAT_021C-->22[One]
+MAT_017C-->23[One]
+22-->23[One]
+23-->MAT_021D
+style MAT_022A fill:#ade
+MAT_017C-->24[One]
+MAT_016C-->24[One]
+MAT_021C-->25[One]
+24-->25[One]
+MAT_021CH-->26[One]
+25-->26[One]
+EME_005-->27[One]
+ENG_006-->27[One]
+ECH_060-->28[One]
+27-->28[One]
+MAT_022AL-->29[One]
+28-->29[One]
+29-->30[Both]
+26-->30[Both]
+30-->MAT_022A
+style MAT_108 fill:#ade
+MAT_021B-->MAT_108
+style MAT_027A fill:#ade
+MAT_021C-->31[One]
+MAT_017C-->31[One]
+MAT_021CH-->32[One]
+31-->32[One]
+32-->MAT_027A
+style MAT_108 fill:#ade
+MAT_021B-->MAT_108
+style MAT_067 fill:#ade
+MAT_021CH-->33[One]
+MAT_021C-->33[One]
+33-->MAT_067
+style MAT_022AL fill:#ade
+MAT_017C-->34[One]
+MAT_016C-->34[One]
+MAT_021C-->35[One]
+34-->35[One]
+MAT_021CH-->36[One]
+35-->36[One]
+36-->MAT_022AL
+style MAT_022B fill:#ade
+MAT_067-->37[One]
+MAT_022A-->37[One]
+37-->MAT_022B
+style MAT_027B fill:#ade
+ENG_006-->38[One]
+MAT_022AL-->38[One]
+EME_005-->39[One]
+38-->39[One]
+39-->40[Both]
+MAT_022A-->40[Both]
+40-->41[One]
+MAT_027A-->41[One]
+41-->MAT_027B
+style ECS_032A fill:#ade
+style ENG_006 fill:#ade
+MAT_017A-->42[One]
+MAT_016A-->42[One]
+MAT_021A-->43[One]
+42-->43[One]
+MAT_017B-->44[One]
+MAT_016B-->44[One]
+MAT_021B-->45[One]
+44-->45[One]
+45-->46[Both]
+43-->46[Both]
+46-->ENG_006
+style MAT_127A fill:#ade
+MAT_021CH-->47[One]
+MAT_021C-->47[One]
+MAT_108-->48[Both]
+MAT_022A-->48[Both]
+48-->49[One]
+MAT_067-->49[One]
+49-->50[Both]
+47-->50[Both]
+50-->MAT_127A
+style MAT_127B fill:#ade
+MAT_127A-->MAT_127B
+style MAT_127C fill:#ade
+MAT_127B-->MAT_127C
+style MAT_135A fill:#ade
+MAT_025-->51[One]
+MAT_108-->51[One]
+51-->52[Both]
+MAT_021C-->52[Both]
+52-->MAT_135A
+style MAT_150A fill:#ade
+MAT_108-->53[Both]
+MAT_022A-->53[Both]
+53-->54[One]
+MAT_067-->54[One]
+54-->MAT_150A
+style MAT_111 fill:#ade
+MAT_127A-->55[One]
+MAT_025-->55[One]
+MAT_067-->56[One]
+55-->56[One]
+MAT_108-->57[One]
+56-->57[One]
+MAT_114-->58[One]
+57-->58[One]
+MAT_115A-->59[One]
+58-->59[One]
+MAT_141-->60[One]
+59-->60[One]
+MAT_145-->61[One]
+60-->61[One]
+61-->MAT_111
+style MAT_114 fill:#ade
+MAT_067-->62[One]
+MAT_022A-->62[One]
+62-->63[Both]
+MAT_021C-->63[Both]
+63-->MAT_114
+style MAT_115A fill:#ade
+MAT_021B-->MAT_115A
+style MAT_115B fill:#ade
+MAT_067-->64[One]
+MAT_022A-->64[One]
+64-->65[Both]
+MAT_115A-->65[Both]
+65-->MAT_115B
+style MAT_116 fill:#ade
+MAT_022B-->66[Both]
+MAT_021D-->66[Both]
+MAT_067-->67[One]
+MAT_022A-->67[One]
+67-->68[Both]
+66-->68[Both]
+68-->MAT_116
+style MAT_118A fill:#ade
+MAT_022B-->69[Both]
+MAT_021D-->69[Both]
+MAT_067-->70[One]
+MAT_022A-->70[One]
+70-->71[Both]
+69-->71[Both]
+71-->MAT_118A
+style MAT_118B fill:#ade
+MAT_118A-->MAT_118B
+style MAT_118C fill:#ade
+MAT_118B-->MAT_118C
+style MAT_119A fill:#ade
+MAT_022B-->72[Both]
+MAT_021D-->72[Both]
+MAT_067-->73[One]
+MAT_022A-->73[One]
+73-->74[Both]
+72-->74[Both]
+74-->MAT_119A
+style MAT_119B fill:#ade
+MAT_119A-->MAT_119B
+style MAT_124 fill:#ade
+MAT_067-->75[One]
+MAT_022A-->75[One]
+75-->76[Both]
+MAT_022B-->76[Both]
+76-->MAT_124
+style MAT_125A fill:#ade
+MAT_025-->MAT_125A
+style MAT_125B fill:#ade
+MAT_108-->77[Both]
+MAT_022A-->77[Both]
+77-->78[One]
+MAT_067-->78[One]
+78-->79[Both]
+MAT_125A-->79[Both]
+79-->MAT_125B
+style MAT_128A fill:#ade
+ENG_006-->80[One]
+ECS_032A-->80[One]
+EME_005-->81[One]
+80-->81[One]
+ECS_030-->82[One]
+81-->82[One]
+82-->83[Both]
+MAT_021C-->83[Both]
+83-->MAT_128A
+style MAT_128B fill:#ade
+MAT_067-->84[One]
+MAT_022A-->84[One]
+ENG_006-->85[One]
+ECS_032A-->85[One]
+EME_005-->86[One]
+85-->86[One]
+ECS_030-->87[One]
+86-->87[One]
+87-->88[Both]
+84-->88[Both]
+88-->MAT_128B
+style MAT_128C fill:#ade
+MAT_067-->89[One]
+MAT_022A-->89[One]
+MAT_022B-->90[Both]
+89-->90[Both]
+ENG_006-->91[One]
+ECS_032A-->91[One]
+EME_005-->92[One]
+91-->92[One]
+ECS_030-->93[One]
+92-->93[One]
+93-->94[Both]
+90-->94[Both]
+94-->MAT_128C
+style MAT_129 fill:#ade
+MAT_022B-->95[Both]
+MAT_021D-->95[Both]
+MAT_067-->96[One]
+MAT_022A-->96[One]
+96-->97[Both]
+95-->97[Both]
+MAT_025-->98[Both]
+97-->98[Both]
+98-->MAT_129
+style MAT_133 fill:#ade
+MAT_108-->99[Both]
+MAT_022A-->99[Both]
+99-->100[One]
+MAT_067-->100[One]
+MAT_135A-->101[Both]
+100-->101[Both]
+101-->MAT_133
+style MAT_135B fill:#ade
+MAT_067-->102[One]
+MAT_022A-->102[One]
+102-->103[Both]
+MAT_135A-->103[Both]
+103-->MAT_135B
+style MAT_141 fill:#ade
+MAT_067-->104[One]
+MAT_022A-->104[One]
+104-->105[Both]
+MAT_021B-->105[Both]
+105-->MAT_141
+style MAT_145 fill:#ade
+MAT_021C-->MAT_145
+style MAT_146 fill:#ade
+MAT_108-->106[Both]
+MAT_022A-->106[Both]
+MAT_067-->107[One]
+106-->107[One]
+MAT_145-->108[Both]
+107-->108[Both]
+108-->MAT_146
+style MAT_147 fill:#ade
+MAT_025-->MAT_147
+style MAT_148 fill:#ade
+MAT_108-->109[Both]
+MAT_022A-->109[Both]
+109-->110[One]
+MAT_067-->110[One]
+110-->MAT_148
+style MAT_150B fill:#ade
+MAT_150A-->MAT_150B
+style MAT_150C fill:#ade
+MAT_150B-->MAT_150C
+style MAT_160 fill:#ade
+MAT_167-->MAT_160
+style MAT_165 fill:#ade
+MAT_067-->111[One]
+MAT_022A-->111[One]
+MAT_108-->112[One]
+MAT_025-->112[One]
+MAT_114-->113[One]
+112-->113[One]
+MAT_115A-->114[One]
+113-->114[One]
+MAT_145-->115[One]
+114-->115[One]
+115-->116[Both]
+111-->116[Both]
+116-->MAT_165
+style MAT_167 fill:#ade
+MAT_067-->117[One]
+MAT_022A-->117[One]
+117-->MAT_167
+style MAT_168 fill:#ade
+MAT_108-->118[Both]
+MAT_022A-->118[Both]
+MAT_067-->119[One]
+118-->119[One]
+119-->120[Both]
+MAT_021C-->120[Both]
+120-->MAT_168
+style MAT_185A fill:#ade
+MAT_108-->121[Both]
+MAT_022A-->121[Both]
+121-->122[One]
+MAT_067-->122[One]
+MAT_125A-->123[Both]
+122-->123[Both]
+123-->MAT_185A
+style MAT_185B fill:#ade
+MAT_185A-->MAT_185B
+style MAT_115B fill:#ade
+MAT_067-->124[One]
+MAT_022A-->124[One]
+124-->125[Both]
+MAT_115A-->125[Both]
+125-->MAT_115B
+style MAT_118B fill:#ade
+MAT_118A-->MAT_118B
+style MAT_119B fill:#ade
+MAT_119A-->MAT_119B
+style MAT_135B fill:#ade
+MAT_067-->126[One]
+MAT_022A-->126[One]
+126-->127[Both]
+MAT_135A-->127[Both]
+127-->MAT_135B
+style MAT_146 fill:#ade
+MAT_108-->128[Both]
+MAT_022A-->128[Both]
+MAT_067-->129[One]
+128-->129[One]
+MAT_145-->130[Both]
+129-->130[Both]
+130-->MAT_146
+style MAT_150B fill:#ade
+MAT_150A-->MAT_150B
+style MAT_150C fill:#ade
+MAT_150B-->MAT_150C
+style MAT_180 fill:#ade
+MAT_108-->131[Both]
+MAT_022A-->131[Both]
+131-->132[One]
+MAT_067-->132[One]
+132-->133[Both]
+MAT_025-->133[Both]
+133-->MAT_180
+style MAT_185B fill:#ade
+MAT_185A-->MAT_185B
+style MAT_189 fill:#ade
+MAT_108-->134[Both]
+MAT_022A-->134[Both]
+MAT_067-->135[One]
+134-->135[One]
+135-->136[Both]
+MAT_025-->136[Both]
+136-->MAT_189
+style MAT_192 fill:#ade
+style MAT_194 fill:#ade
+style MAT_111 fill:#ade
+MAT_127A-->137[One]
+MAT_025-->137[One]
+MAT_067-->138[One]
+137-->138[One]
+MAT_108-->139[One]
+138-->139[One]
+MAT_114-->140[One]
+139-->140[One]
+MAT_115A-->141[One]
+140-->141[One]
+MAT_141-->142[One]
+141-->142[One]
+MAT_145-->143[One]
+142-->143[One]
+143-->MAT_111
+style MAT_115A fill:#ade
+MAT_021B-->MAT_115A
+style MAT_127A fill:#ade
+MAT_021CH-->144[One]
+MAT_021C-->144[One]
+MAT_108-->145[Both]
+MAT_022A-->145[Both]
+145-->146[One]
+MAT_067-->146[One]
+146-->147[Both]
+144-->147[Both]
+147-->MAT_127A
+style MAT_127B fill:#ade
+MAT_127A-->MAT_127B
+style MAT_127C fill:#ade
+MAT_127B-->MAT_127C
+style MAT_135A fill:#ade
+MAT_025-->148[One]
+MAT_108-->148[One]
+148-->149[Both]
+MAT_021C-->149[Both]
+149-->MAT_135A
+style MAT_141 fill:#ade
+MAT_067-->150[One]
+MAT_022A-->150[One]
+150-->151[Both]
+MAT_021B-->151[Both]
+151-->MAT_141
+style MAT_150A fill:#ade
+MAT_108-->152[Both]
+MAT_022A-->152[Both]
+152-->153[One]
+MAT_067-->153[One]
+153-->MAT_150A
+style MAT_114 fill:#ade
+MAT_067-->154[One]
+MAT_022A-->154[One]
+154-->155[Both]
+MAT_021C-->155[Both]
+155-->MAT_114
+style MAT_115B fill:#ade
+MAT_067-->156[One]
+MAT_022A-->156[One]
+156-->157[Both]
+MAT_115A-->157[Both]
+157-->MAT_115B
+style MAT_116 fill:#ade
+MAT_022B-->158[Both]
+MAT_021D-->158[Both]
+MAT_067-->159[One]
+MAT_022A-->159[One]
+159-->160[Both]
+158-->160[Both]
+160-->MAT_116
+style MAT_118A fill:#ade
+MAT_022B-->161[Both]
+MAT_021D-->161[Both]
+MAT_067-->162[One]
+MAT_022A-->162[One]
+162-->163[Both]
+161-->163[Both]
+163-->MAT_118A
+style MAT_118B fill:#ade
+MAT_118A-->MAT_118B
+style MAT_118C fill:#ade
+MAT_118B-->MAT_118C
+style MAT_119A fill:#ade
+MAT_022B-->164[Both]
+MAT_021D-->164[Both]
+MAT_067-->165[One]
+MAT_022A-->165[One]
+165-->166[Both]
+164-->166[Both]
+166-->MAT_119A
+style MAT_119B fill:#ade
+MAT_119A-->MAT_119B
+style MAT_124 fill:#ade
+MAT_067-->167[One]
+MAT_022A-->167[One]
+167-->168[Both]
+MAT_022B-->168[Both]
+168-->MAT_124
+style MAT_125A fill:#ade
+MAT_025-->MAT_125A
+style MAT_125B fill:#ade
+MAT_108-->169[Both]
+MAT_022A-->169[Both]
+169-->170[One]
+MAT_067-->170[One]
+170-->171[Both]
+MAT_125A-->171[Both]
+171-->MAT_125B
+style MAT_128A fill:#ade
+ENG_006-->172[One]
+ECS_032A-->172[One]
+EME_005-->173[One]
+172-->173[One]
+ECS_030-->174[One]
+173-->174[One]
+174-->175[Both]
+MAT_021C-->175[Both]
+175-->MAT_128A
+style MAT_128B fill:#ade
+MAT_067-->176[One]
+MAT_022A-->176[One]
+ENG_006-->177[One]
+ECS_032A-->177[One]
+EME_005-->178[One]
+177-->178[One]
+ECS_030-->179[One]
+178-->179[One]
+179-->180[Both]
+176-->180[Both]
+180-->MAT_128B
+style MAT_128C fill:#ade
+MAT_067-->181[One]
+MAT_022A-->181[One]
+MAT_022B-->182[Both]
+181-->182[Both]
+ENG_006-->183[One]
+ECS_032A-->183[One]
+EME_005-->184[One]
+183-->184[One]
+ECS_030-->185[One]
+184-->185[One]
+185-->186[Both]
+182-->186[Both]
+186-->MAT_128C
+style MAT_129 fill:#ade
+MAT_022B-->187[Both]
+MAT_021D-->187[Both]
+MAT_067-->188[One]
+MAT_022A-->188[One]
+188-->189[Both]
+187-->189[Both]
+MAT_025-->190[Both]
+189-->190[Both]
+190-->MAT_129
+style MAT_133 fill:#ade
+MAT_108-->191[Both]
+MAT_022A-->191[Both]
+191-->192[One]
+MAT_067-->192[One]
+MAT_135A-->193[Both]
+192-->193[Both]
+193-->MAT_133
+style MAT_135B fill:#ade
+MAT_067-->194[One]
+MAT_022A-->194[One]
+194-->195[Both]
+MAT_135A-->195[Both]
+195-->MAT_135B
+style MAT_145 fill:#ade
+MAT_021C-->MAT_145
+style MAT_146 fill:#ade
+MAT_108-->196[Both]
+MAT_022A-->196[Both]
+MAT_067-->197[One]
+196-->197[One]
+MAT_145-->198[Both]
+197-->198[Both]
+198-->MAT_146
+style MAT_147 fill:#ade
+MAT_025-->MAT_147
+style MAT_148 fill:#ade
+MAT_108-->199[Both]
+MAT_022A-->199[Both]
+199-->200[One]
+MAT_067-->200[One]
+200-->MAT_148
+style MAT_150B fill:#ade
+MAT_150A-->MAT_150B
+style MAT_150C fill:#ade
+MAT_150B-->MAT_150C
+style MAT_160 fill:#ade
+MAT_167-->MAT_160
+style MAT_165 fill:#ade
+MAT_067-->201[One]
+MAT_022A-->201[One]
+MAT_108-->202[One]
+MAT_025-->202[One]
+MAT_114-->203[One]
+202-->203[One]
+MAT_115A-->204[One]
+203-->204[One]
+MAT_145-->205[One]
+204-->205[One]
+205-->206[Both]
+201-->206[Both]
+206-->MAT_165
+style MAT_167 fill:#ade
+MAT_067-->207[One]
+MAT_022A-->207[One]
+207-->MAT_167
+style MAT_168 fill:#ade
+MAT_108-->208[Both]
+MAT_022A-->208[Both]
+MAT_067-->209[One]
+208-->209[One]
+209-->210[Both]
+MAT_021C-->210[Both]
+210-->MAT_168
+style MAT_185A fill:#ade
+MAT_108-->211[Both]
+MAT_022A-->211[Both]
+211-->212[One]
+MAT_067-->212[One]
+MAT_125A-->213[Both]
+212-->213[Both]
+213-->MAT_185A
+style MAT_185B fill:#ade
+MAT_185A-->MAT_185B
+style MAT_115B fill:#ade
+MAT_067-->214[One]
+MAT_022A-->214[One]
+214-->215[Both]
+MAT_115A-->215[Both]
+215-->MAT_115B
+style MAT_118B fill:#ade
+MAT_118A-->MAT_118B
+style MAT_119B fill:#ade
+MAT_119A-->MAT_119B
+style MAT_135B fill:#ade
+MAT_067-->216[One]
+MAT_022A-->216[One]
+216-->217[Both]
+MAT_135A-->217[Both]
+217-->MAT_135B
+style MAT_146 fill:#ade
+MAT_108-->218[Both]
+MAT_022A-->218[Both]
+MAT_067-->219[One]
+218-->219[One]
+MAT_145-->220[Both]
+219-->220[Both]
+220-->MAT_146
+style MAT_150B fill:#ade
+MAT_150A-->MAT_150B
+style MAT_150C fill:#ade
+MAT_150B-->MAT_150C
+style MAT_180 fill:#ade
+MAT_108-->221[Both]
+MAT_022A-->221[Both]
+221-->222[One]
+MAT_067-->222[One]
+222-->223[Both]
+MAT_025-->223[Both]
+223-->MAT_180
+style MAT_185B fill:#ade
+MAT_185A-->MAT_185B
+style MAT_189 fill:#ade
+MAT_108-->224[Both]
+MAT_022A-->224[Both]
+MAT_067-->225[One]
+224-->225[One]
+225-->226[Both]
+MAT_025-->226[Both]
+226-->MAT_189
+style MAT_192 fill:#ade
+style MAT_194 fill:#ade
+style EDU_183 fill:#ade
+style GEL_183 fill:#ade

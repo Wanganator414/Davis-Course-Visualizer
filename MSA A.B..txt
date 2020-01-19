@@ -1,0 +1,249 @@
+style 2 fill:#ddd
+2[History]-->HIS_006
+2[History]-->HIS_008
+style 3 fill:#ddd
+3[Arabic]-->ARB_001
+3[Arabic]-->ARB_002
+3[Arabic]-->ARB_003
+3[Arabic]-->ARB_021
+3[Arabic]-->ARB_022
+3[Arabic]-->ARB_023
+style 4 fill:#ddd
+4[Hebrew]-->HEB_001
+4[Hebrew]-->HEB_002
+4[Hebrew]-->HEB_003
+4[Hebrew]-->HEB_021
+4[Hebrew]-->HEB_022
+4[Hebrew]-->HEB_023
+style 5 fill:#ddd
+5[Hindi/Urdu]-->HIN_001
+5[Hindi/Urdu]-->HIN_002
+5[Hindi/Urdu]-->HIN_003
+5[Hindi/Urdu]-->HIN_021
+5[Hindi/Urdu]-->HIN_022
+5[Hindi/Urdu]-->HIN_023
+style 6 fill:#ddd
+6[Middle East & South Asia]-->MSA_100
+6[Middle East & South Asia]-->MSA_180
+style 7 fill:#ddd
+7[Choose two:]-->ANT_142
+7[Choose two:]-->COM_166
+7[Choose two:]-->HIS_113
+7[Choose two:]-->HIS_190A
+7[Choose two:]-->HIS_190B
+7[Choose two:]-->HIS_190C
+7[Choose two:]-->HIS_193A
+7[Choose two:]-->HIS_193B
+7[Choose two:]-->POL_135
+7[Choose two:]-->POL_136
+7[Choose two:]-->RST_160
+7[Choose two:]-->RST_162
+7[Choose two:]-->WMS_184
+style 8 fill:#ddd
+8[Choose 8 units:]-->ANT_145
+8[Choose 8 units:]-->HIS_102Q
+8[Choose 8 units:]-->HIS_196A
+8[Choose 8 units:]-->HIS_196B
+8[Choose 8 units:]-->RST_170
+8[Choose 8 units:]-->WMS_178B
+style 9 fill:#ddd
+9[Additional Electives from Core Course List:]-->ANT_142
+9[Additional Electives from Core Course List:]-->ANT_145
+9[Additional Electives from Core Course List:]-->ARB_001
+9[Additional Electives from Core Course List:]-->ARB_002
+9[Additional Electives from Core Course List:]-->ARB_003
+9[Additional Electives from Core Course List:]-->ARB_021
+9[Additional Electives from Core Course List:]-->ARB_022
+9[Additional Electives from Core Course List:]-->ARB_023
+9[Additional Electives from Core Course List:]-->AHI_001E
+9[Additional Electives from Core Course List:]-->AHI_155
+9[Additional Electives from Core Course List:]-->ASA_150F
+9[Additional Electives from Core Course List:]-->ASA_189E
+9[Additional Electives from Core Course List:]-->CLA_001
+9[Additional Electives from Core Course List:]-->COM_053B
+9[Additional Electives from Core Course List:]-->COM_053C
+9[Additional Electives from Core Course List:]-->COM_166
+9[Additional Electives from Core Course List:]-->HEB_001
+9[Additional Electives from Core Course List:]-->HEB_002
+9[Additional Electives from Core Course List:]-->HEB_003
+9[Additional Electives from Core Course List:]-->HEB_021
+9[Additional Electives from Core Course List:]-->HEB_022
+9[Additional Electives from Core Course List:]-->HEB_023
+9[Additional Electives from Core Course List:]-->HIN_001
+9[Additional Electives from Core Course List:]-->HIN_002
+9[Additional Electives from Core Course List:]-->HIN_003
+9[Additional Electives from Core Course List:]-->HIN_021
+9[Additional Electives from Core Course List:]-->HIN_022
+9[Additional Electives from Core Course List:]-->HIN_023
+9[Additional Electives from Core Course List:]-->HIS_102Q
+9[Additional Electives from Core Course List:]-->HIS_102R
+9[Additional Electives from Core Course List:]-->HIS_113
+9[Additional Electives from Core Course List:]-->HIS_190A
+9[Additional Electives from Core Course List:]-->HIS_190B
+9[Additional Electives from Core Course List:]-->HIS_190C
+9[Additional Electives from Core Course List:]-->HIS_193A
+9[Additional Electives from Core Course List:]-->HIS_193B
+9[Additional Electives from Core Course List:]-->HIS_196A
+9[Additional Electives from Core Course List:]-->HIS_196B
+9[Additional Electives from Core Course List:]-->MSA_092
+9[Additional Electives from Core Course List:]-->MSA_098
+9[Additional Electives from Core Course List:]-->MSA_099
+9[Additional Electives from Core Course List:]-->MSA_180
+9[Additional Electives from Core Course List:]-->MSA_192
+9[Additional Electives from Core Course List:]-->MSA_198
+9[Additional Electives from Core Course List:]-->MSA_199
+9[Additional Electives from Core Course List:]-->MUS_129B
+9[Additional Electives from Core Course List:]-->MUS_148
+9[Additional Electives from Core Course List:]-->POL_135
+9[Additional Electives from Core Course List:]-->POL_136
+9[Additional Electives from Core Course List:]-->RST_021
+9[Additional Electives from Core Course List:]-->RST_023
+9[Additional Electives from Core Course List:]-->RST_060
+9[Additional Electives from Core Course List:]-->RST_065C
+9[Additional Electives from Core Course List:]-->RST_068
+9[Additional Electives from Core Course List:]-->RST_160
+9[Additional Electives from Core Course List:]-->RST_161
+9[Additional Electives from Core Course List:]-->RST_162
+9[Additional Electives from Core Course List:]-->RST_170
+9[Additional Electives from Core Course List:]-->WMS_178A
+9[Additional Electives from Core Course List:]-->WMS_178B
+9[Additional Electives from Core Course List:]-->WMS_184
+style HIS_006 fill:#ade
+style HIS_008 fill:#ade
+style ARB_001 fill:#ade
+style ARB_002 fill:#ade
+ARB_001-->ARB_002
+style ARB_003 fill:#ade
+ARB_002-->ARB_003
+style ARB_021 fill:#ade
+ARB_003-->ARB_021
+style ARB_022 fill:#ade
+ARB_021-->ARB_022
+style ARB_023 fill:#ade
+ARB_022-->ARB_023
+style HEB_001 fill:#ade
+style HEB_002 fill:#ade
+HEB_001-->HEB_002
+style HEB_003 fill:#ade
+HEB_002-->HEB_003
+style HEB_021 fill:#ade
+HEB_003-->HEB_021
+style HEB_022 fill:#ade
+HEB_021-->HEB_022
+style HEB_023 fill:#ade
+HEB_022-->HEB_023
+style HIN_001 fill:#ade
+style HIN_002 fill:#ade
+HIN_001-->HIN_002
+style HIN_003 fill:#ade
+HIN_002-->HIN_003
+style HIN_021 fill:#ade
+HIN_003-->HIN_021
+style HIN_022 fill:#ade
+HIN_021-->HIN_022
+style HIN_023 fill:#ade
+HIN_022-->HIN_023
+style MSA_100 fill:#ade
+style MSA_180 fill:#ade
+style ANT_142 fill:#ade
+style COM_166 fill:#ade
+style HIS_113 fill:#ade
+style HIS_190A fill:#ade
+style HIS_190B fill:#ade
+style HIS_190C fill:#ade
+style HIS_193A fill:#ade
+style HIS_193B fill:#ade
+style POL_135 fill:#ade
+style POL_136 fill:#ade
+style RST_160 fill:#ade
+style RST_162 fill:#ade
+style WMS_184 fill:#ade
+style ANT_145 fill:#ade
+ANT_002-->ANT_145
+style HIS_102Q fill:#ade
+style HIS_196A fill:#ade
+style HIS_196B fill:#ade
+style RST_170 fill:#ade
+style WMS_178B fill:#ade
+style ANT_142 fill:#ade
+style ANT_145 fill:#ade
+ANT_002-->ANT_145
+style ARB_001 fill:#ade
+style ARB_002 fill:#ade
+ARB_001-->ARB_002
+style ARB_003 fill:#ade
+ARB_002-->ARB_003
+style ARB_021 fill:#ade
+ARB_003-->ARB_021
+style ARB_022 fill:#ade
+ARB_021-->ARB_022
+style ARB_023 fill:#ade
+ARB_022-->ARB_023
+style AHI_001E fill:#ade
+style AHI_155 fill:#ade
+style ASA_150F fill:#ade
+style ASA_189E fill:#ade
+style CLA_001 fill:#ade
+style COM_053B fill:#ade
+style COM_053C fill:#ade
+style COM_166 fill:#ade
+style HEB_001 fill:#ade
+style HEB_002 fill:#ade
+HEB_001-->HEB_002
+style HEB_003 fill:#ade
+HEB_002-->HEB_003
+style HEB_021 fill:#ade
+HEB_003-->HEB_021
+style HEB_022 fill:#ade
+HEB_021-->HEB_022
+style HEB_023 fill:#ade
+HEB_022-->HEB_023
+style HIN_001 fill:#ade
+style HIN_002 fill:#ade
+HIN_001-->HIN_002
+style HIN_003 fill:#ade
+HIN_002-->HIN_003
+style HIN_021 fill:#ade
+HIN_003-->HIN_021
+style HIN_022 fill:#ade
+HIN_021-->HIN_022
+style HIN_023 fill:#ade
+HIN_022-->HIN_023
+style HIS_102Q fill:#ade
+style HIS_102R fill:#ade
+style HIS_113 fill:#ade
+style HIS_190A fill:#ade
+style HIS_190B fill:#ade
+style HIS_190C fill:#ade
+style HIS_193A fill:#ade
+style HIS_193B fill:#ade
+style HIS_196A fill:#ade
+style HIS_196B fill:#ade
+style MSA_092 fill:#ade
+style MSA_098 fill:#ade
+style MSA_099 fill:#ade
+style MSA_180 fill:#ade
+style MSA_192 fill:#ade
+style MSA_198 fill:#ade
+style MSA_199 fill:#ade
+style MUS_129B fill:#ade
+MUS_003A-->10[One]
+MUS_011-->10[One]
+MUS_010-->11[One]
+10-->11[One]
+11-->MUS_129B
+style MUS_148 fill:#ade
+style POL_135 fill:#ade
+style POL_136 fill:#ade
+style RST_021 fill:#ade
+style RST_023 fill:#ade
+style RST_060 fill:#ade
+style RST_065C fill:#ade
+style RST_068 fill:#ade
+style RST_160 fill:#ade
+style RST_161 fill:#ade
+style RST_162 fill:#ade
+style RST_170 fill:#ade
+style WMS_178A fill:#ade
+style WMS_178B fill:#ade
+style WMS_184 fill:#ade

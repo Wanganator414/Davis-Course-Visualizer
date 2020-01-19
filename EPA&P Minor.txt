@@ -1,0 +1,67 @@
+style 2 fill:#ddd
+2[Units: 0-4]-->ECN_001A
+style 3 fill:#ddd
+3[Environmental Science & Policy]-->ESP_001
+3[Environmental Science & Policy]-->ESP_160
+3[Environmental Science & Policy]-->ESP_161
+3[Environmental Science & Policy]-->ESP_168A
+style 4 fill:#ddd
+4[Choose two:]-->ESP_163
+4[Choose two:]-->ESP_165
+4[Choose two:]-->ESP_166
+4[Choose two:]-->ESP_167
+4[Choose two:]-->ESP_168B
+4[Choose two:]-->ESP_169
+4[Choose two:]-->ESP_171
+4[Choose two:]-->ESP_172
+4[Choose two:]-->ESP_179
+style ECN_001A fill:#ade
+style ESP_001 fill:#ade
+style ESP_160 fill:#ade
+POL_001-->ESP_160
+style ESP_161 fill:#ade
+style ESP_168A fill:#ade
+ESP_010-->5[One]
+ESP_001-->5[One]
+STA_013Y-->6[One]
+STA_013-->6[One]
+STA_100-->7[One]
+6-->7[One]
+7-->8[Both]
+5-->8[Both]
+ECN_001AV-->9[One]
+ECN_001A-->9[One]
+9-->10[Both]
+8-->10[Both]
+10-->ESP_168A
+style ESP_163 fill:#ade
+ECN_001AV-->11[One]
+ECN_001A-->11[One]
+ENG_106-->12[One]
+11-->12[One]
+12-->ESP_163
+style ESP_165 fill:#ade
+ECN_001A-->13[One]
+ESP_001-->13[One]
+ECN_001AV-->14[One]
+13-->14[One]
+14-->ESP_165
+style ESP_166 fill:#ade
+ESP_001-->ESP_166
+style ESP_167 fill:#ade
+ECN_001AV-->15[One]
+ECN_001A-->15[One]
+MAT_017B-->16[One]
+MAT_016B-->16[One]
+MAT_021B-->17[One]
+16-->17[One]
+17-->18[Both]
+15-->18[Both]
+18-->ESP_167
+style ESP_168B fill:#ade
+ESP_168A-->ESP_168B
+style ESP_169 fill:#ade
+style ESP_171 fill:#ade
+style ESP_172 fill:#ade
+style ESP_179 fill:#ade
+ESP_001-->ESP_179

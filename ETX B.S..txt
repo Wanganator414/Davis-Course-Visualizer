@@ -1,0 +1,528 @@
+style 2 fill:#ddd
+2[Biological Science]-->BIS_002A
+2[Biological Science]-->BIS_002B
+2[Biological Science]-->BIS_002C
+style 3 fill:#ddd
+3[Choose a series:]-->CHE_002A
+3[Choose a series:]-->CHE_002B
+3[Choose a series:]-->CHE_002C
+3[Choose a series:]-->CHE_002AH
+3[Choose a series:]-->CHE_002BH
+3[Choose a series:]-->CHE_002CH
+3[Choose a series:]-->CHE_003A
+3[Choose a series:]-->CHE_003B
+3[Choose a series:]-->CHE_003C
+style 4 fill:#ddd
+4[Choose CHE 118 series or 128 series & 129A or 103 series:]-->CHE_118A
+4[Choose CHE 118 series or 128 series & 129A or 103 series:]-->CHE_118B
+4[Choose CHE 118 series or 128 series & 129A or 103 series:]-->CHE_118C
+4[Choose CHE 118 series or 128 series & 129A or 103 series:]-->CHE_128A
+4[Choose CHE 118 series or 128 series & 129A or 103 series:]-->CHE_128B
+4[Choose CHE 118 series or 128 series & 129A or 103 series:]-->CHE_128C
+4[Choose CHE 118 series or 128 series & 129A or 103 series:]-->CHE_129A
+4[Choose CHE 118 series or 128 series & 129A or 103 series:]-->CHE_103A
+4[Choose CHE 118 series or 128 series & 129A or 103 series:]-->CHE_103B
+style 5 fill:#ddd
+5[Mathematics choose a series:]-->MAT_017A
+5[Mathematics choose a series:]-->MAT_017B
+5[Mathematics choose a series:]-->MAT_017C
+5[Mathematics choose a series:]-->MAT_021A
+5[Mathematics choose a series:]-->MAT_021B
+5[Mathematics choose a series:]-->MAT_021C
+style 6 fill:#ddd
+6[Physics]-->PHY_007A
+6[Physics]-->PHY_007B
+6[Physics]-->PHY_007C
+style 7 fill:#ddd
+7[Statistics choose one:]-->STA_100
+7[Statistics choose one:]-->STA_103
+7[Statistics choose one:]-->STA_104
+7[Statistics choose one:]-->STA_106
+7[Statistics choose one:]-->STA_108
+style 8 fill:#ddd
+8[Preferably, the course should be taken prior to enrollment in ETX 102B and 103B.]-->UWP_101
+8[Preferably, the course should be taken prior to enrollment in ETX 102B and 103B.]-->UWP_104A
+8[Preferably, the course should be taken prior to enrollment in ETX 102B and 103B.]-->UWP_104B
+8[Preferably, the course should be taken prior to enrollment in ETX 102B and 103B.]-->UWP_104C
+8[Preferably, the course should be taken prior to enrollment in ETX 102B and 103B.]-->UWP_104D
+8[Preferably, the course should be taken prior to enrollment in ETX 102B and 103B.]-->UWP_104E
+8[Preferably, the course should be taken prior to enrollment in ETX 102B and 103B.]-->UWP_104F
+8[Preferably, the course should be taken prior to enrollment in ETX 102B and 103B.]-->UWP_104I
+style 9 fill:#ddd
+9[Biological Science]-->BIS_102
+style 10 fill:#ddd
+10[Choose one:]-->BIS_101
+10[Choose one:]-->BIS_103
+style 11 fill:#ddd
+11[Environmental Toxicology]-->ETX_101
+11[Environmental Toxicology]-->ETX_102A
+11[Environmental Toxicology]-->ETX_102B
+11[Environmental Toxicology]-->ETX_103A
+11[Environmental Toxicology]-->ETX_103B
+style 12 fill:#ddd
+12[Choose ETX 127 or two others:]-->ETX_127
+12[Choose ETX 127 or two others:]-->ETX_104
+12[Choose ETX 127 or two others:]-->ETX_120
+12[Choose ETX 127 or two others:]-->ETX_128
+12[Choose ETX 127 or two others:]-->ETX_130
+12[Choose ETX 127 or two others:]-->ETX_131
+12[Choose ETX 127 or two others:]-->ETX_135
+12[Choose ETX 127 or two others:]-->ETX_138
+12[Choose ETX 127 or two others:]-->ETX_146
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style BIS_002C fill:#ade
+BIS_002B-->13[One]
+BIS_001B-->13[One]
+13-->BIS_002C
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->14[One]
+CHE_002A-->14[One]
+14-->CHE_002B
+style CHE_002C fill:#ade
+CHE_002BH-->15[One]
+CHE_002B-->15[One]
+15-->CHE_002C
+style CHE_002AH fill:#ade
+style CHE_002BH fill:#ade
+CHE_002AH-->16[One]
+CHE_002A-->16[One]
+MAT_021B-->17[Both]
+16-->17[Both]
+17-->CHE_002BH
+style CHE_002CH fill:#ade
+CHE_002BH-->18[One]
+CHE_002B-->18[One]
+CHE_002B-->19[One]
+MAT_021C-->19[One]
+19-->20[Both]
+18-->20[Both]
+20-->CHE_002CH
+style CHE_003A fill:#ade
+CHE_002A-->21[Both]
+WKL_041C-->21[Both]
+CHE_002B-->22[Both]
+21-->22[Both]
+CHE_002C-->23[Both]
+22-->23[Both]
+CHE_002AH-->24[Both]
+23-->24[Both]
+CHE_002BH-->25[Both]
+24-->25[Both]
+CHE_002CH-->26[Both]
+25-->26[Both]
+CHE_002C-->27[Both]
+26-->27[Both]
+27-->CHE_003A
+style CHE_003B fill:#ade
+CHE_002A-->28[One]
+CHE_002A-->28[One]
+28-->29[Both]
+CHE_003A-->29[Both]
+CHE_002B-->30[Both]
+29-->30[Both]
+CHE_002C-->31[Both]
+30-->31[Both]
+CHE_002AH-->32[Both]
+31-->32[Both]
+CHE_002BH-->33[Both]
+32-->33[Both]
+CHE_002CH-->34[Both]
+33-->34[Both]
+34-->CHE_003B
+style CHE_003C fill:#ade
+CHE_002A-->35[One]
+CHE_002B-->35[One]
+35-->36[Both]
+CHE_003B-->36[Both]
+CHE_002B-->37[Both]
+36-->37[Both]
+CHE_002C-->38[Both]
+37-->38[Both]
+CHE_002AH-->39[Both]
+38-->39[Both]
+CHE_002BH-->40[Both]
+39-->40[Both]
+CHE_002CH-->41[Both]
+40-->41[Both]
+41-->CHE_003C
+style CHE_118A fill:#ade
+CHE_002CH-->42[One]
+CHE_002C-->42[One]
+42-->CHE_118A
+style CHE_118B fill:#ade
+CHE_128A-->43[One]
+CHE_118A-->43[One]
+43-->CHE_118B
+style CHE_118C fill:#ade
+CHE_129A-->44[Both]
+CHE_128B-->44[Both]
+44-->45[One]
+CHE_118B-->45[One]
+CHE_128-->46[Both]
+45-->46[Both]
+CHE_129A-->47[Both]
+46-->47[Both]
+47-->CHE_118C
+style CHE_128A fill:#ade
+CHE_002CH-->48[One]
+CHE_002C-->48[One]
+48-->CHE_128A
+style CHE_128B fill:#ade
+CHE_128A-->CHE_128B
+style CHE_128C fill:#ade
+CHE_128B-->CHE_128C
+style CHE_129A fill:#ade
+CHE_002CH-->49[One]
+CHE_002C-->49[One]
+CHE_128A-->50[Both]
+49-->50[Both]
+50-->CHE_129A
+style CHE_103A fill:#ade
+CHE_002CH-->51[One]
+CHE_002C-->51[One]
+CHE_118A-->52[One]
+CHE_008A-->52[One]
+CHE_128A-->53[One]
+52-->53[One]
+53-->54[Both]
+51-->54[Both]
+CHE_008B-->55[Both]
+54-->55[Both]
+CHE_118B-->56[Both]
+55-->56[Both]
+CHE_118C-->57[Both]
+56-->57[Both]
+CHE_128B-->58[Both]
+57-->58[Both]
+CHE_128C-->59[Both]
+58-->59[Both]
+59-->CHE_103A
+style CHE_103B fill:#ade
+CHE_008B-->60[Both]
+CHE_103A-->60[Both]
+CHE_118B-->61[Both]
+60-->61[Both]
+CHE_118C-->62[Both]
+61-->62[Both]
+CHE_128C-->63[One]
+CHE_128B-->63[One]
+63-->64[Both]
+62-->64[Both]
+64-->CHE_103B
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->65[One]
+MAT_016A-->65[One]
+MAT_021A-->66[One]
+65-->66[One]
+MAT_021AH-->67[One]
+66-->67[One]
+67-->MAT_017B
+style MAT_017C fill:#ade
+MAT_017B-->MAT_017C
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->68[One]
+MAT_021A-->68[One]
+MAT_017A-->69[One]
+68-->69[One]
+69-->MAT_021B
+style MAT_021C fill:#ade
+MAT_017C-->70[One]
+MAT_016C-->70[One]
+MAT_021B-->71[One]
+70-->71[One]
+MAT_021BH-->72[One]
+71-->72[One]
+MAT_017B-->73[One]
+72-->73[One]
+73-->MAT_021C
+style PHY_007A fill:#ade
+MAT_017B-->74[One]
+MAT_016B-->74[One]
+MAT_021B-->75[One]
+74-->75[One]
+MAT_016B-->76[One]
+75-->76[One]
+MAT_017B-->77[One]
+76-->77[One]
+MAT_021B-->78[One]
+77-->78[One]
+78-->PHY_007A
+style PHY_007B fill:#ade
+PHY_007A-->PHY_007B
+style PHY_007C fill:#ade
+PHY_007B-->PHY_007C
+style STA_100 fill:#ade
+MAT_017B-->79[One]
+MAT_016B-->79[One]
+MAT_021B-->80[One]
+79-->80[One]
+80-->STA_100
+style STA_103 fill:#ade
+STA_013Y-->81[One]
+STA_013-->81[One]
+STA_032-->82[One]
+81-->82[One]
+STA_100-->83[One]
+82-->83[One]
+MAT_017B-->84[One]
+MAT_016B-->84[One]
+MAT_021B-->85[One]
+84-->85[One]
+85-->86[Both]
+83-->86[Both]
+86-->STA_103
+style STA_104 fill:#ade
+STA_013Y-->87[One]
+STA_013-->87[One]
+STA_032-->88[One]
+87-->88[One]
+STA_100-->89[One]
+88-->89[One]
+89-->STA_104
+style STA_106 fill:#ade
+STA_013Y-->90[One]
+STA_013-->90[One]
+STA_032-->91[One]
+90-->91[One]
+STA_100-->92[One]
+91-->92[One]
+92-->STA_106
+style STA_108 fill:#ade
+STA_013Y-->93[One]
+STA_013-->93[One]
+STA_032-->94[One]
+93-->94[One]
+STA_100-->95[One]
+94-->95[One]
+95-->STA_108
+style UWP_101 fill:#ade
+UWP_001V-->96[One]
+UWP_001-->96[One]
+UWP_001Y-->97[One]
+96-->97[One]
+COM_001-->98[One]
+97-->98[One]
+COM_002-->99[One]
+98-->99[One]
+COM_003-->100[One]
+99-->100[One]
+COM_004-->101[One]
+100-->101[One]
+ENL_003-->102[One]
+101-->102[One]
+NAS_005-->103[One]
+102-->103[One]
+103-->UWP_101
+style UWP_104A fill:#ade
+UWP_001V-->104[One]
+UWP_001-->104[One]
+UWP_001Y-->105[One]
+104-->105[One]
+ENL_003-->106[One]
+105-->106[One]
+COM_001-->107[One]
+106-->107[One]
+COM_002-->108[One]
+107-->108[One]
+COM_003-->109[One]
+108-->109[One]
+COM_004-->110[One]
+109-->110[One]
+NAS_005-->111[One]
+110-->111[One]
+111-->UWP_104A
+style UWP_104B fill:#ade
+UWP_001V-->112[One]
+UWP_001-->112[One]
+UWP_001Y-->113[One]
+112-->113[One]
+ENL_003-->114[One]
+113-->114[One]
+COM_001-->115[One]
+114-->115[One]
+COM_002-->116[One]
+115-->116[One]
+COM_003-->117[One]
+116-->117[One]
+COM_004-->118[One]
+117-->118[One]
+NAS_005-->119[One]
+118-->119[One]
+119-->UWP_104B
+style UWP_104C fill:#ade
+UWP_001V-->120[One]
+UWP_001-->120[One]
+UWP_001Y-->121[One]
+120-->121[One]
+ENL_003-->122[One]
+121-->122[One]
+COM_001-->123[One]
+122-->123[One]
+COM_002-->124[One]
+123-->124[One]
+COM_003-->125[One]
+124-->125[One]
+COM_004-->126[One]
+125-->126[One]
+NAS_005-->127[One]
+126-->127[One]
+127-->UWP_104C
+style UWP_104D fill:#ade
+UWP_001V-->128[One]
+UWP_001-->128[One]
+UWP_001Y-->129[One]
+128-->129[One]
+ENL_003-->130[One]
+129-->130[One]
+COM_001-->131[One]
+130-->131[One]
+COM_002-->132[One]
+131-->132[One]
+COM_003-->133[One]
+132-->133[One]
+COM_004-->134[One]
+133-->134[One]
+NAS_005-->135[One]
+134-->135[One]
+135-->UWP_104D
+style UWP_104E fill:#ade
+UWP_001V-->136[One]
+UWP_001-->136[One]
+UWP_001Y-->137[One]
+136-->137[One]
+ENL_003-->138[One]
+137-->138[One]
+COM_001-->139[One]
+138-->139[One]
+COM_002-->140[One]
+139-->140[One]
+COM_003-->141[One]
+140-->141[One]
+COM_004-->142[One]
+141-->142[One]
+NAS_005-->143[One]
+142-->143[One]
+143-->UWP_104E
+style UWP_104F fill:#ade
+UWP_001V-->144[One]
+UWP_001-->144[One]
+UWP_001Y-->145[One]
+144-->145[One]
+ENL_003-->146[One]
+145-->146[One]
+COM_001-->147[One]
+146-->147[One]
+COM_002-->148[One]
+147-->148[One]
+COM_003-->149[One]
+148-->149[One]
+COM_004-->150[One]
+149-->150[One]
+UWP_104FY-->151[Both]
+NAS_005-->151[Both]
+151-->152[One]
+150-->152[One]
+152-->UWP_104F
+style UWP_104I fill:#ade
+UWP_001V-->153[One]
+UWP_001-->153[One]
+UWP_001Y-->154[One]
+153-->154[One]
+ENL_003-->155[One]
+154-->155[One]
+COM_001-->156[One]
+155-->156[One]
+COM_002-->157[One]
+156-->157[One]
+COM_003-->158[One]
+157-->158[One]
+COM_004-->159[One]
+158-->159[One]
+NAS_005-->160[One]
+159-->160[One]
+160-->UWP_104I
+style BIS_102 fill:#ade
+BIS_002A-->161[One]
+BIS_001A-->161[One]
+CHE_118B-->162[One]
+CHE_008B-->162[One]
+CHE_128B-->163[One]
+162-->163[One]
+163-->164[Both]
+161-->164[Both]
+164-->BIS_102
+style BIS_101 fill:#ade
+BIS_002B-->165[Both]
+BIS_002A-->165[Both]
+CHE_118A-->166[One]
+CHE_008A-->166[One]
+CHE_128A-->167[One]
+166-->167[One]
+167-->168[Both]
+165-->168[Both]
+STA_013Y-->169[One]
+STA_013-->169[One]
+STA_100-->170[One]
+169-->170[One]
+STA_102-->171[One]
+170-->171[One]
+STA_130A-->172[One]
+171-->172[One]
+172-->173[Both]
+168-->173[Both]
+STA_100-->174[Both]
+173-->174[Both]
+174-->BIS_101
+style BIS_103 fill:#ade
+BIS_102-->BIS_103
+style ETX_101 fill:#ade
+CHE_118B-->175[One]
+CHE_008B-->175[One]
+CHE_128B-->176[One]
+175-->176[One]
+BIS_001A-->177[Both]
+176-->177[Both]
+177-->ETX_101
+style ETX_102A fill:#ade
+CHE_118B-->178[Both]
+CHE_008B-->178[Both]
+CHE_128B-->179[Both]
+178-->179[Both]
+179-->ETX_102A
+style ETX_102B fill:#ade
+ETX_102A-->ETX_102B
+style ETX_103A fill:#ade
+BIS_102-->ETX_103A
+style ETX_103B fill:#ade
+ETX_103A-->ETX_103B
+style ETX_127 fill:#ade
+style ETX_104 fill:#ade
+ABI_103-->180[One]
+BIS_103-->180[One]
+180-->181[Both]
+BIS_101-->181[Both]
+181-->ETX_104
+style ETX_120 fill:#ade
+CHE_128B-->182[One]
+CHE_118B-->182[One]
+182-->183[Both]
+CHE_008B-->183[Both]
+BIS_001A-->184[Both]
+183-->184[Both]
+184-->ETX_120
+style ETX_128 fill:#ade
+BIS_103-->185[Both]
+BIS_102-->185[Both]
+185-->ETX_128
+style ETX_130 fill:#ade
+ETX_101-->ETX_130
+style ETX_131 fill:#ade
+style ETX_135 fill:#ade
+ETX_101-->ETX_135
+style ETX_138 fill:#ade
+style ETX_146 fill:#ade
+ETX_112A-->ETX_146

@@ -1,0 +1,998 @@
+style 2 fill:#ddd
+2[Agricultural & Resource Economics]-->ARE_018
+style 3 fill:#ddd
+3[Choose one:]-->PLS_021
+3[Choose one:]-->ECS_015
+3[Choose one:]-->ECS_032A
+style 4 fill:#ddd
+4[Management]-->MGT_011A
+4[Management]-->MGT_011B
+style 5 fill:#ddd
+5[Choose one must be completed with a grade of C- (or P) or better:]-->ECN_001A
+5[Choose one must be completed with a grade of C- (or P) or better:]-->ECN_001AV
+5[Choose one must be completed with a grade of C- (or P) or better:]-->ECN_001B
+style 6 fill:#ddd
+6[Choose 016 series:]-->MAT_016A
+6[Choose 016 series:]-->MAT_016B
+6[Choose 016 series:]-->MAT_016C
+style 7 fill:#ddd
+7[OR choose 017 series:]-->MAT_017A
+7[OR choose 017 series:]-->MAT_017B
+style 8 fill:#ddd
+8[OR choose 016B & 016C & 017A:]-->MAT_016B
+8[OR choose 016B & 016C & 017A:]-->MAT_016C
+8[OR choose 016B & 016C & 017A:]-->MAT_017A
+style 9 fill:#ddd
+9[OR choose 021A & 021B:]-->MAT_021A
+9[OR choose 021A & 021B:]-->MAT_021B
+style 10 fill:#ddd
+10[OR choose 016B & 016C & 021A:]-->MAT_016B
+10[OR choose 016B & 016C & 021A:]-->MAT_016C
+10[OR choose 016B & 016C & 021A:]-->MAT_021A
+style 11 fill:#ddd
+11[Choose one:]-->STA_013
+11[Choose one:]-->STA_013Y
+11[Choose one:]-->STA_103
+style 12 fill:#ddd
+12[Choose one:]-->CMN_001
+style 13 fill:#ddd
+13[May also count for English Composition.]-->CMN_003
+13[May also count for English Composition.]-->CMN_003V
+13[May also count for English Composition.]-->CMN_003Y
+style 14 fill:#ddd
+14[Choose one:]-->UWP_104A
+style 15 fill:#ddd
+15[May also count for English Composition.]-->UWP_104AY
+style 16 fill:#ddd
+16[It is recommended that students complete core courses during their third year.]-->ARE_100A
+style 17 fill:#ddd
+17[Must be completed with a grade of C- or better ECN 100A is not accepted.]-->ARE_100B
+style 18 fill:#ddd
+18[NOTE: ECN 100B is not accepted.]-->ARE_106
+18[NOTE: ECN 100B is not accepted.]-->ARE_155
+18[NOTE: ECN 100B is not accepted.]-->ECN_101
+style 19 fill:#ddd
+19[Choose 16 units:]-->ARE_107
+19[Choose 16 units:]-->ARE_112
+19[Choose 16 units:]-->ARE_118
+19[Choose 16 units:]-->ARE_119
+19[Choose 16 units:]-->ARE_136
+19[Choose 16 units:]-->ARE_157
+19[Choose 16 units:]-->ARE_171
+style 20 fill:#ddd
+20[Formerly ARE 171A.]-->ARE_172
+style 21 fill:#ddd
+21[Formerly ARE 171B.]-->ARE_173
+style 22 fill:#ddd
+22[Choose remaining 16 units from the above list or from:]-->ARE_115A
+22[Choose remaining 16 units from the above list or from:]-->ARE_115B
+22[Choose remaining 16 units from the above list or from:]-->ARE_120
+22[Choose remaining 16 units from the above list or from:]-->ARE_121
+22[Choose remaining 16 units from the above list or from:]-->ARE_130
+22[Choose remaining 16 units from the above list or from:]-->ARE_132
+22[Choose remaining 16 units from the above list or from:]-->ARE_133
+22[Choose remaining 16 units from the above list or from:]-->ARE_138
+22[Choose remaining 16 units from the above list or from:]-->ARE_139
+22[Choose remaining 16 units from the above list or from:]-->ARE_140
+22[Choose remaining 16 units from the above list or from:]-->ARE_143
+22[Choose remaining 16 units from the above list or from:]-->ARE_144
+22[Choose remaining 16 units from the above list or from:]-->ARE_145
+22[Choose remaining 16 units from the above list or from:]-->ARE_146
+22[Choose remaining 16 units from the above list or from:]-->ARE_150
+22[Choose remaining 16 units from the above list or from:]-->ARE_156
+22[Choose remaining 16 units from the above list or from:]-->ARE_165
+22[Choose remaining 16 units from the above list or from:]-->ARE_166
+22[Choose remaining 16 units from the above list or from:]-->ARE_175
+22[Choose remaining 16 units from the above list or from:]-->ARE_176
+22[Choose remaining 16 units from the above list or from:]-->ARE_194HA
+22[Choose remaining 16 units from the above list or from:]-->ARE_194HB
+22[Choose remaining 16 units from the above list or from:]-->ECN_115A
+22[Choose remaining 16 units from the above list or from:]-->ECN_115B
+22[Choose remaining 16 units from the above list or from:]-->ECN_115BY
+22[Choose remaining 16 units from the above list or from:]-->ECN_121A
+22[Choose remaining 16 units from the above list or from:]-->ECN_121B
+22[Choose remaining 16 units from the above list or from:]-->ECN_151A
+22[Choose remaining 16 units from the above list or from:]-->ECN_151B
+22[Choose remaining 16 units from the above list or from:]-->ECN_160A
+22[Choose remaining 16 units from the above list or from:]-->ECN_160B
+22[Choose remaining 16 units from the above list or from:]-->ESP_175
+style 23 fill:#ddd
+23[Choose 20 units:]-->ARE_107
+23[Choose 20 units:]-->ARE_115A
+23[Choose 20 units:]-->ARE_115B
+23[Choose 20 units:]-->ARE_138
+23[Choose 20 units:]-->ARE_139
+23[Choose 20 units:]-->ARE_146
+23[Choose 20 units:]-->ARE_165
+23[Choose 20 units:]-->ARE_166
+23[Choose 20 units:]-->ECN_115A
+23[Choose 20 units:]-->ECN_115B
+23[Choose 20 units:]-->ECN_115BY
+23[Choose 20 units:]-->ECN_160A
+23[Choose 20 units:]-->ECN_160B
+23[Choose 20 units:]-->ECN_171
+style 24 fill:#ddd
+24[Choose the remaining 12 units from the above list or from:]-->ARE_130
+24[Choose the remaining 12 units from the above list or from:]-->ARE_171
+style 25 fill:#ddd
+25[Formerly ARE 171A.]-->ARE_172
+style 26 fill:#ddd
+26[Formerly ARE 171A.]-->ARE_173
+26[Formerly ARE 171A.]-->ARE_175
+26[Formerly ARE 171A.]-->ARE_176
+26[Formerly ARE 171A.]-->ECN_121A
+26[Formerly ARE 171A.]-->ECN_121B
+26[Formerly ARE 171A.]-->ESP_175
+26[Formerly ARE 171A.]-->POL_130
+style 27 fill:#ddd
+27[Choose 8 units:]-->ARE_175
+27[Choose 8 units:]-->ARE_176
+27[Choose 8 units:]-->ESP_175
+style 28 fill:#ddd
+28[Choose 20 units:]-->ARE_107
+28[Choose 20 units:]-->ARE_120
+28[Choose 20 units:]-->ARE_132
+28[Choose 20 units:]-->ARE_138
+28[Choose 20 units:]-->ARE_140
+28[Choose 20 units:]-->ARE_145
+28[Choose 20 units:]-->ARE_146
+28[Choose 20 units:]-->ARE_150
+28[Choose 20 units:]-->ARE_156
+28[Choose 20 units:]-->ECN_125
+28[Choose 20 units:]-->ECN_130
+28[Choose 20 units:]-->ESP_168A
+28[Choose 20 units:]-->ESP_168B
+28[Choose 20 units:]-->ESP_178
+style 29 fill:#ddd
+29[Upper division in Economics.]-->ESP_160
+29[Upper division in Economics.]-->ESP_161
+29[Upper division in Economics.]-->ESP_163
+29[Upper division in Economics.]-->ESP_167
+29[Upper division in Economics.]-->ESP_171
+29[Upper division in Economics.]-->ESP_172
+29[Upper division in Economics.]-->ESP_173
+29[Upper division in Economics.]-->ETX_138
+style 30 fill:#ddd
+30[Choose 16 units:]-->ARE_107
+30[Choose 16 units:]-->ARE_120
+30[Choose 16 units:]-->ARE_121
+30[Choose 16 units:]-->ARE_130
+30[Choose 16 units:]-->ARE_132
+30[Choose 16 units:]-->ARE_138
+30[Choose 16 units:]-->ARE_139
+30[Choose 16 units:]-->ARE_140
+30[Choose 16 units:]-->ARE_145
+30[Choose 16 units:]-->ARE_150
+style ARE_018 fill:#ade
+style PLS_021 fill:#ade
+AMR_021-->31[One]
+PLS_021V-->31[One]
+AMR_021-->32[Both]
+31-->32[Both]
+32-->PLS_021
+style ECS_015 fill:#ade
+style ECS_032A fill:#ade
+style MGT_011A fill:#ade
+style MGT_011B fill:#ade
+MGT_011A-->MGT_011B
+style ECN_001A fill:#ade
+style ECN_001AV fill:#ade
+style ECN_001B fill:#ade
+style MAT_016A fill:#ade
+style MAT_016B fill:#ade
+MAT_017A-->33[One]
+MAT_016A-->33[One]
+MAT_021A-->34[One]
+33-->34[One]
+MAT_021AH-->35[One]
+34-->35[One]
+35-->MAT_016B
+style MAT_016C fill:#ade
+MAT_017B-->36[One]
+MAT_016B-->36[One]
+MAT_021B-->37[One]
+36-->37[One]
+MAT_021BH-->38[One]
+37-->38[One]
+38-->MAT_016C
+style MAT_017A fill:#ade
+style MAT_017B fill:#ade
+MAT_017A-->39[One]
+MAT_016A-->39[One]
+MAT_021A-->40[One]
+39-->40[One]
+MAT_021AH-->41[One]
+40-->41[One]
+41-->MAT_017B
+style MAT_016B fill:#ade
+MAT_017A-->42[One]
+MAT_016A-->42[One]
+MAT_021A-->43[One]
+42-->43[One]
+MAT_021AH-->44[One]
+43-->44[One]
+44-->MAT_016B
+style MAT_016C fill:#ade
+MAT_017B-->45[One]
+MAT_016B-->45[One]
+MAT_021B-->46[One]
+45-->46[One]
+MAT_021BH-->47[One]
+46-->47[One]
+47-->MAT_016C
+style MAT_017A fill:#ade
+style MAT_021A fill:#ade
+style MAT_021B fill:#ade
+MAT_021AH-->48[One]
+MAT_021A-->48[One]
+MAT_017A-->49[One]
+48-->49[One]
+49-->MAT_021B
+style MAT_016B fill:#ade
+MAT_017A-->50[One]
+MAT_016A-->50[One]
+MAT_021A-->51[One]
+50-->51[One]
+MAT_021AH-->52[One]
+51-->52[One]
+52-->MAT_016B
+style MAT_016C fill:#ade
+MAT_017B-->53[One]
+MAT_016B-->53[One]
+MAT_021B-->54[One]
+53-->54[One]
+MAT_021BH-->55[One]
+54-->55[One]
+55-->MAT_016C
+style MAT_021A fill:#ade
+style STA_013 fill:#ade
+style STA_013Y fill:#ade
+style STA_103 fill:#ade
+STA_013Y-->56[One]
+STA_013-->56[One]
+STA_032-->57[One]
+56-->57[One]
+STA_100-->58[One]
+57-->58[One]
+MAT_017B-->59[One]
+MAT_016B-->59[One]
+MAT_021B-->60[One]
+59-->60[One]
+60-->61[Both]
+58-->61[Both]
+61-->STA_103
+style CMN_001 fill:#ade
+style CMN_003 fill:#ade
+style CMN_003V fill:#ade
+style CMN_003Y fill:#ade
+style UWP_104A fill:#ade
+UWP_001V-->62[One]
+UWP_001-->62[One]
+UWP_001Y-->63[One]
+62-->63[One]
+ENL_003-->64[One]
+63-->64[One]
+COM_001-->65[One]
+64-->65[One]
+COM_002-->66[One]
+65-->66[One]
+COM_003-->67[One]
+66-->67[One]
+COM_004-->68[One]
+67-->68[One]
+NAS_005-->69[One]
+68-->69[One]
+69-->UWP_104A
+style UWP_104AY fill:#ade
+UWP_001V-->70[One]
+UWP_001-->70[One]
+UWP_001Y-->71[One]
+70-->71[One]
+ENL_003-->72[One]
+71-->72[One]
+COM_001-->73[One]
+72-->73[One]
+COM_002-->74[One]
+73-->74[One]
+COM_003-->75[One]
+74-->75[One]
+COM_004-->76[One]
+75-->76[One]
+NAS_005-->77[One]
+76-->77[One]
+77-->UWP_104AY
+style ARE_100A fill:#ade
+ECN_001AV-->78[One]
+ECN_001A-->78[One]
+ECN_001B-->79[Both]
+78-->79[Both]
+MAT_016B-->80[Both]
+MAT_016A-->80[Both]
+MAT_016C-->81[Both]
+80-->81[Both]
+MAT_017B-->82[Both]
+MAT_017A-->82[Both]
+82-->83[One]
+81-->83[One]
+MAT_021B-->84[Both]
+MAT_021A-->84[Both]
+84-->85[One]
+83-->85[One]
+85-->86[Both]
+79-->86[Both]
+86-->ARE_100A
+style ARE_100B fill:#ade
+ECN_001AV-->87[One]
+ECN_001A-->87[One]
+ECN_001B-->88[Both]
+87-->88[Both]
+88-->89[Both]
+ARE_100A-->89[Both]
+MAT_016B-->90[Both]
+MAT_016A-->90[Both]
+MAT_016C-->91[Both]
+90-->91[Both]
+MAT_017B-->92[Both]
+MAT_017A-->92[Both]
+92-->93[One]
+91-->93[One]
+MAT_021B-->94[Both]
+MAT_021A-->94[Both]
+94-->95[One]
+93-->95[One]
+95-->96[Both]
+89-->96[Both]
+96-->ARE_100B
+style ARE_106 fill:#ade
+STA_013Y-->97[One]
+STA_013-->97[One]
+97-->98[Both]
+ARE_100A-->98[Both]
+STA_103-->99[Both]
+98-->99[Both]
+99-->ARE_106
+style ARE_155 fill:#ade
+STA_013Y-->100[One]
+STA_013-->100[One]
+100-->101[Both]
+ARE_100A-->101[Both]
+STA_103-->102[Both]
+101-->102[Both]
+102-->ARE_155
+style ECN_101 fill:#ade
+ECN_001AV-->103[One]
+ECN_001A-->103[One]
+ECN_001B-->104[Both]
+103-->104[Both]
+MAT_016B-->105[Both]
+MAT_016A-->105[Both]
+MAT_021B-->106[Both]
+MAT_021A-->106[Both]
+106-->107[One]
+105-->107[One]
+MAT_017B-->108[Both]
+MAT_017A-->108[Both]
+108-->109[One]
+107-->109[One]
+109-->110[Both]
+104-->110[Both]
+110-->ECN_101
+style ARE_107 fill:#ade
+ARE_100A-->111[Both]
+ARE_106-->111[Both]
+STA_013Y-->112[One]
+STA_013-->112[One]
+112-->113[Both]
+111-->113[Both]
+STA_103-->114[Both]
+113-->114[Both]
+114-->ARE_107
+style ARE_112 fill:#ade
+style ARE_118 fill:#ade
+MGT_011B-->115[Both]
+MGT_011A-->115[Both]
+115-->ARE_118
+style ARE_119 fill:#ade
+MGT_011B-->116[Both]
+MGT_011A-->116[Both]
+116-->ARE_119
+style ARE_136 fill:#ade
+ARE_106-->117[Both]
+ARE_100B-->117[Both]
+ARE_100A-->118[Both]
+117-->118[Both]
+STA_013Y-->119[One]
+STA_013-->119[One]
+119-->120[Both]
+118-->120[Both]
+STA_103-->121[Both]
+120-->121[Both]
+121-->ARE_136
+style ARE_157 fill:#ade
+ARE_100A-->122[Both]
+ARE_155-->122[Both]
+STA_013Y-->123[One]
+STA_013-->123[One]
+123-->124[Both]
+122-->124[Both]
+STA_103-->125[Both]
+124-->125[Both]
+125-->ARE_157
+style ARE_171 fill:#ade
+ARE_106-->126[Both]
+ARE_100A-->126[Both]
+MGT_011A-->127[Both]
+126-->127[Both]
+MGT_011B-->128[Both]
+127-->128[Both]
+128-->ARE_171
+style ARE_172 fill:#ade
+ARE_171-->129[One]
+ARE_171A-->129[One]
+ARE_106-->130[Both]
+129-->130[Both]
+ARE_100A-->131[Both]
+130-->131[Both]
+MGT_011A-->132[Both]
+131-->132[Both]
+MGT_011B-->133[Both]
+132-->133[Both]
+133-->ARE_172
+style ARE_173 fill:#ade
+ARE_171-->134[One]
+ARE_171A-->134[One]
+ARE_106-->135[Both]
+134-->135[Both]
+ARE_100A-->136[Both]
+135-->136[Both]
+MGT_011A-->137[Both]
+136-->137[Both]
+MGT_011B-->138[Both]
+137-->138[Both]
+138-->ARE_173
+style ARE_115A fill:#ade
+ECN_001AV-->139[One]
+ECN_001A-->139[One]
+ECN_001B-->140[Both]
+139-->140[Both]
+140-->ARE_115A
+style ARE_115B fill:#ade
+ECN_001AV-->141[One]
+ECN_001A-->141[One]
+ECN_001B-->142[Both]
+141-->142[Both]
+142-->ARE_115B
+style ARE_120 fill:#ade
+ARE_100A-->ARE_120
+style ARE_121 fill:#ade
+ECN_001AV-->143[One]
+ECN_001A-->143[One]
+143-->ARE_121
+style ARE_130 fill:#ade
+ARE_100A-->144[Both]
+ARE_106-->144[Both]
+STA_013Y-->145[One]
+STA_013-->145[One]
+145-->146[Both]
+144-->146[Both]
+STA_103-->147[Both]
+146-->147[Both]
+147-->ARE_130
+style ARE_132 fill:#ade
+ECN_001AV-->148[One]
+ECN_001A-->148[One]
+UWP_104AY-->149[One]
+UWP_104A-->149[One]
+UWP_101-->150[One]
+149-->150[One]
+150-->151[Both]
+148-->151[Both]
+151-->ARE_132
+style ARE_133 fill:#ade
+ECN_001AV-->152[One]
+ECN_001A-->152[One]
+STA_013Y-->153[One]
+STA_013-->153[One]
+153-->154[Both]
+152-->154[Both]
+154-->ARE_133
+style ARE_138 fill:#ade
+ARE_100A-->155[Both]
+ARE_100B-->155[Both]
+155-->ARE_138
+style ARE_139 fill:#ade
+STA_013Y-->156[One]
+STA_013-->156[One]
+156-->157[Both]
+ARE_100A-->157[Both]
+STA_103-->158[Both]
+157-->158[Both]
+158-->ARE_139
+style ARE_140 fill:#ade
+ECN_001AV-->159[One]
+ECN_001A-->159[One]
+159-->ARE_140
+style ARE_143 fill:#ade
+style ARE_144 fill:#ade
+ARE_100A-->ARE_144
+style ARE_145 fill:#ade
+style ARE_146 fill:#ade
+ARE_100A-->160[Both]
+ARE_100B-->160[Both]
+160-->ARE_146
+style ARE_150 fill:#ade
+ARE_100A-->ARE_150
+style ARE_156 fill:#ade
+ARE_155-->161[Both]
+ARE_100B-->161[Both]
+ARE_100A-->162[Both]
+161-->162[Both]
+STA_013Y-->163[One]
+STA_013-->163[One]
+163-->164[Both]
+162-->164[Both]
+STA_103-->165[Both]
+164-->165[Both]
+165-->ARE_156
+style ARE_165 fill:#ade
+ARE_115A-->166[Both]
+ARE_100A-->166[Both]
+ARE_115B-->167[Both]
+166-->167[Both]
+167-->ARE_165
+style ARE_166 fill:#ade
+ECN_100-->168[One]
+ARE_100B-->168[One]
+ECN_100B-->169[One]
+168-->169[One]
+ECN_140-->170[One]
+ARE_106-->170[One]
+170-->171[Both]
+169-->171[Both]
+ECN_115A-->172[One]
+ARE_115A-->172[One]
+172-->173[Both]
+171-->173[Both]
+173-->ARE_166
+style ARE_175 fill:#ade
+ECN_100A-->174[One]
+ARE_100A-->174[One]
+ECN_100-->175[One]
+174-->175[One]
+175-->ARE_175
+style ARE_176 fill:#ade
+ECN_100A-->176[One]
+ARE_100A-->176[One]
+ECN_100-->177[One]
+176-->177[One]
+177-->ARE_176
+style ARE_194HA fill:#ade
+ARE_106-->178[Both]
+ARE_100B-->178[Both]
+ARE_155-->179[Both]
+178-->179[Both]
+179-->ARE_194HA
+style ARE_194HB fill:#ade
+ARE_106-->180[Both]
+ARE_100B-->180[Both]
+ARE_155-->181[Both]
+180-->181[Both]
+181-->ARE_194HB
+style ECN_115A fill:#ade
+ECN_001AV-->182[One]
+ECN_001A-->182[One]
+ECN_001B-->183[Both]
+182-->183[Both]
+183-->ECN_115A
+style ECN_115B fill:#ade
+ECN_001AV-->184[One]
+ECN_001A-->184[One]
+ECN_001B-->185[Both]
+184-->185[Both]
+185-->ECN_115B
+style ECN_115BY fill:#ade
+ECN_001B-->186[Both]
+ECN_001A-->186[Both]
+186-->ECN_115BY
+style ECN_121A fill:#ade
+ECN_100A-->187[One]
+ECN_100-->187[One]
+ARE_100A-->188[One]
+187-->188[One]
+ARE_100B-->189[One]
+ECN_100B-->189[One]
+189-->190[Both]
+188-->190[Both]
+190-->ECN_121A
+style ECN_121B fill:#ade
+ECN_100A-->191[One]
+ECN_100-->191[One]
+ARE_100A-->192[One]
+191-->192[One]
+ARE_100B-->193[One]
+ECN_100B-->193[One]
+193-->194[Both]
+192-->194[Both]
+194-->ECN_121B
+style ECN_151A fill:#ade
+ECN_100A-->195[One]
+ECN_100-->195[One]
+ARE_100A-->196[One]
+195-->196[One]
+196-->ECN_151A
+style ECN_151B fill:#ade
+ECN_100A-->197[One]
+ECN_100-->197[One]
+ARE_100A-->198[One]
+197-->198[One]
+198-->ECN_151B
+style ECN_160A fill:#ade
+ECN_100A-->199[One]
+ECN_100-->199[One]
+ARE_100A-->200[One]
+199-->200[One]
+200-->ECN_160A
+style ECN_160B fill:#ade
+ECN_101-->ECN_160B
+style ESP_175 fill:#ade
+ECN_100A-->201[One]
+ARE_100A-->201[One]
+ECN_100-->202[One]
+201-->202[One]
+202-->ESP_175
+style ARE_107 fill:#ade
+ARE_100A-->203[Both]
+ARE_106-->203[Both]
+STA_013Y-->204[One]
+STA_013-->204[One]
+204-->205[Both]
+203-->205[Both]
+STA_103-->206[Both]
+205-->206[Both]
+206-->ARE_107
+style ARE_115A fill:#ade
+ECN_001AV-->207[One]
+ECN_001A-->207[One]
+ECN_001B-->208[Both]
+207-->208[Both]
+208-->ARE_115A
+style ARE_115B fill:#ade
+ECN_001AV-->209[One]
+ECN_001A-->209[One]
+ECN_001B-->210[Both]
+209-->210[Both]
+210-->ARE_115B
+style ARE_138 fill:#ade
+ARE_100A-->211[Both]
+ARE_100B-->211[Both]
+211-->ARE_138
+style ARE_139 fill:#ade
+STA_013Y-->212[One]
+STA_013-->212[One]
+212-->213[Both]
+ARE_100A-->213[Both]
+STA_103-->214[Both]
+213-->214[Both]
+214-->ARE_139
+style ARE_146 fill:#ade
+ARE_100A-->215[Both]
+ARE_100B-->215[Both]
+215-->ARE_146
+style ARE_165 fill:#ade
+ARE_115A-->216[Both]
+ARE_100A-->216[Both]
+ARE_115B-->217[Both]
+216-->217[Both]
+217-->ARE_165
+style ARE_166 fill:#ade
+ECN_100-->218[One]
+ARE_100B-->218[One]
+ECN_100B-->219[One]
+218-->219[One]
+ECN_140-->220[One]
+ARE_106-->220[One]
+220-->221[Both]
+219-->221[Both]
+ECN_115A-->222[One]
+ARE_115A-->222[One]
+222-->223[Both]
+221-->223[Both]
+223-->ARE_166
+style ECN_115A fill:#ade
+ECN_001AV-->224[One]
+ECN_001A-->224[One]
+ECN_001B-->225[Both]
+224-->225[Both]
+225-->ECN_115A
+style ECN_115B fill:#ade
+ECN_001AV-->226[One]
+ECN_001A-->226[One]
+ECN_001B-->227[Both]
+226-->227[Both]
+227-->ECN_115B
+style ECN_115BY fill:#ade
+ECN_001B-->228[Both]
+ECN_001A-->228[Both]
+228-->ECN_115BY
+style ECN_160A fill:#ade
+ECN_100A-->229[One]
+ECN_100-->229[One]
+ARE_100A-->230[One]
+229-->230[One]
+230-->ECN_160A
+style ECN_160B fill:#ade
+ECN_101-->ECN_160B
+style ECN_171 fill:#ade
+ECN_001AV-->231[One]
+ECN_001A-->231[One]
+ECN_001B-->232[Both]
+231-->232[Both]
+232-->ECN_171
+style ARE_130 fill:#ade
+ARE_100A-->233[Both]
+ARE_106-->233[Both]
+STA_013Y-->234[One]
+STA_013-->234[One]
+234-->235[Both]
+233-->235[Both]
+STA_103-->236[Both]
+235-->236[Both]
+236-->ARE_130
+style ARE_171 fill:#ade
+ARE_106-->237[Both]
+ARE_100A-->237[Both]
+MGT_011A-->238[Both]
+237-->238[Both]
+MGT_011B-->239[Both]
+238-->239[Both]
+239-->ARE_171
+style ARE_172 fill:#ade
+ARE_171-->240[One]
+ARE_171A-->240[One]
+ARE_106-->241[Both]
+240-->241[Both]
+ARE_100A-->242[Both]
+241-->242[Both]
+MGT_011A-->243[Both]
+242-->243[Both]
+MGT_011B-->244[Both]
+243-->244[Both]
+244-->ARE_172
+style ARE_173 fill:#ade
+ARE_171-->245[One]
+ARE_171A-->245[One]
+ARE_106-->246[Both]
+245-->246[Both]
+ARE_100A-->247[Both]
+246-->247[Both]
+MGT_011A-->248[Both]
+247-->248[Both]
+MGT_011B-->249[Both]
+248-->249[Both]
+249-->ARE_173
+style ARE_175 fill:#ade
+ECN_100A-->250[One]
+ARE_100A-->250[One]
+ECN_100-->251[One]
+250-->251[One]
+251-->ARE_175
+style ARE_176 fill:#ade
+ECN_100A-->252[One]
+ARE_100A-->252[One]
+ECN_100-->253[One]
+252-->253[One]
+253-->ARE_176
+style ECN_121A fill:#ade
+ECN_100A-->254[One]
+ECN_100-->254[One]
+ARE_100A-->255[One]
+254-->255[One]
+ARE_100B-->256[One]
+ECN_100B-->256[One]
+256-->257[Both]
+255-->257[Both]
+257-->ECN_121A
+style ECN_121B fill:#ade
+ECN_100A-->258[One]
+ECN_100-->258[One]
+ARE_100A-->259[One]
+258-->259[One]
+ARE_100B-->260[One]
+ECN_100B-->260[One]
+260-->261[Both]
+259-->261[Both]
+261-->ECN_121B
+style ESP_175 fill:#ade
+ECN_100A-->262[One]
+ARE_100A-->262[One]
+ECN_100-->263[One]
+262-->263[One]
+263-->ESP_175
+style POL_130 fill:#ade
+style ARE_175 fill:#ade
+ECN_100A-->264[One]
+ARE_100A-->264[One]
+ECN_100-->265[One]
+264-->265[One]
+265-->ARE_175
+style ARE_176 fill:#ade
+ECN_100A-->266[One]
+ARE_100A-->266[One]
+ECN_100-->267[One]
+266-->267[One]
+267-->ARE_176
+style ESP_175 fill:#ade
+ECN_100A-->268[One]
+ARE_100A-->268[One]
+ECN_100-->269[One]
+268-->269[One]
+269-->ESP_175
+style ARE_107 fill:#ade
+ARE_100A-->270[Both]
+ARE_106-->270[Both]
+STA_013Y-->271[One]
+STA_013-->271[One]
+271-->272[Both]
+270-->272[Both]
+STA_103-->273[Both]
+272-->273[Both]
+273-->ARE_107
+style ARE_120 fill:#ade
+ARE_100A-->ARE_120
+style ARE_132 fill:#ade
+ECN_001AV-->274[One]
+ECN_001A-->274[One]
+UWP_104AY-->275[One]
+UWP_104A-->275[One]
+UWP_101-->276[One]
+275-->276[One]
+276-->277[Both]
+274-->277[Both]
+277-->ARE_132
+style ARE_138 fill:#ade
+ARE_100A-->278[Both]
+ARE_100B-->278[Both]
+278-->ARE_138
+style ARE_140 fill:#ade
+ECN_001AV-->279[One]
+ECN_001A-->279[One]
+279-->ARE_140
+style ARE_145 fill:#ade
+style ARE_146 fill:#ade
+ARE_100A-->280[Both]
+ARE_100B-->280[Both]
+280-->ARE_146
+style ARE_150 fill:#ade
+ARE_100A-->ARE_150
+style ARE_156 fill:#ade
+ARE_155-->281[Both]
+ARE_100B-->281[Both]
+ARE_100A-->282[Both]
+281-->282[Both]
+STA_013Y-->283[One]
+STA_013-->283[One]
+283-->284[Both]
+282-->284[Both]
+STA_103-->285[Both]
+284-->285[Both]
+285-->ARE_156
+style ECN_125 fill:#ade
+ECN_100A-->286[One]
+ECN_100-->286[One]
+ARE_100A-->287[One]
+286-->287[One]
+287-->ECN_125
+style ECN_130 fill:#ade
+ECN_100A-->288[One]
+ECN_100-->288[One]
+ARE_100A-->289[One]
+288-->289[One]
+ARE_100B-->290[One]
+ECN_100B-->290[One]
+290-->291[Both]
+289-->291[Both]
+291-->ECN_130
+style ESP_168A fill:#ade
+ESP_010-->292[One]
+ESP_001-->292[One]
+STA_013Y-->293[One]
+STA_013-->293[One]
+STA_100-->294[One]
+293-->294[One]
+294-->295[Both]
+292-->295[Both]
+ECN_001AV-->296[One]
+ECN_001A-->296[One]
+296-->297[Both]
+295-->297[Both]
+297-->ESP_168A
+style ESP_168B fill:#ade
+ESP_168A-->ESP_168B
+style ESP_178 fill:#ade
+STA_100-->298[One]
+STA_103-->298[One]
+STA_108-->299[One]
+298-->299[One]
+SOC_106-->300[One]
+299-->300[One]
+ARE_106-->301[One]
+300-->301[One]
+301-->ESP_178
+style ESP_160 fill:#ade
+POL_001-->ESP_160
+style ESP_161 fill:#ade
+style ESP_163 fill:#ade
+ECN_001AV-->302[One]
+ECN_001A-->302[One]
+ENG_106-->303[One]
+302-->303[One]
+303-->ESP_163
+style ESP_167 fill:#ade
+ECN_001AV-->304[One]
+ECN_001A-->304[One]
+MAT_017B-->305[One]
+MAT_016B-->305[One]
+MAT_021B-->306[One]
+305-->306[One]
+306-->307[Both]
+304-->307[Both]
+307-->ESP_167
+style ESP_171 fill:#ade
+style ESP_172 fill:#ade
+style ESP_173 fill:#ade
+style ETX_138 fill:#ade
+style ARE_107 fill:#ade
+ARE_100A-->308[Both]
+ARE_106-->308[Both]
+STA_013Y-->309[One]
+STA_013-->309[One]
+309-->310[Both]
+308-->310[Both]
+STA_103-->311[Both]
+310-->311[Both]
+311-->ARE_107
+style ARE_120 fill:#ade
+ARE_100A-->ARE_120
+style ARE_121 fill:#ade
+ECN_001AV-->312[One]
+ECN_001A-->312[One]
+312-->ARE_121
+style ARE_130 fill:#ade
+ARE_100A-->313[Both]
+ARE_106-->313[Both]
+STA_013Y-->314[One]
+STA_013-->314[One]
+314-->315[Both]
+313-->315[Both]
+STA_103-->316[Both]
+315-->316[Both]
+316-->ARE_130
+style ARE_132 fill:#ade
+ECN_001AV-->317[One]
+ECN_001A-->317[One]
+UWP_104AY-->318[One]
+UWP_104A-->318[One]
+UWP_101-->319[One]
+318-->319[One]
+319-->320[Both]
+317-->320[Both]
+320-->ARE_132
+style ARE_138 fill:#ade
+ARE_100A-->321[Both]
+ARE_100B-->321[Both]
+321-->ARE_138
+style ARE_139 fill:#ade
+STA_013Y-->322[One]
+STA_013-->322[One]
+322-->323[Both]
+ARE_100A-->323[Both]
+STA_103-->324[Both]
+323-->324[Both]
+324-->ARE_139
+style ARE_140 fill:#ade
+ECN_001AV-->325[One]
+ECN_001A-->325[One]
+325-->ARE_140
+style ARE_145 fill:#ade
+style ARE_150 fill:#ade
+ARE_100A-->ARE_150

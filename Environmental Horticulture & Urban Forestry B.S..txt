@@ -1,0 +1,456 @@
+style 2 fill:#ddd
+2[Environmental Horticulture]-->ENH_001
+2[Environmental Horticulture]-->ENH_006
+style 3 fill:#ddd
+3[Landscape Architecture]-->LDA_030
+style 4 fill:#ddd
+4[Biological Science]-->BIS_002A
+4[Biological Science]-->BIS_002B
+style 5 fill:#ddd
+5[Plant Science]-->PLS_002
+5[Plant Science]-->PLS_021
+style 6 fill:#ddd
+6[Chemistry]-->CHE_002A
+6[Chemistry]-->CHE_002B
+style 7 fill:#ddd
+7[Environmental Science & Policy choose one:]-->ESP_001
+7[Environmental Science & Policy choose one:]-->ESP_010
+style 8 fill:#ddd
+8[Physics]-->PHY_001A
+8[Physics]-->PHY_001B
+style 9 fill:#ddd
+9[Choose one:]-->MAT_016A
+9[Choose one:]-->STA_013
+style 10 fill:#ddd
+10[Choose one:]-->UWP_102B
+10[Choose one:]-->UWP_102G
+10[Choose one:]-->UWP_104E
+style 11 fill:#ddd
+11[Choose one:]-->ENH_102
+11[Choose one:]-->PLS_100A
+style 12 fill:#ddd
+12[Choose one:]-->ENH_105
+12[Choose one:]-->PLS_102
+12[Choose one:]-->PLB_108
+style 13 fill:#ddd
+13[Choose one:]-->PLB_117
+13[Choose one:]-->PLS_150
+style 14 fill:#ddd
+14[Plant Science]-->PLS_171
+style 15 fill:#ddd
+15[Soil Science]-->SSC_100
+style 16 fill:#ddd
+16[Choose two:]-->ENT_110
+16[Choose two:]-->NEM_100
+16[Choose two:]-->PLP_120
+16[Choose two:]-->PLS_105
+16[Choose two:]-->PLS_176
+style 17 fill:#ddd
+17[Floriculture/Nursery Option]-->ENH_120
+17[Floriculture/Nursery Option]-->ENH_125
+17[Floriculture/Nursery Option]-->ABT_165
+17[Floriculture/Nursery Option]-->ENT_135
+style 18 fill:#ddd
+18[Choose one:]-->PLS_100C
+18[Choose one:]-->PLS_158
+18[Choose one:]-->SSC_109
+style 19 fill:#ddd
+19[Plant Biodiversity/Restoration Option]-->ENH_160
+19[Plant Biodiversity/Restoration Option]-->ENH_160L
+style 20 fill:#ddd
+20[Choose one:]-->ENH_150
+20[Choose one:]-->EVE_100
+20[Choose one:]-->PLB_116
+style 21 fill:#ddd
+21[(a) Choose one:]-->ESM_141
+21[(a) Choose one:]-->ESP_127
+21[(a) Choose one:]-->ESP_155L
+21[(a) Choose one:]-->PLS_130
+21[(a) Choose one:]-->PLS_150
+21[(a) Choose one:]-->WFC_155
+style 22 fill:#ddd
+22[(b) Choose one:]-->ESP_155
+22[(b) Choose one:]-->PLB_108
+22[(b) Choose one:]-->PLB_117
+22[(b) Choose one:]-->PLB_119
+22[(b) Choose one:]-->PLS_102
+22[(b) Choose one:]-->PLS_144
+style 23 fill:#ddd
+23[PLS 147 & 147L:]-->PLS_147
+23[PLS 147 & 147L:]-->PLS_147L
+23[PLS 147 & 147L:]-->PLS_163
+23[PLS 147 & 147L:]-->PLS_176
+23[PLS 147 & 147L:]-->WFC_156
+23[PLS 147 & 147L:]-->WFC_157
+style 24 fill:#ddd
+24[Urban Landscape Management Option]-->ENH_100
+24[Urban Landscape Management Option]-->ENH_133
+24[Urban Landscape Management Option]-->ABT_165
+24[Urban Landscape Management Option]-->PLS_162
+style 25 fill:#ddd
+25[Choose one:]-->SAS_018
+25[Choose one:]-->LDA_150
+style ENH_001 fill:#ade
+style ENH_006 fill:#ade
+style LDA_030 fill:#ade
+style BIS_002A fill:#ade
+style BIS_002B fill:#ade
+style PLS_002 fill:#ade
+style PLS_021 fill:#ade
+AMR_021-->26[One]
+PLS_021V-->26[One]
+AMR_021-->27[Both]
+26-->27[Both]
+27-->PLS_021
+style CHE_002A fill:#ade
+style CHE_002B fill:#ade
+CHE_002AH-->28[One]
+CHE_002A-->28[One]
+28-->CHE_002B
+style ESP_001 fill:#ade
+style ESP_010 fill:#ade
+style PHY_001A fill:#ade
+style PHY_001B fill:#ade
+PHY_009A-->29[One]
+PHY_001A-->29[One]
+PHY_007A-->30[Both]
+29-->30[Both]
+PHY_007B-->31[Both]
+30-->31[Both]
+PHY_007C-->32[Both]
+31-->32[Both]
+PHY_009B-->33[Both]
+32-->33[Both]
+PHY_009D-->34[One]
+PHY_009C-->34[One]
+34-->35[Both]
+33-->35[Both]
+35-->PHY_001B
+style MAT_016A fill:#ade
+style STA_013 fill:#ade
+style UWP_102B fill:#ade
+UWP_001V-->36[One]
+UWP_001-->36[One]
+UWP_001Y-->37[One]
+36-->37[One]
+ENL_003-->38[One]
+37-->38[One]
+COM_001-->39[One]
+38-->39[One]
+COM_002-->40[One]
+39-->40[One]
+COM_003-->41[One]
+40-->41[One]
+COM_004-->42[One]
+41-->42[One]
+NAS_005-->43[One]
+42-->43[One]
+43-->UWP_102B
+style UWP_102G fill:#ade
+UWP_001V-->44[One]
+UWP_001-->44[One]
+UWP_001Y-->45[One]
+44-->45[One]
+ENL_003-->46[One]
+45-->46[One]
+COM_001-->47[One]
+46-->47[One]
+COM_002-->48[One]
+47-->48[One]
+COM_003-->49[One]
+48-->49[One]
+COM_004-->50[One]
+49-->50[One]
+NAS_005-->51[One]
+50-->51[One]
+51-->UWP_102G
+style UWP_104E fill:#ade
+UWP_001V-->52[One]
+UWP_001-->52[One]
+UWP_001Y-->53[One]
+52-->53[One]
+ENL_003-->54[One]
+53-->54[One]
+COM_001-->55[One]
+54-->55[One]
+COM_002-->56[One]
+55-->56[One]
+COM_003-->57[One]
+56-->57[One]
+COM_004-->58[One]
+57-->58[One]
+NAS_005-->59[One]
+58-->59[One]
+59-->UWP_104E
+style ENH_102 fill:#ade
+BIS_001C-->ENH_102
+style PLS_100A fill:#ade
+BIS_002C-->60[One]
+PLS_002-->60[One]
+60-->PLS_100A
+style ENH_105 fill:#ade
+ENH_006-->ENH_105
+style PLS_102 fill:#ade
+BIS_002C-->61[One]
+PLS_002-->61[One]
+61-->PLS_102
+style PLB_108 fill:#ade
+BIS_001B-->62[Both]
+BIS_001A-->62[Both]
+BIS_001C-->63[Both]
+62-->63[Both]
+BIS_002B-->64[Both]
+BIS_002A-->64[Both]
+BIS_002C-->65[Both]
+64-->65[Both]
+65-->66[One]
+63-->66[One]
+66-->PLB_108
+style PLB_117 fill:#ade
+BIS_001B-->67[Both]
+BIS_001A-->67[Both]
+BIS_001C-->68[Both]
+67-->68[Both]
+BIS_002B-->69[Both]
+BIS_002A-->69[Both]
+BIS_002C-->70[Both]
+69-->70[Both]
+70-->71[One]
+68-->71[One]
+71-->PLB_117
+style PLS_150 fill:#ade
+CHE_002A-->72[Both]
+SSC_010-->72[Both]
+BIS_001C-->73[One]
+PLS_002-->73[One]
+BIS_002C-->74[One]
+73-->74[One]
+74-->75[Both]
+72-->75[Both]
+75-->PLS_150
+style PLS_171 fill:#ade
+BIS_001C-->76[One]
+PLS_002-->76[One]
+BIS_002C-->77[One]
+76-->77[One]
+77-->PLS_171
+style SSC_100 fill:#ade
+style ENT_110 fill:#ade
+BIS_001B-->ENT_110
+style NEM_100 fill:#ade
+BIS_010-->78[One]
+BIS_001B-->78[One]
+78-->NEM_100
+style PLP_120 fill:#ade
+style PLS_105 fill:#ade
+BIS_002B-->79[One]
+PLS_002-->79[One]
+BIS_002C-->80[One]
+79-->80[One]
+80-->81[Both]
+CHE_008B-->81[Both]
+81-->PLS_105
+style PLS_176 fill:#ade
+BIS_001C-->82[One]
+PLS_002-->82[One]
+BIS_002C-->83[One]
+82-->83[One]
+83-->PLS_176
+style ENH_120 fill:#ade
+SSC_100-->84[One]
+SSC_010-->84[One]
+84-->ENH_120
+style ENH_125 fill:#ade
+BIS_002C-->85[One]
+PLS_002-->85[One]
+85-->ENH_125
+style ABT_165 fill:#ade
+PHY_001A-->ABT_165
+style ENT_135 fill:#ade
+ENT_110-->86[One]
+ENT_100-->86[One]
+86-->ENT_135
+style PLS_100C fill:#ade
+PLS_100A-->87[One]
+PLS_100A-->87[One]
+87-->PLS_100C
+style PLS_158 fill:#ade
+PLB_111-->88[One]
+PLS_100A-->88[One]
+ENH_102-->89[One]
+88-->89[One]
+VEN_110-->90[One]
+89-->90[One]
+90-->PLS_158
+style SSC_109 fill:#ade
+SSC_100-->SSC_109
+style ENH_160 fill:#ade
+EVE_117-->91[One]
+PLB_117-->91[One]
+PLS_147-->92[One]
+91-->92[One]
+92-->ENH_160
+style ENH_160L fill:#ade
+ENH_160-->ENH_160L
+style ENH_150 fill:#ade
+BIS_001C-->ENH_150
+style EVE_100 fill:#ade
+BIS_002B-->93[Both]
+BIS_002A-->93[Both]
+BIS_002C-->94[Both]
+93-->94[Both]
+MAT_017A-->95[One]
+MAT_016A-->95[One]
+MAT_021A-->96[One]
+95-->96[One]
+96-->97[Both]
+94-->97[Both]
+MAT_017B-->98[One]
+MAT_016B-->98[One]
+MAT_021B-->99[One]
+98-->99[One]
+99-->100[Both]
+97-->100[Both]
+100-->EVE_100
+style PLB_116 fill:#ade
+PLS_002-->101[Both]
+BIS_002C-->101[Both]
+101-->PLB_116
+style ESM_141 fill:#ade
+PLS_002-->102[One]
+BIS_002A-->102[One]
+BIS_002C-->103[One]
+BIS_002B-->103[One]
+103-->104[Both]
+102-->104[Both]
+ERS_141-->105[Both]
+104-->105[Both]
+ERS_141-->106[Both]
+105-->106[Both]
+106-->ESM_141
+style ESP_127 fill:#ade
+EVE_101-->107[One]
+ESP_100-->107[One]
+107-->ESP_127
+style ESP_155L fill:#ade
+ESP_155-->ESP_155L
+style PLS_130 fill:#ade
+BIS_002B-->108[One]
+PLS_002-->108[One]
+BIS_002C-->109[One]
+108-->109[One]
+109-->PLS_130
+style PLS_150 fill:#ade
+CHE_002A-->110[Both]
+SSC_010-->110[Both]
+BIS_001C-->111[One]
+PLS_002-->111[One]
+BIS_002C-->112[One]
+111-->112[One]
+112-->113[Both]
+110-->113[Both]
+113-->PLS_150
+style WFC_155 fill:#ade
+ESP_100-->114[One]
+EVE_101-->114[One]
+ESP_100-->115[One]
+114-->115[One]
+EVE_101-->116[One]
+115-->116[One]
+116-->WFC_155
+style ESP_155 fill:#ade
+BIS_002A-->117[One]
+BIS_002A-->117[One]
+117-->ESP_155
+style PLB_108 fill:#ade
+BIS_001B-->118[Both]
+BIS_001A-->118[Both]
+BIS_001C-->119[Both]
+118-->119[Both]
+BIS_002B-->120[Both]
+BIS_002A-->120[Both]
+BIS_002C-->121[Both]
+120-->121[Both]
+121-->122[One]
+119-->122[One]
+122-->PLB_108
+style PLB_117 fill:#ade
+BIS_001B-->123[Both]
+BIS_001A-->123[Both]
+BIS_001C-->124[Both]
+123-->124[Both]
+BIS_002B-->125[Both]
+BIS_002A-->125[Both]
+BIS_002C-->126[Both]
+125-->126[Both]
+126-->127[One]
+124-->127[One]
+127-->PLB_117
+style PLB_119 fill:#ade
+style PLS_102 fill:#ade
+BIS_002C-->128[One]
+PLS_002-->128[One]
+128-->PLS_102
+style PLS_144 fill:#ade
+BIS_001C-->129[One]
+PLS_002-->129[One]
+BIS_002C-->130[One]
+129-->130[One]
+130-->PLS_144
+style PLS_147 fill:#ade
+BIS_002C-->131[One]
+PLS_002-->131[One]
+131-->PLS_147
+style PLS_147L fill:#ade
+BIS_002C-->132[One]
+PLS_002-->132[One]
+PLS_147-->133[One]
+PLS_147-->133[One]
+133-->134[Both]
+132-->134[Both]
+134-->PLS_147L
+style PLS_163 fill:#ade
+PLB_117-->135[Both]
+EVE_117-->135[Both]
+ESP_100-->136[Both]
+135-->136[Both]
+SSC_112-->137[One]
+EVE_101-->137[One]
+137-->138[Both]
+136-->138[Both]
+138-->PLS_163
+style PLS_176 fill:#ade
+BIS_001C-->139[One]
+PLS_002-->139[One]
+BIS_002C-->140[One]
+139-->140[One]
+140-->PLS_176
+style WFC_156 fill:#ade
+EVE_101-->141[One]
+ESP_100-->141[One]
+141-->WFC_156
+style WFC_157 fill:#ade
+style ENH_100 fill:#ade
+PLS_002-->142[One]
+ENH_001-->142[One]
+BIS_002B-->143[One]
+142-->143[One]
+143-->ENH_100
+style ENH_133 fill:#ade
+BIS_002C-->144[One]
+PLS_002-->144[One]
+144-->ENH_133
+style ABT_165 fill:#ade
+PHY_001A-->ABT_165
+style PLS_162 fill:#ade
+ESP_100-->145[Both]
+PLB_117-->145[Both]
+EVE_101-->146[Both]
+145-->146[Both]
+PLS_163-->147[One]
+EVE_120-->147[One]
+147-->148[Both]
+146-->148[Both]
+148-->PLS_162
+style SAS_018 fill:#ade
+style LDA_150 fill:#ade
